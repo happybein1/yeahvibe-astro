@@ -8,9 +8,13 @@ hero:
     html: '<iframe src="https://player.vimeo.com/video/908983038?h=fe4e427170&badge=0&autopause=0" style="width:150%; aspect-ratio:16/9; border:none; border-radius:1rem; box-shadow: 0 20px 50px rgba(0,0,0,0.5); transform: translateX(-15%);" allow="autoplay; fullscreen"></iframe>'
   actions:
     - text: Start here
-      link: /guides/example/
+      link: /start-here/
       icon: right-arrow
       variant: primary
+    - text: Advised Tools
+      link: /advised-tools/
+      icon: open-book
+      variant: secondary
     - text: Self Assessment
       link: https://form.jotform.com/222552689387066
       icon: external
@@ -18,10 +22,48 @@ hero:
         target: _blank
 ---
 
-## What's next?
+import { Card, CardGrid, LinkCard } from '@astrojs/starlight/components';
 
-### Start with the area which is or feels the most useful for you!
-Explore our tutorials and articles to optimize your daily routines, your digital tools, and your mindset.
+## Where would you like to begin?
 
-### Unsure what it is? 
-Do then this <a href="https://form.jotform.com/222552689387066" target="_blank">**self assessment**</a> to identify your current bottlenecks and find the perfect starting point.
+<CardGrid>
+  <Card title="🧭 Start Here" icon="rocket">
+    New to YeahVibe? Get your bearings, identify your starting point, and understand the full framework.
+    
+    [Go to Start Here →](/start-here/)
+  </Card>
+  <Card title="🛠️ Advised Tools" icon="setting">
+    Ready to act? Browse the curated tools for prioritization, journaling, and reflection.
+    
+    [Browse Tools →](/advised-tools/)
+  </Card>
+</CardGrid>
+
+## Explore the knowledge base
+
+<CardGrid>
+  <LinkCard
+    title="Decision Foundation"
+    description="Ideation, prioritization, clarity, and tracking — the core decision-making framework."
+    href="/decision-foundation/ideation-assessment/"
+  />
+  <LinkCard
+    title="Personal Effectiveness"
+    description="Habits, mindset, fear management, and sleep — master your daily performance."
+    href="/personal-effectiveness/habits-improvement/"
+  />
+  <LinkCard
+    title="Organizational Processes"
+    description="Organization principles, file systems, and time management for individuals and teams."
+    href="/organizational-processes/basic-organization-principles/"
+  />
+  <LinkCard
+    title="Collaboration & Leadership"
+    description="Work better with others — collaboration principles, leadership, and group decisions."
+    href="/collaboration-leadership/collaboration-principles/"
+  />
+</CardGrid>
+
+## Unsure where to start?
+
+Take the **[Self Assessment](https://form.jotform.com/222552689387066)** to identify your current bottlenecks and find the perfect starting point — or visit [Start Here](/start-here/) to follow the guided path.
