@@ -4,8 +4,6 @@ description: How to monitor decisions and plans over time and adapt when circums
 sidebar:
   order: 4
 ---
-<img src="/images/img23.jpg" alt="" style="width:100%;max-height:280px;object-fit:cover;border-radius:8px;margin-bottom:1.5rem;" />
-
 
 Best practices for goal setting and planning.
 

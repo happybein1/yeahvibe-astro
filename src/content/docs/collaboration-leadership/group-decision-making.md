@@ -4,8 +4,6 @@ description: Frameworks and practices for making better decisions in groups whil
 sidebar:
   order: 4
 ---
-<img src="/images/img3.jpg" alt="" style="width:100%;max-height:280px;object-fit:cover;border-radius:8px;margin-bottom:1.5rem;" />
-
 
 Best practices for working together.
 

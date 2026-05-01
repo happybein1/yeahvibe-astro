@@ -4,8 +4,6 @@ description: The fundamental human needs that underpin all effective decision-ma
 sidebar:
   order: 3
 ---
-<img src="/images/img5.jpg" alt="" style="width:100%;max-height:280px;object-fit:cover;border-radius:8px;margin-bottom:1.5rem;" />
-
 
 At the foundation of all goals and decisions are universal human needs. When these needs are unmet, everything else — productivity, creativity, relationships, and judgment — suffers. When they are met, everything else becomes possible.
 

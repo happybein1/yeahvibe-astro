@@ -4,8 +4,6 @@ description: Core principles for working effectively with others and building hi
 sidebar:
   order: 1
 ---
-<img src="/images/img9.jpg" alt="" style="width:100%;max-height:280px;object-fit:cover;border-radius:8px;margin-bottom:1.5rem;" />
-
 
 Best practices for working together.
 

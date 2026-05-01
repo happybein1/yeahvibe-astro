@@ -4,8 +4,6 @@ description: Effective strategies for building new habits and breaking old ones,
 sidebar:
   order: 1
 ---
-<img src="/images/img38.jpg" alt="" style="width:100%;max-height:280px;object-fit:cover;border-radius:8px;margin-bottom:1.5rem;" />
-
 
 Best practices for mind mastering.
 

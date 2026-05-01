@@ -4,8 +4,6 @@ description: Strategies for prioritizing goals and actions based on impact versu
 sidebar:
   order: 2
 ---
-<img src="/images/img24.jpg" alt="" style="width:100%;max-height:280px;object-fit:cover;border-radius:8px;margin-bottom:1.5rem;" />
-
 
 Best practices for goal setting and planning.
 

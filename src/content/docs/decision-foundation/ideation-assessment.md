@@ -4,8 +4,6 @@ description: Best practices for generating ideas and evaluating goals and plans 
 sidebar:
   order: 1
 ---
-<img src="/images/img6.jpg" alt="" style="width:100%;max-height:280px;object-fit:cover;border-radius:8px;margin-bottom:1.5rem;" />
-
 
 Best practices for goal setting and planning.
 

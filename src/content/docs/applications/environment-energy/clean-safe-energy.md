@@ -4,8 +4,6 @@ description: An overview of clean energy sources and how energy decisions affect
 sidebar:
   order: 1
 ---
-<img src="/images/img18.jpg" alt="" style="width:100%;max-height:280px;object-fit:cover;border-radius:8px;margin-bottom:1.5rem;" />
-
 
 Decisions about energy — at the individual, organizational, and policy level — are among the most consequential we make. Understanding the landscape of clean energy enables better choices at every level.
 

@@ -4,8 +4,6 @@ description: Essential financial concepts everyone should understand to make bet
 sidebar:
   order: 1
 ---
-<img src="/images/img19.jpg" alt="" style="width:100%;max-height:280px;object-fit:cover;border-radius:8px;margin-bottom:1.5rem;" />
-
 
 Financial literacy is one of the highest-leverage skills an individual can develop. Understanding the basics of finance enables better personal decisions, more informed organizational participation, and greater economic resilience.
 

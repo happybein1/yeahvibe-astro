@@ -4,8 +4,6 @@ description: A structured breakdown of primary goals for individuals and organiz
 sidebar:
   order: 1
 ---
-<img src="/images/img20.jpg" alt="" style="width:100%;max-height:280px;object-fit:cover;border-radius:8px;margin-bottom:1.5rem;" />
-
 
 This framework helps individuals and organizations identify and structure their primary goals into a coherent hierarchy.
 

@@ -4,8 +4,6 @@ description: How to develop a growth mindset and why it is foundational to long-
 sidebar:
   order: 2
 ---
-<img src="/images/img11.jpg" alt="" style="width:100%;max-height:280px;object-fit:cover;border-radius:8px;margin-bottom:1.5rem;" />
-
 
 Best practices for mind mastering.
 

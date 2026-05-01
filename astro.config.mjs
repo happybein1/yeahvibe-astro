@@ -39,6 +39,13 @@ export default defineConfig({
                         { label: 'Growth Mindset', slug: 'personal-effectiveness/growth-mindset' },
                         { label: 'Fear Management', slug: 'personal-effectiveness/fear-management' },
                         { label: 'Sleeping Well', slug: 'personal-effectiveness/sleeping-well' },
+                        {
+                            label: 'Inspiration',
+                            items: [
+                                { label: 'Daily Activities', slug: 'personal-effectiveness/inspiration/daily-activities' },
+                                { label: 'Long-Term Goals', slug: 'personal-effectiveness/inspiration/long-term-goals' },
+                            ],
+                        },
                     ],
                 },
                 {
@@ -61,16 +68,40 @@ export default defineConfig({
                 {
                     label: 'Applications',
                     items: [
+                        { label: 'Foresight Trends', slug: 'applications/foresight-trends' },
                         {
                             label: 'Environment & Energy',
                             items: [
+                                { label: 'Earth Land — View per Individual', slug: 'applications/environment-energy/earth-land-view-per-individual' },
                                 { label: 'Clean & Safe Energy', slug: 'applications/environment-energy/clean-safe-energy' },
+                                { label: 'Plant-Based Consumption', slug: 'applications/environment-energy/plant-based-consumption' },
                             ],
                         },
                         {
                             label: 'Economy & Equity',
                             items: [
+                                { label: 'Universal Allowance', slug: 'applications/economy-equity/universal-allowance' },
                                 { label: 'Mastering Finance Basics', slug: 'applications/economy-equity/mastering-finance-basics' },
+                                { label: 'The Economical System', slug: 'applications/economy-equity/the-economical-system' },
+                                { label: 'Fair Globe Sharing', slug: 'applications/economy-equity/fair-globe-sharing' },
+                            ],
+                        },
+                        {
+                            label: 'Technology & Automation',
+                            items: [
+                                { label: 'Enhanced Automation', slug: 'applications/technology-automation/enhanced-automation' },
+                                { label: 'Impact of Artificial Intelligence', slug: 'applications/technology-automation/impact-of-artificial-intelligence' },
+                            ],
+                        },
+                        {
+                            label: 'Social Organization',
+                            items: [
+                                { label: 'Purpose of Society', slug: 'applications/social-organization/purpose-of-society' },
+                                { label: 'Societal Systems', slug: 'applications/social-organization/societal-systems' },
+                                { label: 'Societal Functions', slug: 'applications/social-organization/societal-functions' },
+                                { label: 'Social Redistribution', slug: 'applications/social-organization/social-redistribution' },
+                                { label: 'Time Spent Identification', slug: 'applications/social-organization/time-spent-identification' },
+                                { label: 'Managing Regional Migration', slug: 'applications/social-organization/managing-regional-migration' },
                             ],
                         },
                     ],
