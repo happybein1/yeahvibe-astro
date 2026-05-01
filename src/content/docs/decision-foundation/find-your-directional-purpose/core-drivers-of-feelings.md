@@ -4,6 +4,8 @@ description: Understand what drives your emotional states and how to use that kn
 sidebar:
   order: 2
 ---
+<img src="/images/img13.jpg" alt="" style="width:100%;max-height:280px;object-fit:cover;border-radius:8px;margin-bottom:1.5rem;" />
+
 
 Feelings are not random — they are signals generated in response to specific conditions. Understanding what drives your feelings is a powerful tool for decision-making, because decisions that ignore emotional reality tend to fail even when they look logical on paper.
 

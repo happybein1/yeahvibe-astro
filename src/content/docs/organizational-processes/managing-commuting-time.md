@@ -4,6 +4,8 @@ description: How to turn commuting time from dead time into productive or restor
 sidebar:
   order: 3
 ---
+<img src="/images/img7.jpg" alt="" style="width:100%;max-height:280px;object-fit:cover;border-radius:8px;margin-bottom:1.5rem;" />
+
 
 Best practices for organizational efficiency.
 

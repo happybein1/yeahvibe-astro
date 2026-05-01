@@ -4,6 +4,8 @@ description: Understand the deeper goals and values that guide your decisions â€
 sidebar:
   order: 5
 ---
+<img src="/images/img33.jpg" alt="" style="width:100%;max-height:280px;object-fit:cover;border-radius:8px;margin-bottom:1.5rem;" />
+
 
 Finding your directional purpose means identifying the core goals and values that guide your decisions over time. It provides the foundation upon which all other planning, prioritization, and action rest.
 

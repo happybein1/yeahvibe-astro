@@ -4,6 +4,8 @@ description: Practical strategies for understanding and managing fear so it no l
 sidebar:
   order: 3
 ---
+<img src="/images/img39.jpg" alt="" style="width:100%;max-height:280px;object-fit:cover;border-radius:8px;margin-bottom:1.5rem;" />
+
 
 Best practices for mind mastering.
 

@@ -4,6 +4,8 @@ description: A practical system for organizing digital files and folders so you 
 sidebar:
   order: 2
 ---
+<img src="/images/img22.jpg" alt="" style="width:100%;max-height:280px;object-fit:cover;border-radius:8px;margin-bottom:1.5rem;" />
+
 
 Best practices for organizational efficiency.
 

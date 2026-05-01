@@ -4,6 +4,8 @@ description: How to clearly define goals, combine plans for efficiency, and dele
 sidebar:
   order: 3
 ---
+<img src="/images/img4.jpg" alt="" style="width:100%;max-height:280px;object-fit:cover;border-radius:8px;margin-bottom:1.5rem;" />
+
 
 Best practices for goal setting and planning.
 

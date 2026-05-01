@@ -4,6 +4,8 @@ description: The science and practice of quality sleep and why it is foundationa
 sidebar:
   order: 4
 ---
+<img src="/images/img2.jpg" alt="" style="width:100%;max-height:280px;object-fit:cover;border-radius:8px;margin-bottom:1.5rem;" />
+
 
 Best practices for mind mastering.
 

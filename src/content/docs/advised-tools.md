@@ -4,6 +4,8 @@ description: Practical tools curated by YeahVibe to help you prioritize, reflect
 sidebar:
   order: 2
 ---
+<img src="/images/img21.jpg" alt="" style="width:100%;max-height:280px;object-fit:cover;border-radius:8px;margin-bottom:1.5rem;" />
+
 
 ## Turn insights into action
 
