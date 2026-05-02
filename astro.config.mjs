@@ -15,6 +15,8 @@ export default defineConfig({
             customCss: ['./src/styles/custom.css'],
             components: {
                 Head: './src/components/overrides/Head.astro',
+                Header: './src/components/overrides/Header.astro',
+                MobileMenuFooter: './src/components/overrides/MobileMenuFooter.astro',
             },
             defaultLocale: 'root',
             locales: {
