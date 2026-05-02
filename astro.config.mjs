@@ -3,33 +3,27 @@ import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 
 export default defineConfig({
+    site: 'https://www.yeahvibe.com',
     integrations: [
         starlight({
-            title: {
-                en: 'YeahVibe',
-                fr: 'YeahVibe',
+            title: { en: 'YeahVibe', fr: 'YeahVibe' },
+            logo: { src: './src/assets/logo.svg', replacesTitle: true },
+            social: [
+                { icon: 'github', label: 'GitHub', href: 'https://github.com/happybein1/yeahvibe-astro' },
+                { icon: 'discord', label: 'Discord', href: 'https://discord.com/invite/62xRJHCbRW' },
+            ],
+            customCss: ['./src/styles/custom.css'],
+            components: {
+                Head: './src/components/overrides/Head.astro',
             },
-            logo: {
-                src: './src/assets/logo.svg',
-                replacesTitle: true,
-            },
-            social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/happybein1/yeahvibe-astro' }],
-            defaultLocale: 'en',
+            defaultLocale: 'root',
             locales: {
-                en: { label: 'English', lang: 'en' },
+                root: { label: 'English', lang: 'en' },
                 fr: { label: 'Français', lang: 'fr' },
             },
             sidebar: [
-                {
-                    label: '🧭 Start Here',
-                    translations: { fr: '🧭 Commencer ici' },
-                    slug: 'start-here',
-                },
-                {
-                    label: '🛠️ Advised Tools',
-                    translations: { fr: '🛠️ Outils conseillés' },
-                    slug: 'advised-tools',
-                },
+                { label: '🧭 Start Here', translations: { fr: '🧭 Commencer ici' }, slug: 'start-here' },
+                { label: '🛠️ Advised Tools', translations: { fr: '🛠️ Outils conseillés' }, slug: 'advised-tools' },
                 {
                     label: 'Decision Foundation',
                     translations: { fr: 'Fondation de la décision' },
@@ -42,7 +36,7 @@ export default defineConfig({
                             label: 'Find Your Directional Purpose',
                             translations: { fr: 'Trouver votre objectif directionnel' },
                             items: [
-                                { label: 'Overview', translations: { fr: 'Vue d\'ensemble' }, slug: 'decision-foundation/find-your-directional-purpose' },
+                                { label: 'Overview', translations: { fr: "Vue d'ensemble" }, slug: 'decision-foundation/find-your-directional-purpose' },
                                 { label: 'Generic Primary Goal Breakdown', translations: { fr: 'Décomposition des objectifs primaires' }, slug: 'decision-foundation/find-your-directional-purpose/generic-primary-goal-breakdown' },
                                 { label: 'Core Drivers of Feelings', translations: { fr: 'Moteurs des émotions' }, slug: 'decision-foundation/find-your-directional-purpose/core-drivers-of-feelings' },
                                 { label: "Human's Physiological Needs", translations: { fr: 'Besoins physiologiques humains' }, slug: 'decision-foundation/find-your-directional-purpose/humans-physiological-needs' },
@@ -55,7 +49,7 @@ export default defineConfig({
                     translations: { fr: 'Efficacité personnelle' },
                     items: [
                         { label: 'Habits Improvement', translations: { fr: 'Amélioration des habitudes' }, slug: 'personal-effectiveness/habits-improvement' },
-                        { label: 'Growth Mindset', translations: { fr: 'État d\'esprit de croissance' }, slug: 'personal-effectiveness/growth-mindset' },
+                        { label: 'Growth Mindset', translations: { fr: "État d'esprit de croissance" }, slug: 'personal-effectiveness/growth-mindset' },
                         { label: 'Fear Management', translations: { fr: 'Gestion de la peur' }, slug: 'personal-effectiveness/fear-management' },
                         { label: 'Sleeping Well', translations: { fr: 'Bien dormir' }, slug: 'personal-effectiveness/sleeping-well' },
                         {
@@ -72,7 +66,7 @@ export default defineConfig({
                     label: 'Organizational Processes',
                     translations: { fr: 'Processus organisationnels' },
                     items: [
-                        { label: 'Basic Organization Principles', translations: { fr: 'Principes d\'organisation de base' }, slug: 'organizational-processes/basic-organization-principles' },
+                        { label: 'Basic Organization Principles', translations: { fr: "Principes d'organisation de base" }, slug: 'organizational-processes/basic-organization-principles' },
                         { label: 'Files & Folder Organization', translations: { fr: 'Organisation des fichiers et dossiers' }, slug: 'organizational-processes/files-folder-organization' },
                         { label: 'Managing Commuting Time', translations: { fr: 'Gérer le temps de trajet' }, slug: 'organizational-processes/managing-commuting-time' },
                     ],
@@ -116,7 +110,7 @@ export default defineConfig({
                             translations: { fr: 'Technologie et automatisation' },
                             items: [
                                 { label: 'Enhanced Automation', translations: { fr: 'Automatisation améliorée' }, slug: 'applications/technology-automation/enhanced-automation' },
-                                { label: 'Impact of Artificial Intelligence', translations: { fr: 'Impact de l\'intelligence artificielle' }, slug: 'applications/technology-automation/impact-of-artificial-intelligence' },
+                                { label: 'Impact of Artificial Intelligence', translations: { fr: "Impact de l'intelligence artificielle" }, slug: 'applications/technology-automation/impact-of-artificial-intelligence' },
                             ],
                         },
                         {
@@ -131,6 +125,14 @@ export default defineConfig({
                                 { label: 'Managing Regional Migration', translations: { fr: 'Gestion de la migration régionale' }, slug: 'applications/social-organization/managing-regional-migration' },
                             ],
                         },
+                    ],
+                },
+                {
+                    label: 'About',
+                    translations: { fr: 'À propos' },
+                    items: [
+                        { label: 'About YeahVibe', translations: { fr: 'À propos de YeahVibe' }, slug: 'about/about-yeahvibe' },
+                        { label: 'Supporters & Partners', translations: { fr: 'Supporters et partenaires' }, slug: 'about/supporters-partners' },
                     ],
                 },
             ],

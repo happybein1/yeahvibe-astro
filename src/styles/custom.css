@@ -1,0 +1,65 @@
+/* =====================================================
+   YeahVibe Custom Styles
+   ===================================================== */
+
+/* --- Mobile: bring language switcher to top nav --- */
+@media (max-width: 72rem) {
+  /* Move the language select into the header area on mobile */
+  .sl-hidden-md-down {
+    display: block !important;
+  }
+
+  /* Language selector — make it visible and prominent on mobile */
+  starlight-lang-select {
+    display: flex !important;
+    align-items: center;
+  }
+
+  /* Pin language switcher to top of mobile sidebar */
+  .sidebar-pane .sidebar-content > *:first-child {
+    order: -1;
+  }
+
+  /* Inject lang selector before sidebar items via CSS reorder */
+  nav[aria-label="Main"] {
+    display: flex;
+    flex-direction: column;
+  }
+
+  /* Make language select float in the mobile header */
+  header .social-icons {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+}
+
+/* --- Ensure language switcher always visible in header --- */
+.sl-flex.sl-items-center.sl-gap-2 starlight-lang-select {
+  display: flex !important;
+}
+
+/* Force lang select to show in header on all sizes */
+.header .sl-flex starlight-lang-select,
+header starlight-lang-select {
+  display: flex !important;
+  order: -1;
+}
+
+/* --- Discord icon in nav --- */
+.discord-nav-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+/* --- General improvements --- */
+.sl-markdown-content img {
+  border-radius: 8px;
+  margin: 1rem 0;
+}
+
+/* Better table styling */
+.sl-markdown-content table {
+  font-size: 0.9rem;
+}
