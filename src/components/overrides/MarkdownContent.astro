@@ -1,0 +1,136 @@
+---
+import type { Props } from '@astrojs/starlight/props';
+
+const isFr = Astro.props.lang === 'fr';
+const pauseLabel = isFr ? 'Pause' : 'Pause';
+const resumeLabel = isFr ? 'Reprendre' : 'Resume';
+const stopLabel = isFr ? 'Arrêter' : 'Stop';
+const listenLabel = isFr ? 'Écouter' : 'Listen';
+const lang = isFr ? 'fr-FR' : 'en-US';
+---
+
+<div class="sl-markdown-content"><slot /></div>
+
+<div id="tts-bar">
+  <button id="tts-play">
+    <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M3 9v6h4l5 5V4L7 9H3zm13.5 3c0-1.77-1.02-3.29-2.5-4.03v8.05c1.48-.73 2.5-2.25 2.5-4.02z"/></svg>
+    <span>{listenLabel}</span>
+  </button>
+  <div id="tts-controls" style="display:none;align-items:center;gap:0.5rem;">
+    <button id="tts-pause">
+      <svg id="tts-pause-icon" xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z"/></svg>
+      <span id="tts-pause-label">{pauseLabel}</span>
+    </button>
+    <button id="tts-stop">
+      <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M6 6h12v12H6z"/></svg>
+      <span>{stopLabel}</span>
+    </button>
+    <div style="width:70px;height:4px;background:rgba(255,255,255,0.3);border-radius:2px;overflow:hidden;">
+      <div id="tts-progress" style="height:100%;width:0%;background:#fff;border-radius:2px;transition:width 0.3s;"></div>
+    </div>
+  </div>
+</div>
+
+<style>
+  #tts-bar {
+    position: fixed;
+    bottom: 1.5rem;
+    right: 1.5rem;
+    z-index: 9999;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    background: var(--sl-color-accent);
+    color: #fff;
+    border-radius: 2rem;
+    padding: 0.5rem 1.1rem;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.3);
+    font-size: 0.85rem;
+    font-family: var(--sl-font);
+    cursor: pointer;
+  }
+  #tts-bar button {
+    background: none;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 0.3rem;
+    font-size: 0.85rem;
+    padding: 0.1rem 0.25rem;
+  }
+  #tts-bar button:hover { opacity: 0.8; }
+</style>
+
+<script define:vars={{ lang, pauseLabel, resumeLabel }}>
+  const playBtn = document.getElementById('tts-play');
+  const pauseBtn = document.getElementById('tts-pause');
+  const stopBtn = document.getElementById('tts-stop');
+  const controlsDiv = document.getElementById('tts-controls');
+  const progressEl = document.getElementById('tts-progress');
+  const pauseIcon = document.getElementById('tts-pause-icon');
+  const pauseLabelEl = document.getElementById('tts-pause-label');
+
+  let sentences = [];
+  let currentIndex = 0;
+
+  function getTexts() {
+    const content = document.querySelector('.sl-markdown-content');
+    if (!content) return [];
+    const els = content.querySelectorAll('p, h2, h3, h4, li');
+    return Array.from(els).map(el => el.textContent?.trim()).filter(t => t && t.length > 2);
+  }
+
+  function updateProgress() {
+    if (progressEl && sentences.length)
+      progressEl.style.width = (currentIndex / sentences.length * 100) + '%';
+  }
+
+  function speakNext() {
+    if (currentIndex >= sentences.length) { stopReading(); return; }
+    const u = new SpeechSynthesisUtterance(sentences[currentIndex]);
+    u.lang = lang;
+    u.rate = 0.95;
+    u.onend = () => { currentIndex++; updateProgress(); speakNext(); };
+    u.onerror = () => { currentIndex++; speakNext(); };
+    speechSynthesis.speak(u);
+  }
+
+  function startReading() {
+    if (!('speechSynthesis' in window)) { alert('Text-to-speech not supported in this browser.'); return; }
+    speechSynthesis.cancel();
+    sentences = getTexts();
+    currentIndex = 0;
+    if (playBtn) playBtn.style.display = 'none';
+    if (controlsDiv) controlsDiv.style.display = 'flex';
+    speakNext();
+  }
+
+  function pauseReading() {
+    if (speechSynthesis.paused) {
+      speechSynthesis.resume();
+      if (pauseIcon) pauseIcon.innerHTML = '<path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z"/>';
+      if (pauseLabelEl) pauseLabelEl.textContent = pauseLabel;
+    } else {
+      speechSynthesis.pause();
+      if (pauseIcon) pauseIcon.innerHTML = '<path d="M8 5v14l11-7z"/>';
+      if (pauseLabelEl) pauseLabelEl.textContent = resumeLabel;
+    }
+  }
+
+  function stopReading() {
+    speechSynthesis.cancel();
+    currentIndex = 0;
+    if (progressEl) progressEl.style.width = '0%';
+    if (playBtn) playBtn.style.display = 'flex';
+    if (controlsDiv) controlsDiv.style.display = 'none';
+    if (pauseIcon) pauseIcon.innerHTML = '<path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z"/>';
+    if (pauseLabelEl) pauseLabelEl.textContent = pauseLabel;
+  }
+
+  if (playBtn) playBtn.addEventListener('click', startReading);
+  if (pauseBtn) pauseBtn.addEventListener('click', pauseReading);
+  if (stopBtn) stopBtn.addEventListener('click', stopReading);
+  window.addEventListener('beforeunload', () => speechSynthesis.cancel());
+</script>

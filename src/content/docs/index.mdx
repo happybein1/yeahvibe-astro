@@ -4,8 +4,6 @@ description: Make the most with what you have thanks to efficient awareness, bes
 template: splash
 hero:
   tagline: Make the most with what you have thanks to efficient awareness, best practices and tools!
-  image:
-    html: '<iframe src="https://player.vimeo.com/video/908983038?h=fe4e427170&badge=0&autopause=0" style="width:150%; aspect-ratio:16/9; border:none; border-radius:1rem; box-shadow: 0 20px 50px rgba(0,0,0,0.5); transform: translateX(-15%);" allow="autoplay; fullscreen"></iframe>'
   actions:
     - text: Start here
       link: /start-here/
@@ -25,17 +23,26 @@ hero:
 
 import { Card, CardGrid, LinkCard } from '@astrojs/starlight/components';
 
+<div style="margin: 2rem auto; max-width: 720px; aspect-ratio: 16/9; border-radius: 1rem; overflow: hidden; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
+  <iframe
+    src="https://player.vimeo.com/video/908983038?h=fe4e427170&badge=0&autopause=0"
+    style="width:100%;height:100%;border:none;"
+    allow="autoplay; fullscreen"
+    allowfullscreen
+  ></iframe>
+</div>
+
 ## Where would you like to begin?
 
 <CardGrid>
   <Card title="🧭 Start Here" icon="rocket">
     New to YeahVibe? Get your bearings, identify your starting point, and understand the full framework.
-    
+
     [Go to Start Here →](/start-here/)
   </Card>
   <Card title="🛠️ Advised Tools" icon="setting">
     Ready to act? Browse the curated tools for prioritization, journaling, and reflection.
-    
+
     [Browse Tools →](/advised-tools/)
   </Card>
 </CardGrid>
