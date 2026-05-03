@@ -61,24 +61,27 @@ const frUrl = currentPath.startsWith('/fr')
   gtag('config', 'G-TXTCCH1ZGY');
 </script>
 
-<!-- Language auto-detection (root only) + preference storage -->
+<!-- Language preference storage + auto-detection on first visit -->
 <script>
   (function() {
-    // Store preference when browsing /fr/
-    if (window.location.pathname.startsWith('/fr')) {
-      localStorage.setItem('yv-lang', 'fr');
-      return;
-    }
-    // Only auto-redirect from exact root
-    if (window.location.pathname !== '/') return;
+    const path = window.location.pathname;
+    const onFr = path.startsWith('/fr');
+
+    // Always update stored preference to match current page language
+    localStorage.setItem('yv-lang', onFr ? 'fr' : 'en');
+
+    // Auto-redirect only on first visit to root (no stored preference yet)
+    if (path !== '/') return;
     const stored = localStorage.getItem('yv-lang');
-    if (stored === 'fr') { window.location.replace('/fr/'); return; }
+    // If user explicitly chose English, never redirect
     if (stored === 'en') return;
-    // First visit: check browser language
-    const lang = (navigator.language || 'en').toLowerCase();
-    if (lang.startsWith('fr')) {
-      localStorage.setItem('yv-lang', 'fr');
-      window.location.replace('/fr/');
+    // First-ever visit: check browser language
+    if (!stored) {
+      const lang = (navigator.language || 'en').toLowerCase();
+      if (lang.startsWith('fr')) {
+        localStorage.setItem('yv-lang', 'fr');
+        window.location.replace('/fr/');
+      }
     }
   })();
 </script>
