@@ -39,3 +39,30 @@
 .sl-markdown-content table {
   font-size: 0.9rem;
 }
+
+/* --- Mobile menu button on homepage --- */
+#home-menu-btn {
+  display: none;
+  position: fixed;
+  bottom: 1.5rem;
+  left: 1.5rem;
+  z-index: 9999;
+  background: var(--sl-color-accent);
+  color: #fff;
+  border: none;
+  border-radius: 2rem;
+  padding: 0.6rem 1.2rem;
+  font-size: 0.9rem;
+  font-family: var(--sl-font);
+  cursor: pointer;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.3);
+  align-items: center;
+  gap: 0.4rem;
+}
+
+/* Only show on mobile and only on splash pages */
+@media (max-width: 72rem) {
+  :root:has(.hero) #home-menu-btn {
+    display: flex;
+  }
+}

@@ -86,6 +86,36 @@ const frUrl = currentPath.startsWith('/fr')
   })();
 </script>
 
+<!-- Mobile menu button on homepage (injected via JS to avoid SSR issues) -->
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    // Only add on splash/homepage
+    if (!document.querySelector('.hero')) return;
+
+    const isFr = document.documentElement.lang === 'fr';
+    const label = isFr ? '☰ Menu' : '☰ Menu';
+
+    const btn = document.createElement('button');
+    btn.id = 'home-menu-btn';
+    btn.innerHTML = `<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"/></svg>${label}`;
+    document.body.appendChild(btn);
+
+    btn.addEventListener('click', function() {
+      // Trigger Starlight's existing mobile menu toggle
+      const toggle = document.querySelector('starlight-menu-button button') ||
+                     document.querySelector('[aria-label="Menu"]') ||
+                     document.querySelector('button[aria-expanded]');
+      if (toggle) {
+        toggle.click();
+      } else {
+        // Fallback: navigate to first article which has full sidebar
+        const lang = window.location.pathname.startsWith('/fr') ? '/fr/' : '/';
+        window.location.href = lang + 'start-here/';
+      }
+    });
+  });
+</script>
+
 <!-- JSON-LD Structured Data -->
 <script type="application/ld+json" set:html={JSON.stringify({
   "@context": "https://schema.org",
