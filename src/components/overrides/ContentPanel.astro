@@ -1,0 +1,212 @@
+---
+import type { Props } from '@astrojs/starlight/props';
+import Default from '@astrojs/starlight/components/ContentPanel.astro';
+
+const isFr = Astro.props.lang === 'fr';
+const listenLabel = isFr ? 'Écouter' : 'Listen';
+const pauseLabel = isFr ? 'Pause' : 'Pause';
+const stopLabel = isFr ? 'Arrêter' : 'Stop';
+---
+
+<Default {...Astro.props} />
+
+<div id="tts-bar" aria-label="Text to speech controls">
+  <button id="tts-play" title={listenLabel} aria-label={listenLabel}>
+    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
+      <path d="M3 9v6h4l5 5V4L7 9H3zm13.5 3c0-1.77-1.02-3.29-2.5-4.03v8.05c1.48-.73 2.5-2.25 2.5-4.02z"/>
+    </svg>
+    <span id="tts-label">{listenLabel}</span>
+  </button>
+  <div id="tts-controls" hidden>
+    <button id="tts-pause" title={pauseLabel} aria-label={pauseLabel}>
+      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
+        <path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z"/>
+      </svg>
+      <span>{pauseLabel}</span>
+    </button>
+    <button id="tts-stop" title={stopLabel} aria-label={stopLabel}>
+      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
+        <path d="M6 6h12v12H6z"/>
+      </svg>
+      <span>{stopLabel}</span>
+    </button>
+    <div id="tts-progress-wrap">
+      <div id="tts-progress"></div>
+    </div>
+  </div>
+</div>
+
+<style>
+  #tts-bar {
+    position: fixed;
+    bottom: 1.5rem;
+    right: 1.5rem;
+    z-index: 200;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    background: var(--sl-color-accent);
+    color: #fff;
+    border-radius: 2rem;
+    padding: 0.5rem 1rem;
+    box-shadow: 0 4px 16px rgba(0,0,0,0.25);
+    font-size: 0.85rem;
+    font-family: var(--sl-font);
+    transition: background 0.2s;
+  }
+  #tts-bar.speaking {
+    background: var(--sl-color-accent-high);
+  }
+  #tts-bar button {
+    background: none;
+    border: none;
+    color: inherit;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 0.35rem;
+    font-size: 0.85rem;
+    padding: 0.1rem 0.3rem;
+    border-radius: 1rem;
+    transition: opacity 0.15s;
+  }
+  #tts-bar button:hover { opacity: 0.8; }
+  #tts-controls {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+  }
+  #tts-controls[hidden] { display: none; }
+  #tts-progress-wrap {
+    width: 80px;
+    height: 4px;
+    background: rgba(255,255,255,0.3);
+    border-radius: 2px;
+    overflow: hidden;
+  }
+  #tts-progress {
+    height: 100%;
+    width: 0%;
+    background: #fff;
+    border-radius: 2px;
+    transition: width 0.3s;
+  }
+  /* Hide on splash/homepage (no article content) */
+  :global([data-has-toc="false"]) #tts-bar,
+  :global(.hero) ~ #tts-bar {
+    display: none;
+  }
+</style>
+
+<script>
+  const bar = document.getElementById('tts-bar');
+  const playBtn = document.getElementById('tts-play');
+  const pauseBtn = document.getElementById('tts-pause');
+  const stopBtn = document.getElementById('tts-stop');
+  const controls = document.getElementById('tts-controls');
+  const progress = document.getElementById('tts-progress');
+  const label = document.getElementById('tts-label');
+
+  // Don't show on homepage (no article text)
+  const article = document.querySelector('.sl-markdown-content');
+  if (!article && bar) bar.style.display = 'none';
+
+  let utterance = null;
+  let speaking = false;
+  let paused = false;
+  let sentences = [];
+  let currentIndex = 0;
+
+  function getArticleText() {
+    const content = document.querySelector('.sl-markdown-content');
+    if (!content) return [];
+    // Get all text-bearing elements, skip code blocks
+    const elements = content.querySelectorAll('p, h1, h2, h3, h4, li');
+    const texts = [];
+    elements.forEach(el => {
+      const t = el.textContent?.trim();
+      if (t && t.length > 2) texts.push(t);
+    });
+    return texts;
+  }
+
+  function updateProgress() {
+    if (sentences.length === 0) return;
+    const pct = ((currentIndex) / sentences.length) * 100;
+    if (progress) progress.style.width = pct + '%';
+  }
+
+  function speakNext() {
+    if (currentIndex >= sentences.length) {
+      stopReading();
+      return;
+    }
+    const lang = document.documentElement.lang || 'en';
+    utterance = new SpeechSynthesisUtterance(sentences[currentIndex]);
+    utterance.lang = lang.startsWith('fr') ? 'fr-FR' : 'en-US';
+    utterance.rate = 0.95;
+    utterance.onend = () => {
+      currentIndex++;
+      updateProgress();
+      speakNext();
+    };
+    utterance.onerror = () => {
+      currentIndex++;
+      speakNext();
+    };
+    speechSynthesis.speak(utterance);
+  }
+
+  function startReading() {
+    if (!('speechSynthesis' in window)) {
+      alert('Text-to-speech is not supported in this browser.');
+      return;
+    }
+    sentences = getArticleText();
+    currentIndex = 0;
+    speaking = true;
+    paused = false;
+    bar?.classList.add('speaking');
+    if (controls) controls.hidden = false;
+    if (playBtn) playBtn.hidden = true;
+    speakNext();
+  }
+
+  function pauseReading() {
+    if (speechSynthesis.speaking && !speechSynthesis.paused) {
+      speechSynthesis.pause();
+      paused = true;
+      if (pauseBtn) {
+        pauseBtn.querySelector('svg')!.innerHTML = '<path d="M8 5v14l11-7z"/>';
+        (pauseBtn.querySelector('span') as HTMLElement).textContent =
+          document.documentElement.lang?.startsWith('fr') ? 'Reprendre' : 'Resume';
+      }
+    } else if (speechSynthesis.paused) {
+      speechSynthesis.resume();
+      paused = false;
+      if (pauseBtn) {
+        pauseBtn.querySelector('svg')!.innerHTML = '<path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z"/>';
+        (pauseBtn.querySelector('span') as HTMLElement).textContent =
+          document.documentElement.lang?.startsWith('fr') ? 'Pause' : 'Pause';
+      }
+    }
+  }
+
+  function stopReading() {
+    speechSynthesis.cancel();
+    speaking = false;
+    paused = false;
+    currentIndex = 0;
+    if (progress) progress.style.width = '0%';
+    bar?.classList.remove('speaking');
+    if (controls) controls.hidden = true;
+    if (playBtn) playBtn.hidden = false;
+  }
+
+  playBtn?.addEventListener('click', startReading);
+  pauseBtn?.addEventListener('click', pauseReading);
+  stopBtn?.addEventListener('click', stopReading);
+
+  // Stop when navigating away
+  window.addEventListener('beforeunload', () => speechSynthesis.cancel());
+</script>
