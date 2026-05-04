@@ -86,31 +86,16 @@ const frUrl = currentPath.startsWith('/fr')
   })();
 </script>
 
-<!-- Mobile menu button on homepage (injected via JS to avoid SSR issues) -->
+<!-- Collapse sidebar groups by default, keep active one open -->
 <script>
   document.addEventListener('DOMContentLoaded', function() {
-    // Only add on splash/homepage
-    if (!document.querySelector('.hero')) return;
-
-    const isFr = document.documentElement.lang === 'fr';
-    const label = isFr ? '☰ Menu' : '☰ Menu';
-
-    const btn = document.createElement('button');
-    btn.id = 'home-menu-btn';
-    btn.innerHTML = `<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"/></svg>${label}`;
-    document.body.appendChild(btn);
-
-    btn.addEventListener('click', function() {
-      // Trigger Starlight's existing mobile menu toggle
-      const toggle = document.querySelector('starlight-menu-button button') ||
-                     document.querySelector('[aria-label="Menu"]') ||
-                     document.querySelector('button[aria-expanded]');
-      if (toggle) {
-        toggle.click();
-      } else {
-        // Fallback: navigate to first article which has full sidebar
-        const lang = window.location.pathname.startsWith('/fr') ? '/fr/' : '/';
-        window.location.href = lang + 'start-here/';
+    // Find all sidebar group <details> elements
+    const sidebarDetails = document.querySelectorAll('.sidebar-content details');
+    sidebarDetails.forEach(function(detail) {
+      // Check if any link inside is the current page
+      const currentLink = detail.querySelector('a[aria-current="page"]');
+      if (!currentLink) {
+        detail.removeAttribute('open');
       }
     });
   });
@@ -130,3 +115,110 @@ const frUrl = currentPath.startsWith('/fr')
     "query-input": "required name=search_term_string"
   }
 })} />
+
+<!-- TTS button injected at body level to avoid clipping -->
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  // Don't show on splash/homepage
+  if (document.querySelector('.hero')) return;
+
+  const lang = document.documentElement.lang || 'en';
+  const isFr = lang.startsWith('fr');
+  const L = {
+    listen:  isFr ? 'Écouter'  : 'Listen',
+    pause:   isFr ? 'Pause'    : 'Pause',
+    resume:  isFr ? 'Reprendre': 'Resume',
+    stop:    isFr ? 'Arrêter'  : 'Stop',
+  };
+
+  const bar = document.createElement('div');
+  bar.id = 'yv-tts-bar';
+  bar.style.display = 'flex';
+  bar.innerHTML = `
+    <button id="yv-play">
+      <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M3 9v6h4l5 5V4L7 9H3zm13.5 3c0-1.77-1.02-3.29-2.5-4.03v8.05c1.48-.73 2.5-2.25 2.5-4.02z"/></svg>
+      <span>${L.listen}</span>
+    </button>
+    <div id="yv-tts-controls">
+      <button id="yv-pause">
+        <svg id="yv-pause-icon" xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z"/></svg>
+        <span id="yv-pause-label">${L.pause}</span>
+      </button>
+      <button id="yv-stop">
+        <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M6 6h12v12H6z"/></svg>
+        <span>${L.stop}</span>
+      </button>
+      <div id="yv-tts-progress-wrap"><div id="yv-tts-progress"></div></div>
+    </div>`;
+  document.body.appendChild(bar);
+
+  const playBtn    = document.getElementById('yv-play');
+  const pauseBtn   = document.getElementById('yv-pause');
+  const stopBtn    = document.getElementById('yv-stop');
+  const controls   = document.getElementById('yv-tts-controls');
+  const progress   = document.getElementById('yv-tts-progress');
+  const pauseIcon  = document.getElementById('yv-pause-icon');
+  const pauseLabel = document.getElementById('yv-pause-label');
+
+  let sentences = [], idx = 0;
+
+  function getTexts() {
+    const el = document.querySelector('.sl-markdown-content');
+    if (!el) return [];
+    return Array.from(el.querySelectorAll('p, h2, h3, h4, li'))
+      .map(e => e.textContent?.trim()).filter(t => t && t.length > 3);
+  }
+
+  function updateProgress() {
+    if (progress && sentences.length)
+      progress.style.width = (idx / sentences.length * 100) + '%';
+  }
+
+  function speakNext() {
+    if (idx >= sentences.length) { stop(); return; }
+    const u = new SpeechSynthesisUtterance(sentences[idx]);
+    u.lang = isFr ? 'fr-FR' : 'en-US';
+    u.rate = 0.95;
+    u.onend = () => { idx++; updateProgress(); speakNext(); };
+    u.onerror = () => { idx++; speakNext(); };
+    speechSynthesis.speak(u);
+  }
+
+  function start() {
+    if (!('speechSynthesis' in window)) { alert('Text-to-speech is not supported in this browser.'); return; }
+    speechSynthesis.cancel();
+    sentences = getTexts();
+    idx = 0;
+    playBtn.style.display = 'none';
+    controls.style.display = 'flex';
+    speakNext();
+  }
+
+  function togglePause() {
+    if (speechSynthesis.paused) {
+      speechSynthesis.resume();
+      pauseIcon.innerHTML = '<path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z"/>';
+      pauseLabel.textContent = L.pause;
+    } else {
+      speechSynthesis.pause();
+      pauseIcon.innerHTML = '<path d="M8 5v14l11-7z"/>';
+      pauseLabel.textContent = L.resume;
+    }
+  }
+
+  function stop() {
+    speechSynthesis.cancel();
+    idx = 0;
+    if (progress) progress.style.width = '0%';
+    playBtn.style.display = 'flex';
+    controls.style.display = 'none';
+    pauseIcon.innerHTML = '<path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z"/>';
+    pauseLabel.textContent = L.pause;
+  }
+
+  playBtn.addEventListener('click', start);
+  pauseBtn.addEventListener('click', togglePause);
+  stopBtn.addEventListener('click', stop);
+  window.addEventListener('beforeunload', () => speechSynthesis.cancel());
+});
+</script>
