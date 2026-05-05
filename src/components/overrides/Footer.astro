@@ -1,0 +1,67 @@
+---
+import type { Props } from '@astrojs/starlight/props';
+import { SITE_VERSION, SITE_VERSION_DATE, SITE_VERSION_NOTES } from '../../version';
+
+const isFr = Astro.props.lang === 'fr';
+const label = isFr ? 'Version' : 'Version';
+const builtWith = isFr ? 'Construit avec' : 'Built with';
+---
+
+<footer class="yv-footer">
+  <div class="yv-footer-inner">
+    <span class="yv-version" title={`${SITE_VERSION_NOTES} · ${SITE_VERSION_DATE}`}>
+      <span class="yv-version-dot"></span>
+      {label} {SITE_VERSION}
+      <span class="yv-version-date">· {SITE_VERSION_DATE}</span>
+    </span>
+    <span class="yv-footer-built">
+      {builtWith} <a href="https://astro.build" target="_blank" rel="noopener">Astro</a> &amp; <a href="https://starlight.astro.build" target="_blank" rel="noopener">Starlight</a>
+    </span>
+  </div>
+</footer>
+
+<style>
+  .yv-footer {
+    border-top: 1px solid var(--sl-color-hairline);
+    padding: 1rem var(--sl-content-pad-x);
+    margin-top: 2rem;
+  }
+  .yv-footer-inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    max-width: var(--sl-content-width);
+    margin-inline: auto;
+    font-size: 0.78rem;
+    color: var(--sl-color-gray-3);
+  }
+  .yv-version {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    font-family: var(--sl-font-mono, monospace);
+    font-size: 0.75rem;
+  }
+  .yv-version-dot {
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    background: var(--sl-color-green, #22c55e);
+    flex-shrink: 0;
+  }
+  .yv-version-date {
+    color: var(--sl-color-gray-4);
+  }
+  .yv-footer-built a {
+    color: var(--sl-color-gray-3);
+    text-decoration: none;
+  }
+  .yv-footer-built a:hover {
+    color: var(--sl-color-accent);
+  }
+  @media (max-width: 50rem) {
+    .yv-footer-built { display: none; }
+  }
+</style>

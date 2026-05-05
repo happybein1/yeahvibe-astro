@@ -119,11 +119,11 @@ const frUrl = currentPath.startsWith('/fr')
 <!-- TTS button injected at body level to avoid clipping -->
 <script>
 document.addEventListener('DOMContentLoaded', function() {
-  // Don't show on splash/homepage
   if (document.querySelector('.hero')) return;
 
   const lang = document.documentElement.lang || 'en';
   const isFr = lang.startsWith('fr');
+  const ttsLang = isFr ? 'fr-FR' : 'en-GB';
   const L = {
     listen:  isFr ? 'Écouter'  : 'Listen',
     pause:   isFr ? 'Pause'    : 'Pause',
@@ -160,7 +160,51 @@ document.addEventListener('DOMContentLoaded', function() {
   const pauseIcon  = document.getElementById('yv-pause-icon');
   const pauseLabel = document.getElementById('yv-pause-label');
 
-  let sentences = [], idx = 0;
+  let sentences = [], idx = 0, bestVoice = null;
+
+  // Preferred voice names in order — most natural first
+  const preferredEN = [
+    'Google UK English Female',
+    'Google UK English Male',
+    'Microsoft Libby Online (Natural)',
+    'Microsoft Ryan Online (Natural)',
+    'Microsoft Sonia Online (Natural)',
+    'Microsoft Aria Online (Natural)',
+    'Google US English',
+    'Samantha', // macOS/iOS
+  ];
+  const preferredFR = [
+    'Google français',
+    'Microsoft Henri Online (Natural)',
+    'Microsoft Denise Online (Natural)',
+    'Microsoft Julie Online (Natural)',
+    'Thomas', // macOS
+    'Amélie', // macOS
+  ];
+
+  function pickVoice(voices) {
+    const preferred = isFr ? preferredFR : preferredEN;
+    // Try exact name match first
+    for (const name of preferred) {
+      const v = voices.find(v => v.name === name);
+      if (v) return v;
+    }
+    // Try partial name match (catches regional variants)
+    for (const name of preferred) {
+      const v = voices.find(v => v.name.includes(name.split(' ')[1] || name));
+      if (v) return v;
+    }
+    // Fall back to any voice matching the language
+    return voices.find(v => v.lang.startsWith(isFr ? 'fr' : 'en')) || voices[0];
+  }
+
+  function loadVoices() {
+    const voices = speechSynthesis.getVoices();
+    if (voices.length) bestVoice = pickVoice(voices);
+  }
+
+  loadVoices();
+  speechSynthesis.addEventListener('voiceschanged', loadVoices);
 
   function getTexts() {
     const el = document.querySelector('.sl-markdown-content');
@@ -177,8 +221,10 @@ document.addEventListener('DOMContentLoaded', function() {
   function speakNext() {
     if (idx >= sentences.length) { stop(); return; }
     const u = new SpeechSynthesisUtterance(sentences[idx]);
-    u.lang = isFr ? 'fr-FR' : 'en-US';
-    u.rate = 0.95;
+    u.lang = ttsLang;
+    u.rate = 0.92;
+    u.pitch = 1.0;
+    if (bestVoice) u.voice = bestVoice;
     u.onend = () => { idx++; updateProgress(); speakNext(); };
     u.onerror = () => { idx++; speakNext(); };
     speechSynthesis.speak(u);
@@ -187,6 +233,8 @@ document.addEventListener('DOMContentLoaded', function() {
   function start() {
     if (!('speechSynthesis' in window)) { alert('Text-to-speech is not supported in this browser.'); return; }
     speechSynthesis.cancel();
+    // Reload voices in case they loaded late
+    if (!bestVoice) loadVoices();
     sentences = getTexts();
     idx = 0;
     playBtn.style.display = 'none';

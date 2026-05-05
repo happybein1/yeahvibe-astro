@@ -18,6 +18,7 @@ export default defineConfig({
                 Header: './src/components/overrides/Header.astro',
                 MobileMenuFooter: './src/components/overrides/MobileMenuFooter.astro',
                 MarkdownContent: './src/components/overrides/MarkdownContent.astro',
+                Footer: './src/components/overrides/Footer.astro',
             },
             defaultLocale: 'root',
             locales: {
