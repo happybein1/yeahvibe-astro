@@ -7,6 +7,10 @@ sidebar:
 
 Aperçus de fond sur les ressources et le système sociétal
 
+<div style="max-width:680px;margin:1.5rem 0;aspect-ratio:16/9;border-radius:10px;overflow:hidden;box-shadow:0 4px 20px rgba(0,0,0,0.3);">
+  <iframe src="https://player.vimeo.com/video/881363029" style="width:100%;height:100%;border:none;" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div>
+
 ## La question de la distribution équitable
 
 Les ressources de la Terre — terres, eau, énergie, minéraux, biodiversité — sont finies et inégalement distribuées. Comment elles sont partagées, utilisées et gérées façonne les conditions de vie de chaque personne sur la planète.

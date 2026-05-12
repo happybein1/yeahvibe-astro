@@ -7,6 +7,10 @@ sidebar:
 
 Foresight Trend
 
+<div style="max-width:680px;margin:1.5rem 0;aspect-ratio:16/9;border-radius:10px;overflow:hidden;box-shadow:0 4px 20px rgba(0,0,0,0.3);">
+  <iframe src="https://player.vimeo.com/video/886006209" style="width:100%;height:100%;border:none;" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div>
+
 Understanding the future starts with understanding the trends that are already in motion. Foresight is not about predicting what will happen — it is about recognizing patterns early enough to make better decisions today.
 
 ## What is foresight?
