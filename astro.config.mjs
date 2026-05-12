@@ -86,8 +86,8 @@ export default defineConfig({
                     ],
                 },
                 {
-                    label: 'Applications',
-                    translations: { fr: 'Applications' },
+                    label: 'YeahSight',
+                    translations: { fr: 'YeahSight' },
                     items: [
                         { label: 'Foresight Trends', translations: { fr: 'Tendances prospectives' }, slug: 'applications/foresight-trends' },
                         {

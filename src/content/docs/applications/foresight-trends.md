@@ -26,7 +26,7 @@ Organizations and individuals who practice foresight tend to:
 
 ## Key trend areas covered on YeahVibe
 
-YeahVibe's Applications section tracks trends across four interconnected domains:
+YeahVibe's YeahSight section tracks trends across four interconnected domains:
 
 ### 🌱 Environment & Energy
 How humanity produces and consumes energy, uses land, and responds to ecological pressure.

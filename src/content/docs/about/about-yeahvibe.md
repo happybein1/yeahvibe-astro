@@ -38,7 +38,7 @@ YeahVibe is organized around five interconnected areas:
 2. **Personal Effectiveness** — habits, mindset, sleep, and the practices that determine daily performance.
 3. **Organizational Processes** — systems for organizing time, information, and work efficiently.
 4. **Collaboration & Leadership** — how to work well with others and lead effectively.
-5. **Applications** — how these principles connect to real-world challenges: energy, economy, technology, and society.
+5. **YeahSight** — how these principles connect to real-world challenges: energy, economy, technology, and society.
 
 ## Our approach
 

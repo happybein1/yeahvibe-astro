@@ -38,7 +38,7 @@ YeahVibe est organisé autour de cinq domaines interconnectés :
 2. **Efficacité personnelle** — habitudes, état d'esprit, sommeil et pratiques qui déterminent la performance quotidienne.
 3. **Processus organisationnels** — systèmes pour organiser efficacement le temps, l'information et le travail.
 4. **Collaboration et leadership** — comment bien travailler avec les autres et diriger efficacement.
-5. **Applications** — comment ces principes se connectent aux défis réels : énergie, économie, technologie et société.
+5. **YeahSight** — comment ces principes se connectent aux défis réels : énergie, économie, technologie et société.
 
 ## Notre approche
 
