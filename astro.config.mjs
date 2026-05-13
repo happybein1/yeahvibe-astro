@@ -31,6 +31,7 @@ export default defineConfig({
                 {
                     label: 'Decision Foundation',
                     translations: { fr: 'Fondation de la décision' },
+                    collapsed: false,
                     items: [
                         { label: 'Ideation & Assessment', translations: { fr: 'Idéation et évaluation' }, slug: 'decision-foundation/ideation-assessment' },
                         { label: 'Independent Prioritization', translations: { fr: 'Priorisation indépendante' }, slug: 'decision-foundation/independent-prioritization' },
@@ -39,6 +40,7 @@ export default defineConfig({
                         {
                             label: 'Find Your Directional Purpose',
                             translations: { fr: 'Trouver votre objectif directionnel' },
+                            collapsed: false,
                             items: [
                                 { label: 'Overview', translations: { fr: "Vue d'ensemble" }, slug: 'decision-foundation/find-your-directional-purpose' },
                                 { label: 'Generic Primary Goal Breakdown', translations: { fr: 'Décomposition des objectifs primaires' }, slug: 'decision-foundation/find-your-directional-purpose/generic-primary-goal-breakdown' },
@@ -51,6 +53,7 @@ export default defineConfig({
                 {
                     label: 'Personal Effectiveness',
                     translations: { fr: 'Efficacité personnelle' },
+                    collapsed: false,
                     items: [
                         { label: 'Habits Improvement', translations: { fr: 'Amélioration des habitudes' }, slug: 'personal-effectiveness/habits-improvement' },
                         { label: 'Growth Mindset', translations: { fr: "État d'esprit de croissance" }, slug: 'personal-effectiveness/growth-mindset' },
@@ -59,6 +62,7 @@ export default defineConfig({
                         {
                             label: 'Inspiration',
                             translations: { fr: 'Inspiration' },
+                            collapsed: false,
                             items: [
                                 { label: 'Daily Activities', translations: { fr: 'Activités quotidiennes' }, slug: 'personal-effectiveness/inspiration/daily-activities' },
                                 { label: 'Long-Term Goals', translations: { fr: 'Objectifs à long terme' }, slug: 'personal-effectiveness/inspiration/long-term-goals' },
@@ -69,6 +73,7 @@ export default defineConfig({
                 {
                     label: 'Organizational Processes',
                     translations: { fr: 'Processus organisationnels' },
+                    collapsed: false,
                     items: [
                         { label: 'Basic Organization Principles', translations: { fr: "Principes d'organisation de base" }, slug: 'organizational-processes/basic-organization-principles' },
                         { label: 'Files & Folder Organization', translations: { fr: 'Organisation des fichiers et dossiers' }, slug: 'organizational-processes/files-folder-organization' },
@@ -78,6 +83,7 @@ export default defineConfig({
                 {
                     label: 'Collaboration & Leadership',
                     translations: { fr: 'Collaboration et leadership' },
+                    collapsed: false,
                     items: [
                         { label: 'Collaboration Principles', translations: { fr: 'Principes de collaboration' }, slug: 'collaboration-leadership/collaboration-principles' },
                         { label: 'Influence and Leadership', translations: { fr: 'Influence et leadership' }, slug: 'collaboration-leadership/influence-and-leadership' },
@@ -88,11 +94,13 @@ export default defineConfig({
                 {
                     label: 'YeahSight',
                     translations: { fr: 'YeahSight' },
+                    collapsed: false,
                     items: [
                         { label: 'Foresight Trends', translations: { fr: 'Tendances prospectives' }, slug: 'applications/foresight-trends' },
                         {
                             label: 'Environment & Energy',
                             translations: { fr: 'Environnement et énergie' },
+                            collapsed: false,
                             items: [
                                 { label: 'Earth Land — View per Individual', translations: { fr: 'Terres de la Terre — Vue par individu' }, slug: 'applications/environment-energy/earth-land-view-per-individual' },
                                 { label: 'Clean & Safe Energy', translations: { fr: 'Énergie propre et sûre' }, slug: 'applications/environment-energy/clean-safe-energy' },
@@ -102,6 +110,7 @@ export default defineConfig({
                         {
                             label: 'Economy & Equity',
                             translations: { fr: 'Économie et équité' },
+                            collapsed: false,
                             items: [
                                 { label: 'Universal Allowance', translations: { fr: 'Allocation universelle' }, slug: 'applications/economy-equity/universal-allowance' },
                                 { label: 'Mastering Finance Basics', translations: { fr: 'Maîtriser les bases de la finance' }, slug: 'applications/economy-equity/mastering-finance-basics' },
@@ -112,6 +121,7 @@ export default defineConfig({
                         {
                             label: 'Technology & Automation',
                             translations: { fr: 'Technologie et automatisation' },
+                            collapsed: false,
                             items: [
                                 { label: 'Enhanced Automation', translations: { fr: 'Automatisation améliorée' }, slug: 'applications/technology-automation/enhanced-automation' },
                                 { label: 'Impact of Artificial Intelligence', translations: { fr: "Impact de l'intelligence artificielle" }, slug: 'applications/technology-automation/impact-of-artificial-intelligence' },
@@ -120,6 +130,7 @@ export default defineConfig({
                         {
                             label: 'Social Organization',
                             translations: { fr: 'Organisation sociale' },
+                            collapsed: false,
                             items: [
                                 { label: 'Purpose of Society', translations: { fr: 'Objectif de la société' }, slug: 'applications/social-organization/purpose-of-society' },
                                 { label: 'Societal Systems', translations: { fr: 'Systèmes sociétaux' }, slug: 'applications/social-organization/societal-systems' },
@@ -134,6 +145,7 @@ export default defineConfig({
                 {
                     label: 'About',
                     translations: { fr: 'À propos' },
+                    collapsed: false,
                     items: [
                         { label: 'About YeahVibe', translations: { fr: 'À propos de YeahVibe' }, slug: 'about/about-yeahvibe' },
                         { label: 'Supporters & Partners', translations: { fr: 'Supporters et partenaires' }, slug: 'about/supporters-partners' },
