@@ -7,7 +7,8 @@ export default defineConfig({
     integrations: [
         starlight({
             title: { en: 'YeahVibe', fr: 'YeahVibe' },
-            logo: { src: './src/assets/logo.svg', replacesTitle: true },
+            logo: { src: './src/assets/logo.png', replacesTitle: true },
+            favicon: '/favicon.ico',
             social: [
                 { icon: 'github', label: 'GitHub', href: 'https://github.com/happybein1/yeahvibe-astro' },
                 { icon: 'discord', label: 'Discord', href: 'https://discord.com/invite/62xRJHCbRW' },
