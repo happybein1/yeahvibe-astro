@@ -7,7 +7,7 @@ const { entry, lang } = Astro.props;
 const siteUrl = 'https://www.yeahvibe.com';
 const currentPath = Astro.url.pathname;
 const currentUrl = new URL(currentPath, siteUrl).toString();
-const ogImage = `${siteUrl}/og-image.jpg`;
+const ogImage = `${siteUrl}/og-image.png`;
 const isFr = lang === 'fr';
 
 // Safely read entry data — entry can be undefined on splash/404 pages
