@@ -1,10 +1,20 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
+import sitemap from '@astrojs/sitemap';
 
 export default defineConfig({
     site: 'https://www.yeahvibe.com',
     integrations: [
+        sitemap({
+            i18n: {
+                defaultLocale: 'en',
+                locales: {
+                    en: 'en',
+                    fr: 'fr',
+                },
+            },
+        }),
         starlight({
             title: { en: 'YeahVibe', fr: 'YeahVibe' },
             logo: { src: './src/assets/logo.png', replacesTitle: true },
