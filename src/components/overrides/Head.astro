@@ -10,11 +10,24 @@ const currentUrl = new URL(currentPath, siteUrl).toString();
 const ogImage = `${siteUrl}/og-image.png`;
 const isFr = lang === 'fr';
 
-// Safely read entry data — entry can be undefined on splash/404 pages
-const title = entry?.data?.title ?? 'YeahVibe';
-const description = entry?.data?.description ?? (isFr
-  ? 'Prenez de meilleures décisions avec YeahVibe — pratiques, outils et cadres pour individus et organisations.'
-  : 'Make better decisions with YeahVibe — practical frameworks, best practices and tools for individuals and organizations.');
+const siteNameEN = 'YeahVibe by HappyBein';
+const siteNameFR = 'YeahVibe par HappyBein';
+
+// Page title — append site name for SEO unless it's already the homepage
+const rawTitle = entry?.data?.title ?? 'YeahVibe';
+const isHome = currentPath === '/' || currentPath === '/fr/' || currentPath === '/fr';
+const seoTitle = isHome
+  ? (isFr ? 'YeahVibe — Maximisez Votre Vie Efficacement' : 'YeahVibe — Efficiently Maximize your Life')
+  : `${rawTitle} | ${isFr ? siteNameFR : siteNameEN}`;
+
+// Meta description — richer default with keywords
+const defaultDescEN = 'YeahVibe helps individuals and organizations make better decisions. Practical frameworks, best practices and tools for personal effectiveness, leadership, and societal awareness.';
+const defaultDescFR = 'YeahVibe aide les individus et les organisations à prendre de meilleures décisions. Cadres pratiques, meilleures pratiques et outils pour l\'efficacité personnelle, le leadership et la conscience sociétale.';
+const description = entry?.data?.description ?? (isFr ? defaultDescFR : defaultDescEN);
+
+// Keywords
+const keywordsEN = 'decision making, personal effectiveness, productivity, leadership, self improvement, YeahVibe, HappyBein, YeahSight, foresight, habits, mindset, organization';
+const keywordsFR = 'prise de décision, efficacité personnelle, productivité, leadership, développement personnel, YeahVibe, HappyBein, YeahSight, prospective, habitudes, état d\'esprit';
 
 // Build hreflang URLs
 const enUrl = currentUrl.replace('/fr/', '/').replace(/\/fr$/, '/');
@@ -30,6 +43,14 @@ const frUrl = currentPath.startsWith('/fr')
 <link rel="icon" type="image/png" sizes="192x192" href="/icon-192.png" />
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
 
+<!-- SEO Core -->
+<title>{seoTitle}</title>
+<meta name="description" content={description} />
+<meta name="keywords" content={isFr ? keywordsFR : keywordsEN} />
+<meta name="author" content="YeahVibe — HappyBein" />
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
+<meta name="theme-color" content="#0e7fbe" />
+
 <!-- Canonical -->
 <link rel="canonical" href={currentUrl} />
 
@@ -39,24 +60,26 @@ const frUrl = currentPath.startsWith('/fr')
 <link rel="alternate" hreflang="x-default" href={enUrl} />
 
 <!-- Open Graph -->
-<meta property="og:title" content={title} />
+<meta property="og:title" content={seoTitle} />
 <meta property="og:description" content={description} />
 <meta property="og:url" content={currentUrl} />
 <meta property="og:type" content="website" />
 <meta property="og:image" content={ogImage} />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="og:image:alt" content="YeahVibe — Efficiently Maximize your Life" />
 <meta property="og:locale" content={isFr ? 'fr_FR' : 'en_US'} />
 <meta property="og:locale:alternate" content={isFr ? 'en_US' : 'fr_FR'} />
-<meta property="og:site_name" content="YeahVibe" />
+<meta property="og:site_name" content={isFr ? siteNameFR : siteNameEN} />
 
-<!-- Twitter Card -->
+<!-- Twitter / X Card -->
 <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:title" content={title} />
+<meta name="twitter:title" content={seoTitle} />
 <meta name="twitter:description" content={description} />
 <meta name="twitter:image" content={ogImage} />
-
-<!-- Robots -->
-<meta name="robots" content="index, follow" />
-<meta name="author" content="YeahVibe" />
+<meta name="twitter:image:alt" content="YeahVibe — Efficiently Maximize your Life" />
+<meta name="twitter:site" content="@yeahvibe" />
+<meta name="twitter:creator" content="@happybein" />
 
 <!-- Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-TXTCCH1ZGY"></script>
