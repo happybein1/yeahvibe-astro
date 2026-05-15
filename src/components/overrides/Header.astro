@@ -14,7 +14,9 @@ import LanguageSelect from '@astrojs/starlight/components/LanguageSelect.astro';
     <Search {...Astro.props} />
   </div>
   <div class="sl-flex right-group">
-    <SocialIcons {...Astro.props} />
+    <div class="social-desktop">
+      <SocialIcons {...Astro.props} />
+    </div>
     <ThemeSelect {...Astro.props} />
     <div class="lang-select-wrapper">
       <LanguageSelect {...Astro.props} />
@@ -29,36 +31,35 @@ import LanguageSelect from '@astrojs/starlight/components/LanguageSelect.astro';
     align-items: center;
     height: 100%;
   }
-
   .title-wrapper {
     overflow: hidden;
     flex-shrink: 0;
   }
-
   .search-wrapper {
     flex: 1;
     justify-content: flex-end;
   }
-
   .right-group {
-    gap: 0.75rem;
+    gap: 0.5rem;
     align-items: center;
     flex-shrink: 0;
   }
-
-  /* Always show language select in header on ALL screen sizes */
   .lang-select-wrapper {
     display: flex !important;
     align-items: center;
   }
 
-  /* On mobile, keep the header compact */
+  /* Hide social icons in header on mobile — moved to footer */
   @media (max-width: 50rem) {
-    .search-wrapper {
-      flex: 0;
-    }
-    .right-group {
-      gap: 0.5rem;
+    .social-desktop { display: none; }
+    .search-wrapper { flex: 0; }
+
+    /* Make language select more compact on mobile */
+    .lang-select-wrapper select,
+    .lang-select-wrapper starlight-lang-select select {
+      font-size: 0.75rem;
+      padding-inline: 0.3rem;
+      max-width: 3.5rem;
     }
   }
 </style>
