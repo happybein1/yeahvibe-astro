@@ -37,7 +37,9 @@ export default defineConfig({
                 fr: { label: 'Français', lang: 'fr' },
             },
             sidebar: [
+                { label: '🏠 Welcome', translations: { fr: '🏠 Bienvenue' }, slug: 'welcome' },
                 { label: '🧭 Start Here', translations: { fr: '🧭 Commencer ici' }, slug: 'start-here' },
+                { label: '🛠️ Advised Tools', translations: { fr: '🛠️ Outils conseillés' }, slug: 'advised-tools' },
                 {
                     label: 'The 5 Pillars',
                     translations: { fr: 'Les 5 Piliers' },
@@ -50,7 +52,6 @@ export default defineConfig({
                         { label: 'Pillar 5: YeahSight', translations: { fr: 'Pilier 5 : YeahSight' }, slug: 'pillars/yeahsight' },
                     ],
                 },
-                { label: '🛠️ Advised Tools', translations: { fr: '🛠️ Outils conseillés' }, slug: 'advised-tools' },
                 {
                     label: 'Decision Foundation',
                     translations: { fr: 'Fondation de la décision' },
