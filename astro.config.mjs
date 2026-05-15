@@ -38,6 +38,18 @@ export default defineConfig({
             },
             sidebar: [
                 { label: '🧭 Start Here', translations: { fr: '🧭 Commencer ici' }, slug: 'start-here' },
+                {
+                    label: 'The 5 Pillars',
+                    translations: { fr: 'Les 5 Piliers' },
+                    collapsed: false,
+                    items: [
+                        { label: 'Pillar 1: Direction', translations: { fr: 'Pilier 1 : Direction' }, slug: 'pillars/direction' },
+                        { label: 'Pillar 2: Mindset', translations: { fr: 'Pilier 2 : État d'esprit' }, slug: 'pillars/mindset' },
+                        { label: 'Pillar 3: Organization', translations: { fr: 'Pilier 3 : Organisation' }, slug: 'pillars/organization' },
+                        { label: 'Pillar 4: Collaboration', translations: { fr: 'Pilier 4 : Collaboration' }, slug: 'pillars/collaboration' },
+                        { label: 'Pillar 5: YeahSight', translations: { fr: 'Pilier 5 : YeahSight' }, slug: 'pillars/yeahsight' },
+                    ],
+                },
                 { label: '🛠️ Advised Tools', translations: { fr: '🛠️ Outils conseillés' }, slug: 'advised-tools' },
                 {
                     label: 'Decision Foundation',
