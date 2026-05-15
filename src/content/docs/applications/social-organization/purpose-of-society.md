@@ -1,11 +1,11 @@
 ---
 title: Purpose of Society
 description: What society is fundamentally for, and how understanding its purpose helps us make better collective decisions.
+reading_time: "4 min"
 sidebar:
   order: 1
 ---
 
-Background Insights on Resource & Societal System
 
 If we strip away the complexities of politics and economics, the fundamental purpose of any society is simple: to want the best for the people living within it.
 

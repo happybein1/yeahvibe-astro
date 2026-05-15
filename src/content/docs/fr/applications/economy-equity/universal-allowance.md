@@ -1,11 +1,11 @@
 ---
 title: Allocation universelle
 description: Le plaidoyer pour une Allocation Universelle de Besoins Fondamentaux — un accès garanti à la nourriture, au logement, aux soins de santé et à l'énergie comme un droit.
+reading_time: "5 min de lecture"
 sidebar:
   order: 1
 ---
 
-Tendance prospective
 
 ## Repenser la protection sociale : le plaidoyer pour une Allocation Universelle de Besoins Fondamentaux
 

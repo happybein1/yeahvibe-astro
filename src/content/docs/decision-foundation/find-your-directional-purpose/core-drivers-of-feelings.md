@@ -1,6 +1,7 @@
 ---
 title: Core Drivers of Feelings
 description: Understand what drives your emotional states and how to use that knowledge to make better decisions.
+reading_time: "4 min"
 sidebar:
   order: 2
 ---

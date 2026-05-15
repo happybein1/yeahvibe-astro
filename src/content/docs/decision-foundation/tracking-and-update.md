@@ -1,11 +1,11 @@
 ---
 title: Tracking and Update
 description: How to monitor decisions and plans over time and adapt when circumstances change.
+reading_time: "4 min"
 sidebar:
   order: 4
 ---
 
-Best practices for goal setting and planning.
 
 Making a decision is only the first step. Tracking outcomes and updating plans as circumstances evolve is what separates effective decision-makers from those who set-and-forget.
 

@@ -1,11 +1,11 @@
 ---
 title: Activités quotidiennes
 description: Activités et routines quotidiennes pratiques qui construisent le bien-être, l'énergie et l'efficacité dans le temps.
+reading_time: "4 min de lecture"
 sidebar:
   order: 1
 ---
 
-Meilleures pratiques pour maîtriser son esprit.
 
 De petites actions quotidiennes cohérentes se cumulent en changements significatifs dans le temps. Cette page rassemble des activités pratiques qui soutiennent le bien-être, l'énergie et l'efficacité.
 

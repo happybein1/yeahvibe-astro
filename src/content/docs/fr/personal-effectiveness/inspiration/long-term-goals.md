@@ -1,11 +1,11 @@
 ---
 title: Objectifs à long terme
 description: Comment définir, structurer et poursuivre des objectifs qui se déroulent sur des mois et des années.
+reading_time: "4 min de lecture"
 sidebar:
   order: 2
 ---
 
-Meilleures pratiques pour maîtriser son esprit.
 
 Les objectifs à long terme sont ceux qui comptent le plus — et ceux avec lesquels la plupart des gens luttent. Ils nécessitent un effort soutenu sur des mois ou des années, souvent sans retour immédiat, à travers des périodes d'incertitude et de revers.
 

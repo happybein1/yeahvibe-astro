@@ -1,11 +1,11 @@
 ---
 title: Managing Commuting Time
 description: How to turn commuting time from dead time into productive or restorative time.
+reading_time: "3 min"
 sidebar:
   order: 3
 ---
 
-Best practices for organizational efficiency.
 
 Commuting time is often treated as lost time — a necessary cost of getting to and from work. With intention, it can become some of the most valuable time in your day.
 

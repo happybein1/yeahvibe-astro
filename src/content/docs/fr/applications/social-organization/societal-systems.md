@@ -1,11 +1,11 @@
 ---
 title: Systèmes sociétaux
 description: Un aperçu des principaux systèmes qui organisent les sociétés modernes et comment ils interagissent.
+reading_time: "4 min de lecture"
 sidebar:
   order: 2
 ---
 
-Aperçus de fond sur les ressources et le système sociétal
 
 ## Que sont les systèmes sociétaux ?
 

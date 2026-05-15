@@ -1,11 +1,11 @@
 ---
 title: Enhanced Automation
 description: How automation is reshaping work, productivity, and the economy — and how to adapt effectively.
+reading_time: "5 min"
 sidebar:
   order: 1
 ---
 
-Foresight Trend
 
 ## The Age of Enhanced Automation
 

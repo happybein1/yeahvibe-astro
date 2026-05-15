@@ -1,11 +1,11 @@
 ---
 title: Gestion de la migration régionale
 description: Comprendre les schémas de migration, leurs causes et comment les sociétés peuvent les gérer de manière équitable et efficace.
+reading_time: "5 min de lecture"
 sidebar:
   order: 6
 ---
 
-Aperçus de fond sur les ressources et le système sociétal
 
 ## La migration comme constante humaine
 

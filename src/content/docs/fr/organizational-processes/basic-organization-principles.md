@@ -1,11 +1,11 @@
 ---
 title: Principes d'organisation de base
 description: Les principes fondamentaux pour construire des systèmes personnels et organisationnels organisés et efficaces.
+reading_time: "4 min de lecture"
 sidebar:
   order: 1
 ---
 
-Meilleures pratiques pour l'efficacité organisationnelle.
 
 L'organisation ne vise pas le rangement pour lui-même — elle consiste à concevoir des systèmes qui réduisent les frictions, libèrent des ressources cognitives et facilitent l'accomplissement de ce qui compte.
 

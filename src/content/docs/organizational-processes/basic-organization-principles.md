@@ -1,11 +1,11 @@
 ---
 title: Basic Organization Principles
 description: Core principles for building organized, efficient personal and organizational systems.
+reading_time: "4 min"
 sidebar:
   order: 1
 ---
 
-Best practices for organizational efficiency.
 
 Organization is not about tidiness for its own sake — it is about designing systems that reduce friction, free up cognitive resources, and make it easier to do what matters.
 

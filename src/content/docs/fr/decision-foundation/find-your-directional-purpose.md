@@ -1,6 +1,7 @@
 ---
 title: Trouver votre objectif directionnel
 description: Comprendre les objectifs et valeurs fondamentaux qui guident vos décisions — pour les individus et les organisations.
+reading_time: "3 min de lecture"
 sidebar:
   order: 5
 ---

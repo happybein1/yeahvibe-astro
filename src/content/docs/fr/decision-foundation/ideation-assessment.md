@@ -1,11 +1,11 @@
 ---
 title: Idéation et évaluation
 description: Meilleures pratiques pour générer des idées et évaluer des objectifs et des plans à l'aide d'approches structurées.
+reading_time: "5 min de lecture"
 sidebar:
   order: 1
 ---
 
-Meilleures pratiques pour la définition d'objectifs et la planification.
 
 Vous cherchez des idées et des moyens de les évaluer tout en les décomposant ? Découvrez ce processus pour générer, évaluer et transformer des idées en étapes concrètes.
 

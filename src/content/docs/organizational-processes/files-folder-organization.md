@@ -1,11 +1,11 @@
 ---
 title: Files & Folder Organization
 description: A practical system for organizing digital files and folders so you can find anything quickly.
+reading_time: "4 min"
 sidebar:
   order: 2
 ---
 
-Best practices for organizational efficiency.
 
 A good file organization system pays dividends every day. The goal is to find any file in under 30 seconds without searching.
 

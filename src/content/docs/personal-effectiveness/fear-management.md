@@ -1,11 +1,11 @@
 ---
 title: Fear Management
 description: Practical strategies for understanding and managing fear so it no longer blocks effective decision-making.
+reading_time: "4 min"
 sidebar:
   order: 3
 ---
 
-Best practices for mind mastering.
 
 Fear is one of the most powerful forces shaping human decisions — often invisibly. Understanding and managing fear is not about eliminating it, but about ensuring it informs rather than controls your choices.
 

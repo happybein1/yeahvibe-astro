@@ -1,11 +1,11 @@
 ---
 title: Bien dormir
 description: La science et la pratique d'un sommeil de qualité et pourquoi il est fondamental à une pensée et une prise de décision efficaces.
+reading_time: "4 min de lecture"
 sidebar:
   order: 4
 ---
 
-Meilleures pratiques pour maîtriser son esprit.
 
 Le sommeil n'est pas un luxe — c'est une nécessité biologique. La qualité de votre sommeil détermine directement la qualité de votre pensée, de votre prise de décision, de votre régulation émotionnelle et de votre santé physique.
 

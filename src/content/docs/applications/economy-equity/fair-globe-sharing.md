@@ -1,11 +1,11 @@
 ---
 title: Fair Globe Sharing
 description: How global resources are distributed and what fairer sharing might look like for people and the planet.
+reading_time: "4 min"
 sidebar:
   order: 4
 ---
 
-Background Insights on Resource & Societal System
 
 <div style="max-width:680px;margin:1.5rem 0;aspect-ratio:16/9;border-radius:10px;overflow:hidden;box-shadow:0 4px 20px rgba(0,0,0,0.3);">
   <iframe src="https://player.vimeo.com/video/881363029" style="width:100%;height:100%;border:none;" allow="autoplay; fullscreen" allowfullscreen></iframe>

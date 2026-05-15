@@ -1,11 +1,11 @@
 ---
 title: Organisation des fichiers et dossiers
 description: Un système pratique pour organiser les fichiers et dossiers numériques afin de tout trouver rapidement.
+reading_time: "4 min de lecture"
 sidebar:
   order: 2
 ---
 
-Meilleures pratiques pour l'efficacité organisationnelle.
 
 Un bon système d'organisation des fichiers rapporte des dividendes chaque jour. L'objectif est de trouver n'importe quel fichier en moins de 30 secondes sans recherche.
 

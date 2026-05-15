@@ -1,11 +1,11 @@
 ---
 title: Maîtriser les bases de la finance
 description: Les concepts financiers essentiels que tout le monde devrait comprendre pour prendre de meilleures décisions financières.
+reading_time: "5 min de lecture"
 sidebar:
   order: 2
 ---
 
-Aperçus de fond sur les ressources et le système sociétal
 
 La littératie financière est l'une des compétences à plus fort effet de levier qu'un individu puisse développer. Comprendre les bases de la finance permet de prendre de meilleures décisions personnelles et de participer plus efficacement aux décisions organisationnelles.
 

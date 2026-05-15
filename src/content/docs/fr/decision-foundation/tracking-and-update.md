@@ -1,11 +1,11 @@
 ---
 title: Suivi et mise à jour
 description: Comment surveiller les décisions et les plans dans le temps et s'adapter lorsque les circonstances changent.
+reading_time: "4 min de lecture"
 sidebar:
   order: 4
 ---
 
-Meilleures pratiques pour la définition d'objectifs et la planification.
 
 Prendre une décision n'est que la première étape. Suivre les résultats et mettre à jour les plans à mesure que les circonstances évoluent, voilà ce qui distingue les décideurs efficaces de ceux qui définissent et oublient.
 

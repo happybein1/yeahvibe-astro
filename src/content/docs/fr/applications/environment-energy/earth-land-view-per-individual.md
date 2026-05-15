@@ -1,11 +1,11 @@
 ---
 title: Terres de la Terre — Vue par individu
 description: Comprendre l'utilisation mondiale des terres d'un point de vue par personne pour informer de meilleures décisions individuelles et collectives.
+reading_time: "4 min de lecture"
 sidebar:
   order: 1
 ---
 
-Aperçus de fond sur les ressources et le système sociétal
 
 Saisir la taille et la complexité de la surface terrestre est difficile à l'échelle humaine. Cela rend la prise de décision sur l'utilisation des terres — individuelle ou collective — un défi important mais crucial.
 

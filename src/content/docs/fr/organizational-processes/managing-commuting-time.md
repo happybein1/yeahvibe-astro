@@ -1,11 +1,11 @@
 ---
 title: Gérer le temps de trajet
 description: Comment transformer le temps de trajet de temps mort en temps productif ou ressourçant.
+reading_time: "3 min de lecture"
 sidebar:
   order: 3
 ---
 
-Meilleures pratiques pour l'efficacité organisationnelle.
 
 Le temps de trajet est souvent traité comme du temps perdu — un coût nécessaire pour aller et venir du travail. Avec de l'intention, il peut devenir l'un des temps les plus précieux de votre journée.
 

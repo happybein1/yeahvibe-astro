@@ -1,6 +1,7 @@
 ---
 title: Mastering Finance Basics
 description: Essential financial concepts everyone should understand to make better personal and organizational financial decisions.
+reading_time: "5 min"
 sidebar:
   order: 1
 ---

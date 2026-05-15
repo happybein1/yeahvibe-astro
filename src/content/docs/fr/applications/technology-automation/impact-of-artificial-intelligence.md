@@ -1,11 +1,11 @@
 ---
 title: Impact de l'intelligence artificielle
 description: Comment l'IA change la société, l'économie et la vie individuelle — et comment réfléchir à ses implications.
+reading_time: "5 min de lecture"
 sidebar:
   order: 2
 ---
 
-Tendance prospective
 
 ## L'IA : une technologie à usage général
 

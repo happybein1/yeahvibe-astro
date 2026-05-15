@@ -1,11 +1,11 @@
 ---
 title: Automatisation améliorée
 description: Comment l'automatisation remodèle le travail, la productivité et l'économie — et comment s'adapter efficacement.
+reading_time: "5 min de lecture"
 sidebar:
   order: 1
 ---
 
-Tendance prospective
 
 ## L'ère de l'automatisation améliorée
 

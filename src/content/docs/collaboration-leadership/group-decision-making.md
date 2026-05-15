@@ -1,11 +1,11 @@
 ---
 title: Group Decision Making
 description: Frameworks and practices for making better decisions in groups while avoiding common collective traps.
+reading_time: "4 min"
 sidebar:
   order: 4
 ---
 
-Best practices for working together.
 
 Group decisions can be better than individual ones — or much worse, depending on how they are made. The difference lies in the process.
 

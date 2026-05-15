@@ -1,11 +1,11 @@
 ---
 title: Redistribution sociale
 description: Comment les sociétés redistribuent les ressources pour réduire les inégalités et soutenir le bien-être partagé.
+reading_time: "5 min de lecture"
 sidebar:
   order: 4
 ---
 
-Aperçus de fond sur les ressources et le système sociétal
 
 ## Qu'est-ce que la redistribution sociale ?
 

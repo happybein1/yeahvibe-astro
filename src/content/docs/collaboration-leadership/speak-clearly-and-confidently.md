@@ -1,11 +1,11 @@
 ---
 title: Speak Clearly and Confidently
 description: Practical techniques for communicating with clarity and confidence in high-stakes situations.
+reading_time: "4 min"
 sidebar:
   order: 3
 ---
 
-Best practices for working together.
 
 Clear, confident communication is a learnable skill. It is not about personality type or natural charisma — it is about preparation, structure, and practice.
 

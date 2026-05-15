@@ -1,6 +1,7 @@
 ---
 title: Find Your Directional Purpose
 description: Understand the deeper goals and values that guide your decisions — for individuals and organizations.
+reading_time: "3 min"
 sidebar:
   order: 5
 ---

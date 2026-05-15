@@ -1,11 +1,11 @@
 ---
 title: Consommation végétale
 description: Un regard clair sur les arguments éthiques, environnementaux et nutritionnels en faveur des régimes à base de plantes.
+reading_time: "3 min de lecture"
 sidebar:
   order: 3
 ---
 
-Tendance prospective
 
 ## Pourquoi choisir un régime à base de plantes ? Un regard clair
 

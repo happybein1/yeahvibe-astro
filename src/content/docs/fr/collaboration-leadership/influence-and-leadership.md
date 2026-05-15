@@ -1,11 +1,11 @@
 ---
 title: Influence et leadership
 description: Comment diriger efficacement et développer de l'influence sans s'appuyer uniquement sur l'autorité.
+reading_time: "4 min de lecture"
 sidebar:
   order: 2
 ---
 
-Meilleures pratiques pour travailler ensemble.
 
 Le leadership n'est pas une position — c'est une pratique. Les dirigeants les plus efficaces influencent par la confiance, la clarté et l'exemple plutôt que par l'autorité ou le contrôle.
 

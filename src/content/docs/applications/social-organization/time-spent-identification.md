@@ -1,11 +1,11 @@
 ---
 title: Time Spent Identification
 description: How to understand where your time actually goes — and use that insight to align your days with your priorities.
+reading_time: "4 min"
 sidebar:
   order: 5
 ---
 
-Background Insights on Resource & Societal System
 
 ## Why Time Tracking Matters
 

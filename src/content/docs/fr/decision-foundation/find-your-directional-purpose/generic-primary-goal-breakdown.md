@@ -1,6 +1,7 @@
 ---
 title: Décomposition des objectifs primaires génériques
 description: Une décomposition structurée des objectifs primaires pour les individus et les organisations.
+reading_time: "4 min de lecture"
 sidebar:
   order: 1
 ---

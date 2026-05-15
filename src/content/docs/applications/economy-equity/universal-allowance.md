@@ -1,11 +1,11 @@
 ---
 title: Universal Allowance
 description: The case for a Universal Basic Needs Allowance — guaranteed access to food, housing, healthcare, and energy as a right.
+reading_time: "5 min"
 sidebar:
   order: 1
 ---
 
-Foresight Trend
 
 ## Rethinking Social Security: The Case for a Universal Basic Needs Allowance
 

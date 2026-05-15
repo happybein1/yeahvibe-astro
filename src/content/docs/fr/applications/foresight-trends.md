@@ -1,11 +1,11 @@
 ---
 title: Tendances prospectives
 description: Un aperçu des tendances émergentes qui façonnent la société, la technologie et l'environnement — et comment y réfléchir.
+reading_time: "3 min de lecture"
 sidebar:
   order: 1
 ---
 
-Tendance prospective
 
 <div style="max-width:680px;margin:1.5rem 0;aspect-ratio:16/9;border-radius:10px;overflow:hidden;box-shadow:0 4px 20px rgba(0,0,0,0.3);">
   <iframe src="https://player.vimeo.com/video/886006209" style="width:100%;height:100%;border:none;" allow="autoplay; fullscreen" allowfullscreen></iframe>

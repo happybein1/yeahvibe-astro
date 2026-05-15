@@ -1,6 +1,7 @@
 ---
 title: Besoins physiologiques humains
 description: Les besoins humains fondamentaux qui sous-tendent toute prise de décision efficace et tout bien-être.
+reading_time: "4 min de lecture"
 sidebar:
   order: 3
 ---

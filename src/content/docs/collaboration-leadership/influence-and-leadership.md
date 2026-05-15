@@ -1,11 +1,11 @@
 ---
 title: Influence and Leadership
 description: How to lead effectively and build influence without relying on authority alone.
+reading_time: "4 min"
 sidebar:
   order: 2
 ---
 
-Best practices for working together.
 
 Leadership is not a position — it is a practice. The most effective leaders influence through trust, clarity, and example rather than through authority or control.
 

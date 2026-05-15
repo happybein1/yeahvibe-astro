@@ -1,11 +1,11 @@
 ---
 title: Independent Prioritization
 description: Strategies for prioritizing goals and actions based on impact versus effort, and managing time-sensitive priorities.
+reading_time: "4 min"
 sidebar:
   order: 2
 ---
 
-Best practices for goal setting and planning.
 
 ## Basic prioritization and planning strategies
 

@@ -1,11 +1,11 @@
 ---
 title: Long-Term Goals
 description: How to set, structure, and pursue goals that unfold over months and years.
+reading_time: "4 min"
 sidebar:
   order: 2
 ---
 
-Best practices for mind mastering.
 
 Long-term goals are the ones that matter most — and the ones most people struggle with. They require sustained effort over months or years, often without immediate feedback, through periods of uncertainty and setback. This page covers how to set them well and how to pursue them effectively.
 

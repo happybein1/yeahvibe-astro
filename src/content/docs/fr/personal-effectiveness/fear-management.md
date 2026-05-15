@@ -1,11 +1,11 @@
 ---
 title: Gestion de la peur
 description: Stratégies pratiques pour comprendre et gérer la peur afin qu'elle ne bloque plus votre prise de décision efficace.
+reading_time: "4 min de lecture"
 sidebar:
   order: 3
 ---
 
-Meilleures pratiques pour maîtriser son esprit.
 
 La peur est l'une des forces les plus puissantes qui façonnent les décisions humaines — souvent de manière invisible. Comprendre et gérer la peur ne consiste pas à l'éliminer, mais à s'assurer qu'elle informe plutôt qu'elle ne contrôle vos choix.
 

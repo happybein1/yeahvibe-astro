@@ -1,11 +1,11 @@
 ---
 title: Impact of Artificial Intelligence
 description: How AI is changing society, the economy, and individual lives — and how to think about its implications.
+reading_time: "5 min"
 sidebar:
   order: 2
 ---
 
-Foresight Trend
 
 ## AI: A General-Purpose Technology
 

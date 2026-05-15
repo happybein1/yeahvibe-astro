@@ -1,11 +1,11 @@
 ---
 title: Plant-Based Consumption
 description: A clear look at the ethical, environmental, and nutritional case for plant-based diets.
+reading_time: "3 min"
 sidebar:
   order: 3
 ---
 
-Foresight Trend
 
 ## Why Choose a Plant-Based Diet? A Clear Look at the Pros and Cons
 

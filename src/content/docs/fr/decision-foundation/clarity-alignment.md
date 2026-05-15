@@ -1,11 +1,11 @@
 ---
 title: Clarté et alignement
 description: Comment définir clairement des objectifs, combiner des plans pour plus d'efficacité et déléguer efficacement.
+reading_time: "4 min de lecture"
 sidebar:
   order: 3
 ---
 
-Meilleures pratiques pour la définition d'objectifs et la planification.
 
 Face à trop d'options ou à des options trop complexes difficiles à comparer, la stratégie devient cruciale. Dans de telles situations, il est essentiel de :
 

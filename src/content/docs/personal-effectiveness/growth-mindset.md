@@ -1,11 +1,11 @@
 ---
 title: Growth Mindset
 description: How to develop a growth mindset and why it is foundational to long-term effectiveness and learning.
+reading_time: "4 min"
 sidebar:
   order: 2
 ---
 
-Best practices for mind mastering.
 
 A growth mindset is the belief that abilities and intelligence can be developed through dedication, effort, and learning. It stands in contrast to a fixed mindset, which treats qualities as innate and unchangeable.
 

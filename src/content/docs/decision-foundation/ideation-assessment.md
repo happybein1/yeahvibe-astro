@@ -1,11 +1,11 @@
 ---
 title: Ideation & Assessment
 description: Best practices for generating ideas and evaluating goals and plans using structured approaches.
+reading_time: "5 min"
 sidebar:
   order: 1
 ---
 
-Best practices for goal setting and planning.
 
 Looking for ideas and ways to assess them while breaking them down? Check out this process for generating, evaluating, and transforming ideas into actionable steps.
 

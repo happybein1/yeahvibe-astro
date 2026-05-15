@@ -1,11 +1,11 @@
 ---
 title: Habits Improvement
 description: Effective strategies for building new habits and breaking old ones, grounded in self-compassion and curiosity.
+reading_time: "4 min"
 sidebar:
   order: 1
 ---
 
-Best practices for mind mastering.
 
 Changing habits and improving processes can be challenging, but adopting the right strategies significantly increases your chances of success.
 

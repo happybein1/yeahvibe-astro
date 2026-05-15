@@ -1,11 +1,11 @@
 ---
 title: Partage équitable du monde
 description: Comment les ressources mondiales sont distribuées et à quoi pourrait ressembler un partage plus équitable pour les personnes et la planète.
+reading_time: "4 min de lecture"
 sidebar:
   order: 4
 ---
 
-Aperçus de fond sur les ressources et le système sociétal
 
 <div style="max-width:680px;margin:1.5rem 0;aspect-ratio:16/9;border-radius:10px;overflow:hidden;box-shadow:0 4px 20px rgba(0,0,0,0.3);">
   <iframe src="https://player.vimeo.com/video/881363029" style="width:100%;height:100%;border:none;" allow="autoplay; fullscreen" allowfullscreen></iframe>

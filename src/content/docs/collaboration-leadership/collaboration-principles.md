@@ -1,11 +1,11 @@
 ---
 title: Collaboration Principles
 description: Core principles for working effectively with others and building high-performing collaborative environments.
+reading_time: "4 min"
 sidebar:
   order: 1
 ---
 
-Best practices for working together.
 
 Effective collaboration is not accidental. It emerges from deliberate practices, shared norms, and the right conditions. These principles apply to small teams, large organizations, and cross-functional groups alike.
 

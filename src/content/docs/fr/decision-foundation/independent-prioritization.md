@@ -1,11 +1,11 @@
 ---
 title: Priorisation indépendante
 description: Stratégies pour prioriser les objectifs et les actions en fonction de l'impact par rapport à l'effort, et gérer les priorités urgentes.
+reading_time: "4 min de lecture"
 sidebar:
   order: 2
 ---
 
-Meilleures pratiques pour la définition d'objectifs et la planification.
 
 ## Stratégies de base de priorisation et de planification
 

@@ -1,11 +1,11 @@
 ---
 title: Daily Activities
 description: Practical daily activities and routines that build well-being, energy, and effectiveness over time.
+reading_time: "4 min"
 sidebar:
   order: 1
 ---
 
-Best practices for mind mastering.
 
 Small, consistent daily actions compound into significant changes over time. This page collects practical activities that support well-being, energy, and effectiveness — organized by category.
 

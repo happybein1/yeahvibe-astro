@@ -1,11 +1,11 @@
 ---
 title: Societal Functions
 description: The core functions every society must perform — and how well different systems perform them.
+reading_time: "4 min"
 sidebar:
   order: 3
 ---
 
-Background Insights on Resource & Societal System
 
 Every society, regardless of its political or economic system, must perform certain core functions to sustain itself and support its members. Understanding these functions is useful for evaluating policies, comparing societies, and identifying where systems are failing.
 

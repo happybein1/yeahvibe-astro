@@ -1,11 +1,11 @@
 ---
 title: Prise de décision en groupe
 description: Cadres et pratiques pour prendre de meilleures décisions en groupe tout en évitant les pièges collectifs courants.
+reading_time: "4 min de lecture"
 sidebar:
   order: 4
 ---
 
-Meilleures pratiques pour travailler ensemble.
 
 Les décisions de groupe peuvent être meilleures que les décisions individuelles — ou bien pires, selon la façon dont elles sont prises. La différence réside dans le processus.
 

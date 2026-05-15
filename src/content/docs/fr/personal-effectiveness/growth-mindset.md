@@ -1,11 +1,11 @@
 ---
 title: État d'esprit de croissance
 description: Comment développer un état d'esprit de croissance et pourquoi il est fondamental à l'efficacité à long terme et à l'apprentissage.
+reading_time: "4 min de lecture"
 sidebar:
   order: 2
 ---
 
-Meilleures pratiques pour maîtriser son esprit.
 
 Un état d'esprit de croissance est la croyance que les capacités et l'intelligence peuvent être développées grâce au dévouement, à l'effort et à l'apprentissage. Il contraste avec un état d'esprit figé, qui traite les qualités comme innées et immuables.
 

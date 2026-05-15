@@ -1,149 +1,137 @@
 ---
 title: User Flow
-description: Practical scenarios showing when and how different users engage with YeahVibe content — from first visit to daily use.
+description: Quick, practical scenarios showing how to get value from YeahVibe in minutes — not hours.
 sidebar:
   order: 3
 ---
 
-Every person who comes to YeahVibe is in a different situation. This page maps out **who uses what, when, and why** — so you can quickly find the path that matches your current reality.
+Most articles on YeahVibe take **3–5 minutes to read**. You don't need a plan or a session. You just need one article that matches where you are right now.
+
+Here are the most common situations — and the fastest path to something useful.
 
 ---
 
-## 🧭 Scenario 1 — "I feel lost and don't know where to start"
+## 🧭 "I feel lost. Where do I start?"
 
-**Who:** Someone new to personal development or facing a major life transition — new job, burnout, career change, or simply feeling stuck.
+**Time needed: 5 minutes**
 
-**When:** First visit, Sunday evening, feeling overwhelmed.
+Open [Start Here](/start-here/). Read the Remedy and Insight for each pillar. One of them will hit differently. Start there.
 
-**Flow:**
-1. Land on the homepage → click **Start Here**
-2. Read the intro — recognize themselves in the "directionless or paralyzed" remedy
-3. Open **Pillar 1: Direction** → read [Find Your Directional Purpose](/decision-foundation/find-your-directional-purpose/)
-4. Work through [Generic Primary Goal Breakdown](/decision-foundation/find-your-directional-purpose/generic-primary-goal-breakdown/) to clarify what they actually want
-5. Take the [Self-Assessment](https://form.jotform.com/222552689387066) to confirm their priority area
-6. Bookmark the page, return next week with a clearer head
-
-**Time investment:** 30–45 minutes for the first session.
+Not sure? Take the [Self-Assessment](https://form.jotform.com/222552689387066) — it takes 2 minutes and gives you a clear first step.
 
 ---
 
-## 🔥 Scenario 2 — "I know what I want but can't make myself do it"
+## 🔥 "I can't make myself do the things I want to do"
 
-**Who:** Someone motivated but struggling with consistency — starts habits, falls off, feels guilty, repeats.
+**Time needed: 4 minutes**
 
-**When:** Monday morning after another failed week.
+Read [Habits Improvement](/personal-effectiveness/habits-improvement/). The section on self-compassion and environment design will change how you think about why habits fail.
 
-**Flow:**
-1. Goes directly to **Personal Effectiveness** in the sidebar
-2. Reads [Habits Improvement](/personal-effectiveness/habits-improvement/) — particularly the section on self-compassion and environment design
-3. Reads [Growth Mindset](/personal-effectiveness/growth-mindset/) to reframe their failures as data
-4. Uses the **Listen** button during their commute to absorb [Fear Management](/personal-effectiveness/fear-management/)
-5. Sets up a simple journaling practice using [Advised Tools](/advised-tools/)
-6. Returns weekly to [Daily Activities](/personal-effectiveness/inspiration/daily-activities/) as a reset
-
-**Time investment:** 20 minutes reading + daily 5-minute journal habit.
+**TL;DR:**
+- Blame your environment, not your willpower
+- Make the right action the easiest action
+- Self-compassion works better than self-criticism
 
 ---
 
-## 📊 Scenario 3 — "I have too much to do and no system"
+## 📊 "I have too much to do and no idea what matters"
 
-**Who:** A professional, freelancer, or small business owner drowning in tasks, emails, and competing priorities.
+**Time needed: 4 minutes**
 
-**When:** Wednesday afternoon, can't focus, switching between 10 browser tabs.
+Read [Independent Prioritization](/decision-foundation/independent-prioritization/). The Impact vs. Effort table takes 2 minutes to apply to your current task list.
 
-**Flow:**
-1. Searches "prioritization" → lands on [Independent Prioritization](/decision-foundation/independent-prioritization/)
-2. Applies the **Impact vs. Effort matrix** to their current task list immediately
-3. Reads [Clarity & Alignment](/decision-foundation/clarity-alignment/) to simplify their goals
-4. Sets up a folder system using [Files & Folder Organization](/organizational-processes/files-folder-organization/)
-5. Uses the [Notion Prioritization Template](https://www.notion.so/PrioStorm-2c0fcec352808007bfd5d853e9f7f9a1) from Advised Tools
-6. Reviews [Tracking and Update](/decision-foundation/tracking-and-update/) at end of week
-
-**Time investment:** 1 hour to set up system, 15 minutes weekly review.
+**TL;DR:**
+- High impact + low effort = do first
+- High impact + high effort = schedule deliberately
+- Low impact = deprioritize ruthlessly
 
 ---
 
-## 👥 Scenario 4 — "My team is dysfunctional and I need to fix it"
+## 😴 "I'm exhausted all the time"
 
-**Who:** A team lead, manager, or founder whose group is misaligned, slow to decide, or communication is breaking down.
+**Time needed: 4 minutes**
 
-**When:** After a frustrating team meeting that went nowhere.
+Read [Sleeping Well](/personal-effectiveness/sleeping-well/). One habit change from this article — consistent wake time — has more impact than almost anything else.
 
-**Flow:**
-1. Goes to **Collaboration & Leadership** in the sidebar
-2. Reads [Collaboration Principles](/collaboration-leadership/collaboration-principles/) — identifies "passive agreement" as the team's core issue
-3. Reads [Group Decision Making](/collaboration-leadership/group-decision-making/) — introduces the DACI framework at next meeting
-4. Shares [Speak Clearly and Confidently](/collaboration-leadership/speak-clearly-and-confidently/) with a team member who struggles to voice opinions
-5. Uses [Influence and Leadership](/collaboration-leadership/influence-and-leadership/) to prepare for a difficult conversation with a senior stakeholder
-6. Listens to articles during the morning commute using the **Listen** button
-
-**Time investment:** 45 minutes reading, then applied in real meetings.
+**TL;DR:**
+- Consistency beats duration — same wake time daily matters most
+- Caffeine after 2pm costs you more than you think
+- A 10-minute wind-down routine changes everything
 
 ---
 
-## 🌍 Scenario 5 — "I want to understand the big picture"
+## 👥 "My team doesn't work well together"
 
-**Who:** A curious person — student, entrepreneur, or engaged citizen — who wants to understand global trends and make informed life decisions (career, diet, investment, where to live).
+**Time needed: 4 minutes**
 
-**When:** Weekend, quiet morning with coffee.
+Read [Group Decision Making](/collaboration-leadership/group-decision-making/). The pre-mortem and independent input techniques can be applied at your next meeting.
 
-**Flow:**
-1. Visits **YeahSight** from the sidebar or homepage card
-2. Reads [Foresight Trends](/applications/foresight-trends/) for orientation — watches the embedded video
-3. Explores [Enhanced Automation](/applications/technology-automation/enhanced-automation/) — decides to upskill in AI tools
-4. Reads [Earth Land — View per Individual](/applications/environment-energy/earth-land-view-per-individual/) — reconsiders their diet choices
-5. Reads [Universal Allowance](/applications/economy-equity/universal-allowance/) — thinks more clearly about political positions on welfare
-6. Shares [Fair Globe Sharing](/applications/economy-equity/fair-globe-sharing/) — watches the embedded video — with a friend
-
-**Time investment:** 1–2 hours of reading across multiple sessions.
+**TL;DR:**
+- Ask "what could go wrong?" before finalizing any decision
+- Have everyone write their view before open discussion
+- The most senior voice should often speak last
 
 ---
 
-## 🔄 Scenario 6 — "I'm a returning user doing a monthly reset"
+## 🗂️ "I can never find anything on my computer"
 
-**Who:** A regular YeahVibe user who has built a basic system and returns monthly to recalibrate.
+**Time needed: 4 minutes**
 
-**When:** First Sunday of the month, morning review.
+Read [Files & Folder Organization](/organizational-processes/files-folder-organization/). One afternoon to implement, years of friction saved.
 
-**Flow:**
-1. Re-reads [Start Here](/start-here/) — checks which pillar feels most relevant this month
-2. Revisits [Tracking and Update](/decision-foundation/tracking-and-update/) — reviews last month's goals
-3. Opens [Daily Activities](/personal-effectiveness/inspiration/daily-activities/) — refreshes their morning routine
-4. Checks [Advised Tools](/advised-tools/) for any new tools added
-5. Leaves a [One Minute Feedback](https://form.jotform.com/222551513307043) about what helped most
-6. Shares a specific article with someone in their life who needs it
-
-**Time investment:** 30 minutes monthly reset.
+**TL;DR:**
+- Organize by project, not by file type
+- Use YYYY-MM-DD date format in filenames
+- Archive old work — don't delete, don't leave it active
 
 ---
 
-## 📱 Scenario 7 — "I only have 10 minutes on my phone"
+## 🌍 "I want to understand what's happening in the world"
 
-**Who:** Anyone — commuting, waiting, short break.
+**Time needed: 3 minutes to start**
 
-**When:** During a train ride or lunch break.
+Open [Foresight Trends](/applications/foresight-trends/) and watch the video. Then pick one sub-topic that interests you. Each article is self-contained — read in any order.
 
-**Flow:**
-1. Opens YeahVibe on mobile → sidebar is collapsed, taps the section they're currently working on
-2. Taps an article → hits **Listen** button → phone reads the article aloud
-3. Or: reads a single short article like [Sleeping Well](/personal-effectiveness/sleeping-well/) or [Managing Commuting Time](/organizational-processes/managing-commuting-time/)
-4. Adds article to browser bookmarks for deeper reading later
-
-**Time investment:** 10 minutes, fully mobile-optimized.
+**TL;DR:**
+- YeahSight covers energy, economy, technology, and society
+- Each article takes 3–5 minutes
+- Start with whichever topic affects your life most right now
 
 ---
 
-## Summary Table
+## 📱 "I only have 10 minutes on my phone"
 
-| Situation | Start here | Time needed |
+**Time needed: Exactly 10 minutes**
+
+Pick any article → tap **Listen** → let it read to you while you walk, commute, or do dishes. No screen time needed.
+
+The voice matches your language automatically.
+
+---
+
+## 🔄 "I've been here before — what should I revisit?"
+
+**Time needed: 5 minutes**
+
+Re-read [Start Here](/start-here/). Which pillar resonates differently than last time? Life changes — your priorities should too.
+
+Then check [Tracking and Update](/decision-foundation/tracking-and-update/) — the most overlooked article on the site.
+
+---
+
+## Summary
+
+| Situation | Article | Time |
 |---|---|---|
-| Feeling lost | [Start Here](/start-here/) → Pillar 1 | 30–45 min |
-| Can't build habits | [Habits Improvement](/personal-effectiveness/habits-improvement/) | 20 min + daily |
-| Overwhelmed by tasks | [Prioritization](/decision-foundation/independent-prioritization/) | 1 hour setup |
-| Team problems | [Collaboration](/collaboration-leadership/collaboration-principles/) | 45 min |
-| Want big picture | [YeahSight](/applications/foresight-trends/) | 1–2 hours |
-| Monthly reset | [Start Here](/start-here/) → review | 30 min |
-| Short on time | Any article + Listen button | 10 min |
+| Feeling lost | [Start Here](/start-here/) | 5 min |
+| Can't build habits | [Habits Improvement](/personal-effectiveness/habits-improvement/) | 4 min |
+| Too much to do | [Independent Prioritization](/decision-foundation/independent-prioritization/) | 4 min |
+| Exhausted | [Sleeping Well](/personal-effectiveness/sleeping-well/) | 4 min |
+| Team problems | [Group Decision Making](/collaboration-leadership/group-decision-making/) | 4 min |
+| Digital chaos | [Files & Folder Organization](/organizational-processes/files-folder-organization/) | 4 min |
+| World events | [Foresight Trends](/applications/foresight-trends/) | 3 min |
+| Mobile / commuting | Any article + Listen button | 10 min |
+| Regular check-in | [Start Here](/start-here/) → [Tracking](/decision-foundation/tracking-and-update/) | 5 min |
 
 ---
 

@@ -1,11 +1,11 @@
 ---
 title: Parler clairement et avec confiance
 description: Techniques pratiques pour communiquer avec clarté et confiance dans des situations à enjeux élevés.
+reading_time: "4 min de lecture"
 sidebar:
   order: 3
 ---
 
-Meilleures pratiques pour travailler ensemble.
 
 Une communication claire et confiante est une compétence qui s'apprend. Il ne s'agit pas de type de personnalité ou de charisme naturel — il s'agit de préparation, de structure et de pratique.
 

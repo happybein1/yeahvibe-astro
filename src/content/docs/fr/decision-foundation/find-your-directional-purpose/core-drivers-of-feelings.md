@@ -1,6 +1,7 @@
 ---
 title: Moteurs fondamentaux des émotions
 description: Comprendre ce qui motive vos états émotionnels et comment utiliser cette connaissance pour prendre de meilleures décisions.
+reading_time: "4 min de lecture"
 sidebar:
   order: 2
 ---

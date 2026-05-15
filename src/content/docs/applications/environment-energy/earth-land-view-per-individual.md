@@ -1,11 +1,11 @@
 ---
 title: Earth Land — View per Individual
 description: Understanding global land use from a per-person perspective to inform better individual and collective decisions.
+reading_time: "4 min"
 sidebar:
   order: 1
 ---
 
-Background Insights on Resource & Societal System
 
 Grasping the size and complexity of Earth's surface is challenging from a human-scale viewpoint. This makes decision-making around land use — whether individual or collective — a difficult but important challenge.
 

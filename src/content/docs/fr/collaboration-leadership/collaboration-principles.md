@@ -1,11 +1,11 @@
 ---
 title: Principes de collaboration
 description: Les principes fondamentaux pour travailler efficacement avec les autres et construire des environnements collaboratifs performants.
+reading_time: "4 min de lecture"
 sidebar:
   order: 1
 ---
 
-Meilleures pratiques pour travailler ensemble.
 
 Une collaboration efficace n'est pas accidentelle. Elle émerge de pratiques délibérées, de normes partagées et des bonnes conditions. Ces principes s'appliquent aux petites équipes, aux grandes organisations et aux groupes transfonctionnels.
 

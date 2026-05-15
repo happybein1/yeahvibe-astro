@@ -1,6 +1,7 @@
 ---
 title: Generic Primary Goal Breakdown
 description: A structured breakdown of primary goals for individuals and organizations.
+reading_time: "4 min"
 sidebar:
   order: 1
 ---

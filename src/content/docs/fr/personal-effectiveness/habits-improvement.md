@@ -1,11 +1,11 @@
 ---
 title: Amélioration des habitudes
 description: Stratégies efficaces pour créer de nouvelles habitudes et briser les anciennes, fondées sur la bienveillance envers soi-même et la curiosité.
+reading_time: "4 min de lecture"
 sidebar:
   order: 1
 ---
 
-Meilleures pratiques pour maîtriser son esprit.
 
 Changer d'habitudes et améliorer ses processus peut être difficile, mais adopter les bonnes stratégies augmente considérablement vos chances de succès.
 

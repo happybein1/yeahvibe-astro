@@ -1,11 +1,11 @@
 ---
 title: Objectif de la société
 description: À quoi sert fondamentalement la société, et comment comprendre son objectif nous aide à prendre de meilleures décisions collectives.
+reading_time: "4 min de lecture"
 sidebar:
   order: 1
 ---
 
-Aperçus de fond sur les ressources et le système sociétal
 
 Si nous dépouillons la société de ses complexités politiques et économiques, son objectif fondamental est simple : vouloir le meilleur pour les personnes qui y vivent.
 

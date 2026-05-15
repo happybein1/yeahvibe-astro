@@ -1,11 +1,11 @@
 ---
 title: Clarity & Alignment
 description: How to clearly define goals, combine plans for efficiency, and delegate tasks effectively.
+reading_time: "4 min"
 sidebar:
   order: 3
 ---
 
-Best practices for goal setting and planning.
 
 When faced with too many or overly complex options that are difficult to compare, strategy becomes crucial. In such situations it is essential to:
 

@@ -1,11 +1,11 @@
 ---
 title: Sleeping Well
 description: The science and practice of quality sleep and why it is foundational to effective thinking and decision-making.
+reading_time: "4 min"
 sidebar:
   order: 4
 ---
 
-Best practices for mind mastering.
 
 Sleep is not a luxury — it is a biological necessity. The quality of your sleep directly determines the quality of your thinking, decision-making, emotional regulation, and physical health.
 

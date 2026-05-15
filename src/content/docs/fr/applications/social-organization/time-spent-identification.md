@@ -1,11 +1,11 @@
 ---
 title: Identification du temps passé
 description: Comment comprendre où passe réellement votre temps — et utiliser cette connaissance pour aligner vos journées sur vos priorités.
+reading_time: "4 min de lecture"
 sidebar:
   order: 5
 ---
 
-Aperçus de fond sur les ressources et le système sociétal
 
 ## Pourquoi le suivi du temps est important
 
