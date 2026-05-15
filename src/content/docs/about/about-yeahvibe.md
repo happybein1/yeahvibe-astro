@@ -1,6 +1,6 @@
 ---
 title: About YeahVibe
-description: Learn about YeahVibe — its mission, vision, and the team behind it.
+description: Learn about YeahVibe — its mission, vision, and its connection to the HappyBein Stichting.
 sidebar:
   order: 1
 ---
@@ -11,6 +11,16 @@ YeahVibe is a knowledge platform dedicated to helping individuals and organizati
 
 The goal is simple: help people get more value from the time and resources they have — not by working harder, but by working smarter and more intentionally.
 
+## About HappyBein Stichting
+
+YeahVibe is an initiative of the **[HappyBein Stichting](https://www.happybein.com)** — a Dutch foundation (stichting) dedicated to well-being and positive impact. HappyBein's mission is to help individuals and communities thrive by providing open, accessible tools and knowledge.
+
+YeahVibe is HappyBein's flagship knowledge platform, bringing the foundation's principles of leverage, clarity, and purposeful action to a global audience.
+
+👉 Learn more about the broader HappyBein project at **[happybein.com](https://www.happybein.com)**
+
+---
+
 ## Why YeahVibe exists
 
 Most people have access to more information than ever before — yet making consistently good decisions remains difficult. The gap between knowing and doing is large. The gap between doing and doing *well* is larger still.
@@ -20,19 +30,17 @@ YeahVibe was created to bridge that gap. It is built on the belief that:
 - **Clarity precedes action** — understanding your goals, values, and constraints is the foundation of good decisions.
 - **Practical beats theoretical** — insights are only valuable if they can be applied in real life.
 - **Small improvements compound** — consistent, incremental gains in decision quality create outsized results over time.
-- **Everyone deserves better tools** — the frameworks and practices that help people and organizations thrive should be accessible to anyone, not just those with expensive consultants or MBA programs.
+- **Everyone deserves better tools** — the frameworks and practices that help people and organizations thrive should be accessible to anyone.
 
 ## Who is YeahVibe for?
 
-YeahVibe is for anyone who wants to make better use of their time, energy, and resources:
-
-- **Individuals** seeking to improve their habits, manage their energy, make clearer personal and professional decisions, and understand the world around them.
+- **Individuals** seeking to improve their habits, manage their energy, and make clearer personal and professional decisions.
 - **Teams and organizations** looking for shared frameworks for prioritization, collaboration, and decision-making.
-- **Curious thinkers** interested in the bigger picture — how societal systems work, what drives inequality, how technology is reshaping work, and what a fairer world might look like.
+- **Curious thinkers** interested in how societal systems work, what drives inequality, and what a fairer world might look like.
 
 ## The structure of YeahVibe
 
-YeahVibe is organized around five interconnected areas:
+YeahVibe is organized around five interconnected pillars:
 
 1. **Decision Foundation** — the core frameworks for making better decisions at any scale.
 2. **Personal Effectiveness** — habits, mindset, sleep, and the practices that determine daily performance.
@@ -42,13 +50,7 @@ YeahVibe is organized around five interconnected areas:
 
 ## Our approach
 
-YeahVibe is not prescriptive. It does not tell you what to believe or how to live. It offers frameworks, evidence, and perspectives — and trusts you to apply them to your own context.
-
-Content is written to be:
-- **Clear** — no unnecessary jargon or complexity.
-- **Practical** — grounded in real situations, not abstract theory.
-- **Balanced** — presenting multiple perspectives, especially on contested topics.
-- **Honest about uncertainty** — not claiming more certainty than the evidence supports.
+YeahVibe is not prescriptive. It offers frameworks, evidence, and perspectives — and trusts you to apply them to your own context. Content is written to be clear, practical, balanced, and honest about uncertainty.
 
 ## Get involved
 
@@ -56,4 +58,5 @@ YeahVibe is a living project. Your feedback, ideas, and contributions make it be
 
 - [Join our Discord Server](https://discord.com/invite/62xRJHCbRW)
 - [Share feedback (1 minute)](https://form.jotform.com/222551513307043)
-- [For supporters & partners](/about/supporters-partners)
+- [For supporters & partners](/about/supporters-partners/)
+- [How It Works](/about/how-it-works/)

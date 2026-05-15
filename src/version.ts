@@ -1,3 +1,3 @@
-export const SITE_VERSION = '1.3.6';
-export const SITE_VERSION_DATE = '2026-05-14';
-export const SITE_VERSION_NOTES = 'Fixed OG image dimensions (1200x630); improved SEO meta tags, titles, keywords, and structured data';
+export const SITE_VERSION = '1.4.0';
+export const SITE_VERSION_DATE = '2026-05-15';
+export const SITE_VERSION_NOTES = 'Added How It Works page; updated About with HappyBein Stichting mention; fixed OG image; improved SEO';

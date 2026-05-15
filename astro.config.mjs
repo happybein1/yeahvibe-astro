@@ -159,6 +159,7 @@ export default defineConfig({
                     collapsed: false,
                     items: [
                         { label: 'About YeahVibe', translations: { fr: 'À propos de YeahVibe' }, slug: 'about/about-yeahvibe' },
+                        { label: 'How It Works', translations: { fr: 'Comment ça marche' }, slug: 'about/how-it-works' },
                         { label: 'Supporters & Partners', translations: { fr: 'Supporters et partenaires' }, slug: 'about/supporters-partners' },
                     ],
                 },
