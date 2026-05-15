@@ -5,7 +5,15 @@ import SiteTitle from '@astrojs/starlight/components/SiteTitle.astro';
 import SocialIcons from '@astrojs/starlight/components/SocialIcons.astro';
 import ThemeSelect from '@astrojs/starlight/components/ThemeSelect.astro';
 import LanguageSelect from '@astrojs/starlight/components/LanguageSelect.astro';
+
+const isFr = Astro.props.lang === 'fr';
+const currentPath = Astro.url.pathname;
+const altPath = isFr
+  ? currentPath.replace(/^\/fr/, '') || '/'
+  : '/fr' + (currentPath === '/' ? '/' : currentPath);
+const altLabel = isFr ? 'EN' : 'FR';
 ---
+
 <div class="header sl-flex">
   <div class="title-wrapper sl-flex">
     <SiteTitle {...Astro.props} />
@@ -18,9 +26,14 @@ import LanguageSelect from '@astrojs/starlight/components/LanguageSelect.astro';
       <SocialIcons {...Astro.props} />
     </div>
     <ThemeSelect {...Astro.props} />
-    <div class="lang-select-wrapper">
+    <!-- Desktop: native Starlight language select -->
+    <div class="lang-native">
       <LanguageSelect {...Astro.props} />
     </div>
+    <!-- Mobile: simple clean text button -->
+    <a href={altPath} class="lang-toggle" aria-label={`Switch to ${altLabel}`}>
+      {altLabel}
+    </a>
   </div>
 </div>
 
@@ -31,35 +44,37 @@ import LanguageSelect from '@astrojs/starlight/components/LanguageSelect.astro';
     align-items: center;
     height: 100%;
   }
-  .title-wrapper {
-    overflow: hidden;
-    flex-shrink: 0;
-  }
-  .search-wrapper {
-    flex: 1;
-    justify-content: flex-end;
-  }
-  .right-group {
-    gap: 0.5rem;
-    align-items: center;
-    flex-shrink: 0;
-  }
-  .lang-select-wrapper {
-    display: flex !important;
-    align-items: center;
-  }
+  .title-wrapper { overflow: hidden; flex-shrink: 0; }
+  .search-wrapper { flex: 1; justify-content: flex-end; }
+  .right-group { gap: 0.5rem; align-items: center; flex-shrink: 0; }
 
-  /* Hide social icons in header on mobile — moved to footer */
+  /* Desktop: show native select, hide toggle */
+  .lang-native { display: flex; align-items: center; }
+  .lang-toggle { display: none; }
+
+  /* Mobile: hide native select, show clean toggle */
   @media (max-width: 50rem) {
     .social-desktop { display: none; }
     .search-wrapper { flex: 0; }
-
-    /* Make language select more compact on mobile */
-    .lang-select-wrapper select,
-    .lang-select-wrapper starlight-lang-select select {
-      font-size: 0.75rem;
-      padding-inline: 0.3rem;
-      max-width: 3.5rem;
+    .lang-native { display: none; }
+    .lang-toggle {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 0.78rem;
+      font-weight: 700;
+      color: var(--sl-color-text);
+      text-decoration: none;
+      border: 1.5px solid var(--sl-color-hairline);
+      border-radius: 5px;
+      padding: 0.2rem 0.5rem;
+      min-width: 2rem;
+      line-height: 1;
+      transition: border-color 0.2s, color 0.2s;
+    }
+    .lang-toggle:hover {
+      border-color: var(--sl-color-accent);
+      color: var(--sl-color-accent);
     }
   }
 </style>

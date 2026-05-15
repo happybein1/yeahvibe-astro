@@ -8,18 +8,6 @@
   align-items: center;
 }
 
-/* Compact language select on mobile */
-@media (max-width: 50rem) {
-  starlight-lang-select select {
-    font-size: 0.72rem !important;
-    padding-inline-start: 0.25rem !important;
-    padding-inline-end: 1.2rem !important;
-    max-width: 2.8rem;
-    overflow: hidden;
-    text-overflow: clip;
-  }
-}
-
 /* --- Hero video styling --- */
 .hero-video {
   width: 100%;
