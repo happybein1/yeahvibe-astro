@@ -1,19 +1,16 @@
 ---
 title: Impact of Artificial Intelligence
-description: How AI is changing society, the economy, and individual lives — and how to think about its implications.
-reading_time: "5 min"
-sidebar:
-  order: 2
+description: AI is a general-purpose technology reshaping the economy and society. Here's what it can do now, what that means economically and socially, and how to think about it clearly.
 ---
-
 
 ## AI: A General-Purpose Technology
 
-Artificial Intelligence is best understood as a **general-purpose technology** — like electricity or the internet — whose impact will be felt across virtually every domain of human activity. It is not a single product or application but a cluster of capabilities that are becoming embedded in tools, systems, and processes worldwide.
+Artificial Intelligence is best understood as a **general-purpose technology** — like electricity or the internet — whose impact will be felt across virtually every domain of human activity. It is not a single product or application but a cluster of capabilities becoming embedded in tools, systems, and processes worldwide.
 
 ## What AI Can Do Now
 
 Current AI systems excel at:
+
 - **Pattern recognition**: identifying objects in images, detecting anomalies in data, flagging fraud
 - **Language tasks**: summarizing documents, translating languages, generating text, answering questions
 - **Prediction**: forecasting demand, estimating risk, recommending content
@@ -24,7 +21,9 @@ These capabilities are already embedded in tools used by hundreds of millions of
 
 ## The Economic Impact
 
-AI is accelerating productivity in sectors from healthcare to finance to logistics. It also raises significant questions about value distribution:
+AI is accelerating productivity in sectors from healthcare to finance to logistics. A large part of this impact comes through **enabling automation**: AI extends what can be automated beyond routine physical tasks into cognitive work — analysis, writing, diagnostics, planning — that previously required human judgment. (See [Enhanced Automation](/applications/technology-automation/enhanced-automation/) for what this means for jobs and the cost of living.)
+
+This raises significant questions about value distribution:
 
 - If AI dramatically increases the productivity of capital (tools, software) relative to labor, who captures the gains?
 - How do workers whose skills become less scarce due to AI maintain their economic position?
@@ -33,15 +32,19 @@ AI is accelerating productivity in sectors from healthcare to finance to logisti
 ## The Social Impact
 
 ### Information and trust
+
 AI makes it easier and cheaper to generate convincing text, images, audio, and video. This has significant implications for misinformation, trust in media, and the integrity of public discourse.
 
 ### Surveillance and privacy
+
 AI dramatically increases the capability and reduces the cost of surveillance — by governments, corporations, and individuals. The implications for privacy, autonomy, and political freedom are profound.
 
 ### Inequality
+
 Access to powerful AI tools is unevenly distributed. Those who can use them effectively gain significant advantages; those who cannot risk being left further behind.
 
 ### Healthcare
+
 AI is accelerating drug discovery, improving diagnostic accuracy, and enabling more personalized treatment. It also raises questions about data privacy and who controls health AI systems.
 
 ## Thinking Clearly About AI
@@ -59,4 +62,4 @@ AI tends to generate both excessive hype and excessive fear. A more grounded app
 - Develop the judgment to evaluate AI outputs critically — it makes confident mistakes
 - Stay informed about AI policy discussions — these decisions will shape the world you inhabit
 
-See also: [Enhanced Automation](/applications/technology-automation/enhanced-automation).
+See also: [Enhanced Automation](/applications/technology-automation/enhanced-automation/) and [Life After Automation](/applications/technology-automation/life-after-automation/).

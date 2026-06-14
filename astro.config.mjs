@@ -149,6 +149,7 @@ export default defineConfig({
                             items: [
                                 { label: 'Enhanced Automation', translations: { fr: 'Automatisation améliorée' }, slug: 'applications/technology-automation/enhanced-automation' },
                                 { label: 'Impact of Artificial Intelligence', translations: { fr: "Impact de l'intelligence artificielle" }, slug: 'applications/technology-automation/impact-of-artificial-intelligence' },
+                                { label: 'Life After Automation', translations: { fr: "La vie après l'automatisation" }, slug: 'applications/technology-automation/life-after-automation' },
                             ],
                         },
                         {
