@@ -299,3 +299,19 @@ document.addEventListener('DOMContentLoaded', function() {
   window.addEventListener('beforeunload', () => speechSynthesis.cancel());
 });
 </script>
+
+<!-- All tools pill — injected directly onto body to avoid fixed-position containment issues -->
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const isFr = document.documentElement.lang?.startsWith('fr');
+  const label = isFr ? '⊞ Tous les outils' : '⊞ All tools';
+  const pill = document.createElement('a');
+  pill.href = 'https://yeahvibe.com';
+  pill.textContent = label;
+  pill.setAttribute('aria-label', label);
+  pill.style.cssText = 'position:fixed;bottom:14px;left:14px;height:30px;padding:0 12px;border-radius:15px;background:#2ABFBF;color:#fff;display:flex;align-items:center;gap:5px;font-family:Nunito,Arial,sans-serif;font-weight:700;font-size:12px;text-decoration:none;box-shadow:0 2px 8px rgba(42,191,191,0.4);z-index:99998;opacity:0.85;';
+  pill.addEventListener('mouseover', () => pill.style.opacity = '1');
+  pill.addEventListener('mouseout',  () => pill.style.opacity = '0.85');
+  document.body.appendChild(pill);
+});
+</script>

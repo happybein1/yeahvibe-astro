@@ -3,7 +3,6 @@ import type { Props } from '@astrojs/starlight/props';
 import { SITE_VERSION, SITE_VERSION_DATE, SITE_VERSION_NOTES } from '../../version';
 
 const isFr = Astro.props.lang === 'fr';
-const allToolsLabel = isFr ? '⊞ Tous les outils' : '⊞ All tools';
 const label = isFr ? 'Version' : 'Version';
 const builtWith = isFr ? 'Construit avec' : 'Built with';
 const contactLabel = isFr ? 'Nous contacter' : 'Contact us';
@@ -11,8 +10,6 @@ const checkLabel = isFr ? 'Je ne suis pas un robot' : 'I am not a robot';
 const revealLabel = isFr ? 'Écrivez-nous à :' : 'Write to us at:';
 const instrLabel = isFr ? 'Cochez la case pour afficher notre adresse e-mail.' : 'Tick the box to reveal our email address.';
 ---
-
-<a href="https://yeahvibe.com" style="position:fixed;bottom:14px;left:14px;height:30px;padding:0 12px;border-radius:15px;background:#2ABFBF;color:#fff;display:flex;align-items:center;gap:5px;font-family:Nunito,Arial,sans-serif;font-weight:700;font-size:12px;text-decoration:none;box-shadow:0 2px 8px rgba(42,191,191,0.4);z-index:9999;opacity:0.85;" onmouseover="this.style.opacity='1';" onmouseout="this.style.opacity='.85';">{allToolsLabel}</a>
 
 <footer class="yv-footer">
   <div class="yv-footer-inner">
