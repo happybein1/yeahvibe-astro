@@ -4,7 +4,7 @@ import starlight from '@astrojs/starlight';
 import sitemap from '@astrojs/sitemap';
 
 export default defineConfig({
-    site: 'https://www.yeahvibe.com',
+    site: 'https://core.yeahvibe.com',
     integrations: [
         sitemap({
             i18n: {

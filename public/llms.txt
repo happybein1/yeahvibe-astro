@@ -15,89 +15,89 @@ YeahVibe is organized around five pillars, each targeting a specific type of cha
 ### Pillar 1 — Defining Direction & Priorities
 **Remedy for:** Feeling directionless or paralyzed by too many choices.
 **Insight:** Don't just optimize your schedule; optimize your life. Defining your North Star ensures every other effort actually counts.
-**URL:** https://www.yeahvibe.com/pillars/direction/
+**URL:** https://core.yeahvibe.com/pillars/direction/
 
 ### Pillar 2 — Enhancing the Mindset
 **Remedy for:** Feeling unmotivated, stuck, or mentally overwhelmed.
 **Insight:** Your mindset is your internal operating system. Cognitive reframing and resilience make growth sustainable.
-**URL:** https://www.yeahvibe.com/pillars/mindset/
+**URL:** https://core.yeahvibe.com/pillars/mindset/
 
 ### Pillar 3 — Organizing Your Surroundings & Processes
 **Remedy for:** Feeling disorganized, scattered, or physically drained.
 **Insight:** Success is a product of low friction. Optimize your environment so the right actions become the easiest actions.
-**URL:** https://www.yeahvibe.com/pillars/organization/
+**URL:** https://core.yeahvibe.com/pillars/organization/
 
 ### Pillar 4 — Collaboration & Leadership Principles
 **Remedy for:** Feeling stressed by a heavy workload or isolated in your goals.
 **Insight:** You can only go so far alone. Influence and collaboration are the multipliers that scale your impact through others.
-**URL:** https://www.yeahvibe.com/pillars/collaboration/
+**URL:** https://core.yeahvibe.com/pillars/collaboration/
 
 ### Pillar 5 — YeahSight: Picturing the World
 **Remedy for:** Feeling concerned about the world's future.
 **Insight:** To win, you must see the board. YeahSight helps you understand global trends to define a confident long-term direction.
-**URL:** https://www.yeahvibe.com/pillars/yeahsight/
+**URL:** https://core.yeahvibe.com/pillars/yeahsight/
 
 ---
 
 ## Full Article Index
 
 ### Getting Started
-- Start Here — The YeahVibe roadmap and 5 Pillars overview: https://www.yeahvibe.com/start-here/
-- Welcome to YeahVibe — Homepage with video and topic overview: https://www.yeahvibe.com/welcome/
-- Advised Tools — Curated tools for prioritization, journaling, and reflection: https://www.yeahvibe.com/advised-tools/
+- Start Here — The YeahVibe roadmap and 5 Pillars overview: https://core.yeahvibe.com/start-here/
+- Welcome to YeahVibe — Homepage with video and topic overview: https://core.yeahvibe.com/welcome/
+- Advised Tools — Curated tools for prioritization, journaling, and reflection: https://core.yeahvibe.com/advised-tools/
 
 ### Decision Foundation (Pillar 1)
-- Find Your Directional Purpose — Identifying the core goals and values that guide your decisions: https://www.yeahvibe.com/decision-foundation/find-your-directional-purpose/
-- Generic Primary Goal Breakdown — Structuring primary goals into a coherent hierarchy for individuals and organizations: https://www.yeahvibe.com/decision-foundation/find-your-directional-purpose/generic-primary-goal-breakdown/
-- Core Drivers of Feelings — Understanding the emotional signals behind decisions: https://www.yeahvibe.com/decision-foundation/find-your-directional-purpose/core-drivers-of-feelings/
-- Human's Physiological Needs — The universal human needs that underpin all effective decision-making: https://www.yeahvibe.com/decision-foundation/find-your-directional-purpose/humans-physiological-needs/
-- Ideation & Assessment — Generating ideas and evaluating goals using structured approaches: https://www.yeahvibe.com/decision-foundation/ideation-assessment/
-- Independent Prioritization — Ranking actions by impact vs. effort and managing urgency: https://www.yeahvibe.com/decision-foundation/independent-prioritization/
-- Clarity & Alignment — Defining goals clearly and delegating effectively: https://www.yeahvibe.com/decision-foundation/clarity-alignment/
-- Tracking and Update — Monitoring decisions and adapting plans as circumstances evolve: https://www.yeahvibe.com/decision-foundation/tracking-and-update/
+- Find Your Directional Purpose — Identifying the core goals and values that guide your decisions: https://core.yeahvibe.com/decision-foundation/find-your-directional-purpose/
+- Generic Primary Goal Breakdown — Structuring primary goals into a coherent hierarchy for individuals and organizations: https://core.yeahvibe.com/decision-foundation/find-your-directional-purpose/generic-primary-goal-breakdown/
+- Core Drivers of Feelings — Understanding the emotional signals behind decisions: https://core.yeahvibe.com/decision-foundation/find-your-directional-purpose/core-drivers-of-feelings/
+- Human's Physiological Needs — The universal human needs that underpin all effective decision-making: https://core.yeahvibe.com/decision-foundation/find-your-directional-purpose/humans-physiological-needs/
+- Ideation & Assessment — Generating ideas and evaluating goals using structured approaches: https://core.yeahvibe.com/decision-foundation/ideation-assessment/
+- Independent Prioritization — Ranking actions by impact vs. effort and managing urgency: https://core.yeahvibe.com/decision-foundation/independent-prioritization/
+- Clarity & Alignment — Defining goals clearly and delegating effectively: https://core.yeahvibe.com/decision-foundation/clarity-alignment/
+- Tracking and Update — Monitoring decisions and adapting plans as circumstances evolve: https://core.yeahvibe.com/decision-foundation/tracking-and-update/
 
 ### Personal Effectiveness (Pillar 2)
-- Habits Improvement — Building sustainable habits through self-compassion and environment design: https://www.yeahvibe.com/personal-effectiveness/habits-improvement/
-- Growth Mindset — Developing the belief that abilities grow through effort and learning: https://www.yeahvibe.com/personal-effectiveness/growth-mindset/
-- Fear Management — Understanding and managing fear so it informs rather than controls decisions: https://www.yeahvibe.com/personal-effectiveness/fear-management/
-- Sleeping Well — The science of quality sleep and its impact on decision-making and performance: https://www.yeahvibe.com/personal-effectiveness/sleeping-well/
-- Daily Activities — Practical daily routines that build well-being, energy, and effectiveness: https://www.yeahvibe.com/personal-effectiveness/inspiration/daily-activities/
-- Long-Term Goals — Setting, structuring, and pursuing goals that unfold over months and years: https://www.yeahvibe.com/personal-effectiveness/inspiration/long-term-goals/
+- Habits Improvement — Building sustainable habits through self-compassion and environment design: https://core.yeahvibe.com/personal-effectiveness/habits-improvement/
+- Growth Mindset — Developing the belief that abilities grow through effort and learning: https://core.yeahvibe.com/personal-effectiveness/growth-mindset/
+- Fear Management — Understanding and managing fear so it informs rather than controls decisions: https://core.yeahvibe.com/personal-effectiveness/fear-management/
+- Sleeping Well — The science of quality sleep and its impact on decision-making and performance: https://core.yeahvibe.com/personal-effectiveness/sleeping-well/
+- Daily Activities — Practical daily routines that build well-being, energy, and effectiveness: https://core.yeahvibe.com/personal-effectiveness/inspiration/daily-activities/
+- Long-Term Goals — Setting, structuring, and pursuing goals that unfold over months and years: https://core.yeahvibe.com/personal-effectiveness/inspiration/long-term-goals/
 
 ### Organizational Processes (Pillar 3)
-- Basic Organization Principles — Building systems that reduce friction and free up cognitive resources: https://www.yeahvibe.com/organizational-processes/basic-organization-principles/
-- Files & Folder Organization — A practical system for organizing digital files to find anything in under 30 seconds: https://www.yeahvibe.com/organizational-processes/files-folder-organization/
-- Managing Commuting Time — Turning commuting time from dead time into productive or restorative time: https://www.yeahvibe.com/organizational-processes/managing-commuting-time/
+- Basic Organization Principles — Building systems that reduce friction and free up cognitive resources: https://core.yeahvibe.com/organizational-processes/basic-organization-principles/
+- Files & Folder Organization — A practical system for organizing digital files to find anything in under 30 seconds: https://core.yeahvibe.com/organizational-processes/files-folder-organization/
+- Managing Commuting Time — Turning commuting time from dead time into productive or restorative time: https://core.yeahvibe.com/organizational-processes/managing-commuting-time/
 
 ### Collaboration & Leadership (Pillar 4)
-- Collaboration Principles — Building effective collaborative environments through shared purpose and psychological safety: https://www.yeahvibe.com/collaboration-leadership/collaboration-principles/
-- Influence and Leadership — Leading effectively and building influence without relying on authority: https://www.yeahvibe.com/collaboration-leadership/influence-and-leadership/
-- Speak Clearly and Confidently — Communicating with clarity and confidence in high-stakes situations: https://www.yeahvibe.com/collaboration-leadership/speak-clearly-and-confidently/
-- Group Decision Making — Frameworks for making better decisions in groups while avoiding groupthink: https://www.yeahvibe.com/collaboration-leadership/group-decision-making/
+- Collaboration Principles — Building effective collaborative environments through shared purpose and psychological safety: https://core.yeahvibe.com/collaboration-leadership/collaboration-principles/
+- Influence and Leadership — Leading effectively and building influence without relying on authority: https://core.yeahvibe.com/collaboration-leadership/influence-and-leadership/
+- Speak Clearly and Confidently — Communicating with clarity and confidence in high-stakes situations: https://core.yeahvibe.com/collaboration-leadership/speak-clearly-and-confidently/
+- Group Decision Making — Frameworks for making better decisions in groups while avoiding groupthink: https://core.yeahvibe.com/collaboration-leadership/group-decision-making/
 
 ### YeahSight (Pillar 5)
-- Foresight Trends — Overview of emerging trends shaping society, technology, and the environment: https://www.yeahvibe.com/applications/foresight-trends/
-- Earth Land — View per Individual — Understanding global land use from a per-person perspective: https://www.yeahvibe.com/applications/environment-energy/earth-land-view-per-individual/
-- Clean & Safe Energy — Overview of clean energy sources and their implications for individuals and organizations: https://www.yeahvibe.com/applications/environment-energy/clean-safe-energy/
-- Plant-Based Consumption — The ethical, environmental, and nutritional case for plant-based diets: https://www.yeahvibe.com/applications/environment-energy/plant-based-consumption/
-- Universal Allowance — The case for a Universal Basic Needs Allowance as a fundamental right: https://www.yeahvibe.com/applications/economy-equity/universal-allowance/
-- Mastering Finance Basics — Essential financial concepts for better personal and organizational decisions: https://www.yeahvibe.com/applications/economy-equity/mastering-finance-basics/
-- The Economical System — How economic systems work and how they shape individual and collective outcomes: https://www.yeahvibe.com/applications/economy-equity/the-economical-system/
-- Fair Globe Sharing — How global resources are distributed and what fairer sharing might look like: https://www.yeahvibe.com/applications/economy-equity/fair-globe-sharing/
-- Enhanced Automation — How automation is reshaping work, productivity, and the economy: https://www.yeahvibe.com/applications/technology-automation/enhanced-automation/
-- Impact of Artificial Intelligence — How AI is changing society, the economy, and individual lives: https://www.yeahvibe.com/applications/technology-automation/impact-of-artificial-intelligence/
-- Purpose of Society — What society is fundamentally for and how this informs collective decisions: https://www.yeahvibe.com/applications/social-organization/purpose-of-society/
-- Societal Systems — The major systems that organize modern societies and how they interact: https://www.yeahvibe.com/applications/social-organization/societal-systems/
-- Societal Functions — The core functions every society must perform to sustain itself: https://www.yeahvibe.com/applications/social-organization/societal-functions/
-- Social Redistribution — How societies redistribute resources to reduce inequality and support well-being: https://www.yeahvibe.com/applications/social-organization/social-redistribution/
-- Time Spent Identification — Understanding where your time actually goes and realigning it with priorities: https://www.yeahvibe.com/applications/social-organization/time-spent-identification/
-- Managing Regional Migration — Understanding migration patterns, causes, and fair management principles: https://www.yeahvibe.com/applications/social-organization/managing-regional-migration/
+- Foresight Trends — Overview of emerging trends shaping society, technology, and the environment: https://core.yeahvibe.com/applications/foresight-trends/
+- Earth Land — View per Individual — Understanding global land use from a per-person perspective: https://core.yeahvibe.com/applications/environment-energy/earth-land-view-per-individual/
+- Clean & Safe Energy — Overview of clean energy sources and their implications for individuals and organizations: https://core.yeahvibe.com/applications/environment-energy/clean-safe-energy/
+- Plant-Based Consumption — The ethical, environmental, and nutritional case for plant-based diets: https://core.yeahvibe.com/applications/environment-energy/plant-based-consumption/
+- Universal Allowance — The case for a Universal Basic Needs Allowance as a fundamental right: https://core.yeahvibe.com/applications/economy-equity/universal-allowance/
+- Mastering Finance Basics — Essential financial concepts for better personal and organizational decisions: https://core.yeahvibe.com/applications/economy-equity/mastering-finance-basics/
+- The Economical System — How economic systems work and how they shape individual and collective outcomes: https://core.yeahvibe.com/applications/economy-equity/the-economical-system/
+- Fair Globe Sharing — How global resources are distributed and what fairer sharing might look like: https://core.yeahvibe.com/applications/economy-equity/fair-globe-sharing/
+- Enhanced Automation — How automation is reshaping work, productivity, and the economy: https://core.yeahvibe.com/applications/technology-automation/enhanced-automation/
+- Impact of Artificial Intelligence — How AI is changing society, the economy, and individual lives: https://core.yeahvibe.com/applications/technology-automation/impact-of-artificial-intelligence/
+- Purpose of Society — What society is fundamentally for and how this informs collective decisions: https://core.yeahvibe.com/applications/social-organization/purpose-of-society/
+- Societal Systems — The major systems that organize modern societies and how they interact: https://core.yeahvibe.com/applications/social-organization/societal-systems/
+- Societal Functions — The core functions every society must perform to sustain itself: https://core.yeahvibe.com/applications/social-organization/societal-functions/
+- Social Redistribution — How societies redistribute resources to reduce inequality and support well-being: https://core.yeahvibe.com/applications/social-organization/social-redistribution/
+- Time Spent Identification — Understanding where your time actually goes and realigning it with priorities: https://core.yeahvibe.com/applications/social-organization/time-spent-identification/
+- Managing Regional Migration — Understanding migration patterns, causes, and fair management principles: https://core.yeahvibe.com/applications/social-organization/managing-regional-migration/
 
 ### About
-- About YeahVibe — Mission, structure, and connection to HappyBein Stichting: https://www.yeahvibe.com/about/about-yeahvibe/
-- How It Works — Step-by-step user journey from first visit to sustained growth: https://www.yeahvibe.com/about/how-it-works/
-- User Flow — Practical scenarios showing how to benefit from YeahVibe in 5-minute sessions: https://www.yeahvibe.com/about/user-flow/
-- Supporters & Partners — How to support and partner with YeahVibe: https://www.yeahvibe.com/about/supporters-partners/
+- About YeahVibe — Mission, structure, and connection to HappyBein Stichting: https://core.yeahvibe.com/about/about-yeahvibe/
+- How It Works — Step-by-step user journey from first visit to sustained growth: https://core.yeahvibe.com/about/how-it-works/
+- User Flow — Practical scenarios showing how to benefit from YeahVibe in 5-minute sessions: https://core.yeahvibe.com/about/user-flow/
+- Supporters & Partners — How to support and partner with YeahVibe: https://core.yeahvibe.com/about/supporters-partners/
 
 ---
 
