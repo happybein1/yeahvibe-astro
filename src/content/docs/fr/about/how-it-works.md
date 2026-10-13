@@ -57,7 +57,7 @@ La voix correspond automatiquement à la langue de la page (anglais ou français
 
 ## Étape 5 — Aller plus loin avec YeahSight
 
-Une fois vos fondations personnelles en place, **[YeahSight](/fr/applications/foresight-trends/)** vous aide à prendre du recul et à comprendre le monde qui vous entoure.
+Une fois vos fondations personnelles en place, **[YeahSight](https://yeahsight.happybein.com/fr/foresight-trends/)** vous aide à prendre du recul et à comprendre le monde qui vous entoure.
 
 YeahSight couvre quatre domaines :
 - 🌱 **Environnement & Énergie** — utilisation des terres, énergie propre, alimentation et son impact planétaire

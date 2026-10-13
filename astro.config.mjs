@@ -83,6 +83,8 @@ export default defineConfig({
                         { label: 'Growth Mindset', translations: { fr: "État d'esprit de croissance" }, slug: 'personal-effectiveness/growth-mindset' },
                         { label: 'Fear Management', translations: { fr: 'Gestion de la peur' }, slug: 'personal-effectiveness/fear-management' },
                         { label: 'Sleeping Well', translations: { fr: 'Bien dormir' }, slug: 'personal-effectiveness/sleeping-well' },
+                        { label: 'Mastering Finance Basics', translations: { fr: 'Maîtriser les bases de la finance' }, slug: 'personal-effectiveness/mastering-finance-basics' },
+                        { label: 'Time Spent Identification', translations: { fr: 'Identification du temps passé' }, slug: 'personal-effectiveness/time-spent-identification' },
                         {
                             label: 'Inspiration',
                             translations: { fr: 'Inspiration' },
@@ -115,58 +117,7 @@ export default defineConfig({
                         { label: 'Group Decision Making', translations: { fr: 'Prise de décision en groupe' }, slug: 'collaboration-leadership/group-decision-making' },
                     ],
                 },
-                {
-                    label: 'YeahSight',
-                    translations: { fr: 'YeahSight' },
-                    collapsed: false,
-                    items: [
-                        { label: 'Foresight Trends', translations: { fr: 'Tendances prospectives' }, slug: 'applications/foresight-trends' },
-                        {
-                            label: 'Environment & Energy',
-                            translations: { fr: 'Environnement et énergie' },
-                            collapsed: false,
-                            items: [
-                                { label: 'Earth Land — View per Individual', translations: { fr: 'Terres de la Terre — Vue par individu' }, slug: 'applications/environment-energy/earth-land-view-per-individual' },
-                                { label: 'Clean & Safe Energy', translations: { fr: 'Énergie propre et sûre' }, slug: 'applications/environment-energy/clean-safe-energy' },
-                                { label: 'Plant-Based Consumption', translations: { fr: 'Consommation végétale' }, slug: 'applications/environment-energy/plant-based-consumption' },
-                            ],
-                        },
-                        {
-                            label: 'Economy & Equity',
-                            translations: { fr: 'Économie et équité' },
-                            collapsed: false,
-                            items: [
-                                { label: 'Universal Allowance', translations: { fr: 'Allocation universelle' }, slug: 'applications/economy-equity/universal-allowance' },
-                                { label: 'Mastering Finance Basics', translations: { fr: 'Maîtriser les bases de la finance' }, slug: 'applications/economy-equity/mastering-finance-basics' },
-                                { label: 'The Economical System', translations: { fr: 'Le système économique' }, slug: 'applications/economy-equity/the-economical-system' },
-                                { label: 'Fair Globe Sharing', translations: { fr: 'Partage équitable du monde' }, slug: 'applications/economy-equity/fair-globe-sharing' },
-                            ],
-                        },
-                        {
-                            label: 'Technology & Automation',
-                            translations: { fr: 'Technologie et automatisation' },
-                            collapsed: false,
-                            items: [
-                                { label: 'Enhanced Automation', translations: { fr: 'Automatisation améliorée' }, slug: 'applications/technology-automation/enhanced-automation' },
-                                { label: 'Impact of Artificial Intelligence', translations: { fr: "Impact de l'intelligence artificielle" }, slug: 'applications/technology-automation/impact-of-artificial-intelligence' },
-                                { label: 'Life After Automation', translations: { fr: "La vie après l'automatisation" }, slug: 'applications/technology-automation/life-after-automation' },
-                            ],
-                        },
-                        {
-                            label: 'Social Organization',
-                            translations: { fr: 'Organisation sociale' },
-                            collapsed: false,
-                            items: [
-                                { label: 'Purpose of Society', translations: { fr: 'Objectif de la société' }, slug: 'applications/social-organization/purpose-of-society' },
-                                { label: 'Societal Systems', translations: { fr: 'Systèmes sociétaux' }, slug: 'applications/social-organization/societal-systems' },
-                                { label: 'Societal Functions', translations: { fr: 'Fonctions sociétales' }, slug: 'applications/social-organization/societal-functions' },
-                                { label: 'Social Redistribution', translations: { fr: 'Redistribution sociale' }, slug: 'applications/social-organization/social-redistribution' },
-                                { label: 'Time Spent Identification', translations: { fr: 'Identification du temps passé' }, slug: 'applications/social-organization/time-spent-identification' },
-                                { label: 'Managing Regional Migration', translations: { fr: 'Gestion de la migration régionale' }, slug: 'applications/social-organization/managing-regional-migration' },
-                            ],
-                        },
-                    ],
-                },
+                { label: '🔭 YeahSight ↗', link: 'https://yeahsight.happybein.com/', attrs: { target: '_blank' } },
                 {
                     label: 'About',
                     translations: { fr: 'À propos' },

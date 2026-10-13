@@ -87,11 +87,11 @@ Chaque article prend **3 à 5 minutes à lire**. Les scénarios ci-dessous sont 
 **Quand :** Week-end, matin calme avec un café.
 
 **Parcours :**
-1. Visiter **YeahSight** → lire [Tendances prospectives](/fr/applications/foresight-trends/) + regarder la vidéo *(5 min)*
-2. Lire [Automatisation améliorée](/fr/applications/technology-automation/enhanced-automation/) *(5 min)*
-3. Lire [Terres de la Terre — Vue par individu](/fr/applications/environment-energy/earth-land-view-per-individual/) *(4 min)*
-4. Lire [Allocation universelle](/fr/applications/economy-equity/universal-allowance/) *(5 min)*
-5. Regarder la vidéo dans [Partage équitable du monde](/fr/applications/economy-equity/fair-globe-sharing/) + partager avec un ami *(5 min)*
+1. Visiter **YeahSight** → lire [Tendances prospectives](https://yeahsight.happybein.com/fr/foresight-trends/) + regarder la vidéo *(5 min)*
+2. Lire [Automatisation améliorée](https://yeahsight.happybein.com/fr/technology-automation/enhanced-automation/) *(5 min)*
+3. Lire [Terres de la Terre — Vue par individu](https://yeahsight.happybein.com/fr/environment-energy/earth-land-view-per-individual/) *(4 min)*
+4. Lire [Allocation universelle](https://yeahsight.happybein.com/fr/economy-equity/universal-allowance/) *(5 min)*
+5. Regarder la vidéo dans [Partage équitable du monde](https://yeahsight.happybein.com/fr/economy-equity/fair-globe-sharing/) + partager avec un ami *(5 min)*
 
 **Total : 5 × 5 min — répartis sur un matin de week-end.**
 
@@ -139,7 +139,7 @@ Chaque article prend **3 à 5 minutes à lire**. Les scénarios ci-dessous sont 
 | Incapable de créer des habitudes | [Amélioration des habitudes](/fr/personal-effectiveness/habits-improvement/) | 5 × 5 min |
 | Submergé par les tâches | [Priorisation](/fr/decision-foundation/independent-prioritization/) | 5 × 5 min |
 | Problèmes d'équipe | [Collaboration](/fr/collaboration-leadership/collaboration-principles/) | 5 × 5 min |
-| Comprendre la grande image | [YeahSight](/fr/applications/foresight-trends/) | 5 × 5 min |
+| Comprendre la grande image | [YeahSight](https://yeahsight.happybein.com/fr/foresight-trends/) | 5 × 5 min |
 | Bilan mensuel | [Commencer ici](/fr/start-here/) → révision | 6 × 5 min |
 | Peu de temps | N'importe quel article + bouton Écouter | 1 × 5 min |
 

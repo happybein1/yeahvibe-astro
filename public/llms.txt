@@ -63,6 +63,8 @@ YeahVibe is organized around five pillars, each targeting a specific type of cha
 - Sleeping Well — The science of quality sleep and its impact on decision-making and performance: https://core.yeahvibe.com/personal-effectiveness/sleeping-well/
 - Daily Activities — Practical daily routines that build well-being, energy, and effectiveness: https://core.yeahvibe.com/personal-effectiveness/inspiration/daily-activities/
 - Long-Term Goals — Setting, structuring, and pursuing goals that unfold over months and years: https://core.yeahvibe.com/personal-effectiveness/inspiration/long-term-goals/
+- Mastering Finance Basics — Essential financial concepts for better personal and organizational decisions: https://core.yeahvibe.com/personal-effectiveness/mastering-finance-basics/
+- Time Spent Identification — Understanding where your time actually goes and realigning it with priorities: https://core.yeahvibe.com/personal-effectiveness/time-spent-identification/
 
 ### Organizational Processes (Pillar 3)
 - Basic Organization Principles — Building systems that reduce friction and free up cognitive resources: https://core.yeahvibe.com/organizational-processes/basic-organization-principles/
@@ -76,22 +78,7 @@ YeahVibe is organized around five pillars, each targeting a specific type of cha
 - Group Decision Making — Frameworks for making better decisions in groups while avoiding groupthink: https://core.yeahvibe.com/collaboration-leadership/group-decision-making/
 
 ### YeahSight (Pillar 5)
-- Foresight Trends — Overview of emerging trends shaping society, technology, and the environment: https://core.yeahvibe.com/applications/foresight-trends/
-- Earth Land — View per Individual — Understanding global land use from a per-person perspective: https://core.yeahvibe.com/applications/environment-energy/earth-land-view-per-individual/
-- Clean & Safe Energy — Overview of clean energy sources and their implications for individuals and organizations: https://core.yeahvibe.com/applications/environment-energy/clean-safe-energy/
-- Plant-Based Consumption — The ethical, environmental, and nutritional case for plant-based diets: https://core.yeahvibe.com/applications/environment-energy/plant-based-consumption/
-- Universal Allowance — The case for a Universal Basic Needs Allowance as a fundamental right: https://core.yeahvibe.com/applications/economy-equity/universal-allowance/
-- Mastering Finance Basics — Essential financial concepts for better personal and organizational decisions: https://core.yeahvibe.com/applications/economy-equity/mastering-finance-basics/
-- The Economical System — How economic systems work and how they shape individual and collective outcomes: https://core.yeahvibe.com/applications/economy-equity/the-economical-system/
-- Fair Globe Sharing — How global resources are distributed and what fairer sharing might look like: https://core.yeahvibe.com/applications/economy-equity/fair-globe-sharing/
-- Enhanced Automation — How automation is reshaping work, productivity, and the economy: https://core.yeahvibe.com/applications/technology-automation/enhanced-automation/
-- Impact of Artificial Intelligence — How AI is changing society, the economy, and individual lives: https://core.yeahvibe.com/applications/technology-automation/impact-of-artificial-intelligence/
-- Purpose of Society — What society is fundamentally for and how this informs collective decisions: https://core.yeahvibe.com/applications/social-organization/purpose-of-society/
-- Societal Systems — The major systems that organize modern societies and how they interact: https://core.yeahvibe.com/applications/social-organization/societal-systems/
-- Societal Functions — The core functions every society must perform to sustain itself: https://core.yeahvibe.com/applications/social-organization/societal-functions/
-- Social Redistribution — How societies redistribute resources to reduce inequality and support well-being: https://core.yeahvibe.com/applications/social-organization/social-redistribution/
-- Time Spent Identification — Understanding where your time actually goes and realigning it with priorities: https://core.yeahvibe.com/applications/social-organization/time-spent-identification/
-- Managing Regional Migration — Understanding migration patterns, causes, and fair management principles: https://core.yeahvibe.com/applications/social-organization/managing-regional-migration/
+- YeahSight now has its own site: https://yeahsight.happybein.com/ — environment & energy, economy & equity, technology & automation, social organization, and a proposed roadmap for society (English and French). See https://yeahsight.happybein.com/llms.txt
 
 ### About
 - About YeahVibe — Mission, structure, and connection to HappyBein Stichting: https://core.yeahvibe.com/about/about-yeahvibe/

@@ -1,3 +1,8 @@
-# yeahsight.com redirects to foresight-trends article
-https://yeahsight.com/* /applications/foresight-trends/ 301
-https://www.yeahsight.com/* /applications/foresight-trends/ 301
+# YeahSight moved to its own site (2026-10-13). The two personal pages stayed here,
+# under Personal Effectiveness. Specific rules first: Cloudflare Pages uses the first match.
+/applications/economy-equity/mastering-finance-basics/        /personal-effectiveness/mastering-finance-basics/        301
+/applications/social-organization/time-spent-identification/  /personal-effectiveness/time-spent-identification/  301
+/fr/applications/economy-equity/mastering-finance-basics/     /fr/personal-effectiveness/mastering-finance-basics/     301
+/fr/applications/social-organization/time-spent-identification/ /fr/personal-effectiveness/time-spent-identification/ 301
+/applications/*      https://yeahsight.happybein.com/:splat      301
+/fr/applications/*   https://yeahsight.happybein.com/fr/:splat   301

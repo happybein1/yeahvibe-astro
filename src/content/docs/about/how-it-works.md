@@ -57,7 +57,7 @@ The voice automatically matches the language of the page (English or French).
 
 ## Step 5 — Go Deeper with YeahSight
 
-Once your personal foundations are in place, **[YeahSight](/applications/foresight-trends/)** helps you zoom out and understand the world around you.
+Once your personal foundations are in place, **[YeahSight](https://yeahsight.happybein.com/foresight-trends/)** helps you zoom out and understand the world around you.
 
 YeahSight covers four domains:
 - 🌱 **Environment & Energy** — land use, clean energy, diet and its planetary impact

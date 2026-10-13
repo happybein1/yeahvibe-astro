@@ -87,11 +87,11 @@ Each article takes **3–5 minutes to read**. The scenarios below are designed t
 **When:** Weekend, quiet morning with coffee.
 
 **Flow:**
-1. Visit **YeahSight** → read [Foresight Trends](/applications/foresight-trends/) + watch the video *(5 min)*
-2. Read [Enhanced Automation](/applications/technology-automation/enhanced-automation/) — decide to upskill in AI tools *(5 min)*
-3. Read [Earth Land — View per Individual](/applications/environment-energy/earth-land-view-per-individual/) *(4 min)*
-4. Read [Universal Allowance](/applications/economy-equity/universal-allowance/) *(5 min)*
-5. Watch the video in [Fair Globe Sharing](/applications/economy-equity/fair-globe-sharing/) + share with a friend *(5 min)*
+1. Visit **YeahSight** → read [Foresight Trends](https://yeahsight.happybein.com/foresight-trends/) + watch the video *(5 min)*
+2. Read [Enhanced Automation](https://yeahsight.happybein.com/technology-automation/enhanced-automation/) — decide to upskill in AI tools *(5 min)*
+3. Read [Earth Land — View per Individual](https://yeahsight.happybein.com/environment-energy/earth-land-view-per-individual/) *(4 min)*
+4. Read [Universal Allowance](https://yeahsight.happybein.com/economy-equity/universal-allowance/) *(5 min)*
+5. Watch the video in [Fair Globe Sharing](https://yeahsight.happybein.com/economy-equity/fair-globe-sharing/) + share with a friend *(5 min)*
 
 **Total: 5 × 5 min — spread across a weekend morning.**
 
@@ -139,7 +139,7 @@ Each article takes **3–5 minutes to read**. The scenarios below are designed t
 | Can't build habits | [Habits Improvement](/personal-effectiveness/habits-improvement/) | 5 × 5 min |
 | Overwhelmed by tasks | [Prioritization](/decision-foundation/independent-prioritization/) | 5 × 5 min |
 | Team problems | [Collaboration](/collaboration-leadership/collaboration-principles/) | 5 × 5 min |
-| Want big picture | [YeahSight](/applications/foresight-trends/) | 5 × 5 min |
+| Want big picture | [YeahSight](https://yeahsight.happybein.com/foresight-trends/) | 5 × 5 min |
 | Monthly reset | [Start Here](/start-here/) → review | 6 × 5 min |
 | Short on time | Any article + Listen button | 1 × 5 min |
 

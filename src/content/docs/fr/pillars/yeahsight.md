@@ -5,6 +5,10 @@ sidebar:
   order: 5
 ---
 
+:::tip[YeahSight a maintenant son propre site]
+Tous les articles YeahSight, ainsi que les nouvelles pages *Partage équitable de l'espace*, *Héritage* et *Vision et feuille de route*, sont désormais sur **[yeahsight.happybein.com](https://yeahsight.happybein.com/fr/)**. Les liens ci-dessous s'y ouvrent.
+:::
+
 > **Le Remède pour :** Se sentir préoccupé par l'avenir du monde — ou prendre des décisions sans comprendre le contexte dans lequel elles s'inscrivent.
 
 ## L'Insight
@@ -44,40 +48,38 @@ Comment les sociétés sont structurées, gouvernées et comment elles prennent 
 <details class="pillar-links">
 <summary>Environnement & Énergie →</summary>
 <ul>
-  <li><a href="/fr/applications/foresight-trends/">Tendances prospectives</a></li>
-  <li><a href="/fr/applications/environment-energy/earth-land-view-per-individual/">Terres de la Terre — Vue par individu</a></li>
-  <li><a href="/fr/applications/environment-energy/clean-safe-energy/">Énergie propre et sûre</a></li>
-  <li><a href="/fr/applications/environment-energy/plant-based-consumption/">Consommation végétale</a></li>
+  <li><a href="https://yeahsight.happybein.com/fr/foresight-trends/">Tendances prospectives</a></li>
+  <li><a href="https://yeahsight.happybein.com/fr/environment-energy/earth-land-view-per-individual/">Terres de la Terre — Vue par individu</a></li>
+  <li><a href="https://yeahsight.happybein.com/fr/environment-energy/clean-safe-energy/">Énergie propre et sûre</a></li>
+  <li><a href="https://yeahsight.happybein.com/fr/environment-energy/plant-based-consumption/">Consommation végétale</a></li>
 </ul>
 </details>
 
 <details class="pillar-links">
 <summary>Économie & Équité →</summary>
 <ul>
-  <li><a href="/fr/applications/economy-equity/universal-allowance/">Allocation universelle</a></li>
-  <li><a href="/fr/applications/economy-equity/mastering-finance-basics/">Maîtriser les bases de la finance</a></li>
-  <li><a href="/fr/applications/economy-equity/the-economical-system/">Le système économique</a></li>
-  <li><a href="/fr/applications/economy-equity/fair-globe-sharing/">Partage équitable du monde</a></li>
+  <li><a href="https://yeahsight.happybein.com/fr/economy-equity/universal-allowance/">Allocation universelle</a></li>
+  <li><a href="https://yeahsight.happybein.com/fr/economy-equity/the-economical-system/">Le système économique</a></li>
+  <li><a href="https://yeahsight.happybein.com/fr/economy-equity/fair-globe-sharing/">Partage équitable du monde</a></li>
 </ul>
 </details>
 
 <details class="pillar-links">
 <summary>Technologie & Automatisation →</summary>
 <ul>
-  <li><a href="/fr/applications/technology-automation/enhanced-automation/">Automatisation améliorée</a></li>
-  <li><a href="/fr/applications/technology-automation/impact-of-artificial-intelligence/">Impact de l'intelligence artificielle</a></li>
+  <li><a href="https://yeahsight.happybein.com/fr/technology-automation/enhanced-automation/">Automatisation améliorée</a></li>
+  <li><a href="https://yeahsight.happybein.com/fr/technology-automation/impact-of-artificial-intelligence/">Impact de l'intelligence artificielle</a></li>
 </ul>
 </details>
 
 <details class="pillar-links">
 <summary>Organisation sociale →</summary>
 <ul>
-  <li><a href="/fr/applications/social-organization/purpose-of-society/">Objectif de la société</a></li>
-  <li><a href="/fr/applications/social-organization/societal-systems/">Systèmes sociétaux</a></li>
-  <li><a href="/fr/applications/social-organization/societal-functions/">Fonctions sociétales</a></li>
-  <li><a href="/fr/applications/social-organization/social-redistribution/">Redistribution sociale</a></li>
-  <li><a href="/fr/applications/social-organization/time-spent-identification/">Identification du temps passé</a></li>
-  <li><a href="/fr/applications/social-organization/managing-regional-migration/">Gestion de la migration régionale</a></li>
+  <li><a href="https://yeahsight.happybein.com/fr/social-organization/purpose-of-society/">Objectif de la société</a></li>
+  <li><a href="https://yeahsight.happybein.com/fr/social-organization/societal-systems/">Systèmes sociétaux</a></li>
+  <li><a href="https://yeahsight.happybein.com/fr/social-organization/societal-functions/">Fonctions sociétales</a></li>
+  <li><a href="https://yeahsight.happybein.com/fr/social-organization/social-redistribution/">Redistribution sociale</a></li>
+  <li><a href="https://yeahsight.happybein.com/fr/social-organization/managing-regional-migration/">Gestion de la migration régionale</a></li>
 </ul>
 </details>
 
@@ -85,7 +87,7 @@ Comment les sociétés sont structurées, gouvernées et comment elles prennent 
 
 ## Par où commencer
 
-Commencez par **[Tendances prospectives](/fr/applications/foresight-trends/)** — 3 min de lecture + vidéo.
+Commencez par **[Tendances prospectives](https://yeahsight.happybein.com/fr/foresight-trends/)** — 3 min de lecture + vidéo.
 
 Pas sûr que ce soit votre pilier ? Faites l'**[Auto-évaluation](https://form.jotform.com/222552689387066)** pour une recommandation personnalisée.
 

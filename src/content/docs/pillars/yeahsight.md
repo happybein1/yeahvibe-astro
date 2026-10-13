@@ -5,6 +5,10 @@ sidebar:
   order: 5
 ---
 
+:::tip[YeahSight now has its own site]
+All YeahSight articles, plus the new *Fair Space Sharing*, *Inheritance* and *Vision & Roadmap* pages, now live at **[yeahsight.happybein.com](https://yeahsight.happybein.com/)**. The links below open there.
+:::
+
 > **The Remedy for:** Feeling concerned about the world's future — or making decisions without understanding the context they're made in.
 
 ## The Insight
@@ -44,40 +48,38 @@ How societies are structured, governed, and how they care for their members. Cov
 <details class="pillar-links">
 <summary>Environment & Energy →</summary>
 <ul>
-  <li><a href="/applications/foresight-trends/">Foresight Trends</a></li>
-  <li><a href="/applications/environment-energy/earth-land-view-per-individual/">Earth Land — View per Individual</a></li>
-  <li><a href="/applications/environment-energy/clean-safe-energy/">Clean & Safe Energy</a></li>
-  <li><a href="/applications/environment-energy/plant-based-consumption/">Plant-Based Consumption</a></li>
+  <li><a href="https://yeahsight.happybein.com/foresight-trends/">Foresight Trends</a></li>
+  <li><a href="https://yeahsight.happybein.com/environment-energy/earth-land-view-per-individual/">Earth Land — View per Individual</a></li>
+  <li><a href="https://yeahsight.happybein.com/environment-energy/clean-safe-energy/">Clean & Safe Energy</a></li>
+  <li><a href="https://yeahsight.happybein.com/environment-energy/plant-based-consumption/">Plant-Based Consumption</a></li>
 </ul>
 </details>
 
 <details class="pillar-links">
 <summary>Economy & Equity →</summary>
 <ul>
-  <li><a href="/applications/economy-equity/universal-allowance/">Universal Allowance</a></li>
-  <li><a href="/applications/economy-equity/mastering-finance-basics/">Mastering Finance Basics</a></li>
-  <li><a href="/applications/economy-equity/the-economical-system/">The Economical System</a></li>
-  <li><a href="/applications/economy-equity/fair-globe-sharing/">Fair Globe Sharing</a></li>
+  <li><a href="https://yeahsight.happybein.com/economy-equity/universal-allowance/">Universal Allowance</a></li>
+  <li><a href="https://yeahsight.happybein.com/economy-equity/the-economical-system/">The Economical System</a></li>
+  <li><a href="https://yeahsight.happybein.com/economy-equity/fair-globe-sharing/">Fair Globe Sharing</a></li>
 </ul>
 </details>
 
 <details class="pillar-links">
 <summary>Technology & Automation →</summary>
 <ul>
-  <li><a href="/applications/technology-automation/enhanced-automation/">Enhanced Automation</a></li>
-  <li><a href="/applications/technology-automation/impact-of-artificial-intelligence/">Impact of Artificial Intelligence</a></li>
+  <li><a href="https://yeahsight.happybein.com/technology-automation/enhanced-automation/">Enhanced Automation</a></li>
+  <li><a href="https://yeahsight.happybein.com/technology-automation/impact-of-artificial-intelligence/">Impact of Artificial Intelligence</a></li>
 </ul>
 </details>
 
 <details class="pillar-links">
 <summary>Social Organization →</summary>
 <ul>
-  <li><a href="/applications/social-organization/purpose-of-society/">Purpose of Society</a></li>
-  <li><a href="/applications/social-organization/societal-systems/">Societal Systems</a></li>
-  <li><a href="/applications/social-organization/societal-functions/">Societal Functions</a></li>
-  <li><a href="/applications/social-organization/social-redistribution/">Social Redistribution</a></li>
-  <li><a href="/applications/social-organization/time-spent-identification/">Time Spent Identification</a></li>
-  <li><a href="/applications/social-organization/managing-regional-migration/">Managing Regional Migration</a></li>
+  <li><a href="https://yeahsight.happybein.com/social-organization/purpose-of-society/">Purpose of Society</a></li>
+  <li><a href="https://yeahsight.happybein.com/social-organization/societal-systems/">Societal Systems</a></li>
+  <li><a href="https://yeahsight.happybein.com/social-organization/societal-functions/">Societal Functions</a></li>
+  <li><a href="https://yeahsight.happybein.com/social-organization/social-redistribution/">Social Redistribution</a></li>
+  <li><a href="https://yeahsight.happybein.com/social-organization/managing-regional-migration/">Managing Regional Migration</a></li>
 </ul>
 </details>
 
@@ -85,7 +87,7 @@ How societies are structured, governed, and how they care for their members. Cov
 
 ## Where to start
 
-Begin with **[Foresight Trends](/applications/foresight-trends/)** — 3 min read + video. Then pick the sub-topic that most affects your life right now.
+Begin with **[Foresight Trends](https://yeahsight.happybein.com/foresight-trends/)** — 3 min read + video. Then pick the sub-topic that most affects your life right now.
 
 Not sure this is your pillar? Take the **[Self-Assessment](https://form.jotform.com/222552689387066)** for a personalized recommendation.
 
