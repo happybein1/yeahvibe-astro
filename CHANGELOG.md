@@ -4,6 +4,35 @@ Started 2026-10-13. Earlier versions (up to 1.7.1) were only tracked in `src/ver
 
 ---
 
+## 2.1.0
+
+**A real landing page at the root, and brand colours instead of Starlight's default purple.** User request, done together with YeahSight v2.03.
+
+**What changed at the root:** `/` (and `/fr/`) used to be a near-empty splash page whose only job was a JavaScript redirect to `/welcome/`. That was poor for visitors and for search engines, which saw an empty page at the root. `src/content/docs/index.mdx` (EN+FR) is now a full splash landing page:
+
+- **Hero:**
+  - Two-colour "YeahCore" wordmark.
+  - Tagline "What people need, and how to decide.", with a sub-line on what YeahCore is.
+  - A large inline-SVG concentric-rings mark.
+  - Buttons: **Start here** (gradient) and **Take the self-assessment**, which opens the existing Jotform.
+- **"Start from what people need":** three link cards for Human needs, Drivers of feelings and Primary goals.
+- **"The 5 Pillars":** five coloured cards. Each shows the pillar's "Remedy for" line, shortened from the pillar page, and links to it.
+- **"Practical guides":** four cards with chips linking to every article in Decision Foundation, Personal Effectiveness, Organizational Processes, and Collaboration & Leadership.
+- **"From understanding to solutions":** the chain strip **YeahCore** → YeahSight → YeahVibe, with YeahCore highlighted. Footer line links HappyBein and the Welcome page, which keeps its video.
+
+The descriptions in the front matter are now quoted. The French one contains ": ", which broke the YAML parse on the first build.
+
+**`src/styles/custom.css`:** the same shared landing and brand-accent block as YeahSight v2.03.
+
+**Unchanged:** `/welcome/` (and its video, which still shows the old YeahVibe branding inside the video itself) and the sidebar.
+
+**Verification:**
+
+- Built in a scratch copy: 75 pages, no warnings.
+- The page uses the same components and CSS as the YeahSight landing page, which was previewed in the built-in browser on desktop and mobile. This page itself was not previewed.
+
+---
+
 ## 2.0.0
 
 **Renamed from "YeahVibe" (core.yeahvibe.com) to YeahCore, for `yeahcore.happybein.com`.** This is the last step of the content split agreed with the user. HappyBein holds the "understanding" side, under its own domain:
