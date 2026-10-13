@@ -4,6 +4,39 @@ Started 2026-10-13. Earlier versions (up to 1.7.1) were only tracked in `src/ver
 
 ---
 
+## 2.2.1
+
+**Sharper compass photo in the landing hero.** The user replaced `public/images/hero-compass.jpg` with the full-size original: 3300×2096, about 1.1 MB (it was 570×320 in 2.2.0).
+
+- **Two versions:** re-saved as `hero-compass.jpg` (1800px wide) and a new `hero-compass-sm.jpg` (900px), both JPEG at quality 78, progressive. They follow the same pattern as YeahSight's hero images.
+- **`src/styles/custom.css`:** the per-site variables now set `--yv-hero-img-sm` to the small version, so phones load a lighter file. `--yv-hero-pos` changes from `50% 60%` to `50% 55%` for the new framing.
+
+No layout change. Build in a scratch copy passed.
+
+**Decided with the user the same session:** the compass stays the YeahCore hero. A generated alternative (a person on a rock at sunrise with five floating pillar icons) was judged too close to YeahSight's mountain-view hero; the two sites should look distinct. That image may be used later inside the 5 Pillars section instead.
+
+---
+
+## 2.2.0
+
+**Landing hero now shows the compass photo the user supplied** (a hand holding a compass in front of a mountain ridge). It fits "how to decide". User request.
+
+- **Image:** the file the user saved is only **570×320** (a smaller copy than the about 2000px photo they showed in chat). It was re-saved as JPEG at quality 85 (about 30 KB) and not enlarged.
+- **Display size:** on desktop it is shown in the right part of the hero, about 620px wide, so it is only slightly stretched.
+- **Upgrade path:** replace `public/images/hero-compass.jpg` with the full-size original (same name) for a sharper result. No code change is needed.
+- **Position:** `--yv-hero-pos: 50% 60%`.
+- **Layout (CSS block appended to `src/styles/custom.css`, identical in both sites):**
+  - The hero becomes a dark panel (`#0d1620`, `min-height: clamp(340px, 42vw, 460px)`).
+  - On screens of 64rem and wider, the photo fills the right 58% of the panel through a `::after` layer. A left-to-right mask fades it from transparent to opaque, so the text column on the left (max 30rem) stays readable.
+  - Below 64rem the photo fills the whole panel, under a top-to-bottom dark gradient.
+  - Hero text colours are fixed to light tones, so they work in both themes.
+- **Per-site variables** at the end of `custom.css`: `--yv-hero-img`, an optional `--yv-hero-img-sm` and `--yv-hero-pos`.
+- **Removed:** the drawn SVG mark (`hero.image.html`) from the hero front matter of `index.mdx` (EN+FR), since the photo replaces it.
+- **Checked:** at a 1280px viewport in the built-in browser, with a stand-in gradient in place of the photo, the text column ends at 529px. The photo layer starts at 454px but is still nearly transparent there; it is fully opaque only from about 736px. The real photo was not viewed in the browser.
+- **Licence:** the source of the photo was not confirmed. If it is from Unsplash or Pexels, no credit is required, though a credit is courteous.
+
+---
+
 ## 2.1.0
 
 **A real landing page at the root, and brand colours instead of Starlight's default purple.** User request, done together with YeahSight v2.03.
