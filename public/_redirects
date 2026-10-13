@@ -6,3 +6,7 @@
 /fr/applications/social-organization/time-spent-identification/ /fr/personal-effectiveness/time-spent-identification/ 301
 /applications/*      https://yeahsight.happybein.com/:splat      301
 /fr/applications/*   https://yeahsight.happybein.com/fr/:splat   301
+
+# Renamed in 2.0.0 (YeahCore)
+/about/about-yeahvibe/     /about/about-yeahcore/     301
+/fr/about/about-yeahvibe/  /fr/about/about-yeahcore/  301

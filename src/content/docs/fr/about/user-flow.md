@@ -1,11 +1,11 @@
 ---
 title: Parcours utilisateur
-description: Scénarios pratiques montrant quand et comment différents utilisateurs interagissent avec YeahVibe — chacun en moins de 5 minutes.
+description: Scénarios pratiques montrant quand et comment différents utilisateurs interagissent avec YeahCore — chacun en moins de 5 minutes.
 sidebar:
   order: 3
 ---
 
-Chaque personne qui arrive sur YeahVibe est dans une situation différente. Cette page décrit **qui utilise quoi, quand et pourquoi** — pour que vous puissiez rapidement trouver le chemin qui correspond à votre réalité actuelle.
+Chaque personne qui arrive sur YeahCore est dans une situation différente. Cette page décrit **qui utilise quoi, quand et pourquoi** — pour que vous puissiez rapidement trouver le chemin qui correspond à votre réalité actuelle.
 
 Chaque article prend **3 à 5 minutes à lire**. Les scénarios ci-dessous sont conçus pour s'intégrer dans la vie réelle — un trajet, une pause déjeuner, un matin calme.
 
@@ -99,7 +99,7 @@ Chaque article prend **3 à 5 minutes à lire**. Les scénarios ci-dessous sont 
 
 ## 🔄 Scénario 6 — « Je suis un utilisateur régulier qui fait son bilan mensuel »
 
-**Qui :** Un utilisateur YeahVibe régulier qui revient chaque mois pour recalibrer.
+**Qui :** Un utilisateur YeahCore régulier qui revient chaque mois pour recalibrer.
 
 **Quand :** Premier dimanche du mois, bilan matinal.
 
@@ -122,7 +122,7 @@ Chaque article prend **3 à 5 minutes à lire**. Les scénarios ci-dessous sont 
 **Quand :** Dans le train ou pendant la pause déjeuner.
 
 **Parcours :**
-1. Ouvrir YeahVibe sur mobile → appuyer sur la section en cours
+1. Ouvrir YeahCore sur mobile → appuyer sur la section en cours
 2. Appuyer sur un article → **Écouter** → le téléphone lit pendant que vous marchez ou voyagez
 3. Ou lire un court article comme [Bien dormir](/fr/personal-effectiveness/sleeping-well/) ou [Gérer le temps de trajet](/fr/organizational-processes/managing-commuting-time/)
 4. Marquer l'article pour une lecture approfondie plus tard
@@ -145,4 +145,4 @@ Chaque article prend **3 à 5 minutes à lire**. Les scénarios ci-dessous sont 
 
 ---
 
-*YeahVibe est une initiative de la [HappyBein Stichting](https://www.happybein.com).*
+*YeahCore est une initiative de la [HappyBein Stichting](https://www.happybein.com).*

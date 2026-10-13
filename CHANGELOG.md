@@ -1,6 +1,72 @@
-# yeahvibe-astro (core.yeahvibe.com, to become YeahCore) — Changelog
+# yeahvibe-astro (YeahCore, yeahcore.happybein.com; formerly core.yeahvibe.com) — Changelog
 
 Started 2026-10-13. Earlier versions (up to 1.7.1) were only tracked in `src/version.ts` and git history. This site keeps its existing `MAJOR.MINOR.PATCH` scheme, shown in the footer from `src/version.ts`. Newest version first.
+
+---
+
+## 2.0.0
+
+**Renamed from "YeahVibe" (core.yeahvibe.com) to YeahCore, for `yeahcore.happybein.com`.** This is the last step of the content split agreed with the user. HappyBein holds the "understanding" side, under its own domain:
+
+- **YeahCore** (this site) is the base: the human needs and drivers behind what people want, plus the decision foundation and practical guides.
+- **YeahSight** (`yeahsight.happybein.com`) builds on it: the societal view.
+- **YeahVibe** (`yeahvibe.com`) is now only the tools brand.
+
+The name and subtitle were chosen with the user: "YeahCore — What people need, and how to decide". It is a major bump because the domain, the brand and one page path change.
+
+**Content** (EN+FR, 22 files). Every self-reference "YeahVibe" now reads "YeahCore":
+
+- page titles such as *Welcome to YeahCore* and *Start Here — The YeahCore Roadmap*
+- the about pages, *How it works*, *User flow*, *Supporters & partners* and *Advised tools*
+- the mindset pillar
+
+**Deliberately kept:**
+
+- The name of the "YeahVibe Prioritization Notion Template" / "Modèle Notion YeahVibe": an external Notion page called that.
+- Links that point at the YeahVibe tools.
+
+**Hand-written changes:**
+
+- *About* says YeahCore is HappyBein's knowledge base, the foundation that YeahSight and the YeahVibe tools build on. It used to say "YeahVibe is HappyBein's flagship knowledge platform".
+- The Pillar 5 page: "YeahSight is the foresight layer of the framework, and now has its own site".
+- *Welcome* opens with the subtitle and one line placing YeahCore under YeahSight and the YeahVibe tools.
+
+**Page renamed:** `/about/about-yeahvibe/` → `/about/about-yeahcore/` (and `/fr/…`). There are 301s for the old paths in `public/_redirects`, and the sidebar slug is updated.
+
+**Site setup:**
+
+- `astro.config.mjs`:
+  - `site` → `https://yeahcore.happybein.com`; title YeahCore.
+  - Logo now `logo.svg`; favicon `favicon.svg`.
+  - The single "YeahSight ↗" sidebar link became a "Related" group: YeahSight, YeahVibe tools, HappyBein.
+- `Head.astro`: rebranded the site URL, site name ("YeahCore by HappyBein"), home title, default descriptions (EN/FR), keywords (YeahSight/foresight dropped, "human needs" added), author, OG/Twitter alt text and JSON-LD. The bottom-left pill now reads "⊞ YeahVibe tools" ("Outils YeahVibe" in French) and still goes to yeahvibe.com.
+- New visual identity:
+  - `src/assets/logo.svg`: concentric-rings "core" mark, plus "Yeah" in blue and "Core" in green.
+  - Favicons from the same mark: svg, ico, png, 192, apple-touch.
+  - `og-image.png`: 1200×630, wordmark, subtitle and "A HappyBein initiative".
+  - Removed the old YeahVibe `logo.png`.
+- `public/llms.txt`: retitled YeahCore, with a new intro explaining where it sits; all URLs → yeahcore.happybein.com.
+- `public/robots.txt`: sitemap URL updated.
+- Kept unchanged: the GitHub repo name `yeahvibe-astro` (and its footer/social link) and the `@yeahvibe` twitter:site handle.
+
+**Not done here (Cloudflare, the user's part):**
+
+- Add `yeahcore.happybein.com` as a custom domain on this Pages project.
+- Add a redirect rule in the yeahvibe.com zone: `core.yeahvibe.com/*` → `https://yeahcore.happybein.com/$1` (301).
+- Purge the cache.
+
+Until the redirect exists, core.yeahvibe.com keeps serving the site, now with canonical URLs pointing at yeahcore.happybein.com.
+
+**Links updated in the other sites the same session:** yeahsight v2.02, happybein-astro v3.10, dailyapp v1.16.
+
+**Verification:**
+
+- `astro build` in a scratch copy: 75 pages, no warnings.
+- Scanned all built HTML for internal links: none broken.
+- Example built titles: "About YeahCore | YeahCore by HappyBein" (canonical `https://yeahcore.happybein.com/about/about-yeahcore/`) and "Bienvenue sur YeahCore | YeahCore par HappyBein".
+- The only remaining "YeahVibe" strings in the built pages are the "YeahVibe tools" links.
+- Checked the generated OG image visually.
+- The repo's `src`/`public` are byte-identical to the scratch copy that was built.
 
 ---
 

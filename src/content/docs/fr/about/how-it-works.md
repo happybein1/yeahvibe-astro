@@ -1,17 +1,17 @@
 ---
 title: Comment ça marche
-description: Découvrez comment YeahVibe vous guide du chaos vers la clarté — le parcours utilisateur YeahVibe expliqué étape par étape.
+description: Découvrez comment YeahCore vous guide du chaos vers la clarté — le parcours utilisateur YeahCore expliqué étape par étape.
 sidebar:
   order: 2
 ---
 
-YeahVibe est conçu pour vous rejoindre là où vous en êtes et vous guider vers là où vous voulez aller. Voici comment fonctionne l'expérience, de votre première visite à une croissance durable.
+YeahCore est conçu pour vous rejoindre là où vous en êtes et vous guider vers là où vous voulez aller. Voici comment fonctionne l'expérience, de votre première visite à une croissance durable.
 
 ---
 
 ## Étape 1 — Trouvez votre point de départ
 
-Chacun arrive sur YeahVibe avec un défi différent. Certains se sentent sans direction. D'autres sont submergés, désorganisés ou déconnectés. Plutôt que d'imposer un chemin unique, YeahVibe vous aide à identifier **votre levier spécifique**.
+Chacun arrive sur YeahCore avec un défi différent. Certains se sentent sans direction. D'autres sont submergés, désorganisés ou déconnectés. Plutôt que d'imposer un chemin unique, YeahCore vous aide à identifier **votre levier spécifique**.
 
 **Deux façons de commencer :**
 
@@ -22,7 +22,7 @@ Chacun arrive sur YeahVibe avec un défi différent. Certains se sentent sans di
 
 ## Étape 2 — Lire & Absorber
 
-Chaque article sur YeahVibe est écrit pour être :
+Chaque article sur YeahCore est écrit pour être :
 
 - **Concis** — pas de remplissage. Chaque section mérite sa place.
 - **Actionnable** — chaque article se termine par quelque chose que vous pouvez appliquer immédiatement ou cette semaine.
@@ -34,7 +34,7 @@ Utilisez la **barre latérale** pour naviguer entre les sujets, ou suivez la sé
 
 ## Étape 3 — Appliquer les outils
 
-Lire seul ne suffit pas. YeahVibe associe chaque insight à des outils pratiques pour vous aider à agir sur ce que vous avez appris.
+Lire seul ne suffit pas. YeahCore associe chaque insight à des outils pratiques pour vous aider à agir sur ce que vous avez appris.
 
 Visitez **[Outils conseillés](/fr/advised-tools/)** pour trouver :
 
@@ -49,7 +49,7 @@ L'objectif est un cycle simple : **lire → appliquer → réfléchir → adapte
 
 ## Étape 4 — Écouter en déplacement
 
-Chaque article sur YeahVibe inclut un bouton **Écouter** dans le coin inférieur droit. Appuyez dessus pour que l'article soit lu à voix haute dans votre langue — utile en trajet, pendant l'exercice, ou simplement quand vous préférez l'audio à la lecture.
+Chaque article sur YeahCore inclut un bouton **Écouter** dans le coin inférieur droit. Appuyez dessus pour que l'article soit lu à voix haute dans votre langue — utile en trajet, pendant l'exercice, ou simplement quand vous préférez l'audio à la lecture.
 
 La voix correspond automatiquement à la langue de la page (anglais ou français).
 
@@ -71,13 +71,13 @@ Comprendre ces tendances vous aide à prendre des décisions qui ne sont pas seu
 
 ## Étape 6 — Revenir & Revisiter
 
-La croissance n'est pas linéaire. YeahVibe est conçu pour être revisité — à mesure que vous évoluez, différents piliers deviendront pertinents. Un défi qui semblait lointain il y a six mois peut être exactement là où vous devez vous concentrer aujourd'hui.
+La croissance n'est pas linéaire. YeahCore est conçu pour être revisité — à mesure que vous évoluez, différents piliers deviendront pertinents. Un défi qui semblait lointain il y a six mois peut être exactement là où vous devez vous concentrer aujourd'hui.
 
 **Marquez** vos articles les plus utiles. **Partagez** ceux qui ont résonné avec quelqu'un qui en a besoin. **Contribuez** des retours pour nous aider à nous améliorer.
 
 ---
 
-## Le Cycle YeahVibe
+## Le Cycle YeahCore
 
 > Trouver son point de départ → Lire & absorber → Appliquer les outils → Réfléchir & adapter → Aller plus loin (YeahSight) → Revisiter en grandissant
 
@@ -85,4 +85,4 @@ La croissance n'est pas linéaire. YeahVibe est conçu pour être revisité — 
 
 ---
 
-*YeahVibe est une initiative de la [HappyBein Stichting](https://www.happybein.com) — une fondation dédiée au bien-être et à l'impact positif.*
+*YeahCore est une initiative de la [HappyBein Stichting](https://www.happybein.com) — une fondation dédiée au bien-être et à l'impact positif.*

@@ -16,30 +16,30 @@ route.head = route.head.filter((t) => {
   return true;
 });
 
-const siteUrl = 'https://core.yeahvibe.com';
+const siteUrl = 'https://yeahcore.happybein.com';
 const currentPath = Astro.url.pathname;
 const currentUrl = new URL(currentPath, siteUrl).toString();
 const ogImage = `${siteUrl}/og-image.png`;
 const isFr = lang === 'fr';
 
-const siteNameEN = 'YeahVibe by HappyBein';
-const siteNameFR = 'YeahVibe par HappyBein';
+const siteNameEN = 'YeahCore by HappyBein';
+const siteNameFR = 'YeahCore par HappyBein';
 
 // Page title — append site name for SEO unless it's already the homepage
-const rawTitle = entry?.data?.title ?? 'YeahVibe';
+const rawTitle = entry?.data?.title ?? 'YeahCore';
 const isHome = currentPath === '/' || currentPath === '/fr/' || currentPath === '/fr';
 const seoTitle = isHome
-  ? (isFr ? 'YeahVibe — Maximisez Votre Vie Efficacement' : 'YeahVibe — Efficiently Maximize your Life')
+  ? (isFr ? 'YeahCore — Ce dont les gens ont besoin, et comment décider' : 'YeahCore — What people need, and how to decide')
   : `${rawTitle} | ${isFr ? siteNameFR : siteNameEN}`;
 
 // Meta description — richer default with keywords
-const defaultDescEN = 'YeahVibe helps individuals and organizations make better decisions. Practical frameworks, best practices and tools for personal effectiveness, leadership, and societal awareness.';
-const defaultDescFR = 'YeahVibe aide les individus et les organisations à prendre de meilleures décisions. Cadres pratiques, meilleures pratiques et outils pour l\'efficacité personnelle, le leadership et la conscience sociétale.';
+const defaultDescEN = 'YeahCore is the HappyBein knowledge base: the human needs and drivers behind what people want, and practical frameworks for better decisions, personal effectiveness, organization and leadership.';
+const defaultDescFR = 'YeahCore est la base de connaissances de HappyBein : les besoins et moteurs humains derrière ce que veulent les gens, et des cadres pratiques pour mieux décider, l\'efficacité personnelle, l\'organisation et le leadership.';
 const description = entry?.data?.description ?? (isFr ? defaultDescFR : defaultDescEN);
 
 // Keywords
-const keywordsEN = 'decision making, personal effectiveness, productivity, leadership, self improvement, YeahVibe, HappyBein, YeahSight, foresight, habits, mindset, organization';
-const keywordsFR = 'prise de décision, efficacité personnelle, productivité, leadership, développement personnel, YeahVibe, HappyBein, YeahSight, prospective, habitudes, état d\'esprit';
+const keywordsEN = 'decision making, human needs, personal effectiveness, productivity, leadership, self improvement, YeahCore, HappyBein, habits, mindset, organization';
+const keywordsFR = 'prise de décision, besoins humains, efficacité personnelle, productivité, leadership, développement personnel, YeahCore, HappyBein, habitudes, état d\'esprit';
 
 // Build hreflang URLs
 const enUrl = currentUrl.replace('/fr/', '/').replace(/\/fr$/, '/');
@@ -59,7 +59,7 @@ const frUrl = currentPath.startsWith('/fr')
 <title>{seoTitle}</title>
 <meta name="description" content={description} />
 <meta name="keywords" content={isFr ? keywordsFR : keywordsEN} />
-<meta name="author" content="YeahVibe — HappyBein" />
+<meta name="author" content="YeahCore — HappyBein" />
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
 <meta name="theme-color" content="#0e7fbe" />
 
@@ -79,7 +79,7 @@ const frUrl = currentPath.startsWith('/fr')
 <meta property="og:image" content={ogImage} />
 <meta property="og:image:width" content="1200" />
 <meta property="og:image:height" content="630" />
-<meta property="og:image:alt" content="YeahVibe — Efficiently Maximize your Life" />
+<meta property="og:image:alt" content="YeahCore — What people need, and how to decide" />
 <meta property="og:locale" content={isFr ? 'fr_FR' : 'en_US'} />
 <meta property="og:locale:alternate" content={isFr ? 'en_US' : 'fr_FR'} />
 <meta property="og:site_name" content={isFr ? siteNameFR : siteNameEN} />
@@ -89,7 +89,7 @@ const frUrl = currentPath.startsWith('/fr')
 <meta name="twitter:title" content={seoTitle} />
 <meta name="twitter:description" content={description} />
 <meta name="twitter:image" content={ogImage} />
-<meta name="twitter:image:alt" content="YeahVibe — Efficiently Maximize your Life" />
+<meta name="twitter:image:alt" content="YeahCore — What people need, and how to decide" />
 <meta name="twitter:site" content="@yeahvibe" />
 <meta name="twitter:creator" content="@happybein" />
 
@@ -258,9 +258,9 @@ const frUrl = currentPath.startsWith('/fr')
 <script type="application/ld+json" set:html={JSON.stringify({
   "@context": "https://schema.org",
   "@type": "WebSite",
-  "name": "YeahVibe",
+  "name": "YeahCore",
   "url": siteUrl,
-  "description": "Decision-making frameworks, personal effectiveness tools and societal insights — in English and French.",
+  "description": "The human needs behind what people want, and practical decision-making frameworks — in English and French. By HappyBein.",
   "inLanguage": ["en", "fr"],
   "potentialAction": {
     "@type": "SearchAction",
@@ -428,7 +428,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <script>
 document.addEventListener('DOMContentLoaded', function() {
   const isFr = document.documentElement.lang?.startsWith('fr');
-  const label = isFr ? '⊞ Tous les outils' : '⊞ All tools';
+  const label = isFr ? '⊞ Outils YeahVibe' : '⊞ YeahVibe tools';
   const pill = document.createElement('a');
   pill.href = 'https://yeahvibe.com';
   pill.textContent = label;

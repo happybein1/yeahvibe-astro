@@ -1,6 +1,6 @@
 ---
 title: Advised Tools
-description: Practical tools curated by YeahVibe to help you prioritize, reflect, and act with clarity.
+description: Practical tools curated by YeahCore to help you prioritize, reflect, and act with clarity.
 sidebar:
   order: 2
 ---
@@ -9,7 +9,7 @@ sidebar:
 
 Knowledge alone isn't enough. To make better decisions, we need practical ways to apply insights.
 
-YeahVibe curates tools — some built in-house, others freely available from trusted third parties — that help individuals and communities plan, prioritize, and act with clarity.
+YeahCore curates tools — some built in-house, others freely available from trusted third parties — that help individuals and communities plan, prioritize, and act with clarity.
 
 ---
 
@@ -48,18 +48,18 @@ A regular journaling practice supports self-awareness and reflection:
 
 ## Using tools alongside insights
 
-Tools are most powerful when paired with the frameworks in the YeahVibe knowledge base. A suggested workflow:
+Tools are most powerful when paired with the frameworks in the YeahCore knowledge base. A suggested workflow:
 
 1. **Read** the relevant insight article to understand the concept.
 2. **Apply** the appropriate tool to put it into practice.
 3. **Reflect** on the outcome using journaling or AI conversation.
 4. **Adapt** your approach based on what you learned.
 
-This cycle — insight → action → reflection → adaptation — is at the heart of the [YeahVibe framework](/start-here).
+This cycle — insight → action → reflection → adaptation — is at the heart of the [YeahCore framework](/start-here).
 
 ---
 
 ## Community
 
 - [Join our Discord Server](https://discord.com/invite/62xRJHCbRW) — connect with others on the same journey.
-- [One Minute Feedback Form](https://form.jotform.com/222551513307043) — help us improve YeahVibe.
+- [One Minute Feedback Form](https://form.jotform.com/222551513307043) — help us improve YeahCore.

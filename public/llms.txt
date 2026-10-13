@@ -1,97 +1,99 @@
-# YeahVibe
+# YeahCore
 
-> YeahVibe is an open knowledge platform helping individuals and organizations make better decisions. It provides practical frameworks, best practices, and curated tools across personal effectiveness, organizational processes, collaboration, and societal awareness. YeahVibe is an initiative of the HappyBein Stichting — a Dutch foundation dedicated to well-being and positive impact.
+> YeahCore (formerly core.yeahvibe.com) is HappyBein's open knowledge base: the human needs and drivers behind what people want, and practical frameworks for making better decisions. YeahSight (https://yeahsight.happybein.com) builds on it to understand society; the YeahVibe tools (https://yeahvibe.com) help people act on it in daily life.
+>
+> It provides practical frameworks, best practices, and curated tools across personal effectiveness, organizational processes, collaboration, and societal awareness. YeahCore is an initiative of the HappyBein Stichting — a Dutch foundation dedicated to well-being and positive impact.
 
 ## Mission
 
 Stop managing time. Start building leverage.
 
-YeahVibe helps people get more value from the time and resources they have — not by working harder, but by working smarter. Every article is written to be read in 3–5 minutes and applied immediately.
+YeahCore helps people get more value from the time and resources they have — not by working harder, but by working smarter. Every article is written to be read in 3–5 minutes and applied immediately.
 
 ## The 5 Pillars of Leverage
 
-YeahVibe is organized around five pillars, each targeting a specific type of challenge:
+YeahCore is organized around five pillars, each targeting a specific type of challenge:
 
 ### Pillar 1 — Defining Direction & Priorities
 **Remedy for:** Feeling directionless or paralyzed by too many choices.
 **Insight:** Don't just optimize your schedule; optimize your life. Defining your North Star ensures every other effort actually counts.
-**URL:** https://core.yeahvibe.com/pillars/direction/
+**URL:** https://yeahcore.happybein.com/pillars/direction/
 
 ### Pillar 2 — Enhancing the Mindset
 **Remedy for:** Feeling unmotivated, stuck, or mentally overwhelmed.
 **Insight:** Your mindset is your internal operating system. Cognitive reframing and resilience make growth sustainable.
-**URL:** https://core.yeahvibe.com/pillars/mindset/
+**URL:** https://yeahcore.happybein.com/pillars/mindset/
 
 ### Pillar 3 — Organizing Your Surroundings & Processes
 **Remedy for:** Feeling disorganized, scattered, or physically drained.
 **Insight:** Success is a product of low friction. Optimize your environment so the right actions become the easiest actions.
-**URL:** https://core.yeahvibe.com/pillars/organization/
+**URL:** https://yeahcore.happybein.com/pillars/organization/
 
 ### Pillar 4 — Collaboration & Leadership Principles
 **Remedy for:** Feeling stressed by a heavy workload or isolated in your goals.
 **Insight:** You can only go so far alone. Influence and collaboration are the multipliers that scale your impact through others.
-**URL:** https://core.yeahvibe.com/pillars/collaboration/
+**URL:** https://yeahcore.happybein.com/pillars/collaboration/
 
 ### Pillar 5 — YeahSight: Picturing the World
 **Remedy for:** Feeling concerned about the world's future.
 **Insight:** To win, you must see the board. YeahSight helps you understand global trends to define a confident long-term direction.
-**URL:** https://core.yeahvibe.com/pillars/yeahsight/
+**URL:** https://yeahcore.happybein.com/pillars/yeahsight/
 
 ---
 
 ## Full Article Index
 
 ### Getting Started
-- Start Here — The YeahVibe roadmap and 5 Pillars overview: https://core.yeahvibe.com/start-here/
-- Welcome to YeahVibe — Homepage with video and topic overview: https://core.yeahvibe.com/welcome/
-- Advised Tools — Curated tools for prioritization, journaling, and reflection: https://core.yeahvibe.com/advised-tools/
+- Start Here — The YeahCore roadmap and 5 Pillars overview: https://yeahcore.happybein.com/start-here/
+- Welcome to YeahCore — Homepage with video and topic overview: https://yeahcore.happybein.com/welcome/
+- Advised Tools — Curated tools for prioritization, journaling, and reflection: https://yeahcore.happybein.com/advised-tools/
 
 ### Decision Foundation (Pillar 1)
-- Find Your Directional Purpose — Identifying the core goals and values that guide your decisions: https://core.yeahvibe.com/decision-foundation/find-your-directional-purpose/
-- Generic Primary Goal Breakdown — Structuring primary goals into a coherent hierarchy for individuals and organizations: https://core.yeahvibe.com/decision-foundation/find-your-directional-purpose/generic-primary-goal-breakdown/
-- Core Drivers of Feelings — Understanding the emotional signals behind decisions: https://core.yeahvibe.com/decision-foundation/find-your-directional-purpose/core-drivers-of-feelings/
-- Human's Physiological Needs — The universal human needs that underpin all effective decision-making: https://core.yeahvibe.com/decision-foundation/find-your-directional-purpose/humans-physiological-needs/
-- Ideation & Assessment — Generating ideas and evaluating goals using structured approaches: https://core.yeahvibe.com/decision-foundation/ideation-assessment/
-- Independent Prioritization — Ranking actions by impact vs. effort and managing urgency: https://core.yeahvibe.com/decision-foundation/independent-prioritization/
-- Clarity & Alignment — Defining goals clearly and delegating effectively: https://core.yeahvibe.com/decision-foundation/clarity-alignment/
-- Tracking and Update — Monitoring decisions and adapting plans as circumstances evolve: https://core.yeahvibe.com/decision-foundation/tracking-and-update/
+- Find Your Directional Purpose — Identifying the core goals and values that guide your decisions: https://yeahcore.happybein.com/decision-foundation/find-your-directional-purpose/
+- Generic Primary Goal Breakdown — Structuring primary goals into a coherent hierarchy for individuals and organizations: https://yeahcore.happybein.com/decision-foundation/find-your-directional-purpose/generic-primary-goal-breakdown/
+- Core Drivers of Feelings — Understanding the emotional signals behind decisions: https://yeahcore.happybein.com/decision-foundation/find-your-directional-purpose/core-drivers-of-feelings/
+- Human's Physiological Needs — The universal human needs that underpin all effective decision-making: https://yeahcore.happybein.com/decision-foundation/find-your-directional-purpose/humans-physiological-needs/
+- Ideation & Assessment — Generating ideas and evaluating goals using structured approaches: https://yeahcore.happybein.com/decision-foundation/ideation-assessment/
+- Independent Prioritization — Ranking actions by impact vs. effort and managing urgency: https://yeahcore.happybein.com/decision-foundation/independent-prioritization/
+- Clarity & Alignment — Defining goals clearly and delegating effectively: https://yeahcore.happybein.com/decision-foundation/clarity-alignment/
+- Tracking and Update — Monitoring decisions and adapting plans as circumstances evolve: https://yeahcore.happybein.com/decision-foundation/tracking-and-update/
 
 ### Personal Effectiveness (Pillar 2)
-- Habits Improvement — Building sustainable habits through self-compassion and environment design: https://core.yeahvibe.com/personal-effectiveness/habits-improvement/
-- Growth Mindset — Developing the belief that abilities grow through effort and learning: https://core.yeahvibe.com/personal-effectiveness/growth-mindset/
-- Fear Management — Understanding and managing fear so it informs rather than controls decisions: https://core.yeahvibe.com/personal-effectiveness/fear-management/
-- Sleeping Well — The science of quality sleep and its impact on decision-making and performance: https://core.yeahvibe.com/personal-effectiveness/sleeping-well/
-- Daily Activities — Practical daily routines that build well-being, energy, and effectiveness: https://core.yeahvibe.com/personal-effectiveness/inspiration/daily-activities/
-- Long-Term Goals — Setting, structuring, and pursuing goals that unfold over months and years: https://core.yeahvibe.com/personal-effectiveness/inspiration/long-term-goals/
-- Mastering Finance Basics — Essential financial concepts for better personal and organizational decisions: https://core.yeahvibe.com/personal-effectiveness/mastering-finance-basics/
-- Time Spent Identification — Understanding where your time actually goes and realigning it with priorities: https://core.yeahvibe.com/personal-effectiveness/time-spent-identification/
+- Habits Improvement — Building sustainable habits through self-compassion and environment design: https://yeahcore.happybein.com/personal-effectiveness/habits-improvement/
+- Growth Mindset — Developing the belief that abilities grow through effort and learning: https://yeahcore.happybein.com/personal-effectiveness/growth-mindset/
+- Fear Management — Understanding and managing fear so it informs rather than controls decisions: https://yeahcore.happybein.com/personal-effectiveness/fear-management/
+- Sleeping Well — The science of quality sleep and its impact on decision-making and performance: https://yeahcore.happybein.com/personal-effectiveness/sleeping-well/
+- Daily Activities — Practical daily routines that build well-being, energy, and effectiveness: https://yeahcore.happybein.com/personal-effectiveness/inspiration/daily-activities/
+- Long-Term Goals — Setting, structuring, and pursuing goals that unfold over months and years: https://yeahcore.happybein.com/personal-effectiveness/inspiration/long-term-goals/
+- Mastering Finance Basics — Essential financial concepts for better personal and organizational decisions: https://yeahcore.happybein.com/personal-effectiveness/mastering-finance-basics/
+- Time Spent Identification — Understanding where your time actually goes and realigning it with priorities: https://yeahcore.happybein.com/personal-effectiveness/time-spent-identification/
 
 ### Organizational Processes (Pillar 3)
-- Basic Organization Principles — Building systems that reduce friction and free up cognitive resources: https://core.yeahvibe.com/organizational-processes/basic-organization-principles/
-- Files & Folder Organization — A practical system for organizing digital files to find anything in under 30 seconds: https://core.yeahvibe.com/organizational-processes/files-folder-organization/
-- Managing Commuting Time — Turning commuting time from dead time into productive or restorative time: https://core.yeahvibe.com/organizational-processes/managing-commuting-time/
+- Basic Organization Principles — Building systems that reduce friction and free up cognitive resources: https://yeahcore.happybein.com/organizational-processes/basic-organization-principles/
+- Files & Folder Organization — A practical system for organizing digital files to find anything in under 30 seconds: https://yeahcore.happybein.com/organizational-processes/files-folder-organization/
+- Managing Commuting Time — Turning commuting time from dead time into productive or restorative time: https://yeahcore.happybein.com/organizational-processes/managing-commuting-time/
 
 ### Collaboration & Leadership (Pillar 4)
-- Collaboration Principles — Building effective collaborative environments through shared purpose and psychological safety: https://core.yeahvibe.com/collaboration-leadership/collaboration-principles/
-- Influence and Leadership — Leading effectively and building influence without relying on authority: https://core.yeahvibe.com/collaboration-leadership/influence-and-leadership/
-- Speak Clearly and Confidently — Communicating with clarity and confidence in high-stakes situations: https://core.yeahvibe.com/collaboration-leadership/speak-clearly-and-confidently/
-- Group Decision Making — Frameworks for making better decisions in groups while avoiding groupthink: https://core.yeahvibe.com/collaboration-leadership/group-decision-making/
+- Collaboration Principles — Building effective collaborative environments through shared purpose and psychological safety: https://yeahcore.happybein.com/collaboration-leadership/collaboration-principles/
+- Influence and Leadership — Leading effectively and building influence without relying on authority: https://yeahcore.happybein.com/collaboration-leadership/influence-and-leadership/
+- Speak Clearly and Confidently — Communicating with clarity and confidence in high-stakes situations: https://yeahcore.happybein.com/collaboration-leadership/speak-clearly-and-confidently/
+- Group Decision Making — Frameworks for making better decisions in groups while avoiding groupthink: https://yeahcore.happybein.com/collaboration-leadership/group-decision-making/
 
 ### YeahSight (Pillar 5)
 - YeahSight now has its own site: https://yeahsight.happybein.com/ — environment & energy, economy & equity, technology & automation, social organization, and a proposed roadmap for society (English and French). See https://yeahsight.happybein.com/llms.txt
 
 ### About
-- About YeahVibe — Mission, structure, and connection to HappyBein Stichting: https://core.yeahvibe.com/about/about-yeahvibe/
-- How It Works — Step-by-step user journey from first visit to sustained growth: https://core.yeahvibe.com/about/how-it-works/
-- User Flow — Practical scenarios showing how to benefit from YeahVibe in 5-minute sessions: https://core.yeahvibe.com/about/user-flow/
-- Supporters & Partners — How to support and partner with YeahVibe: https://core.yeahvibe.com/about/supporters-partners/
+- About YeahCore — Mission, structure, and connection to HappyBein Stichting: https://yeahcore.happybein.com/about/about-yeahcore/
+- How It Works — Step-by-step user journey from first visit to sustained growth: https://yeahcore.happybein.com/about/how-it-works/
+- User Flow — Practical scenarios showing how to benefit from YeahCore in 5-minute sessions: https://yeahcore.happybein.com/about/user-flow/
+- Supporters & Partners — How to support and partner with YeahCore: https://yeahcore.happybein.com/about/supporters-partners/
 
 ---
 
 ## Languages
-YeahVibe is available in English (default) and French (/fr/).
+YeahCore is available in English (default) and French (/fr/).
 French content mirrors all English articles with full translations.
 
 ## About HappyBein
-YeahVibe is an initiative of the HappyBein Stichting — https://www.happybein.com
+YeahCore is an initiative of the HappyBein Stichting — https://www.happybein.com
 A Dutch foundation dedicated to well-being and positive impact.

@@ -1,11 +1,11 @@
 ---
 title: User Flow
-description: Practical scenarios showing when and how different users engage with YeahVibe content — each in under 5 minutes.
+description: Practical scenarios showing when and how different users engage with YeahCore content — each in under 5 minutes.
 sidebar:
   order: 3
 ---
 
-Every person who comes to YeahVibe is in a different situation. This page maps out **who uses what, when, and why** — so you can quickly find the path that matches your current reality.
+Every person who comes to YeahCore is in a different situation. This page maps out **who uses what, when, and why** — so you can quickly find the path that matches your current reality.
 
 Each article takes **3–5 minutes to read**. The scenarios below are designed to fit into real life — a commute, a lunch break, a quiet morning.
 
@@ -99,7 +99,7 @@ Each article takes **3–5 minutes to read**. The scenarios below are designed t
 
 ## 🔄 Scenario 6 — "I'm a returning user doing a monthly reset"
 
-**Who:** A regular YeahVibe user who returns monthly to recalibrate.
+**Who:** A regular YeahCore user who returns monthly to recalibrate.
 
 **When:** First Sunday of the month, morning review.
 
@@ -122,7 +122,7 @@ Each article takes **3–5 minutes to read**. The scenarios below are designed t
 **When:** During a train ride or lunch break.
 
 **Flow:**
-1. Open YeahVibe on mobile → tap the section you're currently working on
+1. Open YeahCore on mobile → tap the section you're currently working on
 2. Tap any article → hit **Listen** → phone reads it aloud while you walk or commute
 3. Or: read one short article like [Sleeping Well](/personal-effectiveness/sleeping-well/) or [Managing Commuting Time](/organizational-processes/managing-commuting-time/)
 4. Bookmark for deeper reading later
@@ -145,4 +145,4 @@ Each article takes **3–5 minutes to read**. The scenarios below are designed t
 
 ---
 
-*YeahVibe is an initiative of the [HappyBein Stichting](https://www.happybein.com).*
+*YeahCore is an initiative of the [HappyBein Stichting](https://www.happybein.com).*

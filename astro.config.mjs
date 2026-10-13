@@ -4,7 +4,7 @@ import starlight from '@astrojs/starlight';
 import sitemap from '@astrojs/sitemap';
 
 export default defineConfig({
-    site: 'https://core.yeahvibe.com',
+    site: 'https://yeahcore.happybein.com',
     integrations: [
         sitemap({
             i18n: {
@@ -16,9 +16,9 @@ export default defineConfig({
             },
         }),
         starlight({
-            title: { en: 'YeahVibe', fr: 'YeahVibe' },
-            logo: { src: './src/assets/logo.png', replacesTitle: true },
-            favicon: '/favicon.ico',
+            title: { en: 'YeahCore', fr: 'YeahCore' },
+            logo: { src: './src/assets/logo.svg', replacesTitle: true },
+            favicon: '/favicon.svg',
             social: [
                 { icon: 'github', label: 'GitHub', href: 'https://github.com/happybein1/yeahvibe-astro' },
                 { icon: 'discord', label: 'Discord', href: 'https://discord.com/invite/62xRJHCbRW' },
@@ -117,13 +117,22 @@ export default defineConfig({
                         { label: 'Group Decision Making', translations: { fr: 'Prise de décision en groupe' }, slug: 'collaboration-leadership/group-decision-making' },
                     ],
                 },
-                { label: '🔭 YeahSight ↗', link: 'https://yeahsight.happybein.com/', attrs: { target: '_blank' } },
+                {
+                    label: 'Related',
+                    translations: { fr: 'Voir aussi' },
+                    collapsed: false,
+                    items: [
+                        { label: 'YeahSight ↗', link: 'https://yeahsight.happybein.com/', attrs: { target: '_blank' } },
+                        { label: 'YeahVibe tools ↗', translations: { fr: 'Outils YeahVibe ↗' }, link: 'https://yeahvibe.com/', attrs: { target: '_blank' } },
+                        { label: 'HappyBein ↗', link: 'https://happybein.com/', attrs: { target: '_blank' } },
+                    ],
+                },
                 {
                     label: 'About',
                     translations: { fr: 'À propos' },
                     collapsed: false,
                     items: [
-                        { label: 'About YeahVibe', translations: { fr: 'À propos de YeahVibe' }, slug: 'about/about-yeahvibe' },
+                        { label: 'About YeahCore', translations: { fr: 'À propos de YeahCore' }, slug: 'about/about-yeahcore' },
                         { label: 'How It Works', translations: { fr: 'Comment ça marche' }, slug: 'about/how-it-works' },
                         { label: 'User Flow', translations: { fr: 'Parcours utilisateur' }, slug: 'about/user-flow' },
                         { label: 'Supporters & Partners', translations: { fr: 'Supporters et partenaires' }, slug: 'about/supporters-partners' },

@@ -13,7 +13,7 @@ Your mindset is your internal operating system. Every decision you make, every h
 
 The good news: unlike hardware, your operating system can be updated.
 
-Most people treat motivation as something that either exists or doesn't. YeahVibe treats it as something you design. Through cognitive reframing, resilience practices, and an honest understanding of fear and habit, you can build a mental environment where growth becomes sustainable — not a series of heroic short bursts followed by long crashes.
+Most people treat motivation as something that either exists or doesn't. YeahCore treats it as something you design. Through cognitive reframing, resilience practices, and an honest understanding of fear and habit, you can build a mental environment where growth becomes sustainable — not a series of heroic short bursts followed by long crashes.
 
 ---
 

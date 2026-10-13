@@ -1,6 +1,6 @@
 ---
 title: Outils conseillés
-description: Des outils pratiques sélectionnés par YeahVibe pour vous aider à prioriser, réfléchir et agir avec clarté.
+description: Des outils pratiques sélectionnés par YeahCore pour vous aider à prioriser, réfléchir et agir avec clarté.
 sidebar:
   order: 2
 ---
@@ -9,7 +9,7 @@ sidebar:
 
 La connaissance seule ne suffit pas. Pour prendre de meilleures décisions, nous avons besoin de moyens pratiques pour appliquer les insights.
 
-YeahVibe sélectionne des outils — certains développés en interne, d'autres disponibles librement auprès de tiers de confiance — qui aident les individus et les communautés à planifier, prioriser et agir avec clarté.
+YeahCore sélectionne des outils — certains développés en interne, d'autres disponibles librement auprès de tiers de confiance — qui aident les individus et les communautés à planifier, prioriser et agir avec clarté.
 
 ---
 
@@ -42,4 +42,4 @@ Utilisez l'IA pour explorer des décisions, analyser des sentiments ou obtenir u
 ## Communauté
 
 - [Rejoindre notre serveur Discord](https://discord.com/invite/62xRJHCbRW) — connectez-vous avec d'autres personnes sur le même chemin.
-- [Formulaire de feedback](https://form.jotform.com/222551513307043) — aidez-nous à améliorer YeahVibe.
+- [Formulaire de feedback](https://form.jotform.com/222551513307043) — aidez-nous à améliorer YeahCore.

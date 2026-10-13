@@ -17,7 +17,7 @@ To win, you must see the board.
 
 Most personal development content treats people as isolated individuals — as if your career, diet, finances, and values exist in a vacuum. They don't. The decisions you make today will play out in a world shaped by automation, energy transition, economic shifts, and social reorganization.
 
-YeahSight is YeahVibe's foresight layer. It doesn't tell you what to think about the world. It gives you the clearest possible picture of what is actually happening — so you can form your own confident, informed view and make decisions that hold up not just today, but over the long term.
+YeahSight is the foresight layer of the framework, and now has its own site. It doesn't tell you what to think about the world. It gives you the clearest possible picture of what is actually happening — so you can form your own confident, informed view and make decisions that hold up not just today, but over the long term.
 
 ---
 

@@ -17,7 +17,7 @@ Pour gagner, vous devez voir l'échiquier.
 
 La plupart du contenu de développement personnel traite les gens comme des individus isolés — comme si votre carrière, votre alimentation, vos finances et vos valeurs existaient dans le vide. Ce n'est pas le cas. Les décisions que vous prenez aujourd'hui se dérouleront dans un monde façonné par l'automatisation, la transition énergétique, les bouleversements économiques et la réorganisation sociale.
 
-YeahSight est la couche de prospective de YeahVibe. Il ne vous dit pas quoi penser du monde. Il vous donne l'image la plus claire possible de ce qui se passe réellement — pour que vous puissiez former votre propre vision confiante et informée.
+YeahSight est la couche de prospective du cadre, et a désormais son propre site. Il ne vous dit pas quoi penser du monde. Il vous donne l'image la plus claire possible de ce qui se passe réellement — pour que vous puissiez former votre propre vision confiante et informée.
 
 ---
 

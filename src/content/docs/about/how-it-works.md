@@ -1,17 +1,17 @@
 ---
 title: How It Works
-description: Discover how YeahVibe guides you from overwhelm to clarity — the YeahVibe user journey explained step by step.
+description: Discover how YeahCore guides you from overwhelm to clarity — the YeahCore user journey explained step by step.
 sidebar:
   order: 2
 ---
 
-YeahVibe is designed to meet you where you are and guide you toward where you want to be. Here is how the experience works, from your first visit to sustained growth.
+YeahCore is designed to meet you where you are and guide you toward where you want to be. Here is how the experience works, from your first visit to sustained growth.
 
 ---
 
 ## Step 1 — Find Your Starting Point
 
-Everyone arrives at YeahVibe with a different challenge. Some feel directionless. Others are overwhelmed, disorganized, or disconnected. Rather than forcing a one-size-fits-all path, YeahVibe helps you identify **your specific lever**.
+Everyone arrives at YeahCore with a different challenge. Some feel directionless. Others are overwhelmed, disorganized, or disconnected. Rather than forcing a one-size-fits-all path, YeahCore helps you identify **your specific lever**.
 
 **Two ways to start:**
 
@@ -22,7 +22,7 @@ Everyone arrives at YeahVibe with a different challenge. Some feel directionless
 
 ## Step 2 — Read & Absorb
 
-Each article on YeahVibe is written to be:
+Each article on YeahCore is written to be:
 
 - **Concise** — no filler, no padding. Every section earns its place.
 - **Actionable** — each article ends with something you can apply immediately or this week.
@@ -34,7 +34,7 @@ Use the **sidebar** to navigate between topics, or follow the natural sequence w
 
 ## Step 3 — Apply the Tools
 
-Reading alone is not enough. YeahVibe pairs every insight with practical tools to help you act on what you've learned.
+Reading alone is not enough. YeahCore pairs every insight with practical tools to help you act on what you've learned.
 
 Visit **[Advised Tools](/advised-tools/)** to find:
 
@@ -49,7 +49,7 @@ The goal is a simple cycle: **read → apply → reflect → adapt**.
 
 ## Step 4 — Listen While You Go
 
-Every article on YeahVibe includes a **Listen** button in the bottom-right corner. Tap it to have the article read aloud in your language — useful when commuting, exercising, or simply when you prefer audio over reading.
+Every article on YeahCore includes a **Listen** button in the bottom-right corner. Tap it to have the article read aloud in your language — useful when commuting, exercising, or simply when you prefer audio over reading.
 
 The voice automatically matches the language of the page (English or French).
 
@@ -71,13 +71,13 @@ Understanding these trends helps you make decisions that are not just good for t
 
 ## Step 6 — Come Back & Revisit
 
-Growth is not linear. YeahVibe is designed to be revisited — as you evolve, different pillars will become relevant. A challenge that felt distant six months ago may be exactly where you need to focus today.
+Growth is not linear. YeahCore is designed to be revisited — as you evolve, different pillars will become relevant. A challenge that felt distant six months ago may be exactly where you need to focus today.
 
 **Bookmark** your most useful articles. **Share** the ones that resonated with someone who needs them. **Contribute** feedback to help us improve.
 
 ---
 
-## The YeahVibe Cycle
+## The YeahCore Cycle
 
 > Find your starting point → Read & absorb → Apply the tools → Reflect & adapt → Go deeper (YeahSight) → Revisit as you grow
 
@@ -85,4 +85,4 @@ Growth is not linear. YeahVibe is designed to be revisited — as you evolve, di
 
 ---
 
-*YeahVibe is an initiative of the [HappyBein Stichting](https://www.happybein.com) — a foundation dedicated to well-being and positive impact.*
+*YeahCore is an initiative of the [HappyBein Stichting](https://www.happybein.com) — a foundation dedicated to well-being and positive impact.*

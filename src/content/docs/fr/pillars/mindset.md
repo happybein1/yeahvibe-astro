@@ -13,7 +13,7 @@ Votre état d'esprit est votre système d'exploitation interne. Chaque décision
 
 La bonne nouvelle : contrairement au matériel informatique, votre système d'exploitation peut être mis à jour.
 
-La plupart des gens traitent la motivation comme quelque chose qui existe ou n'existe pas. YeahVibe la traite comme quelque chose que vous concevez. Par le recadrage cognitif, les pratiques de résilience et une compréhension honnête de la peur et des habitudes, vous pouvez construire un environnement mental où la croissance devient durable.
+La plupart des gens traitent la motivation comme quelque chose qui existe ou n'existe pas. YeahCore la traite comme quelque chose que vous concevez. Par le recadrage cognitif, les pratiques de résilience et une compréhension honnête de la peur et des habitudes, vous pouvez construire un environnement mental où la croissance devient durable.
 
 ---
 

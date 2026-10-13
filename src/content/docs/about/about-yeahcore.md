@@ -1,46 +1,46 @@
 ---
-title: About YeahVibe
-description: Learn about YeahVibe — its mission, vision, and its connection to the HappyBein Stichting.
+title: About YeahCore
+description: Learn about YeahCore — its mission, vision, and its connection to the HappyBein Stichting.
 sidebar:
   order: 1
 ---
 
-## What is YeahVibe?
+## What is YeahCore?
 
-YeahVibe is a knowledge platform dedicated to helping individuals and organizations make better decisions. It brings together practical frameworks, best practices, and curated tools across personal effectiveness, organizational processes, collaboration, and the broader societal challenges shaping our world.
+YeahCore is a knowledge platform dedicated to helping individuals and organizations make better decisions. It brings together practical frameworks, best practices, and curated tools across personal effectiveness, organizational processes, collaboration, and the broader societal challenges shaping our world.
 
 The goal is simple: help people get more value from the time and resources they have — not by working harder, but by working smarter and more intentionally.
 
 ## About HappyBein Stichting
 
-YeahVibe is an initiative of the **[HappyBein Stichting](https://www.happybein.com)** — a Dutch foundation (stichting) dedicated to well-being and positive impact. HappyBein's mission is to help individuals and communities thrive by providing open, accessible tools and knowledge.
+YeahCore is an initiative of the **[HappyBein Stichting](https://www.happybein.com)** — a Dutch foundation (stichting) dedicated to well-being and positive impact. HappyBein's mission is to help individuals and communities thrive by providing open, accessible tools and knowledge.
 
-YeahVibe is HappyBein's flagship knowledge platform, bringing the foundation's principles of leverage, clarity, and purposeful action to a global audience.
+YeahCore is HappyBein's knowledge base: the foundation that [YeahSight](https://yeahsight.happybein.com/) (understanding society) and the [YeahVibe tools](https://yeahvibe.com/) (acting in daily life) build on.
 
 👉 Learn more about the broader HappyBein project at **[happybein.com](https://www.happybein.com)**
 
 ---
 
-## Why YeahVibe exists
+## Why YeahCore exists
 
 Most people have access to more information than ever before — yet making consistently good decisions remains difficult. The gap between knowing and doing is large. The gap between doing and doing *well* is larger still.
 
-YeahVibe was created to bridge that gap. It is built on the belief that:
+YeahCore was created to bridge that gap. It is built on the belief that:
 
 - **Clarity precedes action** — understanding your goals, values, and constraints is the foundation of good decisions.
 - **Practical beats theoretical** — insights are only valuable if they can be applied in real life.
 - **Small improvements compound** — consistent, incremental gains in decision quality create outsized results over time.
 - **Everyone deserves better tools** — the frameworks and practices that help people and organizations thrive should be accessible to anyone.
 
-## Who is YeahVibe for?
+## Who is YeahCore for?
 
 - **Individuals** seeking to improve their habits, manage their energy, and make clearer personal and professional decisions.
 - **Teams and organizations** looking for shared frameworks for prioritization, collaboration, and decision-making.
 - **Curious thinkers** interested in how societal systems work, what drives inequality, and what a fairer world might look like.
 
-## The structure of YeahVibe
+## The structure of YeahCore
 
-YeahVibe is organized around five interconnected pillars:
+YeahCore is organized around five interconnected pillars:
 
 1. **Decision Foundation** — the core frameworks for making better decisions at any scale.
 2. **Personal Effectiveness** — habits, mindset, sleep, and the practices that determine daily performance.
@@ -50,11 +50,11 @@ YeahVibe is organized around five interconnected pillars:
 
 ## Our approach
 
-YeahVibe is not prescriptive. It offers frameworks, evidence, and perspectives — and trusts you to apply them to your own context. Content is written to be clear, practical, balanced, and honest about uncertainty.
+YeahCore is not prescriptive. It offers frameworks, evidence, and perspectives — and trusts you to apply them to your own context. Content is written to be clear, practical, balanced, and honest about uncertainty.
 
 ## Get involved
 
-YeahVibe is a living project. Your feedback, ideas, and contributions make it better.
+YeahCore is a living project. Your feedback, ideas, and contributions make it better.
 
 - [Join our Discord Server](https://discord.com/invite/62xRJHCbRW)
 - [Share feedback (1 minute)](https://form.jotform.com/222551513307043)
