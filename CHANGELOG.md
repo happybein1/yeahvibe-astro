@@ -4,6 +4,20 @@ Started 2026-10-13. Earlier versions (up to 1.7.1) were only tracked in `src/ver
 
 ---
 
+## 2.2.2
+
+**Links to YeahSight follow its new four-section structure** (yeahsight v2.05: articles moved into `how-society-works/`, `forces/` and `sharing-fairly/`).
+
+- Every `https://yeahsight.happybein.com/<old path>` link in YeahCore was rewritten to the new path, EN and FR. That covers home, start-here, welcome, pillars/yeahsight, about/user-flow and `public/llms.txt`.
+- Link texts were renamed to match: *Earth Land — View per Individual* → *Land per Person*, *The Economical System* → *The Economic System*.
+- Every YeahSight URL in the source was checked against YeahSight's built page list: all exist.
+
+The `/applications/* → yeahsight.happybein.com/:splat` rule in `public/_redirects` is unchanged. It lands on YeahSight's old paths, which YeahSight now redirects onward.
+
+Build passed (75 pages).
+
+---
+
 ## 2.2.1
 
 **Sharper compass photo in the landing hero.** The user replaced `public/images/hero-compass.jpg` with the full-size original: 3300×2096, about 1.1 MB (it was 570×320 in 2.2.0).

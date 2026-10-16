@@ -88,10 +88,10 @@ Chaque article prend **3 à 5 minutes à lire**. Les scénarios ci-dessous sont 
 
 **Parcours :**
 1. Visiter **YeahSight** → lire [Tendances prospectives](https://yeahsight.happybein.com/fr/foresight-trends/) + regarder la vidéo *(5 min)*
-2. Lire [Automatisation améliorée](https://yeahsight.happybein.com/fr/technology-automation/enhanced-automation/) *(5 min)*
-3. Lire [Terres de la Terre — Vue par individu](https://yeahsight.happybein.com/fr/environment-energy/earth-land-view-per-individual/) *(4 min)*
-4. Lire [Allocation universelle](https://yeahsight.happybein.com/fr/economy-equity/universal-allowance/) *(5 min)*
-5. Regarder la vidéo dans [Partage équitable du monde](https://yeahsight.happybein.com/fr/economy-equity/fair-globe-sharing/) + partager avec un ami *(5 min)*
+2. Lire [Automatisation améliorée](https://yeahsight.happybein.com/fr/forces/enhanced-automation/) *(5 min)*
+3. Lire [Terres par personne](https://yeahsight.happybein.com/fr/forces/land-per-person/) *(4 min)*
+4. Lire [Allocation universelle](https://yeahsight.happybein.com/fr/sharing-fairly/universal-allowance/) *(5 min)*
+5. Regarder la vidéo dans [Partage équitable du monde](https://yeahsight.happybein.com/fr/sharing-fairly/fair-globe-sharing/) + partager avec un ami *(5 min)*
 
 **Total : 5 × 5 min — répartis sur un matin de week-end.**
 
