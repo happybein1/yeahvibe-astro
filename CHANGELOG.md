@@ -4,6 +4,19 @@ Started 2026-10-13. Earlier versions (up to 1.7.1) were only tracked in `src/ver
 
 ---
 
+## 2.3.0
+
+**New YeahCore logo: a compass, needle pointing north-east.** The owner wanted to change the old logo (concentric rings in the old colours #0088CC / #46E8C1, which read as a target). I showed a compass, a sprout and refreshed rings; the owner chose the compass. Then: needle north vs north-east (owner: "should the needle not show north east?"); the wide north-east needle "looks like an eye", so three slimmer versions; a mountain was also sketched (three versions) and set aside because it overlaps with YeahSight's horizon and mountain imagery. Owner picked "compass 2": slim needle with four compass marks and a blue pivot.
+
+- **Mark:** blue ring (#29ABE2) with four short marks, slim needle turned 45° (north half green #4CAF50, south half teal #2ABFBF), blue pivot. Idea: finding your direction and deciding well; it matches the compass hero photo and sits next to YeahSight's sunrise as a pair.
+- **Wordmark:** "Yeah" blue #29ABE2, "Core" teal #2ABFBF, bold (Nunito → Segoe UI → Arial), same layout as YeahSight's.
+- **Files:** `src/assets/logo.svg` (header), `public/favicon.svg` (mark on a dark rounded square), `favicon.png` 32px, `favicon.ico` 16+32, `icon-192.png` (rounded), `apple-touch-icon.png` 180px (square, iOS rounds it), `og-image.png` 1200×630 (link previews, same layout as before with the new mark and colours). PNGs rendered with headless Firefox and scaled with Pillow.
+- **Hero title** on the home page uses the logo colours: `.w-yeah` #29ABE2 light / #5CC4F0 dark, `.w-x` #2ABFBF (the hero is dark in both themes). The rest of the site's accent colours (`--yv-blue` / `--yv-green`) are unchanged.
+
+**Verification:** built in a scratch copy (75 pages); home page checked at 1200px and 412px in Firefox (header logo, hero title); icons and social image looked at as images.
+
+---
+
 ## 2.2.2
 
 **Links to YeahSight follow its new four-section structure** (yeahsight v2.05: articles moved into `how-society-works/`, `forces/` and `sharing-fairly/`).
