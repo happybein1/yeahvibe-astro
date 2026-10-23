@@ -10,9 +10,9 @@ Stop managing time. Start building leverage.
 
 YeahCore helps people get more value from the time and resources they have — not by working harder, but by working smarter. Every article is written to be read in 3–5 minutes and applied immediately.
 
-## The 5 Pillars of Leverage
+## The 4 Pillars of Leverage
 
-YeahCore is organized around five pillars, each targeting a specific type of challenge:
+YeahCore is organized around four pillars, each targeting a specific type of challenge:
 
 ### Pillar 1 — Defining Direction & Priorities
 **Remedy for:** Feeling directionless or paralyzed by too many choices.
@@ -34,17 +34,12 @@ YeahCore is organized around five pillars, each targeting a specific type of cha
 **Insight:** You can only go so far alone. Influence and collaboration are the multipliers that scale your impact through others.
 **URL:** https://yeahcore.happybein.com/pillars/collaboration/
 
-### Pillar 5 — YeahSight: Picturing the World
-**Remedy for:** Feeling concerned about the world's future.
-**Insight:** To win, you must see the board. YeahSight helps you understand global trends to define a confident long-term direction.
-**URL:** https://yeahcore.happybein.com/pillars/yeahsight/
-
 ---
 
 ## Full Article Index
 
 ### Getting Started
-- Start Here — The YeahCore roadmap and 5 Pillars overview: https://yeahcore.happybein.com/start-here/
+- Start Here — The YeahCore roadmap and 4 Pillars overview: https://yeahcore.happybein.com/start-here/
 - Welcome to YeahCore — Homepage with video and topic overview: https://yeahcore.happybein.com/welcome/
 - Advised Tools — Curated tools for prioritization, journaling, and reflection: https://yeahcore.happybein.com/advised-tools/
 
@@ -79,7 +74,7 @@ YeahCore is organized around five pillars, each targeting a specific type of cha
 - Speak Clearly and Confidently — Communicating with clarity and confidence in high-stakes situations: https://yeahcore.happybein.com/collaboration-leadership/speak-clearly-and-confidently/
 - Group Decision Making — Frameworks for making better decisions in groups while avoiding groupthink: https://yeahcore.happybein.com/collaboration-leadership/group-decision-making/
 
-### YeahSight (Pillar 5)
+### YeahSight (sister site)
 - YeahSight now has its own site: https://yeahsight.happybein.com/ — environment & energy, economy & equity, technology & automation, social organization, and a proposed roadmap for society (English and French). See https://yeahsight.happybein.com/llms.txt
 
 ### About

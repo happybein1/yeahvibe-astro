@@ -40,13 +40,12 @@ YeahCore was created to bridge that gap. It is built on the belief that:
 
 ## The structure of YeahCore
 
-YeahCore is organized around five interconnected pillars:
+YeahCore is organized around four interconnected pillars:
 
 1. **Decision Foundation** — the core frameworks for making better decisions at any scale.
 2. **Personal Effectiveness** — habits, mindset, sleep, and the practices that determine daily performance.
 3. **Organizational Processes** — systems for organizing time, information, and work efficiently.
 4. **Collaboration & Leadership** — how to work well with others and lead effectively.
-5. **YeahSight** — how these principles connect to real-world challenges: energy, economy, technology, and society.
 
 ## Our approach
 

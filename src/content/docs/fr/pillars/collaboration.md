@@ -54,7 +54,7 @@ Pas sûr que ce soit votre pilier ? Faites l'**[Auto-évaluation](https://form.j
 
 ---
 
-[← Pilier 3 — Organisation](/fr/pillars/organization/) · [Suivant : Pilier 5 — YeahSight →](/fr/pillars/yeahsight/)
+[← Pilier 3 — Organisation](/fr/pillars/organization/)
 
 <style>{`
   .pillar-links { border: 1px solid var(--sl-color-hairline); border-radius: 8px; margin: 0.5rem 0; }

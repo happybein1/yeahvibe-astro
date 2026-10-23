@@ -4,6 +4,8 @@
 /applications/social-organization/time-spent-identification/  /personal-effectiveness/time-spent-identification/  301
 /fr/applications/economy-equity/mastering-finance-basics/     /fr/personal-effectiveness/mastering-finance-basics/     301
 /fr/applications/social-organization/time-spent-identification/ /fr/personal-effectiveness/time-spent-identification/ 301
+/pillars/yeahsight/      https://yeahsight.happybein.com/      301
+/fr/pillars/yeahsight/   https://yeahsight.happybein.com/fr/   301
 /applications/*      https://yeahsight.happybein.com/:splat      301
 /fr/applications/*   https://yeahsight.happybein.com/fr/:splat   301
 

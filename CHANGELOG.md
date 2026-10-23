@@ -4,6 +4,19 @@ Started 2026-10-13. Earlier versions (up to 1.7.1) were only tracked in `src/ver
 
 ---
 
+## 2.4.0
+
+**YeahSight is no longer a YeahCore pillar: four pillars instead of five.** The owner asked for YeahSight to be removed from YeahCore (first from the new YeahCore intro video, then from the site). YeahSight has had its own site since 2026-10-13, and the three sites now stand as separate links in one chain (YeahCore → YeahSight → YeahVibe), so a "pillar" pointing to another site no longer fitted.
+
+- **Removed:** the *Pillar 5: YeahSight* page (`pillars/yeahsight.md`, EN + FR), its menu entry, its home card, its block on Start Here, the YeahSight topic card on Welcome, item 5 in About YeahCore, and the "Next: Pillar 5" link at the bottom of Collaboration.
+- **Renamed:** "The 5 Pillars" → "The 4 Pillars" (menu, home, Start Here, How It Works, `llms.txt`); "five pillars" → "four" on Welcome and About, with "a clear view of the world" dropped from the Welcome list. EN and FR.
+- **Kept:** every other link to YeahSight as a sister site: the chain at the bottom of the home page, the "YeahSight ↗" footer/menu link, About YeahCore's intro line and How It Works' "Go deeper with YeahSight" step.
+- **Redirects:** `/pillars/yeahsight/` → `https://yeahsight.happybein.com/` and `/fr/pillars/yeahsight/` → `/fr/` (301, `public/_redirects`), so old links keep working.
+
+**Verification:** built in a scratch copy; no "5 pillars"/"pillar 5"/`pillars/yeahsight` left in the source; home and menu checked in Firefox.
+
+---
+
 ## 2.3.0
 
 **New YeahCore logo: a compass, needle pointing north-east.** The owner wanted to change the old logo (concentric rings in the old colours #0088CC / #46E8C1, which read as a target). I showed a compass, a sprout and refreshed rings; the owner chose the compass. Then: needle north vs north-east (owner: "should the needle not show north east?"); the wide north-east needle "looks like an eye", so three slimmer versions; a mountain was also sketched (three versions) and set aside because it overlaps with YeahSight's horizon and mountain imagery. Owner picked "compass 2": slim needle with four compass marks and a blue pivot.

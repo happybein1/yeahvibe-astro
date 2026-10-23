@@ -40,13 +40,12 @@ YeahCore a été créé pour combler cet écart. Il est fondé sur la croyance q
 
 ## La structure de YeahCore
 
-YeahCore est organisé autour de cinq piliers interconnectés :
+YeahCore est organisé autour de quatre piliers interconnectés :
 
 1. **Fondation de la décision** — les cadres centraux pour prendre de meilleures décisions à toutes les échelles.
 2. **Efficacité personnelle** — habitudes, état d'esprit, sommeil et pratiques qui déterminent la performance quotidienne.
 3. **Processus organisationnels** — systèmes pour organiser efficacement le temps, l'information et le travail.
 4. **Collaboration et leadership** — comment bien travailler avec les autres et diriger efficacement.
-5. **YeahSight** — comment ces principes se connectent aux défis réels : énergie, économie, technologie et société.
 
 ## Notre approche
 

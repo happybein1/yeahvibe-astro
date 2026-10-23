@@ -15,7 +15,7 @@ Chacun arrive sur YeahCore avec un défi différent. Certains se sentent sans di
 
 **Deux façons de commencer :**
 
-- **[Commencer ici](/fr/start-here/)** — Suivez la feuille de route guidée à travers les 5 Piliers de Levier. Lisez le *Remède* et l'*Insight* de chaque pilier et remarquez lequel résonne le plus avec votre situation actuelle.
+- **[Commencer ici](/fr/start-here/)** — Suivez la feuille de route guidée à travers les 4 Piliers de Levier. Lisez le *Remède* et l'*Insight* de chaque pilier et remarquez lequel résonne le plus avec votre situation actuelle.
 - **[Outil d'Auto-Évaluation](https://form.jotform.com/222552689387066)** — Répondez à un court questionnaire et recevez une recommandation personnalisée sur où concentrer vos efforts en premier.
 
 ---

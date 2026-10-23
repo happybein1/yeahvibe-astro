@@ -54,7 +54,7 @@ Not sure this is your pillar? Take the **[Self-Assessment](https://form.jotform.
 
 ---
 
-[← Pillar 3 — Organization](/pillars/organization/) · [Next: Pillar 5 — YeahSight →](/pillars/yeahsight/)
+[← Pillar 3 — Organization](/pillars/organization/)
 
 <style>{`
   .pillar-links { border: 1px solid var(--sl-color-hairline); border-radius: 8px; margin: 0.5rem 0; }
