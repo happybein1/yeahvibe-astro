@@ -4,6 +4,17 @@ Started 2026-10-13. Earlier versions (up to 1.7.1) were only tracked in `src/ver
 
 ---
 
+## 2.4.3
+
+**Menu on the home page, and the phone top bar keeps its menu button** — same two fixes as YeahSight v2.32, after the owner reported the missing menu there and asked "also needed for yeahcore?".
+
+- Home (EN + FR) switched from `template: splash` (Starlight's landing layout, no sidebar, so no ☰ button on phones) to `template: doc` with `tableOfContents: false`, keeping the hero.
+- `src/components/overrides/Header.astro` (identical to YeahSight's): under 50rem the theme choice is hidden in the top bar (it stays at the bottom of the phone menu) and the language choice is narrowed, so the menu button is no longer pushed off narrow screens.
+
+**Verification:** built locally; home screenshotted at 412 px (☰ visible) and 1366 px (sidebar, desktop header unchanged).
+
+---
+
 ## 2.4.2
 
 **Sharper link-preview image.** LinkedIn's preview of the 2.4.1 image looked blurry after LinkedIn shrank and recompressed it. Same design, now rendered at 2400×1260 as `public/og-card.png` (bottom line slightly larger and darker); `Head.astro` points og:image/twitter:image at it and declares 2400×1260. New file name so LinkedIn fetches it fresh; `og-share.png` removed.
