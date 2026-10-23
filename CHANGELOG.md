@@ -4,6 +4,14 @@ Started 2026-10-13. Earlier versions (up to 1.7.1) were only tracked in `src/ver
 
 ---
 
+## 2.4.1
+
+**New link-preview image.** Shared YeahCore links used a dark `og-image.png`. To match the new happybein.com, YeahVibe and YeahSight previews made the same day, a light version in the HappyBein style replaces it: compass logo with the YeahCore wordmark, "What people need, and how to decide", the 4 pillars as chips (Direction, Mindset, Organisation, Collaboration), "Free to read · English and French · A HappyBein initiative", yeahcore.happybein.com. New file `public/og-share.png` (1200×630); `src/components/overrides/Head.astro` points og:image and twitter:image at it, under a new file name so LinkedIn and others fetch it fresh. The old `og-image.png` stays in place, unused. The owner approved the draft.
+
+**Verification:** built locally; og:image on the home page and on a pillar page is the new file.
+
+---
+
 ## 2.4.0
 
 **YeahSight is no longer a YeahCore pillar: four pillars instead of five.** The owner asked for YeahSight to be removed from YeahCore (first from the new YeahCore intro video, then from the site). YeahSight has had its own site since 2026-10-13, and the three sites now stand as separate links in one chain (YeahCore → YeahSight → YeahVibe), so a "pillar" pointing to another site no longer fitted.
