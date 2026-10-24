@@ -4,6 +4,14 @@ Started 2026-10-13. Earlier versions (up to 1.7.1) were only tracked in `src/ver
 
 ---
 
+## 2.4.5
+
+**Cookieless visit counts with Cloudflare Web Analytics.** The shared analytics snippet (`_shared/internal.js`, now yv-internal v2) loads Cloudflare's beacon (manual JS-snippet setup, site token for happybein.com, which also covers yeahsight. and yeahcore.happybein.com; filter by Host in the dashboard) for every visitor, **except browsers carrying the owner's internal mark**, since Cloudflare Web Analytics has no filter of its own. It sets no cookies and identifies no one, so it needs no consent and counts visitors who decline Google Analytics too. Google Analytics and its consent banner are unchanged. The privacy policy at happybein.com/privacy (linked from this site) now describes it.
+
+**Verification:** the snippet run in Node with a mocked browser on yeahsight.happybein.com: unmarked adds the beacon with the token, marked adds nothing. Site builds cleanly.
+
+---
+
 ## 2.4.4
 
 **Owner-traffic marker for Google Analytics.** Opening any page with `?internal` marks this browser as internal for the whole domain for a year (first-party cookie `yv_internal=1` on the registrable domain, plus a localStorage copy); `?internal=off` removes it. While marked, the GA4 config carries `traffic_type=internal` (what GA4's "Internal traffic" data filter keys on) and the user property `internal_user=true`. A small notice confirms the change and links to the same switch on the other two domains (happybein.com, yeahvibe.com, yeahdev.com). Same cookie name and meaning as the *.yeahvibe.com apps, which already set it when the owner signs in to IntentFlow or ShopTools and read it on every open. Consent is unchanged: without "Accept" nothing is sent at all. Snippet source: `_shared/internal.js`, replacing the plain `gtag('config', ...)` block (now `is:inline`, so Astro no longer bundles it as a module).
