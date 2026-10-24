@@ -4,6 +4,14 @@ Started 2026-10-13. Earlier versions (up to 1.7.1) were only tracked in `src/ver
 
 ---
 
+## 2.4.8
+
+**Google Analytics and the cookie banner removed; Cloudflare Web Analytics only** (owner decision, after confirming Cloudflare counts visits). The yv-consent banner and the GA4 config are gone, as is the "Cookie settings" link in the footer. The head now carries the shared snippet `_shared/internal.js` (yv-internal v5): Cloudflare's cookieless beacon for every visitor except browsers with the owner's `?internal` mark (dot under the version number), and on happybein.com / yeahdev.com it deletes leftover `_ga*` cookies and the old `yv_consent` choice (not on yeahvibe.com, where the apps still use them). No cookies are set for visitors any more.
+
+**Verification:** built site in headless Firefox: no banner, no Google script; marked browser shows the dot. Snippet run in Node per domain: unmarked loads the right site token, marked loads none; old GA cookies removed on happybein.com and yeahdev.com, kept on yeahvibe.com.
+
+---
+
 ## 2.4.7
 
 **Internal mark shown as a dot under the version number** (owner request). Browsers with the owner's internal mark now get a small teal dot under the site's version number (tooltip: "Internal: your visits are not counted in the analytics") instead of the corner label; the corner label remains only on a page with no version number. Shared snippet `_shared/internal.js` is now yv-internal v4, which also carries the yeahvibe.com Cloudflare Web Analytics site token.
