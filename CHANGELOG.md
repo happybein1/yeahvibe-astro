@@ -4,6 +4,12 @@ Started 2026-10-13. Earlier versions (up to 1.7.1) were only tracked in `src/ver
 
 ---
 
+## 2.4.9
+
+**Version number next to the title, and the language menu as an icon only** (owner, same fix as YeahSight v2.40: "I don't see versioning and internal tag", then "you may reduce the language toggle to the icon only as well"). The version was only in the footer at the bottom of article pages, so the owner's internal mark (the teal dot from yv-internal, `Head.astro`) appeared there, out of sight. The header now shows a small `v2.4.9` next to the YeahCore title (`Header.astro`, tooltip with the version notes and date); `Head.astro`'s dot picks it up as the first version element on the page. The footer version stays. The language menu shows only its translate icon (no label, no caret) at every width; the open list still names each language. This replaces 2.4.3's narrowed 6.2rem phone menu.
+
+**Verification:** site builds. Headless Firefox at 1280 px and 400 px: version next to the title, teal dot under it with `?internal`, language icon only, menu button still visible on phones.
+
 ## 2.4.8
 
 **Google Analytics and the cookie banner removed; Cloudflare Web Analytics only** (owner decision, after confirming Cloudflare counts visits). The yv-consent banner and the GA4 config are gone, as is the "Cookie settings" link in the footer. The head now carries the shared snippet `_shared/internal.js` (yv-internal v5): Cloudflare's cookieless beacon for every visitor except browsers with the owner's `?internal` mark (dot under the version number), and on happybein.com / yeahdev.com it deletes leftover `_ga*` cookies and the old `yv_consent` choice (not on yeahvibe.com, where the apps still use them). No cookies are set for visitors any more.

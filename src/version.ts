@@ -1,3 +1,3 @@
-export const SITE_VERSION = '2.4.8';
-export const SITE_VERSION_DATE = '2026-10-24';
-export const SITE_VERSION_NOTES = 'No Google Analytics, no cookie banner: cookieless visit counts';
+export const SITE_VERSION = '2.4.9';
+export const SITE_VERSION_DATE = '2026-10-25';
+export const SITE_VERSION_NOTES = 'Version number next to the title, with the internal dot';
