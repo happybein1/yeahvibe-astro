@@ -4,6 +4,14 @@ Started 2026-10-13. Earlier versions (up to 1.7.1) were only tracked in `src/ver
 
 ---
 
+## 2.4.6
+
+**A visible hint for marked browsers.** Browsers carrying the owner's internal mark (`?internal`) now show a small "● internal" label in the bottom-left corner; tapping it explains the status and offers "Remove the mark" (`?internal=off`). Visitors without the mark never see it. Shared snippet `_shared/internal.js`, now yv-internal v3 (it sits under the cookie banner while that is open).
+
+**Verification:** built site in headless Firefox: `?internal` shows the confirmation; the next visit shows the label; tapping it shows the status with the remove link; `?internal=off` confirms removal and the next visit shows no label.
+
+---
+
 ## 2.4.5
 
 **Cookieless visit counts with Cloudflare Web Analytics.** The shared analytics snippet (`_shared/internal.js`, now yv-internal v2) loads Cloudflare's beacon (manual JS-snippet setup, site token for happybein.com, which also covers yeahsight. and yeahcore.happybein.com; filter by Host in the dashboard) for every visitor, **except browsers carrying the owner's internal mark**, since Cloudflare Web Analytics has no filter of its own. It sets no cookies and identifies no one, so it needs no consent and counts visitors who decline Google Analytics too. Google Analytics and its consent banner are unchanged. The privacy policy at happybein.com/privacy (linked from this site) now describes it.
