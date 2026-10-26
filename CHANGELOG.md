@@ -4,6 +4,14 @@ Started 2026-10-13. Earlier versions (up to 1.7.1) were only tracked in `src/ver
 
 ---
 
+## 2.4.10
+
+**Search markup removed** (Google Search Console, 2026-10-26): the schema.org `SearchAction` in `Head.astro` pointed to `/search?q={search_term_string}`, a page that does not exist, which Google reported as "Not found". Old `/applications/` article addresses are now resolved on the YeahSight side (yeahsight v2.42).
+
+**Verification:** site builds.
+
+---
+
 ## 2.4.9
 
 **Version number next to the title, and the language menu as an icon only** (owner, same fix as YeahSight v2.40: "I don't see versioning and internal tag", then "you may reduce the language toggle to the icon only as well"). The version was only in the footer at the bottom of article pages, so the owner's internal mark (the teal dot from yv-internal, `Head.astro`) appeared there, out of sight. The header now shows a small `v2.4.9` next to the YeahCore title (`Header.astro`, tooltip with the version notes and date); `Head.astro`'s dot picks it up as the first version element on the page. The footer version stays. The language menu shows only its translate icon (no label, no caret) at every width; the open list still names each language. This replaces 2.4.3's narrowed 6.2rem phone menu.

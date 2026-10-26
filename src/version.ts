@@ -1,3 +1,3 @@
-export const SITE_VERSION = '2.4.9';
-export const SITE_VERSION_DATE = '2026-10-25';
-export const SITE_VERSION_NOTES = 'Version number next to the title, with the internal dot';
+export const SITE_VERSION = '2.4.10';
+export const SITE_VERSION_DATE = '2026-10-26';
+export const SITE_VERSION_NOTES = 'Old addresses redirected; search markup removed';
