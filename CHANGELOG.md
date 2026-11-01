@@ -4,6 +4,16 @@ Started 2026-10-13. Earlier versions (up to 1.7.1) were only tracked in `src/ver
 
 ---
 
+## 2.14.0
+
+**"I feel stuck or lost" becomes "I feel stuck or uninspired"** (owner, 2026-11-01: "should we add i am not inspired as use case?" → widen the existing situation instead of a seventh card, "ok"; "should we mention multiple options beyond find your purpose such as ideation?" → one main path plus a short "Other ways in" line, "ok").
+- New label on the home card, Start Here, the situation page title and the back button at the end of "Find your direction".
+- Situation page lead: "You're busy but not sure what for, or nothing sparks anymore. A sense of direction brings back energy and makes everyday choices easier."
+- New "Other ways in" line under the path: Ideation & Assessment ("Collect ideas before choosing") and Inspiration → Daily Activities ("Small daily activities that bring energy back"). The main path (Find your direction → try today → IntentFlow) is unchanged.
+- Not changed: guide texts and audio; the intro video still says "I feel stuck or lost" (close enough, no re-record); French.
+
+**Verification:** site builds in a scratch copy; phone-width screenshots of the home and the situation page checked.
+
 ## 2.13.4
 
 **Old "Listen" button removed** (owner, 2026-11-01: "shall the previous listen button be removed? the voice is really bad" → "yes"). The floating Listen button read pages with the phone's built-in text-to-speech voice, which sounded robotic. It is gone from all pages (script in `overrides/Head.astro` and its `#yv-tts-*` styles in `custom.css`). The six situation guides keep their recorded audio player; other guides have no listen option for now.
