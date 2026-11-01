@@ -51,3 +51,10 @@ Once priorities are set, effective planning ensures execution:
 ## Combining prioritization with assessment
 
 Prioritization works best when paired with the [Ideation & Assessment](/decision-foundation/ideation-assessment) framework — first evaluate options, then rank them by efficiency and urgency to determine where to focus next.
+
+<!-- 2.8.0: closes the situation path (help/decide.mdx) so the guide doesn't end in a dead end. -->
+<div class="yv-next">
+<p class="yv-next-t">Your next step</p>
+<p><strong>Try today:</strong> Write your options down. Give each one a score from 1 to 5 for impact and for effort. Start with the one that has high impact and low effort.</p>
+<p class="yv-next-btns"><a class="yv-btn" href="https://intentflow.yeahvibe.com/" target="_blank" rel="noopener">Open in IntentFlow</a> <a class="yv-btn yv-btn--ghost" href="/help/decide/">‹ Back to “I can't decide”</a></p>
+</div>

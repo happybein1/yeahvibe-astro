@@ -400,3 +400,9 @@ a.yv-card:hover, .yv-card:hover { transform: translateY(-3px); border-color: var
 .sl-markdown-content a.yv-btn--ghost { background: transparent; color: var(--sl-color-accent); border: 1.5px solid var(--sl-color-accent); }
 .sl-markdown-content .yv-path-note { margin-top: .9rem; font-size: .88rem; color: var(--sl-color-gray-3); font-style: italic; }
 .sl-markdown-content .yv-related { margin-top: 1.2rem; font-size: .9rem; color: var(--sl-color-gray-3); }
+
+/* 2.8.0: "Your next step" box at the end of each situation's guide */
+.sl-markdown-content .yv-next { margin-top: 2.5rem; padding: 1rem 1.2rem; border: 1.5px solid var(--sl-color-accent); border-radius: 14px; background: var(--sl-color-accent-low); }
+.sl-markdown-content .yv-next p { margin: .4rem 0; }
+.sl-markdown-content .yv-next-t { font-weight: 800; font-size: 1.05rem; color: var(--sl-color-white); }
+.sl-markdown-content .yv-next-btns { display: flex; flex-wrap: wrap; gap: .5rem; margin-top: .8rem !important; }

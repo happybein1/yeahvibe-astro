@@ -47,3 +47,10 @@ Racing thoughts at bedtime are one of the most common sleep disruptors. A brief 
 ## When sleep is consistently poor
 
 Chronic poor sleep warrants attention. Common causes include sleep apnea (especially if you snore or feel unrefreshed after a full night), anxiety or depression, poor sleep hygiene, or shift work. Consulting a doctor or sleep specialist is worthwhile if self-directed changes don't help within a few weeks.
+
+<!-- 2.8.0: closes the situation path (help/tired.mdx) so the guide doesn't end in a dead end. -->
+<div class="yv-next">
+<p class="yv-next-t">Your next step</p>
+<p><strong>Try today:</strong> Pick one bedtime and one wake-up time, and keep them for the next 7 days, weekends included.</p>
+<p class="yv-next-btns"><a class="yv-btn" href="https://intentflow.yeahvibe.com/" target="_blank" rel="noopener">Open in IntentFlow</a> <a class="yv-btn yv-btn--ghost" href="/help/tired/">‹ Back to “I'm tired or sleep badly”</a></p>
+</div>

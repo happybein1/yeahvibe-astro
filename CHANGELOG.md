@@ -4,6 +4,15 @@ Started 2026-10-13. Earlier versions (up to 1.7.1) were only tracked in `src/ver
 
 ---
 
+## 2.8.0
+
+**"Your next step" at the end of each situation's guide** (owner, 2026-11-01: "keep improving the flow of the english version before translations and recording" → proposal → "ok", screenshot → "ok"). The situation path broke at the guide: step 1 "Read" led to a guide that simply ended.
+- The six guides used as step 1 (Stress and Overwhelm, Connection and Loneliness, Independent Prioritization, Find Your Directional Purpose, Sleeping Well, Mastering Finance Basics) now end with a box: **Your next step**, the situation's "Try today" action, **Open in IntentFlow**, and **‹ Back to "<situation>"**. Plain HTML appended to each `.md` (with an HTML comment naming its `help/*.mdx` page); styles `.yv-next*` in `custom.css`.
+- Reading time of the two new guides corrected from 5 to 3 min (frontmatter and the "Read" buttons on "I'm overwhelmed" and "I feel alone…"), matching what the page itself shows.
+- English only (owner: improve the English flow before translations).
+
+**Verification:** site builds in a scratch copy (89 pages); the box renders on each guide; phone-width screenshot of Stress and Overwhelm checked and sent to the owner.
+
 ## 2.7.0
 
 **Two new guides fill the "in preparation" gaps** (owner, 2026-11-01: "what would you do next" → outlines → "write them" → "ok go for them"). English only for now.

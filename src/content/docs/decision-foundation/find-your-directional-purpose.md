@@ -38,3 +38,10 @@ Once your purpose is clear, use it as a filter:
 - Does this decision respect my fundamental needs?
 
 If the answer to all three is yes, you have strong alignment. If not, it's worth asking whether the goal is truly worth pursuing — or whether it's a distraction dressed up as progress.
+
+<!-- 2.8.0: closes the situation path (help/stuck.mdx) so the guide doesn't end in a dead end. -->
+<div class="yv-next">
+<p class="yv-next-t">Your next step</p>
+<p><strong>Try today:</strong> Finish this sentence in three different ways: "A good year for me would be one where…". Keep the one that feels most true.</p>
+<p class="yv-next-btns"><a class="yv-btn" href="https://intentflow.yeahvibe.com/" target="_blank" rel="noopener">Open in IntentFlow</a> <a class="yv-btn yv-btn--ghost" href="/help/stuck/">‹ Back to “I feel stuck or lost”</a></p>
+</div>

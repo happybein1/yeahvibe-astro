@@ -1,7 +1,7 @@
 ---
 title: Stress and Overwhelm
 description: Understand what stress does, calm it in the moment, and lighten the load for good.
-reading_time: "5 min"
+reading_time: "3 min"
 sidebar:
   order: 6
 ---
@@ -51,3 +51,10 @@ If stress lasts for weeks, affects your sleep, work or relationships, or comes w
 ## At the societal level
 
 Much of today's stress has shared causes: heavy workloads, insecure jobs and housing, rising costs and constant digital demands. Personal habits help, but lasting relief also depends on how work, cities and services are organised, and on whether people have enough security to plan their lives.
+
+<!-- 2.8.0: closes the situation path (help/overwhelmed.mdx) so the guide doesn't end in a dead end. -->
+<div class="yv-next">
+<p class="yv-next-t">Your next step</p>
+<p><strong>Try today:</strong> Write down everything on your mind, all of it. Then circle just three things for today, and let the rest wait.</p>
+<p class="yv-next-btns"><a class="yv-btn" href="https://intentflow.yeahvibe.com/" target="_blank" rel="noopener">Open in IntentFlow</a> <a class="yv-btn yv-btn--ghost" href="/help/overwhelmed/">‹ Back to “I'm overwhelmed”</a></p>
+</div>

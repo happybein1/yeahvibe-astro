@@ -1,7 +1,7 @@
 ---
 title: Connection and Loneliness
 description: Loneliness is common and nothing to be ashamed of. Small, regular steps rebuild connection.
-reading_time: "5 min"
+reading_time: "3 min"
 sidebar:
   order: 7
 ---
@@ -53,3 +53,10 @@ If loneliness comes with low mood that doesn't lift, hopelessness or dark though
 ## At the societal level
 
 How easy it is to meet people depends a lot on how society is organised: the design of neighbourhoods, public spaces and transport, working hours, the ageing of the population, and how much of life has moved online. Places where people can meet regularly and for free, like libraries, parks, community centres and clubs, are one of the simplest ways to reduce loneliness for everyone.
+
+<!-- 2.8.0: closes the situation path (help/alone.mdx) so the guide doesn't end in a dead end. -->
+<div class="yv-next">
+<p class="yv-next-t">Your next step</p>
+<p><strong>Try today:</strong> Send one message today to someone you'd like to hear from more often. Keep it short and simple.</p>
+<p class="yv-next-btns"><a class="yv-btn" href="https://intentflow.yeahvibe.com/" target="_blank" rel="noopener">Open in IntentFlow</a> <a class="yv-btn yv-btn--ghost" href="/help/alone/">‹ Back to “I feel alone, or it's hard with others”</a></p>
+</div>
