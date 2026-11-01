@@ -412,6 +412,6 @@ a.yv-card:hover, .yv-card:hover { transform: translateY(-3px); border-color: var
 .sl-markdown-content details.yv-video > summary { display: flex; align-items: center; gap: .8rem; padding: .8rem 1rem; cursor: pointer; list-style: none; }
 .sl-markdown-content details.yv-video > summary::-webkit-details-marker { display: none; }
 .sl-markdown-content details.yv-video[open] > summary { border-bottom: 1px solid var(--sl-color-hairline); }
-.yv-video-play { flex: none; width: 2.4rem; height: 2.4rem; border-radius: 50%; background: var(--sl-color-accent); color: var(--sl-color-black); display: flex; align-items: center; justify-content: center; font-size: 1rem; }
+.yv-video-play { flex: none; width: 2.4rem; height: 2.4rem; border-radius: 50%; background: var(--sl-color-accent); color: #fff; display: flex; align-items: center; justify-content: center; }
 .yv-video-sub { display: block; font-size: .82rem; color: var(--sl-color-gray-3); }
 .sl-markdown-content details.yv-video video { display: block; width: 100%; margin: 0; }

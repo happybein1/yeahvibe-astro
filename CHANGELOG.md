@@ -4,6 +4,14 @@ Started 2026-10-13. Earlier versions (up to 1.7.1) were only tracked in `src/ver
 
 ---
 
+## 2.13.3
+
+**Home: play icon and banner text** (owner, 2026-11-01, phone screenshot: "is this as intended?" → "ok").
+- The video card's ▶ character showed as an orange emoji on Android; it is now a drawn (SVG) white triangle.
+- Banner text matches the situation-based site and the video: "Short, practical guides to feel better and decide better. Pick what you need, read for 3 minutes, try one small step." (was "The base of HappyBein: the human needs behind what people want, and practical frameworks…").
+
+**Verification:** site builds in a scratch copy; phone-width screenshot checked.
+
 ## 2.13.2
 
 **Old self-assessment form removed from the remaining English pages** (owner, 2026-11-01: "yes" to the cleanup after 2.13.1). The external JotForm self-assessment (222552689387066) is replaced by the situation-based home:
