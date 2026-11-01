@@ -4,6 +4,16 @@ Started 2026-10-13. Earlier versions (up to 1.7.1) were only tracked in `src/ver
 
 ---
 
+## 2.9.0
+
+**"Start here" rewritten to match the situation-based home** (owner, 2026-11-01: "yes" to updating it, screenshot → "ok"). English only.
+- New intro (what YeahCore is, in one plain sentence) replaces the "high-leverage journey / we don't believe in busy" text. Title "Start Here — The YeahCore Roadmap" → "Start Here".
+- New section **The quickest start: pick what you need** with the six situations (`/help/*`).
+- **The 4 pillars** (was "The 4 Pillars of Leverage"; home link anchor updated to `#the-4-pillars`): same cards, plainer names and text: Direction and priorities (tag "A good place to start") · Mindset and wellbeing · Organising your life · Working with others; labels "The Remedy for / The Insight" → "Helps when / The idea". Pillar 2 lists the two new guides; "Human's Physiological Needs" → "Human needs".
+- Removed: the Master List section, the external JotForm self-assessment links, the "Your First Step" list and the closing slogan. New closing section **Keep it going** pointing to IntentFlow.
+
+**Verification:** site builds in a scratch copy (89 pages); phone-width screenshot checked and sent to the owner; home "The 4 pillars" link points at the new anchor.
+
 ## 2.8.0
 
 **"Your next step" at the end of each situation's guide** (owner, 2026-11-01: "keep improving the flow of the english version before translations and recording" → proposal → "ok", screenshot → "ok"). The situation path broke at the guide: step 1 "Read" led to a guide that simply ended.
