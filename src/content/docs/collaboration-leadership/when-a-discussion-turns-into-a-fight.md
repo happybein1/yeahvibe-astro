@@ -2,6 +2,8 @@
 title: When a Discussion Turns into a Fight
 description: Some people don't want to understand, they want to win. Spot it early, keep your calm, and know when to stop.
 reading_time: "3 min"
+audio: https://audio.happybein.com/yeahcore/when-a-discussion-turns-into-a-fight.podcast.en.mp3
+audioMinutes: 2
 ---
 
 ## Good arguments are not enough

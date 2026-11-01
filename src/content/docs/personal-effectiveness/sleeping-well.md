@@ -4,8 +4,8 @@ description: The science and practice of quality sleep and why it is foundationa
 reading_time: "4 min"
 sidebar:
   order: 4
-audio: https://audio.happybein.com/yeahcore/sleeping-well.en.mp3
-audioMinutes: 3
+audio: https://audio.happybein.com/yeahcore/sleeping-well.podcast.en.mp3
+audioMinutes: 2
 ---
 
 

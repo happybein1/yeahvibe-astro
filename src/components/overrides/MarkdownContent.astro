@@ -7,7 +7,8 @@ const readLabel = isFr ? 'de lecture' : 'read';
 // in Head.astro steps aside on pages that have one.
 const audio = (Astro.locals.starlightRoute.entry.data as any).audio as (string | undefined);
 const audioMin = (Astro.locals.starlightRoute.entry.data as any).audioMinutes as (number | undefined);
-const audioLabel = isFr ? 'Écouter ce guide' : 'Listen to this guide';
+// 2.16.0: English audio is now a short podcast (Emma interviews Sam), not the page read aloud.
+const audioLabel = isFr ? 'Écouter ce guide' : 'Listen to the podcast';
 ---
 
 <div class="yv-reading-time" id="yv-reading-time" aria-label="Reading time">

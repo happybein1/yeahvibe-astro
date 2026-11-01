@@ -4,7 +4,7 @@ description: Loneliness is common and nothing to be ashamed of. Small, regular s
 reading_time: "3 min"
 sidebar:
   order: 7
-audio: https://audio.happybein.com/yeahcore/connection-and-loneliness.en.mp3
+audio: https://audio.happybein.com/yeahcore/connection-and-loneliness.podcast.en.mp3
 audioMinutes: 3
 ---
 

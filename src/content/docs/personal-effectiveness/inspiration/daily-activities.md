@@ -4,6 +4,8 @@ description: Practical daily activities and routines that build well-being, ener
 reading_time: "4 min"
 sidebar:
   order: 1
+audio: https://audio.happybein.com/yeahcore/daily-activities.podcast.en.mp3
+audioMinutes: 3
 ---
 
 

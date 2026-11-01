@@ -4,7 +4,7 @@ description: Understand the deeper goals and values that guide your decisions â€
 reading_time: "3 min"
 sidebar:
   order: 5
-audio: https://audio.happybein.com/yeahcore/find-your-directional-purpose.en.mp3
+audio: https://audio.happybein.com/yeahcore/find-your-directional-purpose.podcast.en.mp3
 audioMinutes: 2
 ---
 

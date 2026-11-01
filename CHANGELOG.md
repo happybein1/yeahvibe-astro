@@ -4,6 +4,18 @@ Started 2026-10-13. Earlier versions (up to 1.7.1) were only tracked in `src/ver
 
 ---
 
+## 2.16.0
+
+**Podcast audio for 9 guides** (owner, 2026-11-01: "the voice is really bad" for the browser voice → recorded audio; "I personally prefer a podcast like version, even if it does not perfectly match the text"; "more about someone interviewing a knowledgeable person"; "I feel better having the woman interviewing the man"; names Emma and Sam "fine"; AI note made clearer; scripts reviewed → "go").
+- Each episode is a 2–3 minute interview: Emma (host, Kokoro `af_heart`) asks the listener's questions, Sam (guest, `am_puck`) explains the good practices with everyday examples and ends with one thing to try today. Last line, after a 1-second pause: "Just so you know: the voices in this episode were generated with AI."
+- Guides: Independent Prioritization, Stress and Overwhelm, Find Your Directional Purpose, Sleeping Well, When Money Is Tight, Connection and Loneliness (these six replace their read-aloud audio from 2.12.0), plus When a Discussion Turns into a Fight, Ideation & Assessment and Daily Activities (new audio).
+- Files at `https://audio.happybein.com/yeahcore/<slug>.podcast.en.mp3` (new addresses, so no cached old audio); front matter `audio`/`audioMinutes` updated.
+- Player label (English): "Listen to the podcast" (was "Listen to this guide").
+- Ideation & Assessment and Daily Activities have no "Try today" on the page; their episodes add one (ten ideas in ten minutes; one small habit every day this week).
+- Recording: `make_podcast.py` on the ROG (Kokoro), scripts `podcast-<slug>.en.txt`; not in this repo.
+
+**Verification:** site builds in a scratch copy; the 9 audio URLs answer; a guide page shows the player.
+
 ## 2.15.0
 
 **New guide: "When a Discussion Turns into a Fight"** (owner, 2026-11-01: shared a French text with tips on arguments that go nowhere, "would it make sense to add an article covering these very useful tips?" → draft in our own words → "go ahead").

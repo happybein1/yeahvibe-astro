@@ -4,6 +4,8 @@ description: Best practices for generating ideas and evaluating goals and plans 
 reading_time: "5 min"
 sidebar:
   order: 1
+audio: https://audio.happybein.com/yeahcore/ideation-assessment.podcast.en.mp3
+audioMinutes: 2
 ---
 
 
