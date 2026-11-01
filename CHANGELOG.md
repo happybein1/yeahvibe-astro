@@ -4,6 +4,16 @@ Started 2026-10-13. Earlier versions (up to 1.7.1) were only tracked in `src/ver
 
 ---
 
+## 2.6.0
+
+**Home starts from situations** (owner, 2026-11-01: "how would this site be used by people? it feels like too much information and not clear where to go despite the pillars" → mock-up → "go for it in English only for now, I will try how it feels later").
+- The English home now asks **"What do you need help with right now?"** with six situations: I can't decide · I'm overwhelmed · I feel stuck or lost · I'm tired or sleep badly · Money worries me · I feel alone, or it's hard with others. Below it, **The bigger picture**: What people need, The 4 pillars, Explore everything (Start Here). The former home sections (needs cards, 4 pillars grid, practical guides grid) are replaced by these; the hero and the YeahCore → YeahSight → YeahVibe chain stay.
+- Each situation has its own page (`src/content/docs/help/<slug>.mdx`, not in the menu) with one short path: **1 Read** (the single best existing article, with its reading time), **2 Try today** (one concrete action), **3 Keep it going** (open IntentFlow), plus two related links. "I'm overwhelmed" and "I feel alone…" use the closest existing articles and say that a dedicated guide (stress and emotions; relationships and loneliness) is in preparation.
+- English only; the French home is unchanged (Starlight shows the English situation pages on /fr/ with its usual "not translated" notice).
+- New styles in `custom.css` (`.yv-sits`, `.yv-links`, `.yv-path`, `.yv-pstep`, `.yv-btn`).
+
+**Verification:** site builds in a scratch copy; every internal link on the home and the six pages resolves to a built page; phone-width screenshots of the home and "I can't decide" checked.
+
 ## 2.5.0
 
 **"What People Need" gets its own menu section** (owner, 2026-11-01, sidebar screenshot: the needs pages "kind of do [cover what people need] but are a bit buried"). The three pages on what people need were three levels deep (Decision Foundation → Find Your Directional Purpose). They now form a section of their own right after Start Here, open by default: **🫀 What People Need** / *🫀 Ce dont les gens ont besoin*, with plainer titles (page titles and menu, en and fr):
