@@ -4,6 +4,14 @@ Started 2026-10-13. Earlier versions (up to 1.7.1) were only tracked in `src/ver
 
 ---
 
+## 2.14.1
+
+**Home: "Start here" goes to the situations; floating tools button removed** (owner, 2026-11-01, phone screenshot: the floating "YeahVibe tools" button covered the "What do you need help with right now?" heading, and "should start here not just link to the 6 use cases below?" → "ok").
+- The home banner's "Start here" button now scrolls down to the six situation cards (`#what-do-you-need-help-with-right-now`) instead of opening the Start Here page. Start Here stays in the menu.
+- The floating "⊞ YeahVibe tools" pill (script in `overrides/Head.astro`) is removed from all pages. YeahVibe tools stays reachable from the menu ("Related → YeahVibe tools ↗") and a new footer link; the guides' "Your next step" boxes link to the right tool directly.
+
+**Verification:** site builds in a scratch copy; phone-width screenshot checked; the button's anchor matches the heading id.
+
 ## 2.14.0
 
 **"I feel stuck or lost" becomes "I feel stuck or uninspired"** (owner, 2026-11-01: "should we add i am not inspired as use case?" → widen the existing situation instead of a seventh card, "ok"; "should we mention multiple options beyond find your purpose such as ideation?" → one main path plus a short "Other ways in" line, "ok").
