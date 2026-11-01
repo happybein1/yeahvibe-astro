@@ -4,6 +4,17 @@ Started 2026-10-13. Earlier versions (up to 1.7.1) were only tracked in `src/ver
 
 ---
 
+## 2.17.0
+
+**Podcast audio, batch 2: 11 more guides** (owner, 2026-11-01: "ok go for batch 2", scripts reviewed → "go").
+- Same format as 2.16.0 (Emma interviews Sam, one thing to try today, separate AI-voice line at the end).
+- Direction & Priorities: Clarity & Alignment, Tracking and Update, What drives our feelings, What people aim for, Human needs.
+- Mindset & Wellbeing: Habits Improvement, Growth Mindset, Fear Management, Mastering Finance Basics (personal part only; points to "When money is tight" if money is a struggle now), Time Spent Identification, Long-Term Goals.
+- These guides have no "Try today" on the page; each episode adds its own.
+- Files at `https://audio.happybein.com/yeahcore/<slug>.podcast.en.mp3`; front matter `audio`/`audioMinutes` added.
+
+**Verification:** site builds in a scratch copy; the 11 audio URLs answer.
+
 ## 2.16.0
 
 **Podcast audio for 9 guides** (owner, 2026-11-01: "the voice is really bad" for the browser voice → recorded audio; "I personally prefer a podcast like version, even if it does not perfectly match the text"; "more about someone interviewing a knowledgeable person"; "I feel better having the woman interviewing the man"; names Emma and Sam "fine"; AI note made clearer; scripts reviewed → "go").

@@ -4,6 +4,8 @@ description: How to develop a growth mindset and why it is foundational to long-
 reading_time: "4 min"
 sidebar:
   order: 2
+audio: https://audio.happybein.com/yeahcore/growth-mindset.podcast.en.mp3
+audioMinutes: 2
 ---
 
 

@@ -4,6 +4,8 @@ description: How to monitor decisions and plans over time and adapt when circums
 reading_time: "4 min"
 sidebar:
   order: 4
+audio: https://audio.happybein.com/yeahcore/tracking-and-update.podcast.en.mp3
+audioMinutes: 2
 ---
 
 

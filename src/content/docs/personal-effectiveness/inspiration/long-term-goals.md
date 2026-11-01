@@ -4,6 +4,8 @@ description: How to set, structure, and pursue goals that unfold over months and
 reading_time: "4 min"
 sidebar:
   order: 2
+audio: https://audio.happybein.com/yeahcore/long-term-goals.podcast.en.mp3
+audioMinutes: 2
 ---
 
 

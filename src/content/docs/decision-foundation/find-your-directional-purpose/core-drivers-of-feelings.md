@@ -4,6 +4,8 @@ description: Understand what drives your emotional states and how to use that kn
 reading_time: "4 min"
 sidebar:
   order: 2
+audio: https://audio.happybein.com/yeahcore/core-drivers-of-feelings.podcast.en.mp3
+audioMinutes: 2
 ---
 
 Feelings are not random — they are signals generated in response to specific conditions. Understanding what drives your feelings is a powerful tool for decision-making, because decisions that ignore emotional reality tend to fail even when they look logical on paper.

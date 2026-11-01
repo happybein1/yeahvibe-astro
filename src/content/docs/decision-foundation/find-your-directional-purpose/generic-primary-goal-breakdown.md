@@ -4,6 +4,8 @@ description: A structured breakdown of primary goals for individuals and organiz
 reading_time: "4 min"
 sidebar:
   order: 1
+audio: https://audio.happybein.com/yeahcore/generic-primary-goal-breakdown.podcast.en.mp3
+audioMinutes: 2
 ---
 
 This framework helps individuals and organizations identify and structure their primary goals into a coherent hierarchy.

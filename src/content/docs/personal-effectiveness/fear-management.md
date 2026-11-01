@@ -4,6 +4,8 @@ description: Practical strategies for understanding and managing fear so it no l
 reading_time: "4 min"
 sidebar:
   order: 3
+audio: https://audio.happybein.com/yeahcore/fear-management.podcast.en.mp3
+audioMinutes: 2
 ---
 
 

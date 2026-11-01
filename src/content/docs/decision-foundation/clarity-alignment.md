@@ -4,6 +4,8 @@ description: How to clearly define goals, combine plans for efficiency, and dele
 reading_time: "4 min"
 sidebar:
   order: 3
+audio: https://audio.happybein.com/yeahcore/clarity-alignment.podcast.en.mp3
+audioMinutes: 2
 ---
 
 

@@ -4,6 +4,8 @@ description: How to understand where your time actually goes — and use that in
 reading_time: "4 min"
 sidebar:
   order: 5
+audio: https://audio.happybein.com/yeahcore/time-spent-identification.podcast.en.mp3
+audioMinutes: 2
 ---
 
 

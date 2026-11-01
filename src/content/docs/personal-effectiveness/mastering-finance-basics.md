@@ -4,6 +4,8 @@ description: Essential financial concepts everyone should understand to make bet
 reading_time: "5 min"
 sidebar:
   order: 1
+audio: https://audio.happybein.com/yeahcore/mastering-finance-basics.podcast.en.mp3
+audioMinutes: 2
 ---
 
 Financial literacy is one of the highest-leverage skills an individual can develop. Understanding the basics of finance enables better personal decisions, more informed organizational participation, and greater economic resilience.

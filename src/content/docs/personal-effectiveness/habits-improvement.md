@@ -4,6 +4,8 @@ description: Effective strategies for building new habits and breaking old ones,
 reading_time: "4 min"
 sidebar:
   order: 1
+audio: https://audio.happybein.com/yeahcore/habits-improvement.podcast.en.mp3
+audioMinutes: 2
 ---
 
 

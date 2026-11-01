@@ -4,6 +4,8 @@ description: The fundamental human needs that underpin all effective decision-ma
 reading_time: "4 min"
 sidebar:
   order: 3
+audio: https://audio.happybein.com/yeahcore/humans-physiological-needs.podcast.en.mp3
+audioMinutes: 3
 ---
 
 At the foundation of all goals and decisions are universal human needs. When these needs are unmet, everything else — productivity, creativity, relationships, and judgment — suffers. When they are met, everything else becomes possible.
