@@ -1,5 +1,5 @@
 ---
-title: "Pillar 3: Organizing Your Surroundings & Processes"
+title: "Pillar 3: Organising Your Life"
 description: Success is a product of low friction. Optimize your environment — physical and digital — to reclaim your energy.
 sidebar:
   order: 3

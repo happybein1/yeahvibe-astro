@@ -58,14 +58,14 @@ export default defineConfig({
                     translations: { fr: 'Les 4 Piliers' },
                     collapsed: false,
                     items: [
-                        { label: 'Pillar 1: Direction', translations: { fr: 'Pilier 1 : Direction' }, slug: 'pillars/direction' },
-                        { label: 'Pillar 2: Mindset', translations: { fr: "Pilier 2 : État d'esprit" }, slug: 'pillars/mindset' },
-                        { label: 'Pillar 3: Organization', translations: { fr: 'Pilier 3 : Organisation' }, slug: 'pillars/organization' },
-                        { label: 'Pillar 4: Collaboration', translations: { fr: 'Pilier 4 : Collaboration' }, slug: 'pillars/collaboration' },
+                        { label: 'Pillar 1: Direction & Priorities', translations: { fr: 'Pilier 1 : Direction' }, slug: 'pillars/direction' },
+                        { label: 'Pillar 2: Mindset & Wellbeing', translations: { fr: "Pilier 2 : État d'esprit" }, slug: 'pillars/mindset' },
+                        { label: 'Pillar 3: Organising Your Life', translations: { fr: 'Pilier 3 : Organisation' }, slug: 'pillars/organization' },
+                        { label: 'Pillar 4: Working with Others', translations: { fr: 'Pilier 4 : Collaboration' }, slug: 'pillars/collaboration' },
                     ],
                 },
                 {
-                    label: 'Decision Foundation',
+                    label: 'Direction & Priorities',
                     translations: { fr: 'Fondation de la décision' },
                     collapsed: false,
                     items: [
@@ -77,7 +77,7 @@ export default defineConfig({
                     ],
                 },
                 {
-                    label: 'Personal Effectiveness',
+                    label: 'Mindset & Wellbeing',
                     translations: { fr: 'Efficacité personnelle' },
                     collapsed: false,
                     items: [
@@ -101,7 +101,7 @@ export default defineConfig({
                     ],
                 },
                 {
-                    label: 'Organizational Processes',
+                    label: 'Organising Your Life',
                     translations: { fr: 'Processus organisationnels' },
                     collapsed: false,
                     items: [
@@ -111,7 +111,7 @@ export default defineConfig({
                     ],
                 },
                 {
-                    label: 'Collaboration & Leadership',
+                    label: 'Working with Others',
                     translations: { fr: 'Collaboration et leadership' },
                     collapsed: false,
                     items: [

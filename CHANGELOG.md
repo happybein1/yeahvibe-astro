@@ -4,6 +4,14 @@ Started 2026-10-13. Earlier versions (up to 1.7.1) were only tracked in `src/ver
 
 ---
 
+## 2.10.0
+
+**Plainer menu names, matching "Start here"** (owner, 2026-11-01: "ok" to renaming the menu sections like the 2.9.0 pillar names). English labels only; French menu labels and all URLs unchanged.
+- Menu sections: Decision Foundation → **Direction & Priorities** · Personal Effectiveness → **Mindset & Wellbeing** · Organizational Processes → **Organising Your Life** · Collaboration & Leadership → **Working with Others**.
+- "The 4 Pillars" menu items and the four pillar page titles: Pillar 1: Direction and Priorities · Pillar 2: Mindset and Wellbeing · Pillar 3: Organising Your Life · Pillar 4: Working with Others (were "Defining Direction & Priorities", "Enhancing the Mindset", "Organizing Your Surroundings & Processes", "Collaboration & Leadership Principles").
+
+**Verification:** site builds in a scratch copy (89 pages); new labels in the English menu, French menu unchanged.
+
 ## 2.9.0
 
 **"Start here" rewritten to match the situation-based home** (owner, 2026-11-01: "yes" to updating it, screenshot → "ok"). English only.

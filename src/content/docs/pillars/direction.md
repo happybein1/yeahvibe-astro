@@ -1,5 +1,5 @@
 ---
-title: "Pillar 1: Defining Direction & Priorities"
+title: "Pillar 1: Direction and Priorities"
 description: The foundation of everything. If you don't know where you're going, any road will take you there — but it likely won't be where you want to be.
 sidebar:
   order: 1

@@ -1,5 +1,5 @@
 ---
-title: "Pillar 2: Enhancing the Mindset"
+title: "Pillar 2: Mindset and Wellbeing"
 description: Your mindset is your internal operating system. We focus on cognitive reframing and resilience to make your growth sustainable.
 sidebar:
   order: 2

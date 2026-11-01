@@ -1,5 +1,5 @@
 ---
-title: "Pillar 4: Collaboration & Leadership Principles"
+title: "Pillar 4: Working with Others"
 description: You can only go so far alone. Learn the principles of influence that allow you to scale your impact through others.
 sidebar:
   order: 4
