@@ -101,55 +101,6 @@
   color: var(--sl-color-accent);
 }
 
-/* --- TTS button (injected at body level via Head.astro script) --- */
-#yv-tts-bar {
-  position: fixed;
-  bottom: 1.5rem;
-  right: 1.5rem;
-  z-index: 99999;
-  display: none; /* shown via JS only on article pages */
-  align-items: center;
-  gap: 0.5rem;
-  background: var(--sl-color-accent);
-  color: #fff;
-  border-radius: 2rem;
-  padding: 0.55rem 1.1rem;
-  box-shadow: 0 4px 20px rgba(0,0,0,0.35);
-  font-size: 0.85rem;
-  font-family: var(--sl-font);
-}
-#yv-tts-bar button {
-  background: none;
-  border: none;
-  color: #fff;
-  cursor: pointer;
-  display: flex;
-  align-items: center;
-  gap: 0.3rem;
-  font-size: 0.85rem;
-  padding: 0.1rem 0.2rem;
-}
-#yv-tts-bar button:hover { opacity: 0.8; }
-#yv-tts-controls {
-  display: none;
-  align-items: center;
-  gap: 0.4rem;
-}
-#yv-tts-progress-wrap {
-  width: 60px;
-  height: 4px;
-  background: rgba(255,255,255,0.3);
-  border-radius: 2px;
-  overflow: hidden;
-}
-#yv-tts-progress {
-  height: 100%;
-  width: 0%;
-  background: #fff;
-  border-radius: 2px;
-  transition: width 0.3s;
-}
-
 /* --- Collapse sidebar groups by default --- */
 .sidebar-content details[open] > summary ~ * {
   /* keep open ones open */

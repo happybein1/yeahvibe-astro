@@ -4,6 +4,12 @@ Started 2026-10-13. Earlier versions (up to 1.7.1) were only tracked in `src/ver
 
 ---
 
+## 2.13.4
+
+**Old "Listen" button removed** (owner, 2026-11-01: "shall the previous listen button be removed? the voice is really bad" → "yes"). The floating Listen button read pages with the phone's built-in text-to-speech voice, which sounded robotic. It is gone from all pages (script in `overrides/Head.astro` and its `#yv-tts-*` styles in `custom.css`). The six situation guides keep their recorded audio player; other guides have no listen option for now.
+
+**Verification:** site builds in a scratch copy; a guide page checked for no leftover button.
+
 ## 2.13.3
 
 **Home: play icon and banner text** (owner, 2026-11-01, phone screenshot: "is this as intended?" → "ok").
