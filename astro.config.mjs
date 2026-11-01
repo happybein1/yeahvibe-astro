@@ -87,6 +87,7 @@ export default defineConfig({
                         { label: 'Sleeping Well', translations: { fr: 'Bien dormir' }, slug: 'personal-effectiveness/sleeping-well' },
                         { label: 'Stress and Overwhelm', translations: { fr: 'Stress et surcharge' }, slug: 'personal-effectiveness/stress-and-overwhelm' },
                         { label: 'Connection and Loneliness', translations: { fr: 'Lien social et solitude' }, slug: 'personal-effectiveness/connection-and-loneliness' },
+                        { label: 'When Money Is Tight', translations: { fr: 'Quand l\'argent manque' }, slug: 'personal-effectiveness/when-money-is-tight' },
                         { label: 'Mastering Finance Basics', translations: { fr: 'Maîtriser les bases de la finance' }, slug: 'personal-effectiveness/mastering-finance-basics' },
                         { label: 'Time Spent Identification', translations: { fr: 'Identification du temps passé' }, slug: 'personal-effectiveness/time-spent-identification' },
                         {

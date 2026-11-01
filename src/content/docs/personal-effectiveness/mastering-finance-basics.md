@@ -59,9 +59,3 @@ At the organizational level, the same principles apply at larger scale:
 
 Understanding these statements enables more informed participation in organizational decisions, even for people who are not in finance roles.
 
-<!-- 2.8.0: closes the situation path (help/money.mdx) so the guide doesn't end in a dead end. -->
-<div class="yv-next">
-<p class="yv-next-t">Your next step</p>
-<p><strong>Try today:</strong> For the next 7 days, write down everything you spend, even the small things. Don't judge it yet, just look.</p>
-<p class="yv-next-btns"><a class="yv-btn" href="https://intentflow.yeahvibe.com/" target="_blank" rel="noopener">Open in IntentFlow</a> <a class="yv-btn yv-btn--ghost" href="/help/money/">‹ Back to “Money worries me”</a></p>
-</div>

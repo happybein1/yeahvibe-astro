@@ -4,6 +4,16 @@ Started 2026-10-13. Earlier versions (up to 1.7.1) were only tracked in `src/ver
 
 ---
 
+## 2.11.0
+
+**New guide "When Money Is Tight" for "💸 Money worries me"** (owner, 2026-11-01: "the finance article is not very well for a user having financial problem" → outline → "agree for you to draft" → "should that article refer to shoptools for budgets?" → "yes" → "okay"). English only.
+- `personal-effectiveness/when-money-is-tight.md` (3 min): first, breathe; see the full picture (income, fixed bills with dates, debts); protect the essentials first (housing, energy and water, food, health and getting to work; then debts with the biggest consequences); talk to creditors early; help you may be missing (benefits, free debt advice, local services; warning about paid "debt solutions" and quick loans); small steps (cancel unused subscriptions, weekly spending amount with the ShopTools Budget tab, shop with a list); when to get help, and a link to Money basics for when things are stable; at the societal level. Ends with "Your next step": list your fixed bills and their due dates, **Open ShopTools** (ShopTools has no link that opens the Budget tab directly, so the button opens the app), back to the situation.
+- `help/money.mdx`: step 1 reads the new guide; lead text matches it; step 2 "List your fixed bills and their due dates on one page"; step 3 "Set a weekly amount… in the Budget tab" with Open ShopTools; Related now Money basics · Where your time goes.
+- Mastering Finance Basics is no longer the situation's guide, so its "Your next step" box is removed (its content is unchanged; the owner has not yet decided on removing its business section).
+- Added to the Mindset & Wellbeing menu (fr label *Quand l'argent manque*) and to Pillar 2 on Start here.
+
+**Verification:** site builds in a scratch copy (91 pages); the new page has the next-step box, the old one no longer does.
+
 ## 2.10.0
 
 **Plainer menu names, matching "Start here"** (owner, 2026-11-01: "ok" to renaming the menu sections like the 2.9.0 pillar names). English labels only; French menu labels and all URLs unchanged.
