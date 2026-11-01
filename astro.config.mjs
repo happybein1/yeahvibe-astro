@@ -85,6 +85,8 @@ export default defineConfig({
                         { label: 'Growth Mindset', translations: { fr: "État d'esprit de croissance" }, slug: 'personal-effectiveness/growth-mindset' },
                         { label: 'Fear Management', translations: { fr: 'Gestion de la peur' }, slug: 'personal-effectiveness/fear-management' },
                         { label: 'Sleeping Well', translations: { fr: 'Bien dormir' }, slug: 'personal-effectiveness/sleeping-well' },
+                        { label: 'Stress and Overwhelm', translations: { fr: 'Stress et surcharge' }, slug: 'personal-effectiveness/stress-and-overwhelm' },
+                        { label: 'Connection and Loneliness', translations: { fr: 'Lien social et solitude' }, slug: 'personal-effectiveness/connection-and-loneliness' },
                         { label: 'Mastering Finance Basics', translations: { fr: 'Maîtriser les bases de la finance' }, slug: 'personal-effectiveness/mastering-finance-basics' },
                         { label: 'Time Spent Identification', translations: { fr: 'Identification du temps passé' }, slug: 'personal-effectiveness/time-spent-identification' },
                         {

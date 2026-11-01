@@ -4,6 +4,16 @@ Started 2026-10-13. Earlier versions (up to 1.7.1) were only tracked in `src/ver
 
 ---
 
+## 2.7.0
+
+**Two new guides fill the "in preparation" gaps** (owner, 2026-11-01: "what would you do next" → outlines → "write them" → "ok go for them"). English only for now.
+- **Stress and Overwhelm** (`personal-effectiveness/stress-and-overwhelm.md`, 5 min): stress isn't the enemy; signs you're overloaded (body, mind, behaviour); calm it in 2 minutes (long out-breath, name the feeling, move); lighten the load (empty your head, sort into do now / plan / drop / ask for help, pick three); protect recovery (links Sleeping well, Fear management); when to get help; at the societal level.
+- **Connection and Loneliness** (`personal-effectiveness/connection-and-loneliness.md`, 5 min): loneliness is a signal, not a flaw; why it matters; small steps (one message, one invitation, short chats); places where connection grows (regular shared activities); deepening what you have; when it's heavier (doctor or helpline); at the societal level.
+- Both added to the Personal Effectiveness menu after Sleeping Well (French menu labels: *Stress et surcharge*, *Lien social et solitude*; French pages not yet translated).
+- Situation pages: "I'm overwhelmed" and "I feel alone…" now use the new guides as step 1 Read; the "guide in preparation" notes are removed; their Related links now point to Where your time goes / Working well with others (the former step 1 articles).
+
+**Verification:** site builds in a scratch copy (89 pages); both guide pages built; all links on the two situation pages resolve.
+
 ## 2.6.0
 
 **Home starts from situations** (owner, 2026-11-01: "how would this site be used by people? it feels like too much information and not clear where to go despite the pillars" → mock-up → "go for it in English only for now, I will try how it feels later").
