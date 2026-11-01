@@ -4,6 +4,17 @@ Started 2026-10-13. Earlier versions (up to 1.7.1) were only tracked in `src/ver
 
 ---
 
+## 2.15.0
+
+**New guide: "When a Discussion Turns into a Fight"** (owner, 2026-11-01: shared a French text with tips on arguments that go nowhere, "would it make sense to add an article covering these very useful tips?" → draft in our own words → "go ahead").
+- `collaboration-leadership/when-a-discussion-turns-into-a-fight.md` (3 min): good arguments are not enough; watch before you answer; ask questions that make people think; stick to one point; you don't have to answer everything; check your own pride too; ends with "Your next step" (ask one precise question before answering) and a back button to "I feel alone, or it's hard with others".
+- Written in our own words from the shared tips; no quotes, no philosopher name.
+- Menu: Working with Others, after "Speak Clearly and Confidently" (French label set for later; no French page yet).
+- `help/alone.mdx`: new "Other ways in" line linking to it.
+- No audio yet.
+
+**Verification:** site builds in a scratch copy; the guide and situation page render.
+
 ## 2.14.2
 
 **Home: compact situation list on narrow phones** (owner, 2026-11-01, phone screenshot showing the six cards one per row with only four visible → "ok").

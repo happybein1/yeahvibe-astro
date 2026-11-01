@@ -1,3 +1,3 @@
-export const SITE_VERSION = '2.14.2';
+export const SITE_VERSION = '2.15.0';
 export const SITE_VERSION_DATE = '2026-11-01';
-export const SITE_VERSION_NOTES = 'Compact situation list on narrow phones';
+export const SITE_VERSION_NOTES = 'New guide: When a Discussion Turns into a Fight';

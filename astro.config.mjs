@@ -119,6 +119,7 @@ export default defineConfig({
                         { label: 'Collaboration Principles', translations: { fr: 'Principes de collaboration' }, slug: 'collaboration-leadership/collaboration-principles' },
                         { label: 'Influence and Leadership', translations: { fr: 'Influence et leadership' }, slug: 'collaboration-leadership/influence-and-leadership' },
                         { label: 'Speak Clearly and Confidently', translations: { fr: 'Parler clairement et avec confiance' }, slug: 'collaboration-leadership/speak-clearly-and-confidently' },
+                        { label: 'When a Discussion Turns into a Fight', translations: { fr: 'Quand une discussion tourne au conflit' }, slug: 'collaboration-leadership/when-a-discussion-turns-into-a-fight' },
                         { label: 'Group Decision Making', translations: { fr: 'Prise de décision en groupe' }, slug: 'collaboration-leadership/group-decision-making' },
                     ],
                 },
