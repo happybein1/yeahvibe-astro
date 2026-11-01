@@ -4,6 +4,8 @@ description: Understand what stress does, calm it in the moment, and lighten the
 reading_time: "3 min"
 sidebar:
   order: 6
+audio: https://audio.happybein.com/yeahcore/stress-and-overwhelm.en.mp3
+audioMinutes: 3
 ---
 
 ## Stress isn't the enemy

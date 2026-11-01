@@ -4,6 +4,8 @@ description: Money worries are common and stressful. A clear picture and a few f
 reading_time: "3 min"
 sidebar:
   order: 8
+audio: https://audio.happybein.com/yeahcore/when-money-is-tight.en.mp3
+audioMinutes: 4
 ---
 
 ## First, breathe

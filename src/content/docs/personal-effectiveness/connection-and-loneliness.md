@@ -4,6 +4,8 @@ description: Loneliness is common and nothing to be ashamed of. Small, regular s
 reading_time: "3 min"
 sidebar:
   order: 7
+audio: https://audio.happybein.com/yeahcore/connection-and-loneliness.en.mp3
+audioMinutes: 3
 ---
 
 ## Loneliness is a signal, not a flaw

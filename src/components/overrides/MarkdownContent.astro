@@ -3,6 +3,11 @@ import type { Props } from '@astrojs/starlight/props';
 
 const isFr = Astro.locals.starlightRoute.lang === 'fr';
 const readLabel = isFr ? 'de lecture' : 'read';
+// 2.12.0: recorded audio, same player as YeahSight. The floating "Listen" (browser voice) button
+// in Head.astro steps aside on pages that have one.
+const audio = (Astro.locals.starlightRoute.entry.data as any).audio as (string | undefined);
+const audioMin = (Astro.locals.starlightRoute.entry.data as any).audioMinutes as (number | undefined);
+const audioLabel = isFr ? 'Écouter ce guide' : 'Listen to this guide';
 ---
 
 <div class="yv-reading-time" id="yv-reading-time" aria-label="Reading time">
@@ -10,9 +15,19 @@ const readLabel = isFr ? 'de lecture' : 'read';
   <span id="yv-rt-text">...</span>
 </div>
 
+{audio && (
+  <div class="yv-audio">
+    <div class="yv-audio-head">🎧 <strong>{audioLabel}</strong>{audioMin && <span>{` · ${audioMin} min`}</span>}</div>
+    <audio controls preload="none" src={audio}></audio>
+  </div>
+)}
+
 <div class="sl-markdown-content"><slot /></div>
 
 <style>
+  .yv-audio { margin: 0 0 1.25rem; padding: .75rem .9rem; border-radius: 14px; border: 1px solid var(--sl-color-hairline); background: var(--sl-color-bg-nav); }
+  .yv-audio-head { font-size: .85rem; margin-bottom: .45rem; }
+  .yv-audio audio { width: 100%; }
   .yv-reading-time {
     display: flex;
     align-items: center;

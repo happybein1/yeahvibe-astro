@@ -4,6 +4,16 @@ Started 2026-10-13. Earlier versions (up to 1.7.1) were only tracked in `src/ver
 
 ---
 
+## 2.12.0
+
+**Recorded audio for the six situation guides** (owner, 2026-11-01: "shall we consider to get these articles recorded…?" → recommendation (audio first, explainer videos later) → "yes" → "publish"). English only.
+- The six guides used as a situation's step 1 (Stress and Overwhelm, Connection and Loneliness, Independent Prioritization, Find Your Directional Purpose, Sleeping Well, When Money Is Tight) have a recording in the HappyBein video voice (Kokoro `am_puck`, speed 0.95, made on the ROG with `happybein-astro/tools/video/make_intro.py`, `NAME=guide-<slug>`), 2–4 min each, mp3 48 kbit/s mono, loudness-normalised like YeahSight's episodes.
+- Hosted on R2 like YeahSight: `https://audio.happybein.com/yeahcore/<slug>.en.mp3` (uploaded with a copy of YeahSight's `upload_audio.py` using the `yeahcore/` prefix).
+- New front matter `audio` and `audioMinutes` (`src/content.config.ts`), shown by `MarkdownContent.astro` as a **🎧 Listen to this guide** player above the text (same look as YeahSight's). On those pages the floating "Listen" button (browser speech) in `Head.astro` steps aside.
+- Voice scripts were made from the guide text (title, then one part per heading; links, bold and the "Your next step" box removed). Independent Prioritization's impact/difficulty table is spoken as four sentences instead.
+
+**Verification:** site builds in a scratch copy (91 pages); the player appears on the six guides and not on others; the R2 file answers 200 `audio/mpeg`.
+
 ## 2.11.0
 
 **New guide "When Money Is Tight" for "💸 Money worries me"** (owner, 2026-11-01: "the finance article is not very well for a user having financial problem" → outline → "agree for you to draft" → "should that article refer to shoptools for budgets?" → "yes" → "okay"). English only.

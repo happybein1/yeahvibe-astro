@@ -216,7 +216,7 @@ const frUrl = currentPath.startsWith('/fr')
 <!-- TTS button injected at body level to avoid clipping -->
 <script>
 document.addEventListener('DOMContentLoaded', function() {
-  if (document.querySelector('.hero')) return;
+  if (document.querySelector('.hero') || document.querySelector('.yv-audio')) return;   // 2.12.0: a recorded version has its own player
 
   const lang = document.documentElement.lang || 'en';
   const isFr = lang.startsWith('fr');

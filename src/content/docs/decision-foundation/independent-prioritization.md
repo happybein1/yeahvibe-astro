@@ -4,6 +4,8 @@ description: Strategies for prioritizing goals and actions based on impact versu
 reading_time: "4 min"
 sidebar:
   order: 2
+audio: https://audio.happybein.com/yeahcore/independent-prioritization.en.mp3
+audioMinutes: 3
 ---
 
 

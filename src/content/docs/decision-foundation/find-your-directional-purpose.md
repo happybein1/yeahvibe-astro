@@ -4,6 +4,8 @@ description: Understand the deeper goals and values that guide your decisions â€
 reading_time: "3 min"
 sidebar:
   order: 5
+audio: https://audio.happybein.com/yeahcore/find-your-directional-purpose.en.mp3
+audioMinutes: 2
 ---
 
 Finding your directional purpose means identifying the core goals and values that guide your decisions over time. It provides the foundation upon which all other planning, prioritization, and action rest.
