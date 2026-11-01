@@ -12,3 +12,7 @@
 # Renamed in 2.0.0 (YeahCore)
 /about/about-yeahvibe/     /about/about-yeahcore/     301
 /fr/about/about-yeahvibe/  /fr/about/about-yeahcore/  301
+
+# Merged into Find Your Direction in 2.19.0 (English; the French pages stay until the French update)
+/decision-foundation/find-your-directional-purpose/generic-primary-goal-breakdown/  /decision-foundation/find-your-directional-purpose/  301
+/decision-foundation/find-your-directional-purpose/core-drivers-of-feelings/        /decision-foundation/find-your-directional-purpose/  301

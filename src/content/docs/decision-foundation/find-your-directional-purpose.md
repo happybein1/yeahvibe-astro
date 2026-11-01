@@ -1,47 +1,63 @@
 ---
-title: Find Your Directional Purpose
-description: Understand the deeper goals and values that guide your decisions — for individuals and organizations.
-reading_time: "3 min"
+title: Find Your Direction
+description: Busy but not sure what for, or nothing sparks anymore? Three questions help you find a direction that makes everyday choices easier.
+reading_time: "4 min"
+audio: https://audio.happybein.com/yeahcore/find-your-direction.podcast.en.mp3
+audioMinutes: 3
 sidebar:
   order: 5
-audio: https://audio.happybein.com/yeahcore/find-your-directional-purpose.podcast.en.mp3
-audioMinutes: 2
 ---
 
-Finding your directional purpose means identifying the core goals and values that guide your decisions over time. It provides the foundation upon which all other planning, prioritization, and action rest.
+<!-- 2.19.0 (owner, 2026-11-01): merged with "What people aim for" and "What drives our feelings", which now redirect here. -->
 
-## Why purpose matters in decision-making
+## A compass, not a map
 
-Without a clear sense of direction, decisions are made reactively — responding to what's urgent rather than what's important. A directional purpose acts as a compass: it doesn't tell you exactly which path to take, but it ensures you're always moving in the right direction.
+Without a sense of direction, we react to whatever is in front of us: the urgent message, the next request. We are busy, but not really going anywhere we chose. That is tiring, and it slowly takes the spark away.
 
-## The three layers of purpose
+A direction works like a compass. It doesn't tell you every step, but it shows you which way to go, so everyday choices become easier. Three questions help you find it.
 
-### 1. Primary goals
-What do you ultimately want to achieve? For individuals, this often comes down to well-being, growth, and meaningful contribution. For organizations, it might be sustainable impact, financial health, and stakeholder value.
+## 1. What do you want, over time?
 
-See: [Generic Primary Goal Breakdown](/decision-foundation/find-your-directional-purpose/generic-primary-goal-breakdown)
+Most of what people want comes back to four big areas:
 
-### 2. Core drivers of feelings
-What creates the emotional states you want more of — and less of? Understanding your emotional drivers helps you make decisions that are aligned with what genuinely matters, not just what looks good on paper.
+- **Wellbeing**: health and energy, feeling steady, a clear mind, feeling safe.
+- **Relationships**: close people you can count on, a place where you belong, helping others.
+- **Growth**: learning, reaching milestones that matter to you, living by your values.
+- **Freedom**: enough money not to depend on others, choosing how you spend your time.
 
-See: [Core Drivers of Feelings](/decision-foundation/find-your-directional-purpose/core-drivers-of-feelings)
+You don't need a big life goal. Notice which areas matter most to you right now, and which ones you have been neglecting.
 
-### 3. Physiological and fundamental needs
-At the base of all goals are universal human needs: safety, health, connection, autonomy, and meaning. Decisions that ignore these foundations tend to produce outcomes that feel hollow even when they succeed on paper.
+## 2. What gives you energy, and what drains it?
 
-See: [Human's Physiological Needs](/decision-foundation/find-your-directional-purpose/humans-physiological-needs)
+Some things leave you energised, others leave you empty, even when they look good on paper. Six things make the biggest difference:
 
-## Applying directional purpose
+- **Progress**: feeling that you are moving forward, even in small steps.
+- **Choice**: having a say in what you do and how.
+- **Feeling capable**: a challenge that is within reach, not too easy and not too hard.
+- **Belonging**: being part of something with other people.
+- **Meaning**: knowing why it matters.
+- **Safety**: being able to try, make mistakes and speak honestly without fear.
 
-Once your purpose is clear, use it as a filter:
+When something you do feels flat, check which of these is missing. Often one small change, like a clearer reason or a first small win, brings the energy back. The guide [Why we feel what we feel](/personal-effectiveness/why-we-feel-what-we-feel/) explains the brain chemistry behind this.
 
-- Does this goal move me closer to my primary purpose?
-- Does this plan support my core emotional drivers?
-- Does this decision respect my fundamental needs?
+## 3. Are your basic needs covered?
 
-If the answer to all three is yes, you have strong alignment. If not, it's worth asking whether the goal is truly worth pursuing — or whether it's a distraction dressed up as progress.
+Underneath everything are the needs every human being shares: health, safety, connection, freedom and meaning. A choice that ignores them can look like success and still feel empty. If one of them is badly missing, start there. The guide on [human needs](/decision-foundation/find-your-directional-purpose/humans-physiological-needs/) explains each one.
 
-<!-- 2.8.0: closes the situation path (help/stuck.mdx) so the guide doesn't end in a dead end. -->
+## Use it as a filter
+
+Once you have a rough answer to the three questions, use it before you say yes to something new:
+
+- Does this move me towards what I want?
+- Will it give me energy, or drain it?
+- Does it respect my basic needs?
+
+Three yeses: go for it. If not, it may be a distraction that only looks like progress.
+
+## When nothing sparks
+
+If you feel flat and have no ideas at all, don't wait for inspiration to arrive. It usually comes from doing. Try something small and new, spend time with people who inspire you, or collect ideas without judging them. The guide on [finding good ideas](/decision-foundation/ideation-assessment/) can help.
+
 <div class="yv-next">
 <p class="yv-next-t">Your next step</p>
 <p><strong>Try today:</strong> Finish this sentence in three different ways: "A good year for me would be one where…". Keep the one that feels most true.</p>

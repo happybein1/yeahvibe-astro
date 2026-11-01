@@ -48,8 +48,6 @@ export default defineConfig({
                     collapsed: false,
                     items: [
                         { label: 'Human needs', translations: { fr: 'Les besoins humains' }, slug: 'decision-foundation/find-your-directional-purpose/humans-physiological-needs' },
-                        { label: 'What drives our feelings', translations: { fr: 'Ce qui guide nos émotions' }, slug: 'decision-foundation/find-your-directional-purpose/core-drivers-of-feelings' },
-                        { label: 'What people aim for', translations: { fr: 'Ce que les gens recherchent' }, slug: 'decision-foundation/find-your-directional-purpose/generic-primary-goal-breakdown' },
                     ],
                 },
                 { label: '🛠️ Advised Tools', translations: { fr: '🛠️ Outils conseillés' }, slug: 'advised-tools' },
@@ -73,7 +71,7 @@ export default defineConfig({
                         { label: 'Independent Prioritization', translations: { fr: 'Priorisation indépendante' }, slug: 'decision-foundation/independent-prioritization' },
                         { label: 'Clarity & Alignment', translations: { fr: 'Clarté et alignement' }, slug: 'decision-foundation/clarity-alignment' },
                         { label: 'Tracking and Update', translations: { fr: 'Suivi et mise à jour' }, slug: 'decision-foundation/tracking-and-update' },
-                        { label: 'Find Your Directional Purpose', translations: { fr: 'Trouver votre objectif directionnel' }, slug: 'decision-foundation/find-your-directional-purpose' },
+                        { label: 'Find Your Direction', translations: { fr: 'Trouver votre objectif directionnel' }, slug: 'decision-foundation/find-your-directional-purpose' },
                     ],
                 },
                 {
@@ -84,6 +82,7 @@ export default defineConfig({
                         { label: 'Habits Improvement', translations: { fr: 'Amélioration des habitudes' }, slug: 'personal-effectiveness/habits-improvement' },
                         { label: 'Growth Mindset', translations: { fr: "État d'esprit de croissance" }, slug: 'personal-effectiveness/growth-mindset' },
                         { label: 'Fear Management', translations: { fr: 'Gestion de la peur' }, slug: 'personal-effectiveness/fear-management' },
+                        { label: 'Why We Feel What We Feel', translations: { fr: 'Pourquoi nous ressentons ce que nous ressentons' }, slug: 'personal-effectiveness/why-we-feel-what-we-feel' },
                         { label: 'Sleeping Well', translations: { fr: 'Bien dormir' }, slug: 'personal-effectiveness/sleeping-well' },
                         { label: 'Stress and Overwhelm', translations: { fr: 'Stress et surcharge' }, slug: 'personal-effectiveness/stress-and-overwhelm' },
                         { label: 'Connection and Loneliness', translations: { fr: 'Lien social et solitude' }, slug: 'personal-effectiveness/connection-and-loneliness' },

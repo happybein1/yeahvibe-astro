@@ -45,8 +45,7 @@ YeahCore is organized around four pillars, each targeting a specific type of cha
 
 ### Decision Foundation (Pillar 1)
 - Find Your Directional Purpose — Identifying the core goals and values that guide your decisions: https://yeahcore.happybein.com/decision-foundation/find-your-directional-purpose/
-- Generic Primary Goal Breakdown — Structuring primary goals into a coherent hierarchy for individuals and organizations: https://yeahcore.happybein.com/decision-foundation/find-your-directional-purpose/generic-primary-goal-breakdown/
-- Core Drivers of Feelings — Understanding the emotional signals behind decisions: https://yeahcore.happybein.com/decision-foundation/find-your-directional-purpose/core-drivers-of-feelings/
+- Why We Feel What We Feel — The brain chemistry behind motivation, recognition, closeness and stress, and habits that work with it: https://yeahcore.happybein.com/personal-effectiveness/why-we-feel-what-we-feel/
 - Human's Physiological Needs — The universal human needs that underpin all effective decision-making: https://yeahcore.happybein.com/decision-foundation/find-your-directional-purpose/humans-physiological-needs/
 - Ideation & Assessment — Generating ideas and evaluating goals using structured approaches: https://yeahcore.happybein.com/decision-foundation/ideation-assessment/
 - Independent Prioritization — Ranking actions by impact vs. effort and managing urgency: https://yeahcore.happybein.com/decision-foundation/independent-prioritization/

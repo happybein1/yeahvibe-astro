@@ -39,8 +39,7 @@ This pillar gives you the tools to answer three foundational questions:
 <summary>Explore all articles →</summary>
 <ul>
   <li><a href="/decision-foundation/find-your-directional-purpose/">Find Your Directional Purpose</a></li>
-  <li><a href="/decision-foundation/find-your-directional-purpose/generic-primary-goal-breakdown/">Generic Primary Goal Breakdown</a></li>
-  <li><a href="/decision-foundation/find-your-directional-purpose/core-drivers-of-feelings/">Core Drivers of Feelings</a></li>
+  <li><a href="/personal-effectiveness/why-we-feel-what-we-feel/">Why We Feel What We Feel</a></li>
   <li><a href="/decision-foundation/find-your-directional-purpose/humans-physiological-needs/">Human's Physiological Needs</a></li>
   <li><a href="/decision-foundation/ideation-assessment/">Ideation & Assessment</a></li>
   <li><a href="/decision-foundation/independent-prioritization/">Independent Prioritization</a></li>

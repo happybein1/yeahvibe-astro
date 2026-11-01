@@ -21,7 +21,7 @@ Each article takes **3–5 minutes to read**. The scenarios below are designed t
 1. Land on the homepage → click **Start Here** *(2 min)*
 2. Read the intro — recognize yourself in the "directionless or paralyzed" remedy *(1 min)*
 3. Open **Pillar 1: Direction** → read [Find Your Directional Purpose](/decision-foundation/find-your-directional-purpose/) *(3 min)*
-4. Work through [Generic Primary Goal Breakdown](/decision-foundation/find-your-directional-purpose/generic-primary-goal-breakdown/) *(4 min)*
+4. Work through [Find Your Direction](/decision-foundation/find-your-directional-purpose/) *(4 min)*
 5. Pick the [situation](/) closest to how you feel right now *(1 min)*
 6. Bookmark the page, return next week with a clearer head
 

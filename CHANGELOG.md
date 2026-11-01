@@ -4,6 +4,16 @@ Started 2026-10-13. Earlier versions (up to 1.7.1) were only tracked in `src/ver
 
 ---
 
+## 2.19.0
+
+**"Find Your Direction" merged; new guide "Why We Feel What We Feel"** (owner, 2026-11-01: "can you make a draft for 2" (merge the purpose guides); "i miss the article about the neurotransmitter root of what makes people feel and desire" (none existed in any repo or history) → draft; "important that serotonin rewards recognition"; → "go ahead").
+- `decision-foundation/find-your-directional-purpose.md` rewritten as "Find Your Direction" (4 min): a compass, not a map; 1. what do you want over time (wellbeing, relationships, growth, freedom); 2. what gives you energy and what drains it (progress, choice, feeling capable, belonging, meaning, safety); 3. are your basic needs covered (links to Human needs, which stays its own page); use it as a filter; when nothing sparks. Same address and "Try today". Business parts left out (covered in Working with Others).
+- "What people aim for" and "What drives our feelings" removed (English files deleted, menu entries removed); their English addresses redirect to Find Your Direction (`public/_redirects`). French pages untouched until the French update. Links updated on home, welcome, Start Here, pillar 1, user flow, "I'm tired" page and `llms.txt`.
+- New guide `personal-effectiveness/why-we-feel-what-we-feel.md` (4 min, Mindset & Wellbeing menu): dopamine (wanting; quick-reward trap; small wins), serotonin (recognition and contentment: feeling valued; likes/comparison trap; recognition works both ways), oxytocin, endorphins, cortisol (give stress an end); what this means for you; not medical advice. Linked from Find Your Direction's energy section.
+- Podcast: new episodes for both (Emma and Sam); the two removed guides' episodes leave the HappyBein Podcast feed (happybein-astro v4.26), 26 episodes.
+
+**Verification:** site builds in a scratch copy; both audio URLs answer; no English page links to the removed addresses.
+
 ## 2.18.0
 
 **Podcast audio, batch 3: the last 7 guides** (owner, 2026-11-01: "can you prepare batch 3 in parallel", scripts reviewed → "yes for both").
