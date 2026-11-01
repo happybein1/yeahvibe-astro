@@ -4,6 +4,12 @@ Started 2026-10-13. Earlier versions (up to 1.7.1) were only tracked in `src/ver
 
 ---
 
+## 2.13.1
+
+**Self-assessment link removed from the English home banner** (owner, 2026-11-01: "yes"). The hero keeps only "Start here". The old JotForm self-assessment was already taken off Start here in 2.9.0. Still linked (unchanged, not asked): the French home, the pillar pages, How it works, the user-flow page, Advised tools, and the old `home.mdx` / `welcome.mdx` pages.
+
+**Verification:** site builds in a scratch copy.
+
 ## 2.13.0
 
 **The YeahCore intro video on the home** (owner, 2026-11-01: "does it make sense to publish on yeahcore landing page as well instead of the text" → recommendation: a folded card, situations stay first → "ok").
