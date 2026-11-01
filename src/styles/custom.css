@@ -406,3 +406,12 @@ a.yv-card:hover, .yv-card:hover { transform: translateY(-3px); border-color: var
 .sl-markdown-content .yv-next p { margin: .4rem 0; }
 .sl-markdown-content .yv-next-t { font-weight: 800; font-size: 1.05rem; color: var(--sl-color-white); }
 .sl-markdown-content .yv-next-btns { display: flex; flex-wrap: wrap; gap: .5rem; margin-top: .8rem !important; }
+
+/* 2.13.0: folded intro video card on the home, above the situations */
+.sl-markdown-content details.yv-video { max-width: 34rem; margin: 0 auto 1.5rem; border: 1.5px solid var(--sl-color-hairline); border-radius: 16px; background: var(--yv-card); overflow: hidden; }
+.sl-markdown-content details.yv-video > summary { display: flex; align-items: center; gap: .8rem; padding: .8rem 1rem; cursor: pointer; list-style: none; }
+.sl-markdown-content details.yv-video > summary::-webkit-details-marker { display: none; }
+.sl-markdown-content details.yv-video[open] > summary { border-bottom: 1px solid var(--sl-color-hairline); }
+.yv-video-play { flex: none; width: 2.4rem; height: 2.4rem; border-radius: 50%; background: var(--sl-color-accent); color: var(--sl-color-black); display: flex; align-items: center; justify-content: center; font-size: 1rem; }
+.yv-video-sub { display: block; font-size: .82rem; color: var(--sl-color-gray-3); }
+.sl-markdown-content details.yv-video video { display: block; width: 100%; margin: 0; }

@@ -4,6 +4,15 @@ Started 2026-10-13. Earlier versions (up to 1.7.1) were only tracked in `src/ver
 
 ---
 
+## 2.13.0
+
+**The YeahCore intro video on the home** (owner, 2026-11-01: "does it make sense to publish on yeahcore landing page as well instead of the text" → recommendation: a folded card, situations stay first → "ok").
+- New card between the hero and "What do you need help with right now?": **▶ Watch: YeahCore in 90 seconds** (What it is and how to use it · 1:28). Tapping it unfolds the video (`<details class="yv-video">`), so it doesn't push the situations down.
+- The video plays from happybein.com (`/video/introducing-yeahcore.en.mp4`, poster `.jpg`, English subtitles `.en.vtt`; happybein.com sends `access-control-allow-origin: *`, so the subtitle track loads cross-origin). Kept on one line in `index.mdx` (MDX fails on a multi-line `<details>` block).
+- Styles `.yv-video*` in `custom.css`. English only.
+
+**Verification:** site builds in a scratch copy (91 pages); phone-width screenshot of the home checked.
+
 ## 2.12.0
 
 **Recorded audio for the six situation guides** (owner, 2026-11-01: "shall we consider to get these articles recorded…?" → recommendation (audio first, explainer videos later) → "yes" → "publish"). English only.
