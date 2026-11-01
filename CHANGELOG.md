@@ -4,6 +4,13 @@ Started 2026-10-13. Earlier versions (up to 1.7.1) were only tracked in `src/ver
 
 ---
 
+## 2.14.2
+
+**Home: compact situation list on narrow phones** (owner, 2026-11-01, phone screenshot showing the six cards one per row with only four visible → "ok").
+- When the situation cards fall back to one column (narrow screen or large text size), each card shows the emoji beside the text and is shorter, so all six fit on one screen. Uses a container query on a new `.yv-sits-wrap` around the grid (`index.mdx`, `custom.css`). The two-per-row layout on wider screens is unchanged.
+
+**Verification:** site builds in a scratch copy; screenshots at 420px (two per row, unchanged) and 330px (compact list) checked.
+
 ## 2.14.1
 
 **Home: "Start here" goes to the situations; floating tools button removed** (owner, 2026-11-01, phone screenshot: the floating "YeahVibe tools" button covered the "What do you need help with right now?" heading, and "should start here not just link to the 6 use cases below?" → "ok").
