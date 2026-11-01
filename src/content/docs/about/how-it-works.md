@@ -16,7 +16,7 @@ Everyone arrives at YeahCore with a different challenge. Some feel directionless
 **Two ways to start:**
 
 - **[Start Here](/start-here/)** — Follow the guided roadmap through the 4 Pillars of Leverage. Read the *Remedy* and *Insight* for each pillar and notice which one resonates most with your current situation.
-- **[Self-Assessment Tool](https://form.jotform.com/222552689387066)** — Answer a short set of questions and receive a personalized recommendation for where to focus first.
+- **[What do you need help with?](/)** — Pick the situation closest to how you feel and get one short path: a guide to read, one thing to try today, and a tool to keep it going.
 
 ---
 

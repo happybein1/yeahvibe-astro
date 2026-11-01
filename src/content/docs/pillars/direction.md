@@ -55,7 +55,7 @@ This pillar gives you the tools to answer three foundational questions:
 
 If this pillar resonates with you, begin here: **[Find Your Directional Purpose](/decision-foundation/find-your-directional-purpose/)** — 3 min read.
 
-Not sure this is your pillar? Take the **[Self-Assessment](https://form.jotform.com/222552689387066)** for a personalized recommendation.
+Not sure this is your pillar? Start from **[what you need help with](/)** instead.
 
 ---
 

@@ -52,7 +52,7 @@ Most people treat motivation as something that either exists or doesn't. YeahCor
 
 Begin with **[Habits Improvement](/personal-effectiveness/habits-improvement/)** — 4 min read. The section on self-compassion alone is worth the visit.
 
-Not sure this is your pillar? Take the **[Self-Assessment](https://form.jotform.com/222552689387066)** for a personalized recommendation.
+Not sure this is your pillar? Start from **[what you need help with](/)** instead.
 
 ---
 

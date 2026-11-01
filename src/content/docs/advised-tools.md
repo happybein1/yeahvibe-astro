@@ -18,7 +18,6 @@ YeahCore curates tools — some built in-house, others freely available from tru
 Prioritization is the foundation of effective decision-making. By ranking tasks and goals, you can focus on what truly matters instead of being overwhelmed by competing demands.
 
 - **[YeahVibe Prioritization Notion Template](https://www.notion.so/PrioStorm-2c0fcec352808007bfd5d853e9f7f9a1)** — our in-house tool to help you rank actions by importance.
-- **[Measure Your Wellbeing](https://form.jotform.com/222552689387066)** — quantify how you feel for increased awareness and to track progress over time.
 
 ---
 

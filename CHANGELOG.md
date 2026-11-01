@@ -4,6 +4,18 @@ Started 2026-10-13. Earlier versions (up to 1.7.1) were only tracked in `src/ver
 
 ---
 
+## 2.13.2
+
+**Old self-assessment form removed from the remaining English pages** (owner, 2026-11-01: "yes" to the cleanup after 2.13.1). The external JotForm self-assessment (222552689387066) is replaced by the situation-based home:
+- Pillar pages (all four): "Not sure this is your pillar? Start from what you need help with instead." (links to /).
+- How it works: the "Self-Assessment Tool" item becomes "What do you need help with?" (pick a situation, get one short path).
+- User flow, step 5: "Pick the situation closest to how you feel right now (1 min)".
+- Advised tools: the "Measure Your Wellbeing" item (same form) is removed.
+- Welcome and the old home page (`home.mdx`): the closing line now points to the situations and Start here; `home.mdx` loses its "Self Assessment" hero button.
+- Unchanged: the French pages (English first), and the separate one-minute feedback form.
+
+**Verification:** site builds in a scratch copy; no English page links the form any more.
+
 ## 2.13.1
 
 **Self-assessment link removed from the English home banner** (owner, 2026-11-01: "yes"). The hero keeps only "Start here". The old JotForm self-assessment was already taken off Start here in 2.9.0. Still linked (unchanged, not asked): the French home, the pillar pages, How it works, the user-flow page, Advised tools, and the old `home.mdx` / `welcome.mdx` pages.

@@ -50,7 +50,7 @@ Whether you lead a team, work within one, or operate independently, your ability
 
 Begin with **[Collaboration Principles](/collaboration-leadership/collaboration-principles/)** — 4 min read. The section on psychological safety explains why most teams underperform — and what to do about it.
 
-Not sure this is your pillar? Take the **[Self-Assessment](https://form.jotform.com/222552689387066)** for a personalized recommendation.
+Not sure this is your pillar? Start from **[what you need help with](/)** instead.
 
 ---
 

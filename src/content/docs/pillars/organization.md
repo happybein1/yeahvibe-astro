@@ -48,7 +48,7 @@ When your environment works for you, you stop fighting yourself.
 
 Begin with **[Basic Organization Principles](/organizational-processes/basic-organization-principles/)** — 4 min read. One idea from this article, applied today, will save you hours this month.
 
-Not sure this is your pillar? Take the **[Self-Assessment](https://form.jotform.com/222552689387066)** for a personalized recommendation.
+Not sure this is your pillar? Start from **[what you need help with](/)** instead.
 
 ---
 
