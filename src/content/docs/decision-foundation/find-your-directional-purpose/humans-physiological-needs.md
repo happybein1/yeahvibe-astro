@@ -1,5 +1,5 @@
 ---
-title: Human's Physiological Needs
+title: Human needs
 description: The fundamental human needs that underpin all effective decision-making and well-being.
 reading_time: "4 min"
 sidebar:

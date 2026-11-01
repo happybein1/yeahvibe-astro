@@ -1,5 +1,5 @@
 ---
-title: Generic Primary Goal Breakdown
+title: What people aim for
 description: A structured breakdown of primary goals for individuals and organizations.
 reading_time: "4 min"
 sidebar:

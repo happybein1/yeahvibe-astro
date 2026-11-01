@@ -39,6 +39,19 @@ export default defineConfig({
             sidebar: [
                 { label: '🏠 Welcome', translations: { fr: '🏠 Bienvenue' }, slug: 'welcome' },
                 { label: '🧭 Start Here', translations: { fr: '🧭 Commencer ici' }, slug: 'start-here' },
+                // 2.5.0 (owner, 2026-11-01: "these three kind of do but are a bit buried"): the pages on what
+                // people need get their own section near the top (were three levels deep under Decision
+                // Foundation → Find Your Directional Purpose). Page addresses unchanged.
+                {
+                    label: '🫀 What People Need',
+                    translations: { fr: '🫀 Ce dont les gens ont besoin' },
+                    collapsed: false,
+                    items: [
+                        { label: 'Human needs', translations: { fr: 'Les besoins humains' }, slug: 'decision-foundation/find-your-directional-purpose/humans-physiological-needs' },
+                        { label: 'What drives our feelings', translations: { fr: 'Ce qui guide nos émotions' }, slug: 'decision-foundation/find-your-directional-purpose/core-drivers-of-feelings' },
+                        { label: 'What people aim for', translations: { fr: 'Ce que les gens recherchent' }, slug: 'decision-foundation/find-your-directional-purpose/generic-primary-goal-breakdown' },
+                    ],
+                },
                 { label: '🛠️ Advised Tools', translations: { fr: '🛠️ Outils conseillés' }, slug: 'advised-tools' },
                 {
                     label: 'The 4 Pillars',
@@ -60,17 +73,7 @@ export default defineConfig({
                         { label: 'Independent Prioritization', translations: { fr: 'Priorisation indépendante' }, slug: 'decision-foundation/independent-prioritization' },
                         { label: 'Clarity & Alignment', translations: { fr: 'Clarté et alignement' }, slug: 'decision-foundation/clarity-alignment' },
                         { label: 'Tracking and Update', translations: { fr: 'Suivi et mise à jour' }, slug: 'decision-foundation/tracking-and-update' },
-                        {
-                            label: 'Find Your Directional Purpose',
-                            translations: { fr: 'Trouver votre objectif directionnel' },
-                            collapsed: false,
-                            items: [
-                                { label: 'Overview', translations: { fr: "Vue d'ensemble" }, slug: 'decision-foundation/find-your-directional-purpose' },
-                                { label: 'Generic Primary Goal Breakdown', translations: { fr: 'Décomposition des objectifs primaires' }, slug: 'decision-foundation/find-your-directional-purpose/generic-primary-goal-breakdown' },
-                                { label: 'Core Drivers of Feelings', translations: { fr: 'Moteurs des émotions' }, slug: 'decision-foundation/find-your-directional-purpose/core-drivers-of-feelings' },
-                                { label: "Human's Physiological Needs", translations: { fr: 'Besoins physiologiques humains' }, slug: 'decision-foundation/find-your-directional-purpose/humans-physiological-needs' },
-                            ],
-                        },
+                        { label: 'Find Your Directional Purpose', translations: { fr: 'Trouver votre objectif directionnel' }, slug: 'decision-foundation/find-your-directional-purpose' },
                     ],
                 },
                 {

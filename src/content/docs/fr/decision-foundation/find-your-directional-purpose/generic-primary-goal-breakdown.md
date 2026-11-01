@@ -1,5 +1,5 @@
 ---
-title: Décomposition des objectifs primaires génériques
+title: Ce que les gens recherchent
 description: Une décomposition structurée des objectifs primaires pour les individus et les organisations.
 reading_time: "4 min de lecture"
 sidebar:

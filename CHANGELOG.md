@@ -4,6 +4,16 @@ Started 2026-10-13. Earlier versions (up to 1.7.1) were only tracked in `src/ver
 
 ---
 
+## 2.5.0
+
+**"What People Need" gets its own menu section** (owner, 2026-11-01, sidebar screenshot: the needs pages "kind of do [cover what people need] but are a bit buried"). The three pages on what people need were three levels deep (Decision Foundation → Find Your Directional Purpose). They now form a section of their own right after Start Here, open by default: **🫀 What People Need** / *🫀 Ce dont les gens ont besoin*, with plainer titles (page titles and menu, en and fr):
+- Human's Physiological Needs → **Human needs** / *Les besoins humains* (it covers all five needs, not only the body);
+- Core Drivers of Feelings → **What drives our feelings** / *Ce qui guide nos émotions*;
+- Generic Primary Goal Breakdown → **What people aim for** / *Ce que les gens recherchent*.
+"Find Your Directional Purpose" stays under Decision Foundation as a single page (its group only held these three). Page addresses are unchanged, so no link breaks. Planned next (owner to review an outline first): short practical guides in this section for the thinly covered needs (stress and emotions, body basics, relationships, security).
+
+**Verification:** site builds in a scratch copy; the new section appears in the English and French menus.
+
 ## 2.4.10
 
 **Search markup removed** (Google Search Console, 2026-10-26): the schema.org `SearchAction` in `Head.astro` pointed to `/search?q={search_term_string}`, a page that does not exist, which Google reported as "Not found". Old `/applications/` article addresses are now resolved on the YeahSight side (yeahsight v2.42).
