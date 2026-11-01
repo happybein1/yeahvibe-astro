@@ -4,6 +4,8 @@ description: A practical system for organizing digital files and folders so you 
 reading_time: "4 min"
 sidebar:
   order: 2
+audio: https://audio.happybein.com/yeahcore/files-folder-organization.podcast.en.mp3
+audioMinutes: 2
 ---
 
 

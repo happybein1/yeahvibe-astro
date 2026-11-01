@@ -4,6 +4,8 @@ description: Core principles for building organized, efficient personal and orga
 reading_time: "4 min"
 sidebar:
   order: 1
+audio: https://audio.happybein.com/yeahcore/basic-organization-principles.podcast.en.mp3
+audioMinutes: 2
 ---
 
 

@@ -4,6 +4,8 @@ description: How to lead effectively and build influence without relying on auth
 reading_time: "4 min"
 sidebar:
   order: 2
+audio: https://audio.happybein.com/yeahcore/influence-and-leadership.podcast.en.mp3
+audioMinutes: 2
 ---
 
 

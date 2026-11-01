@@ -4,6 +4,8 @@ description: Practical techniques for communicating with clarity and confidence 
 reading_time: "4 min"
 sidebar:
   order: 3
+audio: https://audio.happybein.com/yeahcore/speak-clearly-and-confidently.podcast.en.mp3
+audioMinutes: 2
 ---
 
 

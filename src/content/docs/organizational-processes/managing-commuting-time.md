@@ -4,6 +4,8 @@ description: How to turn commuting time from dead time into productive or restor
 reading_time: "3 min"
 sidebar:
   order: 3
+audio: https://audio.happybein.com/yeahcore/managing-commuting-time.podcast.en.mp3
+audioMinutes: 2
 ---
 
 

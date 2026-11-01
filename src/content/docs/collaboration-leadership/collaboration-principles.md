@@ -4,6 +4,8 @@ description: Core principles for working effectively with others and building hi
 reading_time: "4 min"
 sidebar:
   order: 1
+audio: https://audio.happybein.com/yeahcore/collaboration-principles.podcast.en.mp3
+audioMinutes: 2
 ---
 
 

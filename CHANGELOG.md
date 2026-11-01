@@ -4,6 +4,16 @@ Started 2026-10-13. Earlier versions (up to 1.7.1) were only tracked in `src/ver
 
 ---
 
+## 2.18.0
+
+**Podcast audio, batch 3: the last 7 guides** (owner, 2026-11-01: "can you prepare batch 3 in parallel", scripts reviewed → "yes for both").
+- Organising Your Life: Basic Organization Principles, Files & Folder Organization, Managing Commuting Time.
+- Working with Others: Group Decision Making, Speak Clearly and Confidently, Collaboration Principles, Influence and Leadership.
+- Same format (Emma interviews Sam, one thing to try today, separate AI-voice line). All 27 English guides now have a podcast episode; overview pages (pillars, About, Advised Tools) have none.
+- Also in the HappyBein Podcast feed (happybein-astro v4.25), so they show in Radio.
+
+**Verification:** site builds in a scratch copy; the 7 audio URLs answer.
+
 ## 2.17.0
 
 **Podcast audio, batch 2: 11 more guides** (owner, 2026-11-01: "ok go for batch 2", scripts reviewed → "go").

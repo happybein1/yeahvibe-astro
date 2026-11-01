@@ -4,6 +4,8 @@ description: Frameworks and practices for making better decisions in groups whil
 reading_time: "4 min"
 sidebar:
   order: 4
+audio: https://audio.happybein.com/yeahcore/group-decision-making.podcast.en.mp3
+audioMinutes: 2
 ---
 
 
