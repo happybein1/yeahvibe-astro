@@ -4,6 +4,13 @@ Started 2026-10-13. Earlier versions (up to 1.7.1) were only tracked in `src/ver
 
 ---
 
+## 2.21.1
+
+**🎧 after related guides on situation pages** (owner, 2026-11-02: "should the podcast listen button also be added to related section below?" → recommendation: no full buttons, a small icon if wanted → "ok for the small icon").
+- `help/*.mdx`: each "Related" / "Other ways in" link to a guide that has a podcast gets a small 🎧 button (`.yv-listen--icon`), 13 in all; pillar and Human needs links have none. Same in-place player as the Listen buttons (`Head.astro`): ❚❚ while playing, one episode at a time.
+
+**Verification:** site builds in a scratch copy.
+
 ## 2.21.0
 
 **Compact home; "Listen" buttons on situation pages** (owner, 2026-11-02, with phone screenshots: "how can the landing page be improved? the logo could be removed for instance. also for the sub page, should the podcast of the read article be already there for faster access?" → recommendation → "ok go ahead with yeahcore improvement").

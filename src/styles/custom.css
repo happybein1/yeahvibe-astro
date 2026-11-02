@@ -383,3 +383,6 @@ a.yv-card:hover, .yv-card:hover { transform: translateY(-3px); border-color: var
 .sl-markdown-content button.yv-btn { display: inline-block; padding: .45rem 1rem; border-radius: 999px; font: inherit; font-weight: 700; font-size: .92rem; cursor: pointer; background: transparent; color: var(--sl-color-accent); border: 1.5px solid var(--sl-color-accent); }
 .sl-markdown-content button.yv-listen.is-playing { background: var(--sl-color-accent-low); }
 .sl-markdown-content .yv-sits-wrap + .yv-video, .sl-markdown-content .yv-video { margin-top: 1.5rem; }
+/* 2.21.1: small 🎧 after related guides that have a podcast (same player as the Listen buttons) */
+.sl-markdown-content button.yv-listen--icon { border: none; background: none; padding: 0 .15rem; font-size: .95rem; cursor: pointer; vertical-align: baseline; line-height: 1; }
+.sl-markdown-content button.yv-listen--icon.is-playing { background: var(--sl-color-accent-low); border-radius: 6px; }

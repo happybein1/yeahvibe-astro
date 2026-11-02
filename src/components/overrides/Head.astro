@@ -209,6 +209,7 @@ const frUrl = currentPath.startsWith('/fr')
     let audio = null, btn = null;
     const fmt = (s) => Math.floor(s / 60) + ':' + String(Math.floor(s % 60)).padStart(2, '0');
     const label = (b, playing) => {
+      if (b.classList.contains('yv-listen--icon')) { b.textContent = playing ? '❚❚' : '🎧'; b.classList.toggle('is-playing', playing); return; }
       const base = b.dataset.label || (b.dataset.label = b.textContent.replace(/^[▶❚\s]+/, ''));
       b.textContent = (playing ? '❚❚ ' : '▶ ') + (playing && audio && audio.currentTime > 0 ? fmt(audio.currentTime) + ' / ' + fmt(audio.duration || 0) : base);
       b.classList.toggle('is-playing', playing);
