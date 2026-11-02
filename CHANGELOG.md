@@ -4,6 +4,13 @@ Started 2026-10-13. Earlier versions (up to 1.7.1) were only tracked in `src/ver
 
 ---
 
+## 2.22.2
+
+**The 4 pillars on the home** (owner, 2026-11-02: "would it be good if the 4 pillars could be in the home page straight away instead of bringing to the start here page" → recommendation → "ok").
+- "Go deeper": the "The 4 pillars of good decisions" row (to Start Here) became a 2 x 2 grid linking straight to the four pillar pages (`.yv-pillars`); the line above now reads "The ideas behind the guides, in four areas that make decisions easier."
+
+**Verification:** site builds in a scratch copy; phone-width screenshot.
+
 ## 2.22.1
 
 **Clearer lower home sections** (owner, 2026-11-02, phone screenshot: "and is this one clear?" → recommendation → "agreed").
