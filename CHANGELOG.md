@@ -4,6 +4,14 @@ Started 2026-10-13. Earlier versions (up to 1.7.1) were only tracked in `src/ver
 
 ---
 
+## 2.22.1
+
+**Clearer lower home sections** (owner, 2026-11-02, phone screenshot: "and is this one clear?" → recommendation → "agreed").
+- "The bigger picture" → **"Go deeper"** ("The ideas behind the guides."), links renamed "What every person needs", "The 4 pillars of good decisions", "All guides".
+- "From understanding to solutions" (three stacked chain cards, the first pointing at the page itself) → **"Part of HappyBein"** with two plain links: YeahSight (what it means for society) and YeahVibe (tools to put it into practice). Footer line drops the repeated "A HappyBein initiative".
+
+**Verification:** site builds in a scratch copy; phone-width screenshot.
+
 ## 2.22.0
 
 **Home starts with the question** (owner, 2026-11-02, phone screenshot with large text where only 3 situations showed: "i still think the main page needs improvement" → recommendation → "go").
