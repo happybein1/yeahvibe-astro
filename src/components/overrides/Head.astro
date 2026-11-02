@@ -203,6 +203,30 @@ const frUrl = currentPath.startsWith('/fr')
   });
 </script>
 
+<!-- 2.21.0: "Listen" buttons on situation pages play the guide's podcast in place (one at a time) -->
+<script>
+  (function () {
+    let audio = null, btn = null;
+    const fmt = (s) => Math.floor(s / 60) + ':' + String(Math.floor(s % 60)).padStart(2, '0');
+    const label = (b, playing) => {
+      const base = b.dataset.label || (b.dataset.label = b.textContent.replace(/^[▶❚\s]+/, ''));
+      b.textContent = (playing ? '❚❚ ' : '▶ ') + (playing && audio && audio.currentTime > 0 ? fmt(audio.currentTime) + ' / ' + fmt(audio.duration || 0) : base);
+      b.classList.toggle('is-playing', playing);
+    };
+    document.addEventListener('click', (e) => {
+      const b = e.target.closest && e.target.closest('.yv-listen');
+      if (!b) return;
+      if (btn && btn !== b) { audio.pause(); label(btn, false); audio = null; }
+      if (!audio) {
+        btn = b; audio = new Audio(b.dataset.src);
+        audio.addEventListener('timeupdate', () => label(b, !audio.paused));
+        audio.addEventListener('ended', () => { audio.currentTime = 0; label(b, false); });
+      }
+      if (audio.paused) { audio.play().catch(() => {}); label(b, true); } else { audio.pause(); label(b, false); }
+    });
+  })();
+</script>
+
 <!-- JSON-LD Structured Data -->
 <script type="application/ld+json" set:html={JSON.stringify({
   "@context": "https://schema.org",

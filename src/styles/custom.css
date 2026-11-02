@@ -373,3 +373,13 @@ a.yv-card:hover, .yv-card:hover { transform: translateY(-3px); border-color: var
 .yv-video-play { flex: none; width: 2.4rem; height: 2.4rem; border-radius: 50%; background: var(--sl-color-accent); color: #fff; display: flex; align-items: center; justify-content: center; }
 .yv-video-sub { display: block; font-size: .82rem; color: var(--sl-color-gray-3); }
 .sl-markdown-content details.yv-video video { display: block; width: 100%; margin: 0; }
+
+/* 2.21.0: compact landing hero (the tagline is the title) and "Listen" next to "Read" on situation pages */
+[data-has-hero] .hero h1:has(.yv-hero-q) { font-size: clamp(1.7rem, 5vw, 2.6rem); line-height: 1.15; }
+[data-has-hero] .hero:has(.yv-hero-q) { padding-block: clamp(1.4rem, 4vw, 2.6rem); min-height: clamp(200px, 26vw, 320px); }
+[data-has-hero] .hero h1:has(.yv-hero-q), [data-has-hero] .hero .yv-hero-q { color: #f2f6f8; }
+[data-has-hero] .hero:has(.yv-hero-q) .tagline { font-size: clamp(1rem, 2vw, 1.15rem); color: #c4d0d6; }
+.yv-pbtns { display: flex; flex-wrap: wrap; gap: .5rem; }
+.sl-markdown-content button.yv-btn { display: inline-block; padding: .45rem 1rem; border-radius: 999px; font: inherit; font-weight: 700; font-size: .92rem; cursor: pointer; background: transparent; color: var(--sl-color-accent); border: 1.5px solid var(--sl-color-accent); }
+.sl-markdown-content button.yv-listen.is-playing { background: var(--sl-color-accent-low); }
+.sl-markdown-content .yv-sits-wrap + .yv-video, .sl-markdown-content .yv-video { margin-top: 1.5rem; }

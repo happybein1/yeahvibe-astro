@@ -4,6 +4,15 @@ Started 2026-10-13. Earlier versions (up to 1.7.1) were only tracked in `src/ver
 
 ---
 
+## 2.21.0
+
+**Compact home; "Listen" buttons on situation pages** (owner, 2026-11-02, with phone screenshots: "how can the landing page be improved? the logo could be removed for instance. also for the sub page, should the podcast of the read article be already there for faster access?" → recommendation → "ok go ahead with yeahcore improvement").
+- Home (`index.mdx`): the big "YeahCore" wordmark in the hero is gone (the name is already in the header); the hero title is now the tagline "What people need, and how to decide.", with the short line below ("read or listen for 3 minutes"). "Start here" button removed (it only scrolled to the list). Hero shorter (`.yv-hero-q` rules in `custom.css`). On a 412 px phone all six situations now show on the first screen.
+- Intro video card moved below the situations list.
+- The six situation pages (`help/*.mdx`): step 1 has "▶ Listen · N min" next to "Read", playing that guide's podcast episode in place (`.yv-listen`, script in `Head.astro`: one episode at a time, the button shows ❚❚ and the time while playing). French pages unchanged.
+
+**Verification:** site builds in a scratch copy; phone-width screenshots of home and "I can't decide".
+
 ## 2.20.0
 
 **New guide "How Your Organisation Makes Money"** (owner, 2026-11-02: "where would organizational finance basics go?" → "yeah create that new guide", draft reviewed → "go").
