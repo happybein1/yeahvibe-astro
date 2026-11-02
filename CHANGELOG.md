@@ -4,6 +4,15 @@ Started 2026-10-13. Earlier versions (up to 1.7.1) were only tracked in `src/ver
 
 ---
 
+## 2.20.0
+
+**New guide "How Your Organisation Makes Money"** (owner, 2026-11-02: "where would organizational finance basics go?" → "yeah create that new guide", draft reviewed → "go").
+- New guide `collaboration-leadership/how-your-organisation-makes-money.md` (4 min, Collaboration & Leadership menu, last entry): why it matters even if numbers aren't your job; 1. money in, money out (revenue, fixed and variable costs); 2. profit (creating value; non-profits too); 3. cash (profitable on paper but out of cash); 4. what it owns and what it owes (balance sheet); using this at work (revenue, costs or cash?; pitch with cost, gain and timing; protect cash in hard times). Links to Money basics.
+- `personal-effectiveness/mastering-finance-basics.md`: "Organizational finance basics" section removed (the podcast already skipped it); a closing line links to the new guide.
+- Podcast: new Emma and Sam episode (2 min 34 s), added to the HappyBein Podcast feed (happybein-astro v4.27), 27 episodes.
+
+**Verification:** site builds in a scratch copy; audio URL answers.
+
 ## 2.19.0
 
 **"Find Your Direction" merged; new guide "Why We Feel What We Feel"** (owner, 2026-11-01: "can you make a draft for 2" (merge the purpose guides); "i miss the article about the neurotransmitter root of what makes people feel and desire" (none existed in any repo or history) → draft; "important that serotonin rewards recognition"; → "go ahead").

@@ -50,14 +50,5 @@ Regular, consistent investing — regardless of market conditions — outperform
 ### Diversify
 Don't concentrate all financial resources in a single asset, company, or sector. Diversification reduces risk without necessarily reducing long-term returns.
 
-## Organizational finance basics
 
-At the organizational level, the same principles apply at larger scale:
-
-- **Revenue and costs**: The business equivalent of income and expenses.
-- **Profit and loss**: Whether the organization is creating or consuming value.
-- **Balance sheet**: A snapshot of assets, liabilities, and equity at a point in time.
-- **Cash flow statement**: The actual movement of cash — distinct from profit (which can be accounting-based).
-
-Understanding these statements enables more informed participation in organizational decisions, even for people who are not in finance roles.
-
+Curious how the same ideas work at your job? See [how your organisation makes money](/collaboration-leadership/how-your-organisation-makes-money/).
