@@ -4,6 +4,14 @@ Started 2026-10-13. Earlier versions (up to 1.7.1) were only tracked in `src/ver
 
 ---
 
+## 2.22.0
+
+**Home starts with the question** (owner, 2026-11-02, phone screenshot with large text where only 3 situations showed: "i still think the main page needs improvement" → recommendation → "go").
+- `index.mdx`: the hero card is now the question "What do you need help with right now?" with one line under it ("3-minute guides. Read or listen, then try one small step."). The separate heading and its "Pick one…" line are gone; an empty anchor keeps `#what-do-you-need-help-with-right-now` working. "What people need, and how to decide." moves under "The bigger picture".
+- `custom.css`: slimmer hero (no minimum height) and slimmer one-column situation rows (smaller padding and emoji).
+
+**Verification:** site builds in a scratch copy; screenshots at 412 px (two columns, all six situations plus the video card on the first screen) and 330 px (one column, all six rows on the first screen).
+
 ## 2.21.1
 
 **🎧 after related guides on situation pages** (owner, 2026-11-02: "should the podcast listen button also be added to related section below?" → recommendation: no full buttons, a small icon if wanted → "ok for the small icon").

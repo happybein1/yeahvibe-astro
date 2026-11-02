@@ -386,3 +386,12 @@ a.yv-card:hover, .yv-card:hover { transform: translateY(-3px); border-color: var
 /* 2.21.1: small 🎧 after related guides that have a podcast (same player as the Listen buttons) */
 .sl-markdown-content button.yv-listen--icon { border: none; background: none; padding: 0 .15rem; font-size: .95rem; cursor: pointer; vertical-align: baseline; line-height: 1; }
 .sl-markdown-content button.yv-listen--icon.is-playing { background: var(--sl-color-accent-low); border-radius: 6px; }
+/* 2.22.0: the hero is the question; slim card, slimmer one-column situation rows */
+[data-has-hero] .hero:has(.yv-hero-q) { min-height: 0; padding-block: clamp(1.1rem, 3.5vw, 2rem); }
+[data-has-hero] .hero:has(.yv-hero-q) .stack { gap: .5rem; }
+.sl-markdown-content .yv-sits-wrap { margin-top: -.5rem; }
+@container (max-width: 345px) {
+  .sl-markdown-content .yv-sits { gap: .4rem; margin-top: .6rem; }
+  .sl-markdown-content a.yv-sit { padding: .5rem .85rem; gap: .65rem; }
+  .yv-sit-e { font-size: 1.2rem; }
+}
