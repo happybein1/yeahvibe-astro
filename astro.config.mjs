@@ -38,7 +38,7 @@ export default defineConfig({
             },
             sidebar: [
                 { label: '🏠 Welcome', translations: { fr: '🏠 Bienvenue' }, slug: 'welcome' },
-                { label: '🧭 Start Here', translations: { fr: '🧭 Commencer ici' }, slug: 'start-here' },
+                { label: '📚 All guides', translations: { fr: '🧭 Commencer ici' }, slug: 'start-here' },
                 // 2.5.0 (owner, 2026-11-01: "these three kind of do but are a bit buried"): the pages on what
                 // people need get their own section near the top (were three levels deep under Decision
                 // Foundation → Find Your Directional Purpose). Page addresses unchanged.

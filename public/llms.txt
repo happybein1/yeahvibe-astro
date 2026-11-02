@@ -39,7 +39,7 @@ YeahCore is organized around four pillars, each targeting a specific type of cha
 ## Full Article Index
 
 ### Getting Started
-- Start Here — The YeahCore roadmap and 4 Pillars overview: https://yeahcore.happybein.com/start-here/
+- All guides — every guide, sorted into the 4 pillars: https://yeahcore.happybein.com/start-here/
 - Welcome to YeahCore — Homepage with video and topic overview: https://yeahcore.happybein.com/welcome/
 - Advised Tools — Curated tools for prioritization, journaling, and reflection: https://yeahcore.happybein.com/advised-tools/
 

@@ -58,7 +58,7 @@ Not sure this is your pillar? Start from **[what you need help with](/)** instea
 
 ---
 
-[← Back to Start Here](/start-here/) · [Next: Pillar 2 — Mindset →](/pillars/mindset/)
+[← All guides](/start-here/) · [Next: Pillar 2 — Mindset →](/pillars/mindset/)
 
 <style>{`
   .pillar-links { border: 1px solid var(--sl-color-hairline); border-radius: 8px; margin: 0.5rem 0; }

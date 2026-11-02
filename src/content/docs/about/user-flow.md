@@ -18,7 +18,7 @@ Each article takes **3–5 minutes to read**. The scenarios below are designed t
 **When:** First visit, Sunday evening, feeling overwhelmed.
 
 **Flow:**
-1. Land on the homepage → click **Start Here** *(2 min)*
+1. Land on the homepage → click **All guides** *(2 min)*
 2. Read the intro — recognize yourself in the "directionless or paralyzed" remedy *(1 min)*
 3. Open **Pillar 1: Direction** → read [Find Your Directional Purpose](/decision-foundation/find-your-directional-purpose/) *(3 min)*
 4. Work through [Find Your Direction](/decision-foundation/find-your-directional-purpose/) *(4 min)*
@@ -104,7 +104,7 @@ Each article takes **3–5 minutes to read**. The scenarios below are designed t
 **When:** First Sunday of the month, morning review.
 
 **Flow:**
-1. Re-read [Start Here](/start-here/) — check which pillar feels most relevant this month *(5 min)*
+1. Re-read [All guides](/start-here/) — check which pillar feels most relevant this month *(5 min)*
 2. Revisit [Tracking and Update](/decision-foundation/tracking-and-update/) — review last month's goals *(4 min)*
 3. Open [Daily Activities](/personal-effectiveness/inspiration/daily-activities/) — refresh your morning routine *(4 min)*
 4. Check [Advised Tools](/advised-tools/) for any new tools *(3 min)*
@@ -135,12 +135,12 @@ Each article takes **3–5 minutes to read**. The scenarios below are designed t
 
 | Situation | Start here | Format |
 |---|---|---|
-| Feeling lost | [Start Here](/start-here/) → Pillar 1 | 6 × 5 min |
+| Feeling lost | [All guides](/start-here/) → Pillar 1 | 6 × 5 min |
 | Can't build habits | [Habits Improvement](/personal-effectiveness/habits-improvement/) | 5 × 5 min |
 | Overwhelmed by tasks | [Prioritization](/decision-foundation/independent-prioritization/) | 5 × 5 min |
 | Team problems | [Collaboration](/collaboration-leadership/collaboration-principles/) | 5 × 5 min |
 | Want big picture | [YeahSight](https://yeahsight.happybein.com/foresight-trends/) | 5 × 5 min |
-| Monthly reset | [Start Here](/start-here/) → review | 6 × 5 min |
+| Monthly reset | [All guides](/start-here/) → review | 6 × 5 min |
 | Short on time | Any article + Listen button | 1 × 5 min |
 
 ---

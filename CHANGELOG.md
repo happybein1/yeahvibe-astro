@@ -4,6 +4,14 @@ Started 2026-10-13. Earlier versions (up to 1.7.1) were only tracked in `src/ver
 
 ---
 
+## 2.22.3
+
+**"Start Here" becomes "All guides"** (owner, 2026-11-02: "is the start here page still needed?" → recommendation: keep it as the full list, rename, drop the duplicated situations → "makes sense").
+- `start-here.mdx`: title "All guides" (address `/start-here/` kept), "The quickest start" situations list removed (same as the home) and replaced by one line pointing to the home. Pillar lists completed: "Find Your Direction" label updated; Working with Others gains "When a Discussion Turns into a Fight" and "How Your Organisation Makes Money" (both were missing).
+- Menu label "📚 All guides" (French label unchanged). Link texts updated on home.mdx, welcome.mdx, about/how-it-works, about/user-flow, pillars/direction and `llms.txt`.
+
+**Verification:** site builds in a scratch copy; no English page says "Start Here" any more.
+
 ## 2.22.2
 
 **The 4 pillars on the home** (owner, 2026-11-02: "would it be good if the 4 pillars could be in the home page straight away instead of bringing to the start here page" → recommendation → "ok").
