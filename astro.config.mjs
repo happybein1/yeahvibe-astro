@@ -79,6 +79,7 @@ export default defineConfig({
                     translations: { fr: "État d'esprit et bien-être" },
                     collapsed: false,
                     items: [
+                        { label: 'Check In With How You Feel', translations: { fr: 'Faire le point sur ce que vous ressentez' }, slug: 'personal-effectiveness/check-in-with-how-you-feel' },
                         { label: 'Habits Improvement', translations: { fr: 'Améliorer ses habitudes' }, slug: 'personal-effectiveness/habits-improvement' },
                         { label: 'Growth Mindset', translations: { fr: "L'état d'esprit de croissance" }, slug: 'personal-effectiveness/growth-mindset' },
                         { label: 'Fear Management', translations: { fr: 'Gérer la peur' }, slug: 'personal-effectiveness/fear-management' },

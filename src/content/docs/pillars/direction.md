@@ -38,6 +38,7 @@ This pillar gives you the tools to answer three foundational questions:
 <details class="pillar-links">
 <summary>Explore all articles →</summary>
 <ul>
+  <li><a href="/personal-effectiveness/check-in-with-how-you-feel/">Check In With How You Feel</a></li>
   <li><a href="/decision-foundation/find-your-directional-purpose/">Find Your Directional Purpose</a></li>
   <li><a href="/personal-effectiveness/why-we-feel-what-we-feel/">Why We Feel What We Feel</a></li>
   <li><a href="/decision-foundation/find-your-directional-purpose/humans-physiological-needs/">Human's Physiological Needs</a></li>

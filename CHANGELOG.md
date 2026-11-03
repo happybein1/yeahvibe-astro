@@ -4,6 +4,16 @@ Started 2026-10-13. Earlier versions (up to 1.7.1) were only tracked in `src/ver
 
 ---
 
+## 2.24.0
+
+**New guide: "Check In With How You Feel"** (owner, 2026-11-03, journal note: "Add a first article about assessing how we feel and what to do about the persistent assessment" → draft shared → "publish").
+- `personal-effectiveness/check-in-with-how-you-feel.md`, 4 min: a two-minute check-in scoring six areas from 1 to 5 (energy, sleep, mood, calm, connection, money), how to read the scores (a low score that stays for two weeks or more is the signal to act), what to do then (pick one area, read the matching guide, one small step, check again next week), when to talk to someone (including a same-day crisis line), the societal angle, and a "Your next step" box.
+- Placed first: top of the Direction pillar list on All guides, the home page, Welcome and the Direction pillar page, and first under "Mindset & Wellbeing" in the sidebar.
+- French version written at the same time (`fr/…`, "Faire le point sur ce que vous ressentez"), in the same places, so the French site stays complete.
+- No podcast yet (no `audio:`).
+
+---
+
 ## 2.23.0
 
 **The whole site in French, translated fresh from the current English** (owner, 2026-11-02: "could you work on translating yeahcore to french? i guess first all the pages and text" → three tone samples (home, "Je tourne en rond", "Stress et surcharge") → "yes go ahead").

@@ -38,6 +38,7 @@ Ce pilier vous donne de quoi répondre à trois questions de fond :
 <details class="pillar-links">
 <summary>Voir tous les articles →</summary>
 <ul>
+  <li><a href="/fr/personal-effectiveness/check-in-with-how-you-feel/">Faire le point sur ce que vous ressentez</a></li>
   <li><a href="/fr/decision-foundation/find-your-directional-purpose/">Trouver votre direction</a></li>
   <li><a href="/fr/personal-effectiveness/why-we-feel-what-we-feel/">Pourquoi nous ressentons ce que nous ressentons</a></li>
   <li><a href="/fr/decision-foundation/find-your-directional-purpose/humans-physiological-needs/">Les besoins humains</a></li>
