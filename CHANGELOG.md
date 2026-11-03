@@ -4,6 +4,16 @@ Started 2026-10-13. Earlier versions (up to 1.7.1) were only tracked in `src/ver
 
 ---
 
+## 2.27.1
+
+**"Essentials" on All guides** (owner, 2026-11-03: the 15-guide program renamed "YeahCore Essentials" in Radio v1.33 → "Should I add Essentials on All guides?" → "yes do so").
+- All guides (`start-here.mdx`): "The 15 numbered guides are the **Essentials**, about an hour of reading", then the go-deeper guides, Try today and next link. French: "Les 15 guides numérotés sont **l'Essentiel**".
+- Cleanup: each run of `apply_index.py` had added the `.story-list` style lines again (7 copies on each page); now once, and the script checks before adding.
+
+**Verification:** site builds in a scratch copy; no broken internal links.
+
+---
+
 ## 2.27.0
 
 **Situation pages: updated guides, and a listening program for each** (owner, 2026-11-03: "maybe modules associated to the pain cards?" → a guide list per card → "ok").
