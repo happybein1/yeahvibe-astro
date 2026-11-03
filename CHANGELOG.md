@@ -4,6 +4,17 @@ Started 2026-10-13. Earlier versions (up to 1.7.1) were only tracked in `src/ver
 
 ---
 
+## 2.24.1
+
+**Podcast episode for "Check In With How You Feel"** (owner, 2026-11-03: "go ahead with podcasts").
+- New Emma and Sam episode (2 min 36 s, Kokoro `af_heart` / `am_puck` on the ROG, levelled to -16 LUFS, 48 kHz mono 48 kb/s like the others): why check in, the six scores, reading them (two weeks or more = act), the four steps, when to talk to someone, one thing to try today, AI-voice line.
+- File `https://audio.happybein.com/yeahcore/check-in-with-how-you-feel.podcast.en.mp3`; front matter `audio`/`audioMinutes` added to the English guide. French page unchanged (no French podcasts yet).
+- Added to the HappyBein Podcast feed (happybein-astro v4.29), first in Mindset & Wellbeing, 28 episodes.
+
+**Verification:** site builds in a scratch copy; audio URL answers.
+
+---
+
 ## 2.24.0
 
 **New guide: "Check In With How You Feel"** (owner, 2026-11-03, journal note: "Add a first article about assessing how we feel and what to do about the persistent assessment" → draft shared → "publish").

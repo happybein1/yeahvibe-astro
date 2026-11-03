@@ -2,6 +2,8 @@
 title: Check In With How You Feel
 description: A two-minute check-in to see where you stand, and what to do when a low feeling doesn't pass.
 reading_time: "4 min"
+audio: https://audio.happybein.com/yeahcore/check-in-with-how-you-feel.podcast.en.mp3
+audioMinutes: 3
 sidebar:
   order: 0
 ---
