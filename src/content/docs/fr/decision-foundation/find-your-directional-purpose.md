@@ -58,4 +58,11 @@ Si vous vous sentez à plat et n'avez aucune idée, n'attendez pas que l'inspira
 <p class="yv-next-t">Votre prochain pas</p>
 <p><strong>À essayer aujourd'hui :</strong> terminez cette phrase de trois façons différentes : « Une bonne année, pour moi, serait une année où… ». Gardez celle qui sonne le plus juste.</p>
 <p class="yv-next-btns"><a class="yv-btn" href="https://intentflow.yeahvibe.com/" target="_blank" rel="noopener">Ouvrir dans IntentFlow</a> <a class="yv-btn yv-btn--ghost" href="/fr/help/stuck/">‹ Retour à « Je tourne en rond, sans élan »</a></p>
+<!-- story -->
+<div class="yv-story">
+<p class="yv-story-t">La suite de l'histoire</p>
+<p>Une direction devient concrète quand vous en faites un objectif.</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/fr/personal-effectiveness/inspiration/long-term-goals/">Objectifs à long terme →</a></p>
+</div>
+<!-- /story -->
 </div>

@@ -59,4 +59,11 @@ Much of today's stress has shared causes: heavy workloads, insecure jobs and hou
 <p class="yv-next-t">Your next step</p>
 <p><strong>Try today:</strong> Write down everything on your mind, all of it. Then circle just three things for today, and let the rest wait.</p>
 <p class="yv-next-btns"><a class="yv-btn" href="https://intentflow.yeahvibe.com/" target="_blank" rel="noopener">Open in IntentFlow</a> <a class="yv-btn yv-btn--ghost" href="/help/overwhelmed/">‹ Back to “I'm overwhelmed”</a></p>
+<!-- story -->
+<div class="yv-story">
+<p class="yv-story-t">Next in the story</p>
+<p>Under a lot of stress there is often a fear. Time to look at it closely.</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/personal-effectiveness/fear-management/">Fear Management →</a></p>
+</div>
+<!-- /story -->
 </div>

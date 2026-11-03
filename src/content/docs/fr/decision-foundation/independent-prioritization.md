@@ -55,4 +55,11 @@ Prioriser marche le mieux avec la méthode [Trouver des idées et les évaluer](
 <p class="yv-next-t">Votre prochain pas</p>
 <p><strong>À essayer aujourd'hui :</strong> notez vos options. Donnez à chacune une note de 1 à 5 pour l'impact et pour l'effort. Commencez par celle qui a un fort impact et demande peu d'effort.</p>
 <p class="yv-next-btns"><a class="yv-btn" href="https://intentflow.yeahvibe.com/" target="_blank" rel="noopener">Ouvrir dans IntentFlow</a> <a class="yv-btn yv-btn--ghost" href="/fr/help/decide/">‹ Retour à « Je n'arrive pas à décider »</a></p>
+<!-- story -->
+<div class="yv-story">
+<p class="yv-story-t">La suite de l'histoire</p>
+<p>Vous avez choisi. Vérifiez que vos projets vont ensemble, et confiez ce que d'autres peuvent faire.</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/fr/decision-foundation/clarity-alignment/">Clarté et alignement →</a></p>
+</div>
+<!-- /story -->
 </div>

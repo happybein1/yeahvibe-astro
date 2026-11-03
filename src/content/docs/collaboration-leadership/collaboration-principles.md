@@ -45,3 +45,15 @@ Disagreement, handled well, improves outcomes. Teams that never disagree are eit
 - **Meeting theater**: Lots of meetings, few decisions.
 - **Siloed information**: Teams that don't share knowledge compound each other's blind spots.
 - **Passive agreement**: People say yes in the room and nothing happens afterward.
+
+<div class="yv-next">
+<p class="yv-next-t">Your next step</p>
+<p><strong>Try today:</strong> For one shared task, agree out loud on who does what, and by when.</p>
+<!-- story -->
+<div class="yv-story">
+<p class="yv-story-t">Next in the story</p>
+<p>Working together starts with being understood.</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/collaboration-leadership/speak-clearly-and-confidently/">Speak Clearly and Confidently →</a></p>
+</div>
+<!-- /story -->
+</div>

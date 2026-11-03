@@ -48,3 +48,15 @@ Les états d'esprit se transmettent. Un entourage où apprendre, échouer et pro
 ## Au quotidien
 
 L'état d'esprit de croissance n'est pas un point d'arrivée, c'est une pratique de tous les jours. Attendez-vous à des moments où l'état d'esprit figé revient, surtout sous le stress ou le regard des autres. Remarquez-le, nommez-le, et choisissez la réponse qui vous fait grandir.
+
+<div class="yv-next">
+<p class="yv-next-t">Votre prochain pas</p>
+<p><strong>À essayer aujourd'hui :</strong> prenez une chose que vous ne savez pas faire, et ajoutez « pas encore ».</p>
+<!-- story -->
+<div class="yv-story">
+<p class="yv-story-t">La suite de l'histoire</p>
+<p>Ce qu'on apprend tient quand cela devient une habitude.</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/fr/personal-effectiveness/habits-improvement/">Améliorer ses habitudes →</a></p>
+</div>
+<!-- /story -->
+</div>

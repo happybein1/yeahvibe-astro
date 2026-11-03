@@ -63,4 +63,11 @@ This is general information, not medical advice. If low mood, anxiety or stress 
 <div class="yv-next">
 <p class="yv-next-t">Your next step</p>
 <p><strong>Try today:</strong> Give yourself one of each: a small task you can finish, ten minutes of daylight, one real conversation, and one thing that makes you laugh. And tell one person what you appreciate about them.</p>
+<!-- story -->
+<div class="yv-story">
+<p class="yv-story-t">Next in the story</p>
+<p>Feelings are signals, and they point to needs. Here are the needs we all share.</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/decision-foundation/find-your-directional-purpose/humans-physiological-needs/">Human needs →</a></p>
+</div>
+<!-- /story -->
 </div>

@@ -50,4 +50,11 @@ Pour votre propre argent, les mêmes idées s'appliquent à la maison. Le guide 
 <div class="yv-next">
 <p class="yv-next-t">Votre prochain pas</p>
 <p><strong>À essayer aujourd'hui :</strong> pensez à une décision au travail que vous n'avez pas comprise. Était-ce une question de recettes, de coûts ou de trésorerie ? Si vous n'êtes pas sûr, demandez à quelqu'un : la plupart des gens sont contents d'expliquer.</p>
+<!-- story -->
+<div class="yv-story">
+<p class="yv-story-t">La suite de l'histoire</p>
+<p>Avec les chiffres en main, vous êtes prêt à mener, avec ou sans titre.</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/fr/collaboration-leadership/influence-and-leadership/">Influence et leadership →</a></p>
+</div>
+<!-- /story -->
 </div>

@@ -60,3 +60,15 @@ People need to feel that their lives and actions matter. Without meaning, even c
 These needs form a lens for evaluating decisions. Before committing to a major plan, ask whether it serves or undermines these foundational needs — for yourself and for those affected by the decision.
 
 A plan that looks efficient on paper but systematically undermines sleep, autonomy, or connection is not actually efficient. It is borrowing from the future.
+
+<div class="yv-next">
+<p class="yv-next-t">Your next step</p>
+<p><strong>Try today:</strong> Look at the list and mark the one basic need that is least covered for you right now.</p>
+<!-- story -->
+<div class="yv-story">
+<p class="yv-story-t">Next in the story · Chapter 2 of 6: Where do I want to go?</p>
+<p>With the basics in view, you can look further: what do you actually want?</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/decision-foundation/find-your-directional-purpose/">Find Your Direction →</a></p>
+</div>
+<!-- /story -->
+</div>

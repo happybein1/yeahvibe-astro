@@ -55,4 +55,11 @@ Next time someone pushes back: listen, ask one precise question, check the facts
 <p class="yv-next-t">Your next step</p>
 <p><strong>Try today:</strong> The next time someone disagrees with you, ask one precise question ("What makes you say that?") before you answer.</p>
 <p class="yv-next-btns"><a class="yv-btn yv-btn--ghost" href="/help/alone/">‹ Back to “I feel alone, or it's hard with others”</a></p>
+<!-- story -->
+<div class="yv-story">
+<p class="yv-story-t">Next in the story</p>
+<p>From one disagreement to a whole group: how to decide together.</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/collaboration-leadership/group-decision-making/">Group Decision Making →</a></p>
+</div>
+<!-- /story -->
 </div>

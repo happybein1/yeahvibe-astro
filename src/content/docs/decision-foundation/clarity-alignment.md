@@ -58,3 +58,15 @@ Delegation is not offloading — it is a strategic choice. Effective delegation 
 - Matching the task to the person's skills and capacity.
 - Setting checkpoints without micromanaging.
 - Providing the authority and resources needed to succeed.
+
+<div class="yv-next">
+<p class="yv-next-t">Your next step</p>
+<p><strong>Try today:</strong> Find two plans that serve the same goal and combine them, or hand one task to someone else.</p>
+<!-- story -->
+<div class="yv-story">
+<p class="yv-story-t">Next in the story</p>
+<p>Plans meet real life. Check how it's going, and adjust.</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/decision-foundation/tracking-and-update/">Tracking and Update →</a></p>
+</div>
+<!-- /story -->
+</div>

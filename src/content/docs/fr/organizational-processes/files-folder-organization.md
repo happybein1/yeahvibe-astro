@@ -60,3 +60,15 @@ Gardez dans le cloud (Google Drive, OneDrive, Dropbox) les fichiers sur lesquels
 ## L'entretien
 
 Une fois par semaine, videz votre dossier Téléchargements et votre bureau. Rangez les fichiers à leur place ou archivez-les. Laisser des fichiers sur le bureau ou dans Téléchargements, c'est l'équivalent numérique de laisser traîner des affaires par terre : cela paraît provisoire, mais devient souvent définitif.
+
+<div class="yv-next">
+<p class="yv-next-t">Votre prochain pas</p>
+<p><strong>À essayer aujourd'hui :</strong> créez vos dossiers principaux et rangez-y dix fichiers.</p>
+<!-- story -->
+<div class="yv-story">
+<p class="yv-story-t">La suite de l'histoire</p>
+<p>Organisé chez vous et sur l'écran. Maintenant, récupérez vos temps de trajet.</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/fr/organizational-processes/managing-commuting-time/">Bien utiliser ses trajets →</a></p>
+</div>
+<!-- /story -->
+</div>

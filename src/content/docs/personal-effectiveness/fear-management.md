@@ -59,3 +59,15 @@ Fear is amplified by isolation. Sharing fears with trusted people reduces their 
 ## Fear and organizational decision-making
 
 Organizations develop collective fears too — fear of change, of accountability, of being wrong publicly. These manifest as risk aversion, groupthink, and slow decision cycles. Leaders who model comfort with uncertainty and learning from failure create cultures where better decisions get made.
+
+<div class="yv-next">
+<p class="yv-next-t">Your next step</p>
+<p><strong>Try today:</strong> Write down one fear. Then write the worst, the best and the most likely outcome.</p>
+<!-- story -->
+<div class="yv-story">
+<p class="yv-story-t">Next in the story</p>
+<p>Fear shrinks when mistakes become lessons.</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/personal-effectiveness/growth-mindset/">Growth Mindset →</a></p>
+</div>
+<!-- /story -->
+</div>

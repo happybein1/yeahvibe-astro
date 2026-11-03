@@ -55,3 +55,15 @@ Déléguer, ce n'est pas se débarrasser d'une tâche : c'est un choix stratégi
 - Confiez la tâche à quelqu'un qui a les compétences et le temps.
 - Prévoyez des points d'étape, sans tout contrôler.
 - Donnez l'autorité et les moyens nécessaires pour réussir.
+
+<div class="yv-next">
+<p class="yv-next-t">Votre prochain pas</p>
+<p><strong>À essayer aujourd'hui :</strong> trouvez deux projets qui servent le même objectif et regroupez-les, ou confiez une tâche à quelqu'un d'autre.</p>
+<!-- story -->
+<div class="yv-story">
+<p class="yv-story-t">La suite de l'histoire</p>
+<p>Les projets rencontrent la vraie vie. Regardez où vous en êtes, et ajustez.</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/fr/decision-foundation/tracking-and-update/">Suivre et ajuster →</a></p>
+</div>
+<!-- /story -->
+</div>

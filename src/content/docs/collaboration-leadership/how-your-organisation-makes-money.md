@@ -52,4 +52,11 @@ For your own money, the same ideas apply at home. The guide on [finance basics](
 <div class="yv-next">
 <p class="yv-next-t">Your next step</p>
 <p><strong>Try today:</strong> Think of one decision at work that you didn't understand. Was it about revenue, costs, or cash? If you're not sure, ask someone: most people are glad to explain.</p>
+<!-- story -->
+<div class="yv-story">
+<p class="yv-story-t">Next in the story</p>
+<p>With the numbers in hand, you're ready to lead, with or without a title.</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/collaboration-leadership/influence-and-leadership/">Influence and Leadership →</a></p>
+</div>
+<!-- /story -->
 </div>

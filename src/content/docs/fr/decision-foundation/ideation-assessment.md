@@ -16,6 +16,10 @@ Une approche générale pour trouver des idées d'objectifs et de plans suit ces
 - **Repérer les difficultés et ce qui peut s'améliorer** : identifiez les obstacles, les problèmes ou les points à améliorer pour atteindre cette situation.
 - **Chercher des solutions** : explorez des solutions possibles à ces difficultés, en vous appuyant sur le raisonnement ou sur vos expériences passées.
 
+**Exemple :** *situation souhaitée :* « Je me sens reposé et calme la plupart des soirs. » *Ce qui en empêche :* les mails du travail tard le soir, le téléphone au lit, pas de temps pour décompresser. *Idées :* couper les notifications du travail à 20 h, laisser le téléphone hors de la chambre, marcher 15 minutes après le dîner.
+
+Partir de là où vous voulez être, plutôt que du problème, vous garde concentré sur ce qui compte. Un problème ne vaut la peine d'être résolu que s'il se trouve entre vous et cette situation.
+
 Comme les options et les sources d'inspiration sont innombrables, la recherche d'idées va en général de pair avec leur évaluation, pour vérifier qu'elles sont pertinentes et réalisables.
 
 ## Comment évaluer
@@ -56,3 +60,15 @@ Toutes les décisions ne peuvent pas reposer uniquement sur des chiffres, une li
 Quand un objectif ou un plan paraît trop complexe, il est essentiel de le découper en petits morceaux faciles à gérer. Cela simplifie la démarche, la rend réalisable et motivante. En transformant de grandes ambitions en étapes claires, vous gardez le cap et suivez vos progrès plus facilement.
 
 **Exemple** : on gravit une montagne pas à pas. Un grand projet avance étape par étape. Découper un objectif complexe en buts hebdomadaires rend le chemin atteignable.
+
+<div class="yv-next">
+<p class="yv-next-t">Votre prochain pas</p>
+<p><strong>À essayer aujourd'hui :</strong> décrivez en une phrase où vous aimeriez être. Notez trois choses qui vous en empêchent. Puis écrivez dix idées en dix minutes, sans les juger.</p>
+<!-- story -->
+<div class="yv-story">
+<p class="yv-story-t">La suite de l'histoire</p>
+<p>Vous avez maintenant beaucoup d'idées. Laquelle passe en premier ?</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/fr/decision-foundation/independent-prioritization/">Impact ou effort →</a></p>
+</div>
+<!-- /story -->
+</div>

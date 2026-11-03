@@ -62,3 +62,15 @@ A time audit is only useful if it leads to change. Common actions:
 Time tracking also has societal dimensions. How populations collectively spend time — on paid work, unpaid care, education, leisure, and civic participation — shapes economic productivity, well-being, and social cohesion.
 
 Policy choices about working hours, parental leave, and retirement age are essentially decisions about collective time allocation. Understanding your own time use connects to these larger questions.
+
+<div class="yv-next">
+<p class="yv-next-t">Your next step</p>
+<p><strong>Try today:</strong> Today, write down what you did every hour, in a few words.</p>
+<!-- story -->
+<div class="yv-story">
+<p class="yv-story-t">Next in the story</p>
+<p>You've seen where time leaks. Simple systems stop the leaks.</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/organizational-processes/basic-organization-principles/">Basic Organization Principles →</a></p>
+</div>
+<!-- /story -->
+</div>

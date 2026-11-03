@@ -50,3 +50,15 @@ Tenez un petit journal de vos essais. Noter rend attentif et crée un léger eng
 ## Être patient
 
 Une habitude met du temps à s'installer, en général plus longtemps qu'on ne le dit. Attendez-vous à des rechutes. Un jour manqué n'est pas un échec : ce qui compte, c'est de reprendre l'habitude après.
+
+<div class="yv-next">
+<p class="yv-next-t">Votre prochain pas</p>
+<p><strong>À essayer aujourd'hui :</strong> accrochez une toute petite habitude à une chose que vous faites déjà chaque jour, comme un verre d'eau après vous être brossé les dents.</p>
+<!-- story -->
+<div class="yv-story">
+<p class="yv-story-t">La suite de l'histoire</p>
+<p>Voici de petites habitudes du quotidien qui valent la peine.</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/fr/personal-effectiveness/inspiration/daily-activities/">Activités du quotidien →</a></p>
+</div>
+<!-- /story -->
+</div>

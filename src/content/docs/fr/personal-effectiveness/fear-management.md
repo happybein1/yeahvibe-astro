@@ -56,3 +56,15 @@ L'isolement amplifie la peur. Partager ses peurs avec des personnes de confiance
 ## La peur dans les décisions des organisations
 
 Les organisations ont aussi des peurs collectives : peur du changement, de devoir rendre des comptes, de se tromper en public. Elles se traduisent par une aversion au risque, une pensée de groupe et des décisions lentes. Les responsables qui montrent qu'on peut vivre avec l'incertitude et apprendre de ses échecs créent une culture où l'on prend de meilleures décisions.
+
+<div class="yv-next">
+<p class="yv-next-t">Votre prochain pas</p>
+<p><strong>À essayer aujourd'hui :</strong> écrivez une peur. Puis notez le pire, le meilleur et le plus probable.</p>
+<!-- story -->
+<div class="yv-story">
+<p class="yv-story-t">La suite de l'histoire</p>
+<p>La peur diminue quand les erreurs deviennent des leçons.</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/fr/personal-effectiveness/growth-mindset/">L'état d'esprit de croissance →</a></p>
+</div>
+<!-- /story -->
+</div>

@@ -42,3 +42,15 @@ Un désaccord bien géré améliore les résultats. Une équipe qui n'est jamais
 - **Le théâtre des réunions** : beaucoup de réunions, peu de décisions.
 - **L'information cloisonnée** : des équipes qui ne partagent pas ce qu'elles savent cumulent leurs angles morts.
 - **L'accord de façade** : tout le monde dit oui en réunion, et rien ne se passe ensuite.
+
+<div class="yv-next">
+<p class="yv-next-t">Votre prochain pas</p>
+<p><strong>À essayer aujourd'hui :</strong> pour une tâche partagée, mettez-vous d'accord à voix haute sur qui fait quoi, et pour quand.</p>
+<!-- story -->
+<div class="yv-story">
+<p class="yv-story-t">La suite de l'histoire</p>
+<p>Travailler ensemble commence par être compris.</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/fr/collaboration-leadership/speak-clearly-and-confidently/">S'exprimer clairement et avec assurance →</a></p>
+</div>
+<!-- /story -->
+</div>

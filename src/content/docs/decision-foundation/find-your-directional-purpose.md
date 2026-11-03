@@ -62,4 +62,11 @@ If you feel flat and have no ideas at all, don't wait for inspiration to arrive.
 <p class="yv-next-t">Your next step</p>
 <p><strong>Try today:</strong> Finish this sentence in three different ways: "A good year for me would be one where…". Keep the one that feels most true.</p>
 <p class="yv-next-btns"><a class="yv-btn" href="https://intentflow.yeahvibe.com/" target="_blank" rel="noopener">Open in IntentFlow</a> <a class="yv-btn yv-btn--ghost" href="/help/stuck/">‹ Back to “I feel stuck or uninspired”</a></p>
+<!-- story -->
+<div class="yv-story">
+<p class="yv-story-t">Next in the story</p>
+<p>A direction becomes real when you turn it into a goal.</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/personal-effectiveness/inspiration/long-term-goals/">Long-Term Goals →</a></p>
+</div>
+<!-- /story -->
 </div>

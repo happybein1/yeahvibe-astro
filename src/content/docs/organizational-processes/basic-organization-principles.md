@@ -53,3 +53,15 @@ The more items in your active workspace — physical or digital — the more cog
 ## Organization is a system, not an event
 
 Organizing once does not make you organized. The goal is to build systems that maintain themselves with minimal effort. The best organization system is one you will actually use consistently.
+
+<div class="yv-next">
+<p class="yv-next-t">Your next step</p>
+<p><strong>Try today:</strong> Give one thing you're always looking for a fixed place.</p>
+<!-- story -->
+<div class="yv-story">
+<p class="yv-story-t">Next in the story</p>
+<p>The same idea, applied to your computer.</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/organizational-processes/files-folder-organization/">Files & Folder Organization →</a></p>
+</div>
+<!-- /story -->
+</div>

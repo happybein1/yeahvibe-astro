@@ -4,6 +4,21 @@ Started 2026-10-13. Earlier versions (up to 1.7.1) were only tracked in `src/ver
 
 ---
 
+## 2.25.0
+
+**The guides as one story, in 6 chapters** (owner, 2026-11-03: "I would like YeahCore to be more like a story that each article follows… a good exercise would be to list all the articles and mention what is the next step for each of them and how it connects to the next article" → story map → "ok go ahead" → "do all the next steps make sense… explain the reason" → map v2 with the reason for every link, weak links and missing guides → "go").
+- Story line: Where am I now? → Where do I want to go? → How do I get there? → How do I keep the energy? → How do I make room for it? → How do I do it with others? → check in again. Order of the 28 guides: Check In, Why We Feel, Human Needs | Find Your Direction, Long-Term Goals | Ideation, Prioritization, Clarity, Tracking | Sleep, Stress, Fear, Growth Mindset, Habits, Daily Activities | Time Spent, Organization Principles, Files & Folders, Commuting, Finance Basics, When Money Is Tight | Connection, Collaboration, Speak Clearly, Discussion/Fight, Group Decisions, How Your Organisation Makes Money, Influence and Leadership (→ back to Check In).
+- Every guide's "Your next step" box ends with **"Next in the story"** (`.yv-story`): one sentence on why the next guide follows, and a button to it; the chapter is named when the next guide starts a new one. Finance Basics also has "Skip to chapter 6". 18 guides had no box: each gets one with a new "Try today".
+- From map v2: Tracking → Sleep now says why (falling behind is often low energy, not the plan); the last two guides swapped so Influence and Leadership ends the story and loops back to Check In.
+- All guides (`start-here.mdx`): the four pillar cards replaced by the six chapters (numbered lists) and a "Start the story" button; the pillar pages are linked below. Menu: the four theme groups replaced by the six chapters in the same order.
+- Ideation & Assessment (owner: "we should start with a desired end state and then list associated problems"): the article already did; an example added (desired state → what's in the way → ideas) and why starting from the desired state helps. The podcast said "you start from a problem": rewritten ("you start from where you want to be, not from the problem"), new Try today, AI line in the standard form; re-recorded (2 min 27 s), same address.
+- French: all of the above in French (bridges, Try today, chapters, menu, Ideation example).
+- Still to write (map v2): Getting Started (ch. 3), Moving and Eating Well (ch. 4), Saying No (ch. 5), Close Relationships (ch. 6).
+
+**Verification:** site builds in a scratch copy; no broken internal links across the whole build.
+
+---
+
 ## 2.24.1
 
 **Podcast episode for "Check In With How You Feel"** (owner, 2026-11-03: "go ahead with podcasts").

@@ -54,3 +54,15 @@ A strong morning sets the tone for the day. Consider anchoring 2–3 of these in
 - **Prepare for tomorrow**: A quick plan the night before reduces morning friction and decision fatigue.
 - **Disconnect from screens**: Reduce bright light and stimulating content in the hour before bed.
 - **Consistent bedtime**: The single most effective sleep habit. See [Sleeping Well](/personal-effectiveness/sleeping-well).
+
+<div class="yv-next">
+<p class="yv-next-t">Your next step</p>
+<p><strong>Try today:</strong> Pick one morning habit from this list and keep it every day this week.</p>
+<!-- story -->
+<div class="yv-story">
+<p class="yv-story-t">Next in the story · Chapter 5 of 6: How do I make room for it?</p>
+<p>Good habits need room in your day. Where does your time really go?</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/personal-effectiveness/time-spent-identification/">Time Spent Identification →</a></p>
+</div>
+<!-- /story -->
+</div>

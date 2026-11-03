@@ -50,3 +50,15 @@ Ne mettez pas tout votre argent dans un seul placement, une seule entreprise ou 
 
 
 Curieux de voir comment ces idées s'appliquent à votre travail ? Lisez [comment votre organisation gagne de l'argent](/fr/collaboration-leadership/how-your-organisation-makes-money/).
+
+<div class="yv-next">
+<p class="yv-next-t">Votre prochain pas</p>
+<p><strong>À essayer aujourd'hui :</strong> regardez quelle part de vos revenus vous avez mise de côté le mois dernier, même si c'est zéro.</p>
+<!-- story -->
+<div class="yv-story">
+<p class="yv-story-t">La suite de l'histoire</p>
+<p>Si l'argent manque en ce moment, commencez par là. Sinon, vous pouvez passer au dernier chapitre.</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/fr/personal-effectiveness/when-money-is-tight/">Quand l'argent manque →</a> <a class="yv-btn yv-btn--ghost" href="/fr/personal-effectiveness/connection-and-loneliness/">Passer au chapitre 6 →</a></p>
+</div>
+<!-- /story -->
+</div>

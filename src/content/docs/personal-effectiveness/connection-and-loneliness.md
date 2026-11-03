@@ -61,4 +61,11 @@ How easy it is to meet people depends a lot on how society is organised: the des
 <p class="yv-next-t">Your next step</p>
 <p><strong>Try today:</strong> Send one message today to someone you'd like to hear from more often. Keep it short and simple.</p>
 <p class="yv-next-btns"><a class="yv-btn" href="https://intentflow.yeahvibe.com/" target="_blank" rel="noopener">Open in IntentFlow</a> <a class="yv-btn yv-btn--ghost" href="/help/alone/">‹ Back to “I feel alone, or it's hard with others”</a></p>
+<!-- story -->
+<div class="yv-story">
+<p class="yv-story-t">Next in the story</p>
+<p>Close to people in life. Now, working well with them.</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/collaboration-leadership/collaboration-principles/">Collaboration Principles →</a></p>
+</div>
+<!-- /story -->
 </div>

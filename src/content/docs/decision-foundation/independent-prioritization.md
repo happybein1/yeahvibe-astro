@@ -59,4 +59,11 @@ Prioritization works best when paired with the [Ideation & Assessment](/decision
 <p class="yv-next-t">Your next step</p>
 <p><strong>Try today:</strong> Write your options down. Give each one a score from 1 to 5 for impact and for effort. Start with the one that has high impact and low effort.</p>
 <p class="yv-next-btns"><a class="yv-btn" href="https://intentflow.yeahvibe.com/" target="_blank" rel="noopener">Open in IntentFlow</a> <a class="yv-btn yv-btn--ghost" href="/help/decide/">‹ Back to “I can't decide”</a></p>
+<!-- story -->
+<div class="yv-story">
+<p class="yv-story-t">Next in the story</p>
+<p>You've chosen. Make sure your plans fit together, and hand off what others can do.</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/decision-foundation/clarity-alignment/">Clarity & Alignment →</a></p>
+</div>
+<!-- /story -->
 </div>

@@ -65,4 +65,11 @@ How we feel is not only personal. Insecure work, high costs, loneliness and long
 <p class="yv-next-t">Your next step</p>
 <p><strong>Try today:</strong> Score the six areas now, from 1 to 5, and write them down with today's date. Set a reminder to do it again in one week.</p>
 <p class="yv-next-btns"><a class="yv-btn" href="https://intentflow.yeahvibe.com/" target="_blank" rel="noopener">Open in IntentFlow</a> <a class="yv-btn yv-btn--ghost" href="/start-here/">All guides</a></p>
+<!-- story -->
+<div class="yv-story">
+<p class="yv-story-t">Next in the story</p>
+<p>Your scores show how you feel. The next guide shows why.</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/personal-effectiveness/why-we-feel-what-we-feel/">Why We Feel What We Feel →</a></p>
+</div>
+<!-- /story -->
 </div>

@@ -54,3 +54,15 @@ La clarté compte aussi à l'écrit :
 - Utilisez des listes à puces pour les listes, pas pour tout.
 - Commencez vos e-mails par ce dont vous avez besoin, pas par le contexte.
 - Coupez sans hésiter : la plupart des premiers jets sont 30 % trop longs.
+
+<div class="yv-next">
+<p class="yv-next-t">Votre prochain pas</p>
+<p><strong>À essayer aujourd'hui :</strong> une fois aujourd'hui, dites votre idée principale dès la première phrase.</p>
+<!-- story -->
+<div class="yv-story">
+<p class="yv-story-t">La suite de l'histoire</p>
+<p>Même des mots clairs peuvent tomber sur quelqu'un qui veut gagner.</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/fr/collaboration-leadership/when-a-discussion-turns-into-a-fight/">Quand une discussion tourne à la dispute →</a></p>
+</div>
+<!-- /story -->
+</div>

@@ -57,3 +57,15 @@ Clarity matters in writing too:
 - Use bullet points for lists, not for everything.
 - Start emails with what you need, not with context.
 - Edit ruthlessly — most first drafts are 30% longer than they need to be.
+
+<div class="yv-next">
+<p class="yv-next-t">Your next step</p>
+<p><strong>Try today:</strong> Once today, say your main point in your first sentence.</p>
+<!-- story -->
+<div class="yv-story">
+<p class="yv-story-t">Next in the story</p>
+<p>Even clear words can meet someone who wants to win.</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/collaboration-leadership/when-a-discussion-turns-into-a-fight/">When a Discussion Turns into a Fight →</a></p>
+</div>
+<!-- /story -->
+</div>

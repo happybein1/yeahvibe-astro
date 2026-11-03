@@ -69,4 +69,11 @@ Les problèmes d'argent sont rarement seulement personnels. La hausse du coût d
 <p class="yv-next-t">Votre prochain pas</p>
 <p><strong>À essayer aujourd'hui :</strong> listez vos factures fixes et leurs dates d'échéance sur une seule page.</p>
 <p class="yv-next-btns"><a class="yv-btn" href="https://grocery.yeahvibe.com/" target="_blank" rel="noopener">Ouvrir ShopTools</a> <a class="yv-btn yv-btn--ghost" href="/fr/help/money/">‹ Retour à « L'argent m'inquiète »</a></p>
+<!-- story -->
+<div class="yv-story">
+<p class="yv-story-t">La suite de l'histoire · Chapitre 6 sur 6 : Comment avancer avec les autres ?</p>
+<p>Personne n'y arrive seul. Le dernier chapitre parle des autres.</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/fr/personal-effectiveness/connection-and-loneliness/">Lien et solitude →</a></p>
+</div>
+<!-- /story -->
 </div>

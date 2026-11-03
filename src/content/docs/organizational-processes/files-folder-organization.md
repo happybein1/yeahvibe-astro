@@ -63,3 +63,15 @@ Store actively collaborated files in the cloud (Google Drive, OneDrive, Dropbox)
 ## Maintenance
 
 Once a week, clear your Downloads folder and desktop. Move files to their proper home or archive. Leaving files on the desktop or in Downloads is the digital equivalent of leaving things on the floor — it feels temporary but often becomes permanent.
+
+<div class="yv-next">
+<p class="yv-next-t">Your next step</p>
+<p><strong>Try today:</strong> Create your main folders and move ten files into them.</p>
+<!-- story -->
+<div class="yv-story">
+<p class="yv-story-t">Next in the story</p>
+<p>Organised at home and on screen. Now win back your travel time.</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/organizational-processes/managing-commuting-time/">Managing Commuting Time →</a></p>
+</div>
+<!-- /story -->
+</div>

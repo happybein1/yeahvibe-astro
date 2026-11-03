@@ -59,3 +59,15 @@ Un bilan du temps n'est utile que s'il mène à un changement. Quelques actions 
 Le temps a aussi une dimension collective. La façon dont une population passe son temps, entre travail payé, soins non payés, études, loisirs et vie citoyenne, influence la productivité, le bien-être et la cohésion sociale.
 
 Les choix politiques sur la durée du travail, le congé parental ou l'âge de la retraite sont au fond des décisions sur la répartition collective du temps. Comprendre votre propre usage du temps vous relie à ces grandes questions.
+
+<div class="yv-next">
+<p class="yv-next-t">Votre prochain pas</p>
+<p><strong>À essayer aujourd'hui :</strong> aujourd'hui, notez en quelques mots ce que vous avez fait à chaque heure.</p>
+<!-- story -->
+<div class="yv-story">
+<p class="yv-story-t">La suite de l'histoire</p>
+<p>Vous avez vu où le temps s'échappe. Des systèmes simples arrêtent les fuites.</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/fr/organizational-processes/basic-organization-principles/">Les bases de l'organisation →</a></p>
+</div>
+<!-- /story -->
+</div>

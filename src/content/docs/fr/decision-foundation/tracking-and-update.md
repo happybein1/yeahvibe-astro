@@ -53,3 +53,15 @@ Il faut revoir un plan quand :
 - **Le piège des coûts déjà engagés** : ne poursuivez pas un plan qui échoue seulement parce que vous y avez déjà beaucoup investi. Jugez l'avenir pour ce qu'il est.
 - **Trop suivre** : tout mesurer crée du bruit. Concentrez-vous sur les quelques indicateurs qui comptent le plus.
 - **Ne pas assez ajuster** : un plan n'est pas un contrat. S'adapter est une preuve de bon jugement, pas de faiblesse.
+
+<div class="yv-next">
+<p class="yv-next-t">Votre prochain pas</p>
+<p><strong>À essayer aujourd'hui :</strong> bloquez 10 minutes de bilan dans votre agenda, dans une semaine.</p>
+<!-- story -->
+<div class="yv-story">
+<p class="yv-story-t">La suite de l'histoire · Chapitre 4 sur 6 : Comment garder l'énergie ?</p>
+<p>Si le suivi montre que vous prenez souvent du retard, la cause n'est souvent pas le plan mais le manque d'énergie. L'énergie commence par le sommeil.</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/fr/personal-effectiveness/sleeping-well/">Bien dormir →</a></p>
+</div>
+<!-- /story -->
+</div>

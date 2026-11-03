@@ -19,6 +19,10 @@ A general approach to generating ideas for goals and plans includes the followin
 - **Identify challenges and areas for improvement**: Pinpoint the challenges, problems, or areas that need improvement to achieve the desired state.
 - **Seek solutions to overcome challenges**: Explore potential solutions to address these challenges, drawing on logical thinking or insights from past experiences.
 
+**Example:** *Desired state:* "I feel rested and calm most evenings." *What's in the way:* work emails late at night, scrolling in bed, no time to wind down. *Ideas:* switch off work notifications at 8 pm, charge the phone outside the bedroom, a 15-minute walk after dinner.
+
+Starting from where you want to be, rather than from the problem, keeps you focused on what matters. Problems are only worth solving when they stand between you and that state.
+
 Given the vast number of potential options and sources of inspiration, ideation is typically intertwined with the assessment of ideas to ensure relevance and feasibility.
 
 ## Assessment guidelines
@@ -59,3 +63,15 @@ Not all decisions can be made solely on metrics, pros and cons, or collective ag
 When goals or plans appear too complex, breaking them into smaller, manageable components is essential. This simplifies the process, making it both achievable and motivating. By deconstructing high-level aspirations into clear milestones, you can maintain focus and track progress effectively.
 
 **Example**: A mountain is climbed one step at a time. A large project is delivered one milestone at a time. Breaking a complex goal into weekly targets makes the path feel achievable.
+
+<div class="yv-next">
+<p class="yv-next-t">Your next step</p>
+<p><strong>Try today:</strong> Describe in one sentence where you'd like to be. List three things in the way. Then write ten ideas in ten minutes, without judging them.</p>
+<!-- story -->
+<div class="yv-story">
+<p class="yv-story-t">Next in the story</p>
+<p>Now you have many ideas. Which one comes first?</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/decision-foundation/independent-prioritization/">Independent Prioritization →</a></p>
+</div>
+<!-- /story -->
+</div>

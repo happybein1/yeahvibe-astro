@@ -53,4 +53,11 @@ La prochaine fois que quelqu'un vous contredit : écoutez, posez une question pr
 <p class="yv-next-t">Votre prochain pas</p>
 <p><strong>À essayer aujourd'hui :</strong> la prochaine fois que quelqu'un n'est pas d'accord avec vous, posez une question précise (« Qu'est-ce qui te fait dire ça ? ») avant de répondre.</p>
 <p class="yv-next-btns"><a class="yv-btn yv-btn--ghost" href="/fr/help/alone/">‹ Retour à « La solitude me pèse, ou c'est dur avec les autres »</a></p>
+<!-- story -->
+<div class="yv-story">
+<p class="yv-story-t">La suite de l'histoire</p>
+<p>D'un désaccord à tout un groupe : comment décider ensemble.</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/fr/collaboration-leadership/group-decision-making/">Décider en groupe →</a></p>
+</div>
+<!-- /story -->
 </div>

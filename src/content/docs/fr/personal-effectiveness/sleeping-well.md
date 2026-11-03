@@ -51,4 +51,11 @@ Un mauvais sommeil qui dure mérite de l'attention. Les causes fréquentes sont 
 <p class="yv-next-t">Votre prochain pas</p>
 <p><strong>À essayer aujourd'hui :</strong> choisissez une heure de coucher et une heure de lever, et gardez-les pendant les 7 prochains jours, week-end compris.</p>
 <p class="yv-next-btns"><a class="yv-btn" href="https://intentflow.yeahvibe.com/" target="_blank" rel="noopener">Ouvrir dans IntentFlow</a> <a class="yv-btn yv-btn--ghost" href="/fr/help/tired/">‹ Retour à « Je suis à plat ou je dors mal »</a></p>
+<!-- story -->
+<div class="yv-story">
+<p class="yv-story-t">La suite de l'histoire</p>
+<p>Reposé, vous pouvez vous attaquer à l'autre grande perte d'énergie : le stress.</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/fr/personal-effectiveness/stress-and-overwhelm/">Stress et surcharge →</a></p>
+</div>
+<!-- /story -->
 </div>

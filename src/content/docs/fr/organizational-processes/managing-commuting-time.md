@@ -40,3 +40,15 @@ Quand c'est possible, aller au travail à pied ou à vélo combine le déplaceme
 ## En faire une habitude
 
 Décidez à l'avance comment vous utiliserez vos trajets. Avoir un plan par défaut, par exemple lundi, mercredi et vendredi pour apprendre, mardi et jeudi pour planifier et faire le point, évite d'avoir à décider chaque jour et garantit que ce temps est bien utilisé.
+
+<div class="yv-next">
+<p class="yv-next-t">Votre prochain pas</p>
+<p><strong>À essayer aujourd'hui :</strong> décidez dès maintenant ce que vous ferez pendant votre prochain trajet : apprendre, planifier ou vous reposer.</p>
+<!-- story -->
+<div class="yv-story">
+<p class="yv-story-t">La suite de l'histoire</p>
+<p>Le temps est une ressource. L'argent est l'autre.</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/fr/personal-effectiveness/mastering-finance-basics/">Les bases de l'argent →</a></p>
+</div>
+<!-- /story -->
+</div>

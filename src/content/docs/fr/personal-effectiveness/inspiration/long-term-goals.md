@@ -61,3 +61,15 @@ Loin des yeux, loin du cœur. Placez vos objectifs là où vous les voyez souven
 - **Le perfectionnisme qui fait remettre à plus tard** : attendre les conditions parfaites ou d'être parfaitement prêt. Avancer compte plus que la perfection.
 
 Voir aussi : [Trouver des idées et les évaluer](/fr/decision-foundation/ideation-assessment/) et [Suivre et ajuster](/fr/decision-foundation/tracking-and-update/).
+
+<div class="yv-next">
+<p class="yv-next-t">Votre prochain pas</p>
+<p><strong>À essayer aujourd'hui :</strong> écrivez un objectif pour les 12 prochains mois, en une phrase.</p>
+<!-- story -->
+<div class="yv-story">
+<p class="yv-story-t">La suite de l'histoire · Chapitre 3 sur 6 : Comment y arriver ?</p>
+<p>Vous savez où vous voulez être. Maintenant : qu'est-ce qui vous en empêche, et que pourriez-vous faire ?</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/fr/decision-foundation/ideation-assessment/">Trouver des idées et les évaluer →</a></p>
+</div>
+<!-- /story -->
+</div>

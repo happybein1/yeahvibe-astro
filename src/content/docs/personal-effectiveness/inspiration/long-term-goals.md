@@ -64,3 +64,15 @@ Out of sight is out of mind. Put your goals somewhere you see them regularly —
 - **Perfectionism as procrastination**: Waiting for perfect conditions or perfect readiness. Progress matters more than perfection.
 
 See also: [Ideation & Assessment](/decision-foundation/ideation-assessment) and [Tracking and Update](/decision-foundation/tracking-and-update).
+
+<div class="yv-next">
+<p class="yv-next-t">Your next step</p>
+<p><strong>Try today:</strong> Write one goal for the next 12 months, in one sentence.</p>
+<!-- story -->
+<div class="yv-story">
+<p class="yv-story-t">Next in the story · Chapter 3 of 6: How do I get there?</p>
+<p>You know where you want to be. Now: what's in the way, and what could you do about it?</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/decision-foundation/ideation-assessment/">Ideation & Assessment →</a></p>
+</div>
+<!-- /story -->
+</div>

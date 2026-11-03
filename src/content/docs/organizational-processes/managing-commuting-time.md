@@ -43,3 +43,15 @@ Where possible, walking or cycling to work combines transportation with physical
 ## Making it a system
 
 Decide in advance how you will use your commute. Having a default plan — Monday/Wednesday/Friday: learning; Tuesday/Thursday: planning and reflection — removes the daily decision and ensures the time is used intentionally.
+
+<div class="yv-next">
+<p class="yv-next-t">Your next step</p>
+<p><strong>Try today:</strong> Decide now what you'll do on your next trip: learn, plan or rest.</p>
+<!-- story -->
+<div class="yv-story">
+<p class="yv-story-t">Next in the story</p>
+<p>Time is one resource. Money is the other.</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/personal-effectiveness/mastering-finance-basics/">Mastering Finance Basics →</a></p>
+</div>
+<!-- /story -->
+</div>

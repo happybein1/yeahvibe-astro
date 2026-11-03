@@ -59,3 +59,15 @@ Décidez maintenant quand :
 - Attendre coûte plus cher qu'une décision imparfaite
 - La décision peut être défaite
 - Vous avez assez d'informations pour faire un choix raisonnable
+
+<div class="yv-next">
+<p class="yv-next-t">Votre prochain pas</p>
+<p><strong>À essayer aujourd'hui :</strong> à votre prochaine réunion, dites qui décide avant que la discussion commence.</p>
+<!-- story -->
+<div class="yv-story">
+<p class="yv-story-t">La suite de l'histoire</p>
+<p>Beaucoup de décisions au travail se jouent sur l'argent. Comprenez les chiffres qui sont derrière.</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/fr/collaboration-leadership/how-your-organisation-makes-money/">Comment votre organisation gagne de l'argent →</a></p>
+</div>
+<!-- /story -->
+</div>

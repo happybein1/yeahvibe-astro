@@ -50,3 +50,15 @@ Plus il y a de choses dans votre espace de travail actif, physique ou numérique
 ## S'organiser est un système, pas un événement
 
 Ranger une fois ne rend pas organisé. Le but est de créer des systèmes qui tiennent tout seuls, avec peu d'effort. Le meilleur système d'organisation est celui que vous utiliserez vraiment, régulièrement.
+
+<div class="yv-next">
+<p class="yv-next-t">Votre prochain pas</p>
+<p><strong>À essayer aujourd'hui :</strong> donnez une place fixe à une chose que vous cherchez sans arrêt.</p>
+<!-- story -->
+<div class="yv-story">
+<p class="yv-story-t">La suite de l'histoire</p>
+<p>La même idée, appliquée à votre ordinateur.</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/fr/organizational-processes/files-folder-organization/">Organiser fichiers et dossiers →</a></p>
+</div>
+<!-- /story -->
+</div>

@@ -52,3 +52,15 @@ Don't concentrate all financial resources in a single asset, company, or sector.
 
 
 Curious how the same ideas work at your job? See [how your organisation makes money](/collaboration-leadership/how-your-organisation-makes-money/).
+
+<div class="yv-next">
+<p class="yv-next-t">Your next step</p>
+<p><strong>Try today:</strong> Check what share of your income you saved last month, even if it's zero.</p>
+<!-- story -->
+<div class="yv-story">
+<p class="yv-story-t">Next in the story</p>
+<p>If there isn't enough money right now, start here. If there is, you can skip to the last chapter.</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/personal-effectiveness/when-money-is-tight/">When Money Is Tight →</a> <a class="yv-btn yv-btn--ghost" href="/personal-effectiveness/connection-and-loneliness/">Skip to chapter 6 →</a></p>
+</div>
+<!-- /story -->
+</div>

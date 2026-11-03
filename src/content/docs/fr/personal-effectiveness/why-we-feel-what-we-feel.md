@@ -59,4 +59,11 @@ Ceci est une information générale, pas un avis médical. Si une humeur basse, 
 <div class="yv-next">
 <p class="yv-next-t">Votre prochain pas</p>
 <p><strong>À essayer aujourd'hui :</strong> offrez-vous un peu de chaque : une petite tâche que vous pouvez terminer, dix minutes de lumière du jour, une vraie conversation et une chose qui vous fait rire. Et dites à une personne ce que vous appréciez chez elle.</p>
+<!-- story -->
+<div class="yv-story">
+<p class="yv-story-t">La suite de l'histoire</p>
+<p>Les émotions sont des signaux, et elles indiquent des besoins. Voici ceux que nous partageons tous.</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/fr/decision-foundation/find-your-directional-purpose/humans-physiological-needs/">Les besoins humains →</a></p>
+</div>
+<!-- /story -->
 </div>

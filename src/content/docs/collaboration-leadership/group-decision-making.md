@@ -62,3 +62,15 @@ Decide now when:
 - The cost of delay exceeds the cost of imperfection
 - The decision is reversible
 - You have enough information to make a reasonable choice
+
+<div class="yv-next">
+<p class="yv-next-t">Your next step</p>
+<p><strong>Try today:</strong> At your next meeting, say who decides before the discussion starts.</p>
+<!-- story -->
+<div class="yv-story">
+<p class="yv-story-t">Next in the story</p>
+<p>Many decisions at work come down to money. Understand the numbers behind them.</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/collaboration-leadership/how-your-organisation-makes-money/">How Your Organisation Makes Money →</a></p>
+</div>
+<!-- /story -->
+</div>

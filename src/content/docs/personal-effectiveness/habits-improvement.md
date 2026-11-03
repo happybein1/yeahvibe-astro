@@ -53,3 +53,15 @@ Keep a simple log of habit attempts. Tracking creates awareness and mild account
 ## Be patient with the timeline
 
 Habits take time to form — typically longer than popular wisdom suggests. Expect setbacks. A missed day is not failure; returning to the habit after a setback is what matters.
+
+<div class="yv-next">
+<p class="yv-next-t">Your next step</p>
+<p><strong>Try today:</strong> Attach one tiny new habit to something you already do every day, like a glass of water after brushing your teeth.</p>
+<!-- story -->
+<div class="yv-story">
+<p class="yv-story-t">Next in the story</p>
+<p>Here are small daily habits worth building.</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/personal-effectiveness/inspiration/daily-activities/">Daily Activities →</a></p>
+</div>
+<!-- /story -->
+</div>

@@ -51,3 +51,15 @@ Mindsets are socially contagious. Environments that normalize learning, failure,
 ## Applying it day to day
 
 The growth mindset is not a destination — it is a daily practice. Expect moments where the fixed mindset reasserts itself (especially under stress or public scrutiny). Notice it, name it, and choose the growth-oriented response.
+
+<div class="yv-next">
+<p class="yv-next-t">Your next step</p>
+<p><strong>Try today:</strong> Take one thing you can't do, and add the word "yet".</p>
+<!-- story -->
+<div class="yv-story">
+<p class="yv-story-t">Next in the story</p>
+<p>Learning sticks when it becomes a habit.</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/personal-effectiveness/habits-improvement/">Habits Improvement →</a></p>
+</div>
+<!-- /story -->
+</div>

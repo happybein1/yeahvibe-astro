@@ -56,4 +56,11 @@ Une grande partie du stress actuel a des causes communes : charges de travail lo
 <p class="yv-next-t">Votre prochain pas</p>
 <p><strong>À essayer aujourd'hui :</strong> notez tout ce qui vous occupe l'esprit, absolument tout. Puis entourez seulement trois choses pour aujourd'hui, et laissez le reste attendre.</p>
 <p class="yv-next-btns"><a class="yv-btn" href="https://intentflow.yeahvibe.com/" target="_blank" rel="noopener">Ouvrir dans IntentFlow</a> <a class="yv-btn yv-btn--ghost" href="/fr/help/overwhelmed/">‹ Retour à « Tout me déborde »</a></p>
+<!-- story -->
+<div class="yv-story">
+<p class="yv-story-t">La suite de l'histoire</p>
+<p>Derrière beaucoup de stress, il y a souvent une peur. Regardons-la de près.</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/fr/personal-effectiveness/fear-management/">Gérer la peur →</a></p>
+</div>
+<!-- /story -->
 </div>

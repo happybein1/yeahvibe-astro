@@ -61,4 +61,11 @@ Ce que nous ressentons n'est pas seulement personnel. Le travail précaire, le c
 <p class="yv-next-t">Votre prochain pas</p>
 <p><strong>À essayer aujourd'hui :</strong> notez maintenant les six domaines, de 1 à 5, avec la date du jour. Mettez un rappel pour recommencer dans une semaine.</p>
 <p class="yv-next-btns"><a class="yv-btn" href="https://intentflow.yeahvibe.com/" target="_blank" rel="noopener">Ouvrir dans IntentFlow</a> <a class="yv-btn yv-btn--ghost" href="/fr/start-here/">Tous les guides</a></p>
+<!-- story -->
+<div class="yv-story">
+<p class="yv-story-t">La suite de l'histoire</p>
+<p>Vos notes montrent ce que vous ressentez. Le guide suivant montre pourquoi.</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/fr/personal-effectiveness/why-we-feel-what-we-feel/">Pourquoi nous ressentons ce que nous ressentons →</a></p>
+</div>
+<!-- /story -->
 </div>

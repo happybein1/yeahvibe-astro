@@ -58,4 +58,11 @@ La facilité à rencontrer des gens dépend beaucoup de l'organisation de la soc
 <p class="yv-next-t">Votre prochain pas</p>
 <p><strong>À essayer aujourd'hui :</strong> envoyez un message à quelqu'un dont vous aimeriez avoir des nouvelles plus souvent. Court et simple.</p>
 <p class="yv-next-btns"><a class="yv-btn" href="https://intentflow.yeahvibe.com/" target="_blank" rel="noopener">Ouvrir dans IntentFlow</a> <a class="yv-btn yv-btn--ghost" href="/fr/help/alone/">‹ Retour à « La solitude me pèse »</a></p>
+<!-- story -->
+<div class="yv-story">
+<p class="yv-story-t">La suite de l'histoire</p>
+<p>Proche des gens dans la vie. Maintenant, bien travailler avec eux.</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/fr/collaboration-leadership/collaboration-principles/">Bien travailler avec les autres →</a></p>
+</div>
+<!-- /story -->
 </div>

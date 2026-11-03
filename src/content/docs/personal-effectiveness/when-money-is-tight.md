@@ -72,4 +72,11 @@ Money problems are rarely only personal. Rising housing and energy costs, insecu
 <p class="yv-next-t">Your next step</p>
 <p><strong>Try today:</strong> List your fixed bills and their due dates on one page.</p>
 <p class="yv-next-btns"><a class="yv-btn" href="https://grocery.yeahvibe.com/" target="_blank" rel="noopener">Open ShopTools</a> <a class="yv-btn yv-btn--ghost" href="/help/money/">‹ Back to “Money worries me”</a></p>
+<!-- story -->
+<div class="yv-story">
+<p class="yv-story-t">Next in the story · Chapter 6 of 6: How do I do it with others?</p>
+<p>Nobody gets there alone. The last chapter is about other people.</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/personal-effectiveness/connection-and-loneliness/">Connection and Loneliness →</a></p>
+</div>
+<!-- /story -->
 </div>

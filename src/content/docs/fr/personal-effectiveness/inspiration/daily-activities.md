@@ -51,3 +51,15 @@ Un bon matin donne le ton de la journée. Essayez d'ancrer 2 ou 3 de ces gestes 
 - **Préparer le lendemain** : un petit plan la veille rend le matin plus fluide et évite la fatigue des décisions.
 - **Lâcher les écrans** : réduisez la lumière vive et les contenus stimulants dans l'heure avant le coucher.
 - **Une heure de coucher fixe** : c'est l'habitude de sommeil la plus efficace. Voir [Bien dormir](/fr/personal-effectiveness/sleeping-well/).
+
+<div class="yv-next">
+<p class="yv-next-t">Votre prochain pas</p>
+<p><strong>À essayer aujourd'hui :</strong> choisissez une habitude du matin dans cette liste et tenez-la chaque jour cette semaine.</p>
+<!-- story -->
+<div class="yv-story">
+<p class="yv-story-t">La suite de l'histoire · Chapitre 5 sur 6 : Comment faire de la place ?</p>
+<p>Les bonnes habitudes ont besoin de place dans la journée. Où passe vraiment votre temps ?</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/fr/personal-effectiveness/time-spent-identification/">Où passe votre temps →</a></p>
+</div>
+<!-- /story -->
+</div>

@@ -58,3 +58,15 @@ Chacun a besoin de sentir que sa vie et ses actes comptent. Sans sens, même une
 Ces besoins forment une grille pour évaluer les décisions. Avant de vous engager dans un grand projet, demandez-vous s'il nourrit ou abîme ces besoins fondamentaux, pour vous et pour les personnes concernées.
 
 Un plan qui semble efficace sur le papier mais qui abîme le sommeil, l'autonomie ou les liens n'est pas vraiment efficace. Il emprunte à l'avenir.
+
+<div class="yv-next">
+<p class="yv-next-t">Votre prochain pas</p>
+<p><strong>À essayer aujourd'hui :</strong> parcourez la liste et marquez le besoin de base le moins couvert pour vous en ce moment.</p>
+<!-- story -->
+<div class="yv-story">
+<p class="yv-story-t">La suite de l'histoire · Chapitre 2 sur 6 : Où ai-je envie d'aller ?</p>
+<p>Avec les bases en vue, vous pouvez regarder plus loin : que voulez-vous vraiment ?</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/fr/decision-foundation/find-your-directional-purpose/">Trouver votre direction →</a></p>
+</div>
+<!-- /story -->
+</div>

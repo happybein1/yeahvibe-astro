@@ -55,4 +55,11 @@ Chronic poor sleep warrants attention. Common causes include sleep apnea (especi
 <p class="yv-next-t">Your next step</p>
 <p><strong>Try today:</strong> Pick one bedtime and one wake-up time, and keep them for the next 7 days, weekends included.</p>
 <p class="yv-next-btns"><a class="yv-btn" href="https://intentflow.yeahvibe.com/" target="_blank" rel="noopener">Open in IntentFlow</a> <a class="yv-btn yv-btn--ghost" href="/help/tired/">‹ Back to “I'm tired or sleep badly”</a></p>
+<!-- story -->
+<div class="yv-story">
+<p class="yv-story-t">Next in the story</p>
+<p>Rested, you can take on the other big drain on energy: stress.</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/personal-effectiveness/stress-and-overwhelm/">Stress and Overwhelm →</a></p>
+</div>
+<!-- /story -->
 </div>
