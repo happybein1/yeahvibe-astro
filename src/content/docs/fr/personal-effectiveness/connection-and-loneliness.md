@@ -61,8 +61,8 @@ La facilité à rencontrer des gens dépend beaucoup de l'organisation de la soc
 <!-- story -->
 <div class="yv-story">
 <p class="yv-story-t">La suite de l'histoire</p>
-<p>Proche des gens dans la vie. Maintenant, bien travailler avec eux.</p>
-<p class="yv-next-btns"><a class="yv-btn" href="/fr/collaboration-leadership/collaboration-principles/">Bien travailler avec les autres →</a></p>
+<p>Une fois moins seul, prenez soin des personnes les plus proches.</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/fr/personal-effectiveness/close-relationships/">Les relations proches →</a></p>
 </div>
 <!-- /story -->
 </div>

@@ -64,9 +64,9 @@ Delegation is not offloading — it is a strategic choice. Effective delegation 
 <p><strong>Try today:</strong> Find two plans that serve the same goal and combine them, or hand one task to someone else.</p>
 <!-- story -->
 <div class="yv-story">
-<p class="yv-story-t">Next in the story</p>
-<p>Plans meet real life. Check how it's going, and adjust.</p>
-<p class="yv-next-btns"><a class="yv-btn" href="/decision-foundation/tracking-and-update/">Tracking and Update →</a></p>
+<p class="yv-story-t">Back to the story</p>
+<p>This guide goes deeper into <a href="/decision-foundation/independent-prioritization/">Independent Prioritization</a>. The story continues with <strong>Getting Started</strong>.</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/decision-foundation/getting-started/">Getting Started →</a></p>
 </div>
 <!-- /story -->
 </div>

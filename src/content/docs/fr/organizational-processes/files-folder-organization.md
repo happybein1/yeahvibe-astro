@@ -66,9 +66,9 @@ Une fois par semaine, videz votre dossier Téléchargements et votre bureau. Ran
 <p><strong>À essayer aujourd'hui :</strong> créez vos dossiers principaux et rangez-y dix fichiers.</p>
 <!-- story -->
 <div class="yv-story">
-<p class="yv-story-t">La suite de l'histoire</p>
-<p>Organisé chez vous et sur l'écran. Maintenant, récupérez vos temps de trajet.</p>
-<p class="yv-next-btns"><a class="yv-btn" href="/fr/organizational-processes/managing-commuting-time/">Bien utiliser ses trajets →</a></p>
+<p class="yv-story-t">Retour à l'histoire</p>
+<p>Ce guide approfondit <a href="/fr/organizational-processes/saying-no/">Savoir dire non</a>. L'histoire continue avec <strong>Les bases de l'argent</strong>.</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/fr/personal-effectiveness/mastering-finance-basics/">Les bases de l'argent →</a> <a class="yv-btn yv-btn--ghost" href="/fr/organizational-processes/managing-commuting-time/">Ou approfondir : Bien utiliser ses trajets →</a></p>
 </div>
 <!-- /story -->
 </div>

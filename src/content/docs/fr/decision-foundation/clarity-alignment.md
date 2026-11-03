@@ -61,9 +61,9 @@ Déléguer, ce n'est pas se débarrasser d'une tâche : c'est un choix stratégi
 <p><strong>À essayer aujourd'hui :</strong> trouvez deux projets qui servent le même objectif et regroupez-les, ou confiez une tâche à quelqu'un d'autre.</p>
 <!-- story -->
 <div class="yv-story">
-<p class="yv-story-t">La suite de l'histoire</p>
-<p>Les projets rencontrent la vraie vie. Regardez où vous en êtes, et ajustez.</p>
-<p class="yv-next-btns"><a class="yv-btn" href="/fr/decision-foundation/tracking-and-update/">Suivre et ajuster →</a></p>
+<p class="yv-story-t">Retour à l'histoire</p>
+<p>Ce guide approfondit <a href="/fr/decision-foundation/independent-prioritization/">Impact ou effort</a>. L'histoire continue avec <strong>Passer à l'action</strong>.</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/fr/decision-foundation/getting-started/">Passer à l'action →</a></p>
 </div>
 <!-- /story -->
 </div>

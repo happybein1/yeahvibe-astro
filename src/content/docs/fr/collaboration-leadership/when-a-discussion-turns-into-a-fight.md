@@ -55,9 +55,9 @@ La prochaine fois que quelqu'un vous contredit : écoutez, posez une question pr
 <p class="yv-next-btns"><a class="yv-btn yv-btn--ghost" href="/fr/help/alone/">‹ Retour à « La solitude me pèse, ou c'est dur avec les autres »</a></p>
 <!-- story -->
 <div class="yv-story">
-<p class="yv-story-t">La suite de l'histoire</p>
-<p>D'un désaccord à tout un groupe : comment décider ensemble.</p>
-<p class="yv-next-btns"><a class="yv-btn" href="/fr/collaboration-leadership/group-decision-making/">Décider en groupe →</a></p>
+<p class="yv-story-t">Retour à l'histoire</p>
+<p>Ce guide approfondit <a href="/fr/personal-effectiveness/close-relationships/">Les relations proches</a>. L'histoire se termine ici. Refaites le point : qu'est-ce qui a changé depuis le début ?</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/fr/personal-effectiveness/check-in-with-how-you-feel/">Faire le point sur ce que vous ressentez →</a> <a class="yv-btn yv-btn--ghost" href="/fr/collaboration-leadership/group-decision-making/">Ou approfondir : Décider en groupe →</a></p>
 </div>
 <!-- /story -->
 </div>

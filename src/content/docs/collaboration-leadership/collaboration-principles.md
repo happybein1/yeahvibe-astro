@@ -51,9 +51,9 @@ Disagreement, handled well, improves outcomes. Teams that never disagree are eit
 <p><strong>Try today:</strong> For one shared task, agree out loud on who does what, and by when.</p>
 <!-- story -->
 <div class="yv-story">
-<p class="yv-story-t">Next in the story</p>
-<p>Working together starts with being understood.</p>
-<p class="yv-next-btns"><a class="yv-btn" href="/collaboration-leadership/speak-clearly-and-confidently/">Speak Clearly and Confidently →</a></p>
+<p class="yv-story-t">Back to the story</p>
+<p>This guide goes deeper into <a href="/personal-effectiveness/close-relationships/">Close Relationships</a>. The story ends here. Check in again: what has changed since you started?</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/personal-effectiveness/check-in-with-how-you-feel/">Check In With How You Feel →</a> <a class="yv-btn yv-btn--ghost" href="/collaboration-leadership/speak-clearly-and-confidently/">Or go deeper: Speak Clearly and Confidently →</a></p>
 </div>
 <!-- /story -->
 </div>

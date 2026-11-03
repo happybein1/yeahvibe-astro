@@ -59,8 +59,9 @@ Une grande partie du stress actuel a des causes communes : charges de travail lo
 <!-- story -->
 <div class="yv-story">
 <p class="yv-story-t">La suite de l'histoire</p>
-<p>Derrière beaucoup de stress, il y a souvent une peur. Regardons-la de près.</p>
-<p class="yv-next-btns"><a class="yv-btn" href="/fr/personal-effectiveness/fear-management/">Gérer la peur →</a></p>
+<p>Le calme dure plus longtemps quand de bonnes routines portent une partie de la charge. Voici comment les construire.</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/fr/personal-effectiveness/habits-improvement/">Améliorer ses habitudes →</a></p>
+<p class="yv-deeper"><span>Pour aller plus loin :</span> <a href="/fr/personal-effectiveness/fear-management/">Gérer la peur</a> · <a href="/fr/personal-effectiveness/growth-mindset/">L'état d'esprit de croissance</a></p>
 </div>
 <!-- /story -->
 </div>

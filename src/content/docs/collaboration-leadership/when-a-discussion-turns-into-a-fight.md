@@ -57,9 +57,9 @@ Next time someone pushes back: listen, ask one precise question, check the facts
 <p class="yv-next-btns"><a class="yv-btn yv-btn--ghost" href="/help/alone/">‹ Back to “I feel alone, or it's hard with others”</a></p>
 <!-- story -->
 <div class="yv-story">
-<p class="yv-story-t">Next in the story</p>
-<p>From one disagreement to a whole group: how to decide together.</p>
-<p class="yv-next-btns"><a class="yv-btn" href="/collaboration-leadership/group-decision-making/">Group Decision Making →</a></p>
+<p class="yv-story-t">Back to the story</p>
+<p>This guide goes deeper into <a href="/personal-effectiveness/close-relationships/">Close Relationships</a>. The story ends here. Check in again: what has changed since you started?</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/personal-effectiveness/check-in-with-how-you-feel/">Check In With How You Feel →</a> <a class="yv-btn yv-btn--ghost" href="/collaboration-leadership/group-decision-making/">Or go deeper: Group Decision Making →</a></p>
 </div>
 <!-- /story -->
 </div>

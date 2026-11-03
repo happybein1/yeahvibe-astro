@@ -60,9 +60,10 @@ Si vous vous sentez à plat et n'avez aucune idée, n'attendez pas que l'inspira
 <p class="yv-next-btns"><a class="yv-btn" href="https://intentflow.yeahvibe.com/" target="_blank" rel="noopener">Ouvrir dans IntentFlow</a> <a class="yv-btn yv-btn--ghost" href="/fr/help/stuck/">‹ Retour à « Je tourne en rond, sans élan »</a></p>
 <!-- story -->
 <div class="yv-story">
-<p class="yv-story-t">La suite de l'histoire</p>
-<p>Une direction devient concrète quand vous en faites un objectif.</p>
-<p class="yv-next-btns"><a class="yv-btn" href="/fr/personal-effectiveness/inspiration/long-term-goals/">Objectifs à long terme →</a></p>
+<p class="yv-story-t">✓ Fin du chapitre 2 : Où ai-je envie d'aller ?</p>
+<p><strong>Ensuite, chapitre 3 : Comment y arriver ?</strong><br>Vous savez où vous voulez aller. Maintenant : qu'est-ce qui vous en empêche, et que pourriez-vous faire ?</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/fr/decision-foundation/ideation-assessment/">Trouver des idées et les évaluer →</a></p>
+<p class="yv-deeper"><span>Pour aller plus loin :</span> <a href="/fr/personal-effectiveness/inspiration/long-term-goals/">Objectifs à long terme</a></p>
 </div>
 <!-- /story -->
 </div>

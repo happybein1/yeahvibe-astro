@@ -59,8 +59,8 @@ Il faut revoir un plan quand :
 <p><strong>À essayer aujourd'hui :</strong> bloquez 10 minutes de bilan dans votre agenda, dans une semaine.</p>
 <!-- story -->
 <div class="yv-story">
-<p class="yv-story-t">La suite de l'histoire · Chapitre 4 sur 6 : Comment garder l'énergie ?</p>
-<p>Si le suivi montre que vous prenez souvent du retard, la cause n'est souvent pas le plan mais le manque d'énergie. L'énergie commence par le sommeil.</p>
+<p class="yv-story-t">Retour à l'histoire</p>
+<p>Ce guide approfondit <a href="/fr/decision-foundation/getting-started/">Passer à l'action</a>. L'histoire continue au chapitre 4 : <strong>Comment garder l'énergie ?</strong></p>
 <p class="yv-next-btns"><a class="yv-btn" href="/fr/personal-effectiveness/sleeping-well/">Bien dormir →</a></p>
 </div>
 <!-- /story -->

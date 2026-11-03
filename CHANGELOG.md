@@ -4,6 +4,22 @@ Started 2026-10-13. Earlier versions (up to 1.7.1) were only tracked in `src/ver
 
 ---
 
+## 2.26.0
+
+**Four new guides, chapter ends, and a core path through the story** (owner, 2026-11-03: map v2 listed 4 missing guides → "make them all, i will review later" → "already record them" → "we can connect stating end of a chapter then go to the next chapter" → "what do you think of this architecture?" → core path draft → "makes sense" → "ok go for it").
+- **New guides, English and French:** Getting Started / Passer à l'action (ch. 3, after Clarity), Moving and Eating Well / Bouger et bien manger (ch. 4, after Sleep), Saying No / Savoir dire non (ch. 5, after Time Spent), Close Relationships / Les relations proches (ch. 6, after Connection). Each has a Try today; the English ones have their Emma and Sam podcast (`audio`/`audioMinutes: 3`). Added to the menu in story order. 32 guides.
+- **Chapter ends:** the last guide of a chapter says "✓ End of chapter N: question" and "Next, chapter N+1: question" before its button; the last one says "✓ End of the story" and "Back to chapter 1".
+- **Core path:** 15 guides form the story (about an hour of reading): Check In, Why We Feel | Find Your Direction | Ideation, Prioritization, Getting Started | Sleeping Well, Moving and Eating Well, Stress, Habits | Time Spent, Saying No, Finance Basics | Connection, Close Relationships (→ back to Check In). The story ends on Close Relationships rather than on When a Discussion Turns into a Fight (a warmer ending).
+- **Go deeper:** the other 17 guides belong to the nearest core guide before them: Human Needs (Why We Feel); Long-Term Goals (Direction); Clarity (Prioritization); Tracking (Getting Started); Fear, Growth Mindset (Stress); Daily Activities (Habits); Organization Principles, Files & Folders, Commuting (Saying No); When Money Is Tight (Finance Basics); Collaboration, Speak Clearly, Discussion/Fight, Group Decisions, How Your Organisation Makes Money, Influence and Leadership (Close Relationships).
+- Story box (`apply_story.py`, data in `core_data.py`): a core guide says "Next in the story" with a bridge to the next core guide (new bridges where the next guide changed) and a "Go deeper:" line (`.yv-deeper`) with its guides. A go-deeper guide says "Back to the story": "This guide goes deeper into [core guide]. The story continues with [next core guide]" (or "in chapter N" when that starts a new chapter), a button to it, and a ghost button "Or go deeper: [next go-deeper guide]" when there is one. Finance Basics no longer needs "Skip to chapter 6" (its next guide is Connection).
+- All guides: core guides numbered 1 to 15 across the chapters; go-deeper guides on a small grey line under their core guide (`.story-deeper`, not numbered). Menu: go-deeper guides indented, smaller and lighter (`attrs: { class: 'yv-extra' }`, `.sidebar-content a.yv-extra`).
+- Podcast: the HappyBein Podcast now plays the whole story in order, extras included (happybein-astro v4.31, Radio v1.29).
+- French: all of the above in French.
+
+**Verification:** site builds in a scratch copy; no broken internal links; screenshots of a core guide, a go-deeper guide, a chapter end and All guides, desktop and phone.
+
+---
+
 ## 2.25.0
 
 **The guides as one story, in 6 chapters** (owner, 2026-11-03: "I would like YeahCore to be more like a story that each article follows… a good exercise would be to list all the articles and mention what is the next step for each of them and how it connects to the next article" → story map → "ok go ahead" → "do all the next steps make sense… explain the reason" → map v2 with the reason for every link, weak links and missing guides → "go").

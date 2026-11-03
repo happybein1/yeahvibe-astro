@@ -65,9 +65,9 @@ Décidez maintenant quand :
 <p><strong>À essayer aujourd'hui :</strong> à votre prochaine réunion, dites qui décide avant que la discussion commence.</p>
 <!-- story -->
 <div class="yv-story">
-<p class="yv-story-t">La suite de l'histoire</p>
-<p>Beaucoup de décisions au travail se jouent sur l'argent. Comprenez les chiffres qui sont derrière.</p>
-<p class="yv-next-btns"><a class="yv-btn" href="/fr/collaboration-leadership/how-your-organisation-makes-money/">Comment votre organisation gagne de l'argent →</a></p>
+<p class="yv-story-t">Retour à l'histoire</p>
+<p>Ce guide approfondit <a href="/fr/personal-effectiveness/close-relationships/">Les relations proches</a>. L'histoire se termine ici. Refaites le point : qu'est-ce qui a changé depuis le début ?</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/fr/personal-effectiveness/check-in-with-how-you-feel/">Faire le point sur ce que vous ressentez →</a> <a class="yv-btn yv-btn--ghost" href="/fr/collaboration-leadership/how-your-organisation-makes-money/">Ou approfondir : Comment votre organisation gagne de l'argent →</a></p>
 </div>
 <!-- /story -->
 </div>

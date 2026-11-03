@@ -59,9 +59,9 @@ Organizing once does not make you organized. The goal is to build systems that m
 <p><strong>Try today:</strong> Give one thing you're always looking for a fixed place.</p>
 <!-- story -->
 <div class="yv-story">
-<p class="yv-story-t">Next in the story</p>
-<p>The same idea, applied to your computer.</p>
-<p class="yv-next-btns"><a class="yv-btn" href="/organizational-processes/files-folder-organization/">Files & Folder Organization →</a></p>
+<p class="yv-story-t">Back to the story</p>
+<p>This guide goes deeper into <a href="/organizational-processes/saying-no/">Saying No</a>. The story continues with <strong>Mastering Finance Basics</strong>.</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/personal-effectiveness/mastering-finance-basics/">Mastering Finance Basics →</a> <a class="yv-btn yv-btn--ghost" href="/organizational-processes/files-folder-organization/">Or go deeper: Files & Folder Organization →</a></p>
 </div>
 <!-- /story -->
 </div>

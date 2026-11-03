@@ -65,9 +65,10 @@ This is general information, not medical advice. If low mood, anxiety or stress 
 <p><strong>Try today:</strong> Give yourself one of each: a small task you can finish, ten minutes of daylight, one real conversation, and one thing that makes you laugh. And tell one person what you appreciate about them.</p>
 <!-- story -->
 <div class="yv-story">
-<p class="yv-story-t">Next in the story</p>
-<p>Feelings are signals, and they point to needs. Here are the needs we all share.</p>
-<p class="yv-next-btns"><a class="yv-btn" href="/decision-foundation/find-your-directional-purpose/humans-physiological-needs/">Human needs →</a></p>
+<p class="yv-story-t">✓ End of chapter 1: Where am I now?</p>
+<p><strong>Next, chapter 2: Where do I want to go?</strong><br>Feelings point to needs. Once you know what you need, you can look further: what do you actually want?</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/decision-foundation/find-your-directional-purpose/">Find Your Direction →</a></p>
+<p class="yv-deeper"><span>Go deeper:</span> <a href="/decision-foundation/find-your-directional-purpose/humans-physiological-needs/">Human needs</a></p>
 </div>
 <!-- /story -->
 </div>

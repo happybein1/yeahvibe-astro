@@ -54,8 +54,8 @@ Un mauvais sommeil qui dure mérite de l'attention. Les causes fréquentes sont 
 <!-- story -->
 <div class="yv-story">
 <p class="yv-story-t">La suite de l'histoire</p>
-<p>Reposé, vous pouvez vous attaquer à l'autre grande perte d'énergie : le stress.</p>
-<p class="yv-next-btns"><a class="yv-btn" href="/fr/personal-effectiveness/stress-and-overwhelm/">Stress et surcharge →</a></p>
+<p>Le sommeil est une base de l'énergie. Le mouvement et l'alimentation sont les deux autres.</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/fr/personal-effectiveness/moving-and-eating-well/">Bouger et bien manger →</a></p>
 </div>
 <!-- /story -->
 </div>

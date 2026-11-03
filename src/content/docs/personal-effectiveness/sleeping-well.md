@@ -58,8 +58,8 @@ Chronic poor sleep warrants attention. Common causes include sleep apnea (especi
 <!-- story -->
 <div class="yv-story">
 <p class="yv-story-t">Next in the story</p>
-<p>Rested, you can take on the other big drain on energy: stress.</p>
-<p class="yv-next-btns"><a class="yv-btn" href="/personal-effectiveness/stress-and-overwhelm/">Stress and Overwhelm →</a></p>
+<p>Sleep is one foundation of energy. Movement and food are the other two.</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/personal-effectiveness/moving-and-eating-well/">Moving and Eating Well →</a></p>
 </div>
 <!-- /story -->
 </div>

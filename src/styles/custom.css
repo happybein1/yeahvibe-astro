@@ -403,3 +403,12 @@ a.yv-card:hover, .yv-card:hover { transform: translateY(-3px); border-color: var
 /* 2.25.0: "Next in the story" at the end of every guide (the guides read as one story, in 6 chapters) */
 .sl-markdown-content .yv-story { margin-top: 1rem; padding-top: .8rem; border-top: 1px solid var(--sl-color-hairline); }
 .sl-markdown-content .yv-story-t { font-size: .78rem; font-weight: 800; text-transform: uppercase; letter-spacing: .04em; color: var(--sl-color-gray-3); }
+
+/* 2.26.0: the core path. Core guides list their "Go deeper" guides; those guides are lighter in the menu
+   and on All guides, and lead back to the story. */
+.sl-markdown-content .yv-deeper { font-size: .88rem; color: var(--sl-color-gray-2); margin-top: .8rem !important; }
+.sl-markdown-content .yv-deeper span { font-weight: 700; color: var(--sl-color-gray-3); }
+.sidebar-content a.yv-extra { padding-inline-start: 1.6rem; font-size: .85em; opacity: .75; }
+.sidebar-content a.yv-extra[aria-current='page'] { opacity: 1; }
+.sl-markdown-content .story-deeper { display: block; list-style: none; margin: .1rem 0 .2rem; font-size: .85rem; color: var(--sl-color-gray-3); }
+.sl-markdown-content .story-deeper a { color: var(--sl-color-gray-2); }

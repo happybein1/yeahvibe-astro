@@ -52,9 +52,9 @@ Pour votre propre argent, les mêmes idées s'appliquent à la maison. Le guide 
 <p><strong>À essayer aujourd'hui :</strong> pensez à une décision au travail que vous n'avez pas comprise. Était-ce une question de recettes, de coûts ou de trésorerie ? Si vous n'êtes pas sûr, demandez à quelqu'un : la plupart des gens sont contents d'expliquer.</p>
 <!-- story -->
 <div class="yv-story">
-<p class="yv-story-t">La suite de l'histoire</p>
-<p>Avec les chiffres en main, vous êtes prêt à mener, avec ou sans titre.</p>
-<p class="yv-next-btns"><a class="yv-btn" href="/fr/collaboration-leadership/influence-and-leadership/">Influence et leadership →</a></p>
+<p class="yv-story-t">Retour à l'histoire</p>
+<p>Ce guide approfondit <a href="/fr/personal-effectiveness/close-relationships/">Les relations proches</a>. L'histoire se termine ici. Refaites le point : qu'est-ce qui a changé depuis le début ?</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/fr/personal-effectiveness/check-in-with-how-you-feel/">Faire le point sur ce que vous ressentez →</a> <a class="yv-btn yv-btn--ghost" href="/fr/collaboration-leadership/influence-and-leadership/">Ou approfondir : Influence et leadership →</a></p>
 </div>
 <!-- /story -->
 </div>

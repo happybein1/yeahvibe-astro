@@ -70,8 +70,8 @@ See also: [Ideation & Assessment](/decision-foundation/ideation-assessment) and 
 <p><strong>Try today:</strong> Write one goal for the next 12 months, in one sentence.</p>
 <!-- story -->
 <div class="yv-story">
-<p class="yv-story-t">Next in the story · Chapter 3 of 6: How do I get there?</p>
-<p>You know where you want to be. Now: what's in the way, and what could you do about it?</p>
+<p class="yv-story-t">Back to the story</p>
+<p>This guide goes deeper into <a href="/decision-foundation/find-your-directional-purpose/">Find Your Direction</a>. The story continues in chapter 3: <strong>How do I get there?</strong></p>
 <p class="yv-next-btns"><a class="yv-btn" href="/decision-foundation/ideation-assessment/">Ideation & Assessment →</a></p>
 </div>
 <!-- /story -->

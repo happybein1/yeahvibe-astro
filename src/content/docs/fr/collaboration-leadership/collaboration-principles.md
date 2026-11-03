@@ -48,9 +48,9 @@ Un désaccord bien géré améliore les résultats. Une équipe qui n'est jamais
 <p><strong>À essayer aujourd'hui :</strong> pour une tâche partagée, mettez-vous d'accord à voix haute sur qui fait quoi, et pour quand.</p>
 <!-- story -->
 <div class="yv-story">
-<p class="yv-story-t">La suite de l'histoire</p>
-<p>Travailler ensemble commence par être compris.</p>
-<p class="yv-next-btns"><a class="yv-btn" href="/fr/collaboration-leadership/speak-clearly-and-confidently/">S'exprimer clairement et avec assurance →</a></p>
+<p class="yv-story-t">Retour à l'histoire</p>
+<p>Ce guide approfondit <a href="/fr/personal-effectiveness/close-relationships/">Les relations proches</a>. L'histoire se termine ici. Refaites le point : qu'est-ce qui a changé depuis le début ?</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/fr/personal-effectiveness/check-in-with-how-you-feel/">Faire le point sur ce que vous ressentez →</a> <a class="yv-btn yv-btn--ghost" href="/fr/collaboration-leadership/speak-clearly-and-confidently/">Ou approfondir : S'exprimer clairement et avec assurance →</a></p>
 </div>
 <!-- /story -->
 </div>

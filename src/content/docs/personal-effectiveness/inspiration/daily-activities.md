@@ -60,8 +60,8 @@ A strong morning sets the tone for the day. Consider anchoring 2–3 of these in
 <p><strong>Try today:</strong> Pick one morning habit from this list and keep it every day this week.</p>
 <!-- story -->
 <div class="yv-story">
-<p class="yv-story-t">Next in the story · Chapter 5 of 6: How do I make room for it?</p>
-<p>Good habits need room in your day. Where does your time really go?</p>
+<p class="yv-story-t">Back to the story</p>
+<p>This guide goes deeper into <a href="/personal-effectiveness/habits-improvement/">Habits Improvement</a>. The story continues in chapter 5: <strong>How do I make room for it?</strong></p>
 <p class="yv-next-btns"><a class="yv-btn" href="/personal-effectiveness/time-spent-identification/">Time Spent Identification →</a></p>
 </div>
 <!-- /story -->

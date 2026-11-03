@@ -65,9 +65,9 @@ Organizations develop collective fears too — fear of change, of accountability
 <p><strong>Try today:</strong> Write down one fear. Then write the worst, the best and the most likely outcome.</p>
 <!-- story -->
 <div class="yv-story">
-<p class="yv-story-t">Next in the story</p>
-<p>Fear shrinks when mistakes become lessons.</p>
-<p class="yv-next-btns"><a class="yv-btn" href="/personal-effectiveness/growth-mindset/">Growth Mindset →</a></p>
+<p class="yv-story-t">Back to the story</p>
+<p>This guide goes deeper into <a href="/personal-effectiveness/stress-and-overwhelm/">Stress and Overwhelm</a>. The story continues with <strong>Habits Improvement</strong>.</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/personal-effectiveness/habits-improvement/">Habits Improvement →</a> <a class="yv-btn yv-btn--ghost" href="/personal-effectiveness/growth-mindset/">Or go deeper: Growth Mindset →</a></p>
 </div>
 <!-- /story -->
 </div>

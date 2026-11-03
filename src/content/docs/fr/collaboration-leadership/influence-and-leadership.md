@@ -48,9 +48,9 @@ Ne pas décider est aussi un choix, et en général un choix coûteux. Les bons 
 <p><strong>À essayer aujourd'hui :</strong> aidez un collègue sur quelque chose qui compte pour lui, sans qu'il le demande.</p>
 <!-- story -->
 <div class="yv-story">
-<p class="yv-story-t">La suite de l'histoire · Chapitre 1 sur 6 : Où en suis-je ?</p>
-<p>Mener les autres commence par se mener soi-même. Refaites le point : qu'est-ce qui a changé depuis le début ?</p>
-<p class="yv-next-btns"><a class="yv-btn" href="/fr/personal-effectiveness/check-in-with-how-you-feel/">Retour au début : Faire le point sur ce que vous ressentez →</a></p>
+<p class="yv-story-t">Retour à l'histoire</p>
+<p>Ce guide approfondit <a href="/fr/personal-effectiveness/close-relationships/">Les relations proches</a>. L'histoire se termine ici. Refaites le point : qu'est-ce qui a changé depuis le début ?</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/fr/personal-effectiveness/check-in-with-how-you-feel/">Faire le point sur ce que vous ressentez →</a></p>
 </div>
 <!-- /story -->
 </div>

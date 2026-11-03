@@ -62,8 +62,9 @@ Prioritization works best when paired with the [Ideation & Assessment](/decision
 <!-- story -->
 <div class="yv-story">
 <p class="yv-story-t">Next in the story</p>
-<p>You've chosen. Make sure your plans fit together, and hand off what others can do.</p>
-<p class="yv-next-btns"><a class="yv-btn" href="/decision-foundation/clarity-alignment/">Clarity & Alignment →</a></p>
+<p>You've chosen what comes first. Now take the first step.</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/decision-foundation/getting-started/">Getting Started →</a></p>
+<p class="yv-deeper"><span>Go deeper:</span> <a href="/decision-foundation/clarity-alignment/">Clarity & Alignment</a></p>
 </div>
 <!-- /story -->
 </div>

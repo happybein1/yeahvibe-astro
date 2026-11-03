@@ -57,8 +57,8 @@ The growth mindset is not a destination — it is a daily practice. Expect momen
 <p><strong>Try today:</strong> Take one thing you can't do, and add the word "yet".</p>
 <!-- story -->
 <div class="yv-story">
-<p class="yv-story-t">Next in the story</p>
-<p>Learning sticks when it becomes a habit.</p>
+<p class="yv-story-t">Back to the story</p>
+<p>This guide goes deeper into <a href="/personal-effectiveness/stress-and-overwhelm/">Stress and Overwhelm</a>. The story continues with <strong>Habits Improvement</strong>.</p>
 <p class="yv-next-btns"><a class="yv-btn" href="/personal-effectiveness/habits-improvement/">Habits Improvement →</a></p>
 </div>
 <!-- /story -->

@@ -58,8 +58,9 @@ Prioriser marche le mieux avec la méthode [Trouver des idées et les évaluer](
 <!-- story -->
 <div class="yv-story">
 <p class="yv-story-t">La suite de l'histoire</p>
-<p>Vous avez choisi. Vérifiez que vos projets vont ensemble, et confiez ce que d'autres peuvent faire.</p>
-<p class="yv-next-btns"><a class="yv-btn" href="/fr/decision-foundation/clarity-alignment/">Clarté et alignement →</a></p>
+<p>Vous avez choisi ce qui passe en premier. Maintenant, faites le premier pas.</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/fr/decision-foundation/getting-started/">Passer à l'action →</a></p>
+<p class="yv-deeper"><span>Pour aller plus loin :</span> <a href="/fr/decision-foundation/clarity-alignment/">Clarté et alignement</a></p>
 </div>
 <!-- /story -->
 </div>

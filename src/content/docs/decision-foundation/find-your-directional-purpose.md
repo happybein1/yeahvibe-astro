@@ -64,9 +64,10 @@ If you feel flat and have no ideas at all, don't wait for inspiration to arrive.
 <p class="yv-next-btns"><a class="yv-btn" href="https://intentflow.yeahvibe.com/" target="_blank" rel="noopener">Open in IntentFlow</a> <a class="yv-btn yv-btn--ghost" href="/help/stuck/">‹ Back to “I feel stuck or uninspired”</a></p>
 <!-- story -->
 <div class="yv-story">
-<p class="yv-story-t">Next in the story</p>
-<p>A direction becomes real when you turn it into a goal.</p>
-<p class="yv-next-btns"><a class="yv-btn" href="/personal-effectiveness/inspiration/long-term-goals/">Long-Term Goals →</a></p>
+<p class="yv-story-t">✓ End of chapter 2: Where do I want to go?</p>
+<p><strong>Next, chapter 3: How do I get there?</strong><br>You know where you want to go. Now: what's in the way, and what could you do about it?</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/decision-foundation/ideation-assessment/">Ideation & Assessment →</a></p>
+<p class="yv-deeper"><span>Go deeper:</span> <a href="/personal-effectiveness/inspiration/long-term-goals/">Long-Term Goals</a></p>
 </div>
 <!-- /story -->
 </div>

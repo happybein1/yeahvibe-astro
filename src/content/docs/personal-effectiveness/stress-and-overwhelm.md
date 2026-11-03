@@ -62,8 +62,9 @@ Much of today's stress has shared causes: heavy workloads, insecure jobs and hou
 <!-- story -->
 <div class="yv-story">
 <p class="yv-story-t">Next in the story</p>
-<p>Under a lot of stress there is often a fear. Time to look at it closely.</p>
-<p class="yv-next-btns"><a class="yv-btn" href="/personal-effectiveness/fear-management/">Fear Management →</a></p>
+<p>Calm lasts longer when good routines carry part of the load. Here's how to build them.</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/personal-effectiveness/habits-improvement/">Habits Improvement →</a></p>
+<p class="yv-deeper"><span>Go deeper:</span> <a href="/personal-effectiveness/fear-management/">Fear Management</a> · <a href="/personal-effectiveness/growth-mindset/">Growth Mindset</a></p>
 </div>
 <!-- /story -->
 </div>

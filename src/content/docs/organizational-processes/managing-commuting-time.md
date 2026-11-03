@@ -49,8 +49,8 @@ Decide in advance how you will use your commute. Having a default plan — Monda
 <p><strong>Try today:</strong> Decide now what you'll do on your next trip: learn, plan or rest.</p>
 <!-- story -->
 <div class="yv-story">
-<p class="yv-story-t">Next in the story</p>
-<p>Time is one resource. Money is the other.</p>
+<p class="yv-story-t">Back to the story</p>
+<p>This guide goes deeper into <a href="/organizational-processes/saying-no/">Saying No</a>. The story continues with <strong>Mastering Finance Basics</strong>.</p>
 <p class="yv-next-btns"><a class="yv-btn" href="/personal-effectiveness/mastering-finance-basics/">Mastering Finance Basics →</a></p>
 </div>
 <!-- /story -->

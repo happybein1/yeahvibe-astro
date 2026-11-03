@@ -54,9 +54,9 @@ For your own money, the same ideas apply at home. The guide on [finance basics](
 <p><strong>Try today:</strong> Think of one decision at work that you didn't understand. Was it about revenue, costs, or cash? If you're not sure, ask someone: most people are glad to explain.</p>
 <!-- story -->
 <div class="yv-story">
-<p class="yv-story-t">Next in the story</p>
-<p>With the numbers in hand, you're ready to lead, with or without a title.</p>
-<p class="yv-next-btns"><a class="yv-btn" href="/collaboration-leadership/influence-and-leadership/">Influence and Leadership →</a></p>
+<p class="yv-story-t">Back to the story</p>
+<p>This guide goes deeper into <a href="/personal-effectiveness/close-relationships/">Close Relationships</a>. The story ends here. Check in again: what has changed since you started?</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/personal-effectiveness/check-in-with-how-you-feel/">Check In With How You Feel →</a> <a class="yv-btn yv-btn--ghost" href="/collaboration-leadership/influence-and-leadership/">Or go deeper: Influence and Leadership →</a></p>
 </div>
 <!-- /story -->
 </div>

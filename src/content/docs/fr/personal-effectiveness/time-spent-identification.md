@@ -66,8 +66,8 @@ Les choix politiques sur la durée du travail, le congé parental ou l'âge de l
 <!-- story -->
 <div class="yv-story">
 <p class="yv-story-t">La suite de l'histoire</p>
-<p>Vous avez vu où le temps s'échappe. Des systèmes simples arrêtent les fuites.</p>
-<p class="yv-next-btns"><a class="yv-btn" href="/fr/organizational-processes/basic-organization-principles/">Les bases de l'organisation →</a></p>
+<p>Vous avez vu où passe votre temps. Le moyen le plus rapide d'en libérer est d'arrêter certaines choses.</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/fr/organizational-processes/saying-no/">Savoir dire non →</a></p>
 </div>
 <!-- /story -->
 </div>

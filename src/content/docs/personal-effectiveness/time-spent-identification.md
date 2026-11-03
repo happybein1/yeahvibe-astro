@@ -69,8 +69,8 @@ Policy choices about working hours, parental leave, and retirement age are essen
 <!-- story -->
 <div class="yv-story">
 <p class="yv-story-t">Next in the story</p>
-<p>You've seen where time leaks. Simple systems stop the leaks.</p>
-<p class="yv-next-btns"><a class="yv-btn" href="/organizational-processes/basic-organization-principles/">Basic Organization Principles →</a></p>
+<p>You've seen where your time goes. The fastest way to free some is to stop doing some things.</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/organizational-processes/saying-no/">Saying No →</a></p>
 </div>
 <!-- /story -->
 </div>

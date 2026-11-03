@@ -66,8 +66,8 @@ A plan that looks efficient on paper but systematically undermines sleep, autono
 <p><strong>Try today:</strong> Look at the list and mark the one basic need that is least covered for you right now.</p>
 <!-- story -->
 <div class="yv-story">
-<p class="yv-story-t">Next in the story · Chapter 2 of 6: Where do I want to go?</p>
-<p>With the basics in view, you can look further: what do you actually want?</p>
+<p class="yv-story-t">Back to the story</p>
+<p>This guide goes deeper into <a href="/personal-effectiveness/why-we-feel-what-we-feel/">Why We Feel What We Feel</a>. The story continues in chapter 2: <strong>Where do I want to go?</strong></p>
 <p class="yv-next-btns"><a class="yv-btn" href="/decision-foundation/find-your-directional-purpose/">Find Your Direction →</a></p>
 </div>
 <!-- /story -->

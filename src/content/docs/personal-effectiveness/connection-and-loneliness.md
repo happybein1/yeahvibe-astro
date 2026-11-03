@@ -64,8 +64,8 @@ How easy it is to meet people depends a lot on how society is organised: the des
 <!-- story -->
 <div class="yv-story">
 <p class="yv-story-t">Next in the story</p>
-<p>Close to people in life. Now, working well with them.</p>
-<p class="yv-next-btns"><a class="yv-btn" href="/collaboration-leadership/collaboration-principles/">Collaboration Principles →</a></p>
+<p>Once you feel less alone, take care of the people closest to you.</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/personal-effectiveness/close-relationships/">Close Relationships →</a></p>
 </div>
 <!-- /story -->
 </div>

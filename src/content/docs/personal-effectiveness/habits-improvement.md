@@ -59,9 +59,10 @@ Habits take time to form — typically longer than popular wisdom suggests. Expe
 <p><strong>Try today:</strong> Attach one tiny new habit to something you already do every day, like a glass of water after brushing your teeth.</p>
 <!-- story -->
 <div class="yv-story">
-<p class="yv-story-t">Next in the story</p>
-<p>Here are small daily habits worth building.</p>
-<p class="yv-next-btns"><a class="yv-btn" href="/personal-effectiveness/inspiration/daily-activities/">Daily Activities →</a></p>
+<p class="yv-story-t">✓ End of chapter 4: How do I keep the energy?</p>
+<p><strong>Next, chapter 5: How do I make room for it?</strong><br>Good habits need room in your day. Where does your time really go?</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/personal-effectiveness/time-spent-identification/">Time Spent Identification →</a></p>
+<p class="yv-deeper"><span>Go deeper:</span> <a href="/personal-effectiveness/inspiration/daily-activities/">Daily Activities</a></p>
 </div>
 <!-- /story -->
 </div>

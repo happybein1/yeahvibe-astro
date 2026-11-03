@@ -64,8 +64,8 @@ Un plan qui semble efficace sur le papier mais qui abîme le sommeil, l'autonomi
 <p><strong>À essayer aujourd'hui :</strong> parcourez la liste et marquez le besoin de base le moins couvert pour vous en ce moment.</p>
 <!-- story -->
 <div class="yv-story">
-<p class="yv-story-t">La suite de l'histoire · Chapitre 2 sur 6 : Où ai-je envie d'aller ?</p>
-<p>Avec les bases en vue, vous pouvez regarder plus loin : que voulez-vous vraiment ?</p>
+<p class="yv-story-t">Retour à l'histoire</p>
+<p>Ce guide approfondit <a href="/fr/personal-effectiveness/why-we-feel-what-we-feel/">Pourquoi nous ressentons ce que nous ressentons</a>. L'histoire continue au chapitre 2 : <strong>Où ai-je envie d'aller ?</strong></p>
 <p class="yv-next-btns"><a class="yv-btn" href="/fr/decision-foundation/find-your-directional-purpose/">Trouver votre direction →</a></p>
 </div>
 <!-- /story -->

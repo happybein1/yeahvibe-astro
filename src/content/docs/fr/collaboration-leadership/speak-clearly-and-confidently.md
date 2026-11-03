@@ -60,9 +60,9 @@ La clarté compte aussi à l'écrit :
 <p><strong>À essayer aujourd'hui :</strong> une fois aujourd'hui, dites votre idée principale dès la première phrase.</p>
 <!-- story -->
 <div class="yv-story">
-<p class="yv-story-t">La suite de l'histoire</p>
-<p>Même des mots clairs peuvent tomber sur quelqu'un qui veut gagner.</p>
-<p class="yv-next-btns"><a class="yv-btn" href="/fr/collaboration-leadership/when-a-discussion-turns-into-a-fight/">Quand une discussion tourne à la dispute →</a></p>
+<p class="yv-story-t">Retour à l'histoire</p>
+<p>Ce guide approfondit <a href="/fr/personal-effectiveness/close-relationships/">Les relations proches</a>. L'histoire se termine ici. Refaites le point : qu'est-ce qui a changé depuis le début ?</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/fr/personal-effectiveness/check-in-with-how-you-feel/">Faire le point sur ce que vous ressentez →</a> <a class="yv-btn yv-btn--ghost" href="/fr/collaboration-leadership/when-a-discussion-turns-into-a-fight/">Ou approfondir : Quand une discussion tourne à la dispute →</a></p>
 </div>
 <!-- /story -->
 </div>

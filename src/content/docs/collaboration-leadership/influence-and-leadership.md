@@ -51,9 +51,9 @@ Indecision is itself a choice — usually a costly one. Good leaders decide with
 <p><strong>Try today:</strong> Help one colleague with something they care about, without being asked.</p>
 <!-- story -->
 <div class="yv-story">
-<p class="yv-story-t">Next in the story · Chapter 1 of 6: Where am I now?</p>
-<p>Leading others starts with leading yourself. Check in again: what has changed since you started?</p>
-<p class="yv-next-btns"><a class="yv-btn" href="/personal-effectiveness/check-in-with-how-you-feel/">Back to the start: Check In With How You Feel →</a></p>
+<p class="yv-story-t">Back to the story</p>
+<p>This guide goes deeper into <a href="/personal-effectiveness/close-relationships/">Close Relationships</a>. The story ends here. Check in again: what has changed since you started?</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/personal-effectiveness/check-in-with-how-you-feel/">Check In With How You Feel →</a></p>
 </div>
 <!-- /story -->
 </div>

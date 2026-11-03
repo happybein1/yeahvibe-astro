@@ -68,9 +68,9 @@ Decide now when:
 <p><strong>Try today:</strong> At your next meeting, say who decides before the discussion starts.</p>
 <!-- story -->
 <div class="yv-story">
-<p class="yv-story-t">Next in the story</p>
-<p>Many decisions at work come down to money. Understand the numbers behind them.</p>
-<p class="yv-next-btns"><a class="yv-btn" href="/collaboration-leadership/how-your-organisation-makes-money/">How Your Organisation Makes Money →</a></p>
+<p class="yv-story-t">Back to the story</p>
+<p>This guide goes deeper into <a href="/personal-effectiveness/close-relationships/">Close Relationships</a>. The story ends here. Check in again: what has changed since you started?</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/personal-effectiveness/check-in-with-how-you-feel/">Check In With How You Feel →</a> <a class="yv-btn yv-btn--ghost" href="/collaboration-leadership/how-your-organisation-makes-money/">Or go deeper: How Your Organisation Makes Money →</a></p>
 </div>
 <!-- /story -->
 </div>

@@ -63,6 +63,7 @@ export default defineConfig({
                     ],
                 },
                 // 2.25.0 (owner, 2026-11-03): the guides as one story, in 6 chapters (same order as All guides).
+                // 2.26.0 (owner: "ok go for it"): the 15 core guides; the other guides go deeper (class yv-extra, lighter).
                 {
                     label: '1. Where am I now?',
                     translations: { fr: '1. Où en suis-je ?' },
@@ -70,7 +71,7 @@ export default defineConfig({
                     items: [
                         { label: 'Check In With How You Feel', translations: { fr: 'Faire le point sur ce que vous ressentez' }, slug: 'personal-effectiveness/check-in-with-how-you-feel' },
                         { label: 'Why We Feel What We Feel', translations: { fr: 'Pourquoi nous ressentons ce que nous ressentons' }, slug: 'personal-effectiveness/why-we-feel-what-we-feel' },
-                        { label: 'Human needs', translations: { fr: 'Les besoins humains' }, slug: 'decision-foundation/find-your-directional-purpose/humans-physiological-needs' },
+                        { label: 'Human needs', translations: { fr: 'Les besoins humains' }, slug: 'decision-foundation/find-your-directional-purpose/humans-physiological-needs', attrs: { class: 'yv-extra' } },
                     ],
                 },
                 {
@@ -79,7 +80,7 @@ export default defineConfig({
                     collapsed: false,
                     items: [
                         { label: 'Find Your Direction', translations: { fr: 'Trouver votre direction' }, slug: 'decision-foundation/find-your-directional-purpose' },
-                        { label: 'Long-Term Goals', translations: { fr: 'Objectifs à long terme' }, slug: 'personal-effectiveness/inspiration/long-term-goals' },
+                        { label: 'Long-Term Goals', translations: { fr: 'Objectifs à long terme' }, slug: 'personal-effectiveness/inspiration/long-term-goals', attrs: { class: 'yv-extra' } },
                     ],
                 },
                 {
@@ -89,8 +90,9 @@ export default defineConfig({
                     items: [
                         { label: 'Ideation & Assessment', translations: { fr: 'Trouver des idées et les évaluer' }, slug: 'decision-foundation/ideation-assessment' },
                         { label: 'Independent Prioritization', translations: { fr: 'Impact ou effort' }, slug: 'decision-foundation/independent-prioritization' },
-                        { label: 'Clarity & Alignment', translations: { fr: 'Clarté et alignement' }, slug: 'decision-foundation/clarity-alignment' },
-                        { label: 'Tracking and Update', translations: { fr: 'Suivre et ajuster' }, slug: 'decision-foundation/tracking-and-update' },
+                        { label: 'Clarity & Alignment', translations: { fr: 'Clarté et alignement' }, slug: 'decision-foundation/clarity-alignment', attrs: { class: 'yv-extra' } },
+                        { label: 'Getting Started', translations: { fr: "Passer à l'action" }, slug: 'decision-foundation/getting-started' },
+                        { label: 'Tracking and Update', translations: { fr: 'Suivre et ajuster' }, slug: 'decision-foundation/tracking-and-update', attrs: { class: 'yv-extra' } },
                     ],
                 },
                 {
@@ -99,11 +101,12 @@ export default defineConfig({
                     collapsed: false,
                     items: [
                         { label: 'Sleeping Well', translations: { fr: 'Bien dormir' }, slug: 'personal-effectiveness/sleeping-well' },
+                        { label: 'Moving and Eating Well', translations: { fr: 'Bouger et bien manger' }, slug: 'personal-effectiveness/moving-and-eating-well' },
                         { label: 'Stress and Overwhelm', translations: { fr: 'Stress et surcharge' }, slug: 'personal-effectiveness/stress-and-overwhelm' },
-                        { label: 'Fear Management', translations: { fr: 'Gérer la peur' }, slug: 'personal-effectiveness/fear-management' },
-                        { label: 'Growth Mindset', translations: { fr: "L'état d'esprit de croissance" }, slug: 'personal-effectiveness/growth-mindset' },
+                        { label: 'Fear Management', translations: { fr: 'Gérer la peur' }, slug: 'personal-effectiveness/fear-management', attrs: { class: 'yv-extra' } },
+                        { label: 'Growth Mindset', translations: { fr: "L'état d'esprit de croissance" }, slug: 'personal-effectiveness/growth-mindset', attrs: { class: 'yv-extra' } },
                         { label: 'Habits Improvement', translations: { fr: 'Améliorer ses habitudes' }, slug: 'personal-effectiveness/habits-improvement' },
-                        { label: 'Daily Activities', translations: { fr: 'Activités du quotidien' }, slug: 'personal-effectiveness/inspiration/daily-activities' },
+                        { label: 'Daily Activities', translations: { fr: 'Activités du quotidien' }, slug: 'personal-effectiveness/inspiration/daily-activities', attrs: { class: 'yv-extra' } },
                     ],
                 },
                 {
@@ -112,11 +115,12 @@ export default defineConfig({
                     collapsed: false,
                     items: [
                         { label: 'Time Spent Identification', translations: { fr: 'Où passe votre temps' }, slug: 'personal-effectiveness/time-spent-identification' },
-                        { label: 'Basic Organization Principles', translations: { fr: "Les bases de l'organisation" }, slug: 'organizational-processes/basic-organization-principles' },
-                        { label: 'Files & Folder Organization', translations: { fr: 'Organiser fichiers et dossiers' }, slug: 'organizational-processes/files-folder-organization' },
-                        { label: 'Managing Commuting Time', translations: { fr: 'Bien utiliser ses trajets' }, slug: 'organizational-processes/managing-commuting-time' },
+                        { label: 'Saying No', translations: { fr: 'Savoir dire non' }, slug: 'organizational-processes/saying-no' },
+                        { label: 'Basic Organization Principles', translations: { fr: "Les bases de l'organisation" }, slug: 'organizational-processes/basic-organization-principles', attrs: { class: 'yv-extra' } },
+                        { label: 'Files & Folder Organization', translations: { fr: 'Organiser fichiers et dossiers' }, slug: 'organizational-processes/files-folder-organization', attrs: { class: 'yv-extra' } },
+                        { label: 'Managing Commuting Time', translations: { fr: 'Bien utiliser ses trajets' }, slug: 'organizational-processes/managing-commuting-time', attrs: { class: 'yv-extra' } },
                         { label: 'Mastering Finance Basics', translations: { fr: "Les bases de l'argent" }, slug: 'personal-effectiveness/mastering-finance-basics' },
-                        { label: 'When Money Is Tight', translations: { fr: 'Quand l\'argent manque' }, slug: 'personal-effectiveness/when-money-is-tight' },
+                        { label: 'When Money Is Tight', translations: { fr: 'Quand l\'argent manque' }, slug: 'personal-effectiveness/when-money-is-tight', attrs: { class: 'yv-extra' } },
                     ],
                 },
                 {
@@ -125,12 +129,13 @@ export default defineConfig({
                     collapsed: false,
                     items: [
                         { label: 'Connection and Loneliness', translations: { fr: 'Lien et solitude' }, slug: 'personal-effectiveness/connection-and-loneliness' },
-                        { label: 'Collaboration Principles', translations: { fr: 'Bien travailler avec les autres' }, slug: 'collaboration-leadership/collaboration-principles' },
-                        { label: 'Speak Clearly and Confidently', translations: { fr: "S'exprimer clairement et avec assurance" }, slug: 'collaboration-leadership/speak-clearly-and-confidently' },
-                        { label: 'When a Discussion Turns into a Fight', translations: { fr: 'Quand une discussion tourne à la dispute' }, slug: 'collaboration-leadership/when-a-discussion-turns-into-a-fight' },
-                        { label: 'Group Decision Making', translations: { fr: 'Décider en groupe' }, slug: 'collaboration-leadership/group-decision-making' },
-                        { label: 'How Your Organisation Makes Money', translations: { fr: "Comment votre organisation gagne de l'argent" }, slug: 'collaboration-leadership/how-your-organisation-makes-money' },
-                        { label: 'Influence and Leadership', translations: { fr: 'Influence et leadership' }, slug: 'collaboration-leadership/influence-and-leadership' },
+                        { label: 'Close Relationships', translations: { fr: 'Les relations proches' }, slug: 'personal-effectiveness/close-relationships' },
+                        { label: 'Collaboration Principles', translations: { fr: 'Bien travailler avec les autres' }, slug: 'collaboration-leadership/collaboration-principles', attrs: { class: 'yv-extra' } },
+                        { label: 'Speak Clearly and Confidently', translations: { fr: "S'exprimer clairement et avec assurance" }, slug: 'collaboration-leadership/speak-clearly-and-confidently', attrs: { class: 'yv-extra' } },
+                        { label: 'When a Discussion Turns into a Fight', translations: { fr: 'Quand une discussion tourne à la dispute' }, slug: 'collaboration-leadership/when-a-discussion-turns-into-a-fight', attrs: { class: 'yv-extra' } },
+                        { label: 'Group Decision Making', translations: { fr: 'Décider en groupe' }, slug: 'collaboration-leadership/group-decision-making', attrs: { class: 'yv-extra' } },
+                        { label: 'How Your Organisation Makes Money', translations: { fr: "Comment votre organisation gagne de l'argent" }, slug: 'collaboration-leadership/how-your-organisation-makes-money', attrs: { class: 'yv-extra' } },
+                        { label: 'Influence and Leadership', translations: { fr: 'Influence et leadership' }, slug: 'collaboration-leadership/influence-and-leadership', attrs: { class: 'yv-extra' } },
                     ],
                 },
                 {

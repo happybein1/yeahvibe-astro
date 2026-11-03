@@ -56,9 +56,9 @@ Ranger une fois ne rend pas organisé. Le but est de créer des systèmes qui ti
 <p><strong>À essayer aujourd'hui :</strong> donnez une place fixe à une chose que vous cherchez sans arrêt.</p>
 <!-- story -->
 <div class="yv-story">
-<p class="yv-story-t">La suite de l'histoire</p>
-<p>La même idée, appliquée à votre ordinateur.</p>
-<p class="yv-next-btns"><a class="yv-btn" href="/fr/organizational-processes/files-folder-organization/">Organiser fichiers et dossiers →</a></p>
+<p class="yv-story-t">Retour à l'histoire</p>
+<p>Ce guide approfondit <a href="/fr/organizational-processes/saying-no/">Savoir dire non</a>. L'histoire continue avec <strong>Les bases de l'argent</strong>.</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/fr/personal-effectiveness/mastering-finance-basics/">Les bases de l'argent →</a> <a class="yv-btn yv-btn--ghost" href="/fr/organizational-processes/files-folder-organization/">Ou approfondir : Organiser fichiers et dossiers →</a></p>
 </div>
 <!-- /story -->
 </div>

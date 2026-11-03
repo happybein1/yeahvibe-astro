@@ -58,9 +58,10 @@ Curious how the same ideas work at your job? See [how your organisation makes mo
 <p><strong>Try today:</strong> Check what share of your income you saved last month, even if it's zero.</p>
 <!-- story -->
 <div class="yv-story">
-<p class="yv-story-t">Next in the story</p>
-<p>If there isn't enough money right now, start here. If there is, you can skip to the last chapter.</p>
-<p class="yv-next-btns"><a class="yv-btn" href="/personal-effectiveness/when-money-is-tight/">When Money Is Tight →</a> <a class="yv-btn yv-btn--ghost" href="/personal-effectiveness/connection-and-loneliness/">Skip to chapter 6 →</a></p>
+<p class="yv-story-t">✓ End of chapter 5: How do I make room for it?</p>
+<p><strong>Next, chapter 6: How do I do it with others?</strong><br>Nobody gets there alone. The last chapter is about other people.</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/personal-effectiveness/connection-and-loneliness/">Connection and Loneliness →</a></p>
+<p class="yv-deeper"><span>Go deeper:</span> <a href="/personal-effectiveness/when-money-is-tight/">When Money Is Tight</a></p>
 </div>
 <!-- /story -->
 </div>

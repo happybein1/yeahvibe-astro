@@ -62,8 +62,8 @@ A plan should be reviewed when:
 <p><strong>Try today:</strong> Put a 10-minute review in your calendar for one week from today.</p>
 <!-- story -->
 <div class="yv-story">
-<p class="yv-story-t">Next in the story · Chapter 4 of 6: How do I keep the energy?</p>
-<p>If tracking shows you keep falling behind, the cause is often not the plan but low energy. Energy starts with sleep.</p>
+<p class="yv-story-t">Back to the story</p>
+<p>This guide goes deeper into <a href="/decision-foundation/getting-started/">Getting Started</a>. The story continues in chapter 4: <strong>How do I keep the energy?</strong></p>
 <p class="yv-next-btns"><a class="yv-btn" href="/personal-effectiveness/sleeping-well/">Sleeping Well →</a></p>
 </div>
 <!-- /story -->

@@ -62,9 +62,9 @@ Les organisations ont aussi des peurs collectives : peur du changement, de devoi
 <p><strong>À essayer aujourd'hui :</strong> écrivez une peur. Puis notez le pire, le meilleur et le plus probable.</p>
 <!-- story -->
 <div class="yv-story">
-<p class="yv-story-t">La suite de l'histoire</p>
-<p>La peur diminue quand les erreurs deviennent des leçons.</p>
-<p class="yv-next-btns"><a class="yv-btn" href="/fr/personal-effectiveness/growth-mindset/">L'état d'esprit de croissance →</a></p>
+<p class="yv-story-t">Retour à l'histoire</p>
+<p>Ce guide approfondit <a href="/fr/personal-effectiveness/stress-and-overwhelm/">Stress et surcharge</a>. L'histoire continue avec <strong>Améliorer ses habitudes</strong>.</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/fr/personal-effectiveness/habits-improvement/">Améliorer ses habitudes →</a> <a class="yv-btn yv-btn--ghost" href="/fr/personal-effectiveness/growth-mindset/">Ou approfondir : L'état d'esprit de croissance →</a></p>
 </div>
 <!-- /story -->
 </div>

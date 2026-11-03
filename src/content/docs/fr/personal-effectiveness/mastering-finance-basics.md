@@ -56,9 +56,10 @@ Curieux de voir comment ces idées s'appliquent à votre travail ? Lisez [commen
 <p><strong>À essayer aujourd'hui :</strong> regardez quelle part de vos revenus vous avez mise de côté le mois dernier, même si c'est zéro.</p>
 <!-- story -->
 <div class="yv-story">
-<p class="yv-story-t">La suite de l'histoire</p>
-<p>Si l'argent manque en ce moment, commencez par là. Sinon, vous pouvez passer au dernier chapitre.</p>
-<p class="yv-next-btns"><a class="yv-btn" href="/fr/personal-effectiveness/when-money-is-tight/">Quand l'argent manque →</a> <a class="yv-btn yv-btn--ghost" href="/fr/personal-effectiveness/connection-and-loneliness/">Passer au chapitre 6 →</a></p>
+<p class="yv-story-t">✓ Fin du chapitre 5 : Comment faire de la place ?</p>
+<p><strong>Ensuite, chapitre 6 : Comment avancer avec les autres ?</strong><br>Personne n'y arrive seul. Le dernier chapitre parle des autres.</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/fr/personal-effectiveness/connection-and-loneliness/">Lien et solitude →</a></p>
+<p class="yv-deeper"><span>Pour aller plus loin :</span> <a href="/fr/personal-effectiveness/when-money-is-tight/">Quand l'argent manque</a></p>
 </div>
 <!-- /story -->
 </div>

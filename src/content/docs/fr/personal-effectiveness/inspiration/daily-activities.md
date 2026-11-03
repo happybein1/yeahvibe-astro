@@ -57,8 +57,8 @@ Un bon matin donne le ton de la journée. Essayez d'ancrer 2 ou 3 de ces gestes 
 <p><strong>À essayer aujourd'hui :</strong> choisissez une habitude du matin dans cette liste et tenez-la chaque jour cette semaine.</p>
 <!-- story -->
 <div class="yv-story">
-<p class="yv-story-t">La suite de l'histoire · Chapitre 5 sur 6 : Comment faire de la place ?</p>
-<p>Les bonnes habitudes ont besoin de place dans la journée. Où passe vraiment votre temps ?</p>
+<p class="yv-story-t">Retour à l'histoire</p>
+<p>Ce guide approfondit <a href="/fr/personal-effectiveness/habits-improvement/">Améliorer ses habitudes</a>. L'histoire continue au chapitre 5 : <strong>Comment faire de la place ?</strong></p>
 <p class="yv-next-btns"><a class="yv-btn" href="/fr/personal-effectiveness/time-spent-identification/">Où passe votre temps →</a></p>
 </div>
 <!-- /story -->

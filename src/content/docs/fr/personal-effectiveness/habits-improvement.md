@@ -56,9 +56,10 @@ Une habitude met du temps à s'installer, en général plus longtemps qu'on ne l
 <p><strong>À essayer aujourd'hui :</strong> accrochez une toute petite habitude à une chose que vous faites déjà chaque jour, comme un verre d'eau après vous être brossé les dents.</p>
 <!-- story -->
 <div class="yv-story">
-<p class="yv-story-t">La suite de l'histoire</p>
-<p>Voici de petites habitudes du quotidien qui valent la peine.</p>
-<p class="yv-next-btns"><a class="yv-btn" href="/fr/personal-effectiveness/inspiration/daily-activities/">Activités du quotidien →</a></p>
+<p class="yv-story-t">✓ Fin du chapitre 4 : Comment garder l'énergie ?</p>
+<p><strong>Ensuite, chapitre 5 : Comment faire de la place ?</strong><br>Les bonnes habitudes ont besoin de place dans la journée. Où passe vraiment votre temps ?</p>
+<p class="yv-next-btns"><a class="yv-btn" href="/fr/personal-effectiveness/time-spent-identification/">Où passe votre temps →</a></p>
+<p class="yv-deeper"><span>Pour aller plus loin :</span> <a href="/fr/personal-effectiveness/inspiration/daily-activities/">Activités du quotidien</a></p>
 </div>
 <!-- /story -->
 </div>
