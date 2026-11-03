@@ -4,6 +4,22 @@ Started 2026-10-13. Earlier versions (up to 1.7.1) were only tracked in `src/ver
 
 ---
 
+## 2.27.0
+
+**Situation pages: updated guides, and a listening program for each** (owner, 2026-11-03: "maybe modules associated to the pain cards?" → a guide list per card → "ok").
+- Each of the six situation pages (`help/*.mdx`, English and French) keeps its step 1 guide; its other links now match the situation's program in Radio, using the new guides:
+  - 😵 Overwhelmed: Saying No and Where your time goes (the "Pillar 2: Mindset" link removed).
+  - 😴 Tired: Moving and eating well, Building better habits, Why we feel what we feel.
+  - 🤔 Can't decide: Ideation, Clarity, Getting started.
+  - 🧭 Stuck: other ways in Ideation, Getting started, Daily activities; related Human needs (the "Pillar 1: Direction" link removed).
+  - 💸 Money worries: Money basics and Stress and overwhelm (instead of Where your time goes).
+  - 🤝 Alone: other ways in Close relationships, When a discussion turns into a fight; related Working well with others, Human needs.
+- Each page has a new line "🎧 Listen to all N podcasts in a row in the Radio app" (French: "… (en anglais)"), opening that program directly (`radio.yeahvibe.com/?prog=sit-<page>`, Radio v1.32). The programs themselves are listed in the HappyBein Podcast feed (happybein-astro v4.33).
+
+**Verification:** site builds in a scratch copy; no broken internal links.
+
+---
+
 ## 2.26.1
 
 **About pages no longer mention the removed read-aloud button** (owner, 2026-11-03: "you can fix the old read aloud comments").
