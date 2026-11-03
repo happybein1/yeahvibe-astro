@@ -50,6 +50,8 @@ Le but est un cycle simple : **lire → appliquer → prendre du recul → ajust
 
 La plupart des guides ont aussi un court podcast, pratique pendant un trajet, une marche ou simplement quand vous préférez écouter plutôt que lire. Pour l'instant, les podcasts sont en anglais ; la version française arrive.
 
+Pour les écouter tous dans l'ordre, comme une histoire, ouvrez le HappyBein Podcast dans l'[application Radio](https://radio.yeahvibe.com/?podcast=happybein) et laissez la lecture automatique activée.
+
 ---
 
 ## Étape 5 : aller plus loin avec YeahSight

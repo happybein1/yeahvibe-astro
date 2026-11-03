@@ -49,9 +49,9 @@ The goal is a simple cycle: **read → apply → reflect → adapt**.
 
 ## Step 4 — Listen While You Go
 
-Every article on YeahCore includes a **Listen** button in the bottom-right corner. Tap it to have the article read aloud in your language — useful when commuting, exercising, or simply when you prefer audio over reading.
+Most guides also have a short podcast: Emma and Sam talk the guide through in about three minutes. Press play at the top of the guide, useful when commuting, exercising, or simply when you prefer listening to reading. The podcasts are in English for now; French is on its way.
 
-The voice automatically matches the language of the page (English or French).
+To hear them all in order, as one story, open the HappyBein Podcast in the [Radio app](https://radio.yeahvibe.com/?podcast=happybein) and leave auto-play on.
 
 ---
 

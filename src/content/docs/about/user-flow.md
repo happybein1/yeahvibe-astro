@@ -38,7 +38,7 @@ Each article takes **3–5 minutes to read**. The scenarios below are designed t
 **Flow:**
 1. Go to **Personal Effectiveness** in the sidebar → read [Habits Improvement](/personal-effectiveness/habits-improvement/) *(4 min)*
 2. Read [Growth Mindset](/personal-effectiveness/growth-mindset/) to reframe failures as data *(4 min)*
-3. Use the **Listen** button during your commute for [Fear Management](/personal-effectiveness/fear-management/) *(4 min)*
+3. Read [Fear Management](/personal-effectiveness/fear-management/), or listen to its podcast during your commute *(4 min)*
 4. Set up a journaling practice using [Advised Tools](/advised-tools/) *(3 min)*
 5. Return weekly to [Daily Activities](/personal-effectiveness/inspiration/daily-activities/) as a reset *(4 min)*
 
@@ -74,7 +74,7 @@ Each article takes **3–5 minutes to read**. The scenarios below are designed t
 2. Read [Group Decision Making](/collaboration-leadership/group-decision-making/) — introduce the DACI framework at your next meeting *(4 min)*
 3. Share [Speak Clearly and Confidently](/collaboration-leadership/speak-clearly-and-confidently/) with a team member *(4 min)*
 4. Read [Influence and Leadership](/collaboration-leadership/influence-and-leadership/) to prepare for a difficult conversation *(4 min)*
-5. Listen to articles during the morning commute using the **Listen** button *(5 min)*
+5. Listen to the podcasts during the morning commute *(5 min)*
 
 **Total: 5 × 5 min — one per day this week.**
 
@@ -123,7 +123,7 @@ Each article takes **3–5 minutes to read**. The scenarios below are designed t
 
 **Flow:**
 1. Open YeahCore on mobile → tap the section you're currently working on
-2. Tap any article → hit **Listen** → phone reads it aloud while you walk or commute
+2. Open any guide and play its podcast while you walk or commute
 3. Or: read one short article like [Sleeping Well](/personal-effectiveness/sleeping-well/) or [Managing Commuting Time](/organizational-processes/managing-commuting-time/)
 4. Bookmark for deeper reading later
 
@@ -141,7 +141,7 @@ Each article takes **3–5 minutes to read**. The scenarios below are designed t
 | Team problems | [Collaboration](/collaboration-leadership/collaboration-principles/) | 5 × 5 min |
 | Want big picture | [YeahSight](https://yeahsight.happybein.com/foresight-trends/) | 5 × 5 min |
 | Monthly reset | [All guides](/start-here/) → review | 6 × 5 min |
-| Short on time | Any article + Listen button | 1 × 5 min |
+| Short on time | Any guide, read or heard | 1 × 5 min |
 
 ---
 

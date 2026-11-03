@@ -4,6 +4,16 @@ Started 2026-10-13. Earlier versions (up to 1.7.1) were only tracked in `src/ver
 
 ---
 
+## 2.26.1
+
+**About pages no longer mention the removed read-aloud button** (owner, 2026-11-03: "you can fix the old read aloud comments").
+- How It Works, step 4: the "Listen button, bottom-right, reads the article aloud in your language" text replaced by the podcast (Emma and Sam, about three minutes, play at the top of the guide, English for now), plus a link to hear them all in order as one story in the Radio app (`?podcast=happybein`). French page: the same Radio link added (its podcast text was already right).
+- User Flow (English): the three "Listen button" steps and the "Short on time" row now point to the guides' podcasts, as the French page already did.
+
+**Verification:** site builds in a scratch copy; no broken internal links.
+
+---
+
 ## 2.26.0
 
 **Four new guides, chapter ends, and a core path through the story** (owner, 2026-11-03: map v2 listed 4 missing guides → "make them all, i will review later" → "already record them" → "we can connect stating end of a chapter then go to the next chapter" → "what do you think of this architecture?" → core path draft → "makes sense" → "ok go for it").
