@@ -1,59 +1,58 @@
 ---
-title: Idéation et évaluation
-description: Meilleures pratiques pour générer des idées et évaluer des objectifs et des plans à l'aide d'approches structurées.
-reading_time: "5 min de lecture"
+title: Trouver des idées et les évaluer
+description: Les bonnes pratiques pour trouver des idées, et évaluer objectifs et plans avec une méthode.
+reading_time: "5 min"
 sidebar:
   order: 1
 ---
 
+Vous cherchez des idées, et une façon de les évaluer et de les découper ? Voici une méthode pour trouver des idées, les évaluer, et les transformer en étapes concrètes.
 
-Vous cherchez des idées et des moyens de les évaluer tout en les décomposant ? Découvrez ce processus pour générer, évaluer et transformer des idées en étapes concrètes.
+## Trouver des idées d'objectifs et de plans
 
-## Idéation d'objectifs et de plans
+Une approche générale pour trouver des idées d'objectifs et de plans suit ces étapes :
 
-Une approche générale pour générer des idées d'objectifs et de plans comprend les étapes suivantes :
+- **Définir la situation souhaitée** : commencez par décrire ce que vous voulez atteindre, ce qui revient en général à créer de la valeur, par exemple vous sentir aussi bien que possible dans la durée.
+- **Repérer les difficultés et ce qui peut s'améliorer** : identifiez les obstacles, les problèmes ou les points à améliorer pour atteindre cette situation.
+- **Chercher des solutions** : explorez des solutions possibles à ces difficultés, en vous appuyant sur le raisonnement ou sur vos expériences passées.
 
-- **Définir un état souhaité** : Commencez par identifier l'état souhaité, qui consiste généralement à créer de la valeur — par exemple, viser à se sentir aussi bien que possible dans le temps.
-- **Identifier les défis et les axes d'amélioration** : Repérez les défis, problèmes ou domaines nécessitant une amélioration pour atteindre l'état souhaité.
-- **Chercher des solutions pour surmonter les obstacles** : Explorez des solutions potentielles à ces défis, en vous appuyant sur la logique ou sur les enseignements des expériences passées.
+Comme les options et les sources d'inspiration sont innombrables, la recherche d'idées va en général de pair avec leur évaluation, pour vérifier qu'elles sont pertinentes et réalisables.
 
-Étant donné le nombre considérable d'options et de sources d'inspiration possibles, l'idéation est généralement entrelacée avec l'évaluation des idées pour garantir leur pertinence et leur faisabilité.
+## Comment évaluer
 
-## Lignes directrices pour l'évaluation
+Évaluer un objectif ou un plan revient en général à regarder à la fois l'impact attendu et l'effort nécessaire dans le temps, en tenant compte du moment et des chances de réussite.
 
-L'évaluation d'un objectif ou d'un plan implique généralement d'évaluer à la fois l'impact attendu et l'effort requis dans le temps, en tenant compte du calendrier et de la probabilité de succès.
+### L'impact
 
-### Impact
+On peut évaluer l'impact d'un objectif ou d'un plan de plusieurs façons :
 
-L'impact d'un objectif ou d'un plan peut être évalué de différentes manières :
+- **Le bien-être** : l'effet sur les émotions, les résultats d'un sondage, le niveau de satisfaction.
+- **Des mesures chiffrées** : des indicateurs mesurables, comme les résultats financiers, des indicateurs clés ou le temps gagné.
+- **Le pour et le contre** : une liste claire des avantages et des inconvénients.
+- **Les obstacles et les opportunités** : ce qui pourrait freiner ou aider pendant la mise en œuvre.
+- **Les chances de réussite** : la probabilité d'un effet positif ou négatif. Les plans à long terme sont souvent les plus risqués, car beaucoup de choses peuvent changer.
 
-- **Aspects du bien-être** : Évaluez des facteurs comme l'impact émotionnel, les résultats d'enquêtes ou les niveaux de satisfaction.
-- **Indicateurs quantifiables** : Utilisez des indicateurs mesurables tels que les résultats financiers, les KPIs ou les gains de temps.
-- **Avantages et inconvénients** : Compilez une liste claire des avantages et des inconvénients.
-- **Défis et opportunités** : Identifiez les obstacles potentiels et les opportunités lors de la mise en œuvre.
-- **Probabilité de succès** : Évaluez la probabilité d'un impact positif ou négatif. Les plans à long terme comportent souvent le risque le plus élevé en raison de variables imprévisibles.
+### L'effort et la faisabilité
 
-### Effort et faisabilité
+On évalue en général l'effort en regardant :
 
-L'effort est généralement évalué en examinant :
+- **Le temps et l'énergie nécessaires** : la durée et l'intensité de l'effort.
+- **L'investissement** : l'argent ou les moyens à engager.
+- **Le coût d'opportunité** : ce à quoi vous renoncez en choisissant ce plan plutôt qu'un autre.
+- **Le coût émotionnel** : les émotions positives ou négatives possibles, comme la joie de faire la tâche, ou le stress et la frustration.
+- **Les moyens disponibles** : si les moyens actuels suffisent pour atteindre l'objectif.
+- **Les chances de tenir** : la probabilité de pouvoir maintenir l'effort nécessaire.
 
-- **Temps et énergie requis** : La durée et le niveau d'effort nécessaires pour exécuter le plan.
-- **Investissement** : Investissements financiers ou en ressources.
-- **Coût d'opportunité** : Les compromis liés à la priorité accordée à ce plan par rapport à d'autres opportunités.
-- **Coût émotionnel** : Les émotions positives ou négatives potentielles — joie dans l'exécution de la tâche, ou stress et frustration.
-- **Ressources disponibles** : Si les ressources actuelles sont suffisantes pour atteindre l'objectif.
-- **Probabilité de faisabilité** : La probabilité que l'effort requis soit soutenable.
+### Le calendrier
 
-### Calendrier
+Le moment choisi pour un objectif ou une action influence beaucoup l'impact et l'effort. Les objectifs « urgents » doivent en général être traités à court terme pour rester utiles.
 
-Le calendrier des objectifs ou des actions influence considérablement l'impact et l'effort. Les objectifs qualifiés d'« urgents » doivent généralement être traités à court terme pour rester efficaces.
+### Entre chiffres et intuition
 
-### Équilibre entre métriques et intuition
+Toutes les décisions ne peuvent pas reposer uniquement sur des chiffres, une liste de pour et de contre ou un accord collectif. Parfois, l'intuition et les ressentis jouent un rôle essentiel, surtout quand l'expérience indique ce qui semble le plus raisonnable.
 
-Toutes les décisions ne peuvent pas reposer uniquement sur des métriques, des avantages/inconvénients ou un accord collectif. Parfois, l'intuition et les émotions jouent un rôle crucial — particulièrement lorsque l'expérience guide ce qui semble le plus sensé.
+## Découper un projet
 
-## Décomposition des projets
+Quand un objectif ou un plan paraît trop complexe, il est essentiel de le découper en petits morceaux faciles à gérer. Cela simplifie la démarche, la rend réalisable et motivante. En transformant de grandes ambitions en étapes claires, vous gardez le cap et suivez vos progrès plus facilement.
 
-Lorsque des objectifs ou des plans semblent trop complexes, il est essentiel de les décomposer en composantes plus petites et gérables. Cela simplifie le processus, le rendant à la fois réalisable et motivant. En décomposant des aspirations de haut niveau en jalons clairs, vous pouvez maintenir votre concentration et suivre efficacement vos progrès.
-
-**Exemple** : Une montagne se gravit pas à pas. Un grand projet se livre jalon par jalon. Décomposer un objectif complexe en cibles hebdomadaires rend le chemin atteignable.
+**Exemple** : on gravit une montagne pas à pas. Un grand projet avance étape par étape. Découper un objectif complexe en buts hebdomadaires rend le chemin atteignable.

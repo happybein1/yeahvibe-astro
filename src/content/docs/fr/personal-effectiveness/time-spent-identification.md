@@ -1,53 +1,61 @@
 ---
-title: Identification du temps passé
-description: Comment comprendre où passe réellement votre temps — et utiliser cette connaissance pour aligner vos journées sur vos priorités.
-reading_time: "4 min de lecture"
+title: Où passe votre temps
+description: Comprendre où passe vraiment votre temps, et vous en servir pour accorder vos journées avec vos priorités.
+reading_time: "4 min"
 sidebar:
   order: 5
 ---
 
+## Pourquoi suivre son temps
 
-## Pourquoi le suivi du temps est important
+Le temps est la seule ressource qui ne se renouvelle pas. Comprendre comment vous le passez vraiment, et pas comme vous croyez le passer, est l'un des leviers les plus puissants pour gagner en efficacité et en bien-être.
 
-Le temps est la seule ressource qui ne peut pas être reconstituée. Comprendre comment vous le passez réellement — par opposition à comment vous pensez le passer — est l'un des leviers les plus puissants pour améliorer à la fois l'efficacité personnelle et le bien-être.
+La plupart des gens se trompent nettement sur la façon dont ils répartissent leur temps. Les études montrent régulièrement que nous surestimons le temps passé sur des activités utiles ou qui ont du sens, et sous-estimons le temps perdu en tâches de peu de valeur, en distractions et en transitions.
 
-La plupart des gens jugent significativement mal leur allocation de temps. Les recherches montrent constamment que nous surestimions le temps consacré aux activités productives ou significatives et sous-estimons le temps consacré aux tâches à faible valeur et aux distractions.
+## Le bilan du temps
 
-## L'audit du temps
+Faire le bilan de son temps, c'est noter de façon méthodique comment on le passe sur une période donnée, en général une à deux semaines, pour avoir une image fidèle de la réalité.
 
-Un audit du temps implique d'enregistrer systématiquement comment vous passez votre temps sur une période définie — généralement une à deux semaines.
+### Comment faire
 
-### Comment le faire
+1. **Choisissez un outil** : un simple carnet, un tableur ou une application de suivi du temps (par exemple Toggl ou Clockify).
+2. **Notez sur le moment**, pas de mémoire : la mémoire est peu fiable pour estimer le temps.
+3. **Soyez précis sans être obsessionnel** : des tranches de 15 à 30 minutes suffisent.
+4. **Notez tout** : travail, réunions, trajets, repas, réseaux sociaux, repos, sport, sommeil.
+5. **Faites-le pendant au moins une semaine**, pour voir les différences d'un jour à l'autre.
 
-1. **Choisir une méthode** : un simple carnet, une feuille de calcul ou une application de suivi du temps (ex. Toggl, Clockify).
-2. **Enregistrer en temps réel**, pas de mémoire — la mémoire est peu fiable pour l'estimation du temps.
-3. **Être spécifique mais pas obsessionnel** : des catégories de 15 à 30 minutes sont suffisantes.
-4. **Tout inclure** : tâches de travail, réunions, trajets, repas, réseaux sociaux, repos, exercice, sommeil.
-5. **Faire durer au moins une semaine** pour capturer la variabilité entre les jours.
+### Les catégories à suivre
 
-### Catégories à suivre
-
-- Travail en profondeur (tâches cognitivement exigeantes et concentrées)
-- Travail superficiel (e-mails, administration, réunions, coordination)
+- Travail de fond (tâches concentrées et exigeantes)
+- Travail courant (e-mails, administratif, réunions, coordination)
 - Apprentissage et développement
 - Activité physique et santé
 - Repos et récupération
-- Connexion sociale
-- Distraction et activité à faible valeur
+- Liens avec les autres
+- Distractions et activités de peu de valeur
 - Sommeil
 
 ## Analyser les résultats
 
-Une fois que vous avez des données, demandez-vous :
+Une fois les données en main, demandez-vous :
 
-- **Où passe réellement le temps ?** Y a-t-il des surprises ?
-- **Comment le temps réel s'aligne-t-il avec les priorités déclarées ?** Si la santé est importante pour vous mais que vous y consacrez 0 heure, il y a un écart.
-- **Quels sont les plus grands consommateurs de temps ?** Souvent, un petit nombre d'activités consomme une part disproportionnée du temps.
-- **Qu'est-ce qui manque entièrement ?** Les choses qui n'arrivent jamais sont souvent celles qui comptent mais ne sont jamais protégées.
+- **Où passe vraiment le temps ?** Y a-t-il des surprises ?
+- **Le temps réel correspond-il à vos priorités affichées ?** Si la santé compte pour vous mais que vous n'y consacrez aucune heure, il y a un écart.
+- **Quels sont les plus gros gouffres à temps ?** Souvent, un petit nombre d'activités prend une part démesurée du temps.
+- **Qu'est-ce qui manque complètement ?** Ce qui n'arrive jamais est souvent ce qui compte, mais qu'on ne protège jamais.
 
-## Agir sur la base des insights
+## Passer à l'action
 
-- **Protéger le temps à haute valeur** : bloquez-le dans votre agenda avant que les autres ne le réclament.
-- **Réduire ou éliminer les activités à faible valeur** : soyez implacable sur ce qui mérite vraiment votre temps.
-- **Grouper des tâches similaires** : réduire les changements de contexte en regroupant les e-mails, l'administration et les appels.
-- **Répéter l'audit trimestriellement** : l'allocation de temps dérive ; des bilans réguliers maintiennent l'alignement.
+Un bilan du temps n'est utile que s'il mène à un changement. Quelques actions courantes :
+
+- **Protégez le temps précieux** : bloquez-le dans votre agenda avant que d'autres ne le prennent.
+- **Réduisez ou supprimez les activités de peu de valeur** : soyez exigeant sur ce qui mérite vraiment votre temps.
+- **Regroupez les tâches semblables** : traitez e-mails, administratif et appels par blocs, pour moins passer d'une chose à l'autre.
+- **Limitez les gouffres à temps** : réseaux sociaux, réunions en trop, demandes peu prioritaires.
+- **Refaites le bilan chaque trimestre** : la répartition du temps dérive ; des points réguliers la gardent alignée.
+
+## À l'échelle de la société
+
+Le temps a aussi une dimension collective. La façon dont une population passe son temps, entre travail payé, soins non payés, études, loisirs et vie citoyenne, influence la productivité, le bien-être et la cohésion sociale.
+
+Les choix politiques sur la durée du travail, le congé parental ou l'âge de la retraite sont au fond des décisions sur la répartition collective du temps. Comprendre votre propre usage du temps vous relie à ces grandes questions.

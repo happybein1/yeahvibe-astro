@@ -1,50 +1,52 @@
 ---
-title: Maîtriser les bases de la finance
-description: Les concepts financiers essentiels que tout le monde devrait comprendre pour prendre de meilleures décisions financières.
-reading_time: "5 min de lecture"
+title: Les bases de l'argent
+description: Les notions financières essentielles que chacun devrait comprendre pour mieux décider, dans sa vie personnelle comme au travail.
+reading_time: "5 min"
 sidebar:
-  order: 2
+  order: 1
 ---
 
+Savoir gérer son argent est l'une des compétences qui rapportent le plus. Comprendre les bases de la finance aide à prendre de meilleures décisions personnelles, à mieux comprendre son organisation, et à mieux résister aux coups durs.
 
-La littératie financière est l'une des compétences à plus fort effet de levier qu'un individu puisse développer. Comprendre les bases de la finance permet de prendre de meilleures décisions personnelles et de participer plus efficacement aux décisions organisationnelles.
+## Les notions de base
 
-## Concepts fondamentaux
+### Revenus, dépenses et trésorerie
+La trésorerie est la base d'une bonne santé financière : c'est la différence entre ce qui rentre et ce qui sort. Une trésorerie positive (gagner plus que ce que l'on dépense) est la condition de tout le reste : épargner, investir, rembourser ses dettes et faire face aux imprévus.
 
-### Revenus, dépenses et flux de trésorerie
-Le flux de trésorerie est le fondement de la santé financière — la différence entre ce qui entre et ce qui sort. Un flux de trésorerie positif (gagner plus que vous dépensez) est le prérequis à tout le reste.
-
-**Pratique clé** : Suivez votre flux de trésorerie pendant au moins un mois pour comprendre la réalité de votre situation financière.
+**À faire** : suivez vos entrées et sorties pendant au moins un mois pour voir la réalité de votre situation. La plupart des gens sous-estiment nettement leurs dépenses dans plusieurs domaines.
 
 ### Actifs et passifs
-Un **actif** est quelque chose qui met de l'argent dans votre poche (génère des revenus ou s'apprécie). Un **passif** est quelque chose qui retire de l'argent (coûte de l'argent à posséder ou à entretenir).
+Un **actif** fait entrer de l'argent dans votre poche (il rapporte un revenu ou prend de la valeur). Un **passif** en fait sortir (il coûte de l'argent à posséder ou à entretenir).
 
-Construire de la richesse signifie acquérir des actifs et minimiser les passifs inutiles.
+S'enrichir, c'est acquérir des actifs et limiter les passifs inutiles.
 
-### Valeur nette
-Valeur nette = Actifs − Passifs. C'est la mesure fondamentale de la santé financière.
+### Le patrimoine net
+Patrimoine net = actifs − passifs. C'est la mesure de base de la santé financière. Le but est de faire grandir son patrimoine net avec le temps, pas seulement ses revenus.
 
 ### Les intérêts composés
-Les intérêts composés signifient gagner des rendements sur vos rendements. Sur de longues périodes, cela crée une croissance exponentielle. Les deux variables clés sont le taux de rendement et le temps. Commencer tôt compte bien plus que commencer avec un grand montant.
+Les intérêts composés, c'est gagner des intérêts sur ses intérêts. Sur de longues périodes, cela crée une croissance exponentielle. Les deux facteurs clés sont le taux de rendement et le temps. Commencer tôt compte bien plus que commencer avec une grosse somme.
 
-**Exemple** : 1 000 € investis à 7% de rendement annuel deviennent environ 7 600 € après 30 ans — sans ajouter un centime.
+**Exemple** : 1 000 € placés à 7 % par an deviennent environ 7 600 € au bout de 30 ans, sans ajouter un centime.
 
-### Inflation
-L'inflation érode le pouvoir d'achat de l'argent dans le temps. Les liquidités détenues sans rendement perdent de la valeur réelle. Comprendre l'inflation est essentiel pour comprendre pourquoi investir est important.
+### L'inflation
+L'inflation réduit peu à peu le pouvoir d'achat de l'argent. L'argent qui dort sans rien rapporter perd de sa valeur réelle. Comprendre l'inflation est essentiel pour comprendre pourquoi investir compte.
 
-## Principes de finances personnelles
+## Les principes des finances personnelles
 
-### Dépenser moins que vous gagnez
-C'est la seule règle qui compte. Tout le reste en découle.
+### Dépenser moins que ce que l'on gagne
+C'est la seule règle qui compte vraiment. Tout le reste en découle.
 
-### Constituer un fonds d'urgence
-Avant d'investir, constituez 3 à 6 mois de dépenses de subsistance dans un compte accessible et peu risqué.
+### Constituer une épargne de précaution
+Avant d'investir, mettez de côté 3 à 6 mois de dépenses courantes sur un compte accessible et sans risque. Cela évite de devoir vendre des placements ou de s'endetter quand une dépense imprévue arrive.
 
 ### Éviter les dettes à taux élevé
-Les dettes à la consommation avec des taux d'intérêt élevés sont financièrement destructrices.
+Les crédits à la consommation (cartes de crédit, prêts personnels) à taux élevé font beaucoup de dégâts. Rembourser une dette à taux élevé est souvent le meilleur « placement » possible.
 
 ### Investir régulièrement
-Un investissement régulier et cohérent — quelles que soient les conditions du marché — surpasse les tentatives de timing du marché pour la plupart des gens.
+Pour la plupart des gens, investir régulièrement, quelle que soit la situation des marchés, donne de meilleurs résultats que d'essayer de deviner le bon moment. Automatisez les versements quand c'est possible.
 
 ### Diversifier
-Ne concentrez pas toutes les ressources financières dans un seul actif, une seule entreprise ou un seul secteur.
+Ne mettez pas tout votre argent dans un seul placement, une seule entreprise ou un seul secteur. Diversifier réduit le risque sans forcément réduire le rendement sur le long terme.
+
+
+Curieux de voir comment ces idées s'appliquent à votre travail ? Lisez [comment votre organisation gagne de l'argent](/fr/collaboration-leadership/how-your-organisation-makes-money/).

@@ -1,88 +1,83 @@
 ---
 title: Comment ça marche
-description: Découvrez comment YeahCore vous guide du chaos vers la clarté — le parcours utilisateur YeahCore expliqué étape par étape.
+description: Découvrez comment YeahCore vous accompagne du trop-plein vers la clarté, étape par étape.
 sidebar:
   order: 2
 ---
 
-YeahCore est conçu pour vous rejoindre là où vous en êtes et vous guider vers là où vous voulez aller. Voici comment fonctionne l'expérience, de votre première visite à une croissance durable.
+YeahCore part de là où vous en êtes, et vous aide à aller là où vous voulez être. Voici comment cela se passe, de votre première visite à des progrès qui durent.
 
 ---
 
-## Étape 1 — Trouvez votre point de départ
+## Étape 1 : trouver votre point de départ
 
-Chacun arrive sur YeahCore avec un défi différent. Certains se sentent sans direction. D'autres sont submergés, désorganisés ou déconnectés. Plutôt que d'imposer un chemin unique, YeahCore vous aide à identifier **votre levier spécifique**.
+Chacun arrive sur YeahCore avec une difficulté différente. Certains se sentent sans direction. D'autres sont débordés, désorganisés ou isolés. Au lieu d'imposer un parcours unique, YeahCore vous aide à trouver **votre propre levier**.
 
 **Deux façons de commencer :**
 
-- **[Commencer ici](/fr/start-here/)** — Suivez la feuille de route guidée à travers les 4 Piliers de Levier. Lisez le *Remède* et l'*Insight* de chaque pilier et remarquez lequel résonne le plus avec votre situation actuelle.
-- **[Outil d'Auto-Évaluation](https://form.jotform.com/222552689387066)** — Répondez à un court questionnaire et recevez une recommandation personnalisée sur où concentrer vos efforts en premier.
+- **[Tous les guides](/fr/start-here/)** : tous les guides, classés en 4 piliers. Repérez le pilier qui correspond le mieux à votre situation.
+- **[De quoi avez-vous besoin ?](/fr/)** : choisissez la situation la plus proche de ce que vous ressentez, et suivez un court parcours : un guide à lire, une chose à essayer aujourd'hui, et un outil pour continuer.
 
 ---
 
-## Étape 2 — Lire & Absorber
+## Étape 2 : lire et comprendre
 
-Chaque article sur YeahCore est écrit pour être :
+Chaque article de YeahCore se veut :
 
-- **Concis** — pas de remplissage. Chaque section mérite sa place.
-- **Actionnable** — chaque article se termine par quelque chose que vous pouvez appliquer immédiatement ou cette semaine.
-- **Connecté** — les articles renvoient à des concepts connexes pour aller plus loin quand vous êtes prêt.
+- **Court** : pas de remplissage. Chaque partie a sa raison d'être.
+- **Concret** : chaque article se termine par quelque chose à appliquer tout de suite ou dans la semaine.
+- **Relié** : les articles renvoient aux idées voisines, pour aller plus loin quand vous êtes prêt.
 
-Utilisez la **barre latérale** pour naviguer entre les sujets, ou suivez la séquence naturelle au sein de chaque pilier.
-
----
-
-## Étape 3 — Appliquer les outils
-
-Lire seul ne suffit pas. YeahCore associe chaque insight à des outils pratiques pour vous aider à agir sur ce que vous avez appris.
-
-Visitez **[Outils conseillés](/fr/advised-tools/)** pour trouver :
-
-- **Modèles de priorisation** — pour classer vos objectifs et actions
-- **Outils de journalisation** — pour réfléchir et suivre vos progrès
-- **Partenaires IA de réflexion** — pour explorer des décisions et des idées
-- **Auto-évaluation** — pour mesurer votre bien-être dans le temps
-
-L'objectif est un cycle simple : **lire → appliquer → réfléchir → adapter**.
+Utilisez le **menu** pour passer d'un sujet à l'autre, ou suivez l'ordre naturel de chaque pilier. Le menu suit l'ordre dans lequel la plupart des gens tirent le plus de profit des contenus.
 
 ---
 
-## Étape 4 — Écouter en déplacement
+## Étape 3 : passer aux outils
 
-Chaque article sur YeahCore inclut un bouton **Écouter** dans le coin inférieur droit. Appuyez dessus pour que l'article soit lu à voix haute dans votre langue — utile en trajet, pendant l'exercice, ou simplement quand vous préférez l'audio à la lecture.
+Lire ne suffit pas. YeahCore associe chaque idée à des outils pratiques pour vous aider à agir.
 
-La voix correspond automatiquement à la langue de la page (anglais ou français).
+Allez voir les **[outils conseillés](/fr/advised-tools/)** pour trouver :
+
+- **Des modèles pour prioriser** vos objectifs et vos actions
+- **Des outils pour écrire votre journal**, prendre du recul et suivre vos progrès
+- **L'IA comme partenaire de réflexion**, pour réfléchir à une décision ou à une idée
+
+Le but est un cycle simple : **lire → appliquer → prendre du recul → ajuster**.
 
 ---
 
-## Étape 5 — Aller plus loin avec YeahSight
+## Étape 4 : écouter en chemin
 
-Une fois vos fondations personnelles en place, **[YeahSight](https://yeahsight.happybein.com/fr/foresight-trends/)** vous aide à prendre du recul et à comprendre le monde qui vous entoure.
+La plupart des guides ont aussi un court podcast, pratique pendant un trajet, une marche ou simplement quand vous préférez écouter plutôt que lire. Pour l'instant, les podcasts sont en anglais ; la version française arrive.
+
+---
+
+## Étape 5 : aller plus loin avec YeahSight
+
+Une fois vos bases personnelles en place, **[YeahSight](https://yeahsight.happybein.com/fr/)** vous aide à prendre du recul et à comprendre le monde qui vous entoure.
 
 YeahSight couvre quatre domaines :
-- 🌱 **Environnement & Énergie** — utilisation des terres, énergie propre, alimentation et son impact planétaire
-- ⚖️ **Économie & Équité** — systèmes économiques, distribution équitable, bases de la finance
-- 🤖 **Technologie & Automatisation** — IA, automatisation et l'avenir du travail
-- 🌐 **Organisation sociale** — systèmes sociétaux, redistribution, migration
+- 🌱 **Environnement et énergie** : usage des terres, énergie propre, alimentation et son impact sur la planète
+- ⚖️ **Économie et équité** : systèmes économiques, partage équitable, bases de la finance
+- 🤖 **Technologie et automatisation** : IA, automatisation et avenir du travail
+- 🌐 **Organisation sociale** : systèmes de société, redistribution, migrations
 
-Comprendre ces tendances vous aide à prendre des décisions qui ne sont pas seulement bonnes pour aujourd'hui, mais alignées avec la direction que prend le monde.
-
----
-
-## Étape 6 — Revenir & Revisiter
-
-La croissance n'est pas linéaire. YeahCore est conçu pour être revisité — à mesure que vous évoluez, différents piliers deviendront pertinents. Un défi qui semblait lointain il y a six mois peut être exactement là où vous devez vous concentrer aujourd'hui.
-
-**Marquez** vos articles les plus utiles. **Partagez** ceux qui ont résonné avec quelqu'un qui en a besoin. **Contribuez** des retours pour nous aider à nous améliorer.
+Comprendre ces tendances aide à prendre des décisions bonnes pour aujourd'hui, mais aussi en accord avec la direction que prend le monde.
 
 ---
 
-## Le Cycle YeahCore
+## Étape 6 : revenir et relire
 
-> Trouver son point de départ → Lire & absorber → Appliquer les outils → Réfléchir & adapter → Aller plus loin (YeahSight) → Revisiter en grandissant
+On ne progresse pas en ligne droite. YeahCore est fait pour qu'on y revienne : à mesure que vous évoluez, d'autres piliers deviennent utiles. Une difficulté qui semblait lointaine il y a six mois est peut-être exactement celle sur laquelle vous concentrer aujourd'hui.
 
-> **Arrêtez de gérer le temps. Commencez à construire un effet de levier.**
+**Gardez** vos articles les plus utiles en favoris. **Partagez** ceux qui vous ont parlé avec quelqu'un qui en a besoin. **Donnez votre avis** pour nous aider à progresser.
 
 ---
 
-*YeahCore est une initiative de la [HappyBein Stichting](https://www.happybein.com) — une fondation dédiée au bien-être et à l'impact positif.*
+## Le cycle YeahCore
+
+> Trouver votre point de départ → Lire et comprendre → Passer aux outils → Prendre du recul et ajuster → Aller plus loin (YeahSight) → Revenir à mesure que vous grandissez
+
+---
+
+*YeahCore est une initiative de la [fondation HappyBein](https://www.happybein.com/fr/), consacrée au bien-être et à l'impact positif.*

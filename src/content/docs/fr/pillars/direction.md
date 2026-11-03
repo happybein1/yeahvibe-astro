@@ -1,49 +1,50 @@
 ---
-title: "Pilier 1 : Définir la Direction & les Priorités"
-description: Le fondement de tout. Si vous ne savez pas où vous allez, n'importe quel chemin vous y mènera — mais ce ne sera probablement pas là où vous voulez être.
+title: "Pilier 1 : Direction et priorités"
+description: La base de tout. Si vous ne savez pas où vous allez, n'importe quel chemin vous y mènera, mais sans doute pas là où vous voulez être.
 sidebar:
   order: 1
 ---
 
-> **Le Remède pour :** Se sentir sans direction ou paralysé par trop de choix.
+> **Le remède à :** se sentir sans direction, ou paralysé par trop de choix.
 
-## L'Insight
+## L'idée
 
-N'optimisez pas seulement votre agenda ; optimisez votre vie. La plupart des gens dépensent leur énergie à mieux gravir une échelle — sans jamais vérifier si l'échelle est appuyée contre le bon mur.
+Ne vous contentez pas d'optimiser votre agenda : optimisez votre vie. La plupart des gens dépensent leur énergie à grimper plus vite à l'échelle, sans jamais vérifier qu'elle est appuyée contre le bon mur.
 
-Définir votre « Étoile du Nord » est le premier et le plus important acte de levier. Il garantit que chaque autre effort que vous faites — construire des habitudes, organiser votre temps, diriger les autres — vous rapproche réellement de quelque chose qui vous importe.
+Trouver votre « étoile polaire » est le premier levier, et le plus important. Il fait en sorte que tous vos autres efforts, prendre des habitudes, organiser votre temps, diriger d'autres personnes, vous rapprochent vraiment de ce qui compte pour vous.
 
-Sans direction, la productivité n'est qu'un chaos organisé.
+Sans direction, la productivité n'est qu'un chaos bien organisé.
 
 ---
 
-## Ce que ce pilier couvre
+## Ce que couvre ce pilier
 
-1. **Où est-ce que je veux vraiment aller ?** — Comprendre vos objectifs les plus profonds et ce qui motive vraiment vos émotions.
-2. **Sur quoi dois-je me concentrer maintenant ?** — Prioriser les actions qui créent le plus de valeur avec le moins de friction.
-3. **Comment rester sur la bonne voie ?** — Suivre les progrès et mettre à jour votre direction au fil de la vie.
+Ce pilier vous donne de quoi répondre à trois questions de fond :
+
+1. **Où ai-je vraiment envie d'aller ?** Comprendre vos objectifs profonds, vos valeurs, et ce qui nourrit vraiment vos émotions.
+2. **Sur quoi me concentrer maintenant ?** Donner la priorité aux actions qui créent le plus de valeur avec le moins de frictions.
+3. **Comment garder le cap ?** Suivre vos progrès et ajuster votre direction à mesure que la vie évolue.
 
 ---
 
 ## Vidéo
 
-*Une vidéo d'introduction à ce pilier arrive bientôt.*
+*Une vidéo de présentation de ce pilier arrive bientôt.*
 
 ---
 
-## Articles de ce pilier
+## Les articles de ce pilier
 
 <details class="pillar-links">
-<summary>Explorer tous les articles →</summary>
+<summary>Voir tous les articles →</summary>
 <ul>
-  <li><a href="/fr/decision-foundation/find-your-directional-purpose/">Trouver votre objectif directionnel</a></li>
-  <li><a href="/fr/decision-foundation/find-your-directional-purpose/generic-primary-goal-breakdown/">Décomposition des objectifs primaires</a></li>
-  <li><a href="/fr/decision-foundation/find-your-directional-purpose/core-drivers-of-feelings/">Moteurs des émotions</a></li>
-  <li><a href="/fr/decision-foundation/find-your-directional-purpose/humans-physiological-needs/">Besoins physiologiques humains</a></li>
-  <li><a href="/fr/decision-foundation/ideation-assessment/">Idéation et évaluation</a></li>
-  <li><a href="/fr/decision-foundation/independent-prioritization/">Priorisation indépendante</a></li>
+  <li><a href="/fr/decision-foundation/find-your-directional-purpose/">Trouver votre direction</a></li>
+  <li><a href="/fr/personal-effectiveness/why-we-feel-what-we-feel/">Pourquoi nous ressentons ce que nous ressentons</a></li>
+  <li><a href="/fr/decision-foundation/find-your-directional-purpose/humans-physiological-needs/">Les besoins humains</a></li>
+  <li><a href="/fr/decision-foundation/ideation-assessment/">Trouver des idées et les évaluer</a></li>
+  <li><a href="/fr/decision-foundation/independent-prioritization/">Impact ou effort</a></li>
   <li><a href="/fr/decision-foundation/clarity-alignment/">Clarté et alignement</a></li>
-  <li><a href="/fr/decision-foundation/tracking-and-update/">Suivi et mise à jour</a></li>
+  <li><a href="/fr/decision-foundation/tracking-and-update/">Suivre et ajuster</a></li>
 </ul>
 </details>
 
@@ -51,13 +52,13 @@ Sans direction, la productivité n'est qu'un chaos organisé.
 
 ## Par où commencer
 
-Commencez par **[Trouver votre objectif directionnel](/fr/decision-foundation/find-your-directional-purpose/)** — 3 min de lecture.
+Si ce pilier vous parle, commencez ici : **[Trouver votre direction](/fr/decision-foundation/find-your-directional-purpose/)**, 3 min de lecture.
 
-Pas sûr que ce soit votre pilier ? Faites l'**[Auto-évaluation](https://form.jotform.com/222552689387066)** pour une recommandation personnalisée.
+Pas sûr que ce soit votre pilier ? Partez plutôt de **[ce dont vous avez besoin](/fr/)**.
 
 ---
 
-[← Retour à Commencer ici](/fr/start-here/) · [Suivant : Pilier 2 — État d'esprit →](/fr/pillars/mindset/)
+[← Tous les guides](/fr/start-here/) · [Suivant : Pilier 2, État d'esprit →](/fr/pillars/mindset/)
 
 <style>{`
   .pillar-links { border: 1px solid var(--sl-color-hairline); border-radius: 8px; margin: 0.5rem 0; }

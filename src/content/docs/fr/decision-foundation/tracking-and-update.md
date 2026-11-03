@@ -1,56 +1,55 @@
 ---
-title: Suivi et mise à jour
-description: Comment surveiller les décisions et les plans dans le temps et s'adapter lorsque les circonstances changent.
-reading_time: "4 min de lecture"
+title: Suivre et ajuster
+description: Comment suivre ses décisions et ses plans dans le temps, et s'adapter quand la situation change.
+reading_time: "4 min"
 sidebar:
   order: 4
 ---
 
+Prendre une décision n'est que la première étape. Suivre les résultats et ajuster ses plans quand la situation évolue, c'est ce qui distingue ceux qui décident bien de ceux qui décident puis oublient.
 
-Prendre une décision n'est que la première étape. Suivre les résultats et mettre à jour les plans à mesure que les circonstances évoluent, voilà ce qui distingue les décideurs efficaces de ceux qui définissent et oublient.
+## Pourquoi suivre
 
-## Pourquoi le suivi est important
+Sans suivi, impossible de savoir si une décision fonctionne. Le suivi permet :
 
-Sans suivi, il est impossible de savoir si une décision fonctionne. Le suivi permet :
-
-- **La détection précoce des problèmes** : Détecter les problèmes avant qu'ils ne deviennent sérieux.
-- **Les mises à jour basées sur des preuves** : Ajuster les plans en fonction de données réelles, pas d'hypothèses.
-- **L'apprentissage dans le temps** : Construire un historique de ce qui fonctionne et de ce qui ne fonctionne pas.
-- **La responsabilisation** : Créer de la clarté sur qui est responsable de quoi.
+- **De repérer tôt les problèmes** : les voir avant qu'ils ne deviennent graves.
+- **D'ajuster sur des faits** : modifier les plans à partir de données réelles, pas de suppositions.
+- **D'apprendre avec le temps** : garder une trace de ce qui marche et de ce qui ne marche pas.
+- **De clarifier les responsabilités** : savoir qui est responsable de quoi.
 
 ## Que suivre
 
-Un suivi efficace couvre trois dimensions :
+Un bon suivi couvre trois dimensions :
 
-### 1. Progrès vers les jalons
-Atteignez-vous les points de contrôle que vous avez fixés ? Suivez les taux d'achèvement, les délais et tout retard.
+### 1. L'avancement des étapes
+Atteignez-vous les points de contrôle que vous aviez fixés ? Suivez ce qui est terminé, les délais et les retards éventuels.
 
-### 2. Indicateurs d'impact
-Les résultats attendus se matérialisent-ils ? Surveillez les KPIs ou les signaux qualitatifs définis lors de la [phase d'évaluation](/fr/decision-foundation/ideation-assessment).
+### 2. Les signes d'impact
+Les résultats attendus se concrétisent-ils ? Surveillez les indicateurs ou les signes définis lors de [l'évaluation](/fr/decision-foundation/ideation-assessment/).
 
-### 3. Changements de contexte
-Quelque chose dans l'environnement a-t-il changé et affecte-t-il le plan ? Nouvelles informations, contraintes modifiées ou changements de priorité justifient tous une révision.
+### 3. Les changements de contexte
+Quelque chose a-t-il changé autour de vous qui touche le plan ? Une nouvelle information, de nouvelles contraintes ou d'autres priorités justifient de refaire le point.
 
-## Quand mettre à jour
+## Quand ajuster
 
-Un plan doit être révisé lorsque :
+Il faut revoir un plan quand :
 
-- Un jalon est manqué ou significativement retardé.
-- Une hypothèse clé s'avère incorrecte.
-- Les circonstances externes changent de manière significative.
-- De nouvelles informations modifient considérablement l'estimation d'impact ou d'effort.
-- Des intervalles de révision réguliers surviennent (hebdomadaire, mensuel, trimestriel).
+- Une étape est manquée ou nettement en retard.
+- Une hypothèse importante se révèle fausse.
+- La situation extérieure change vraiment.
+- Une nouvelle information change beaucoup l'estimation de l'impact ou de l'effort.
+- Arrive le moment prévu pour faire le point (chaque semaine, chaque mois ou chaque trimestre, selon l'ampleur du plan).
 
-## Processus de mise à jour
+## Comment ajuster
 
-1. **Examiner l'état actuel** : Que s'est-il passé par rapport à ce qui était prévu ?
-2. **Diagnostiquer l'écart** : Pourquoi y a-t-il une différence ?
-3. **Décider de la réponse** : Ajuster le calendrier, changer l'approche ou abandonner le plan s'il n'est plus viable.
-4. **Communiquer la mise à jour** : S'assurer que toutes les parties prenantes sont alignées sur le plan révisé.
-5. **Documenter l'apprentissage** : Enregistrer ce qui a changé et pourquoi, afin que la planification future s'améliore.
+1. **Regardez où vous en êtes** : que s'est-il passé par rapport à ce qui était prévu ?
+2. **Comprenez l'écart** : pourquoi y a-t-il une différence ?
+3. **Choisissez la réponse** : décaler le calendrier, changer de méthode, ou abandonner le plan s'il n'est plus viable.
+4. **Partagez la mise à jour** : assurez-vous que toutes les personnes concernées sont d'accord sur le nouveau plan.
+5. **Notez ce que vous avez appris** : ce qui a changé et pourquoi, pour mieux planifier la prochaine fois.
 
 ## Éviter les pièges courants
 
-- **Biais des coûts irrécupérables** : Ne pas continuer un plan défaillant juste en raison d'investissements passés.
-- **Suivi excessif** : Mesurer tout crée du bruit. Concentrez-vous sur les quelques indicateurs qui comptent vraiment.
-- **Sous-mise à jour** : Les plans ne sont pas des contrats. S'adapter est un signe de bon jugement, pas de faiblesse.
+- **Le piège des coûts déjà engagés** : ne poursuivez pas un plan qui échoue seulement parce que vous y avez déjà beaucoup investi. Jugez l'avenir pour ce qu'il est.
+- **Trop suivre** : tout mesurer crée du bruit. Concentrez-vous sur les quelques indicateurs qui comptent le plus.
+- **Ne pas assez ajuster** : un plan n'est pas un contrat. S'adapter est une preuve de bon jugement, pas de faiblesse.

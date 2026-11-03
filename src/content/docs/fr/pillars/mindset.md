@@ -1,47 +1,47 @@
 ---
-title: "Pilier 2 : Renforcer l'État d'Esprit"
-description: Votre état d'esprit est votre système d'exploitation interne. Nous nous concentrons sur le recadrage cognitif et la résilience pour rendre votre croissance durable.
+title: "Pilier 2 : État d'esprit et bien-être"
+description: Votre état d'esprit est votre système d'exploitation intérieur. Nous misons sur un autre regard et sur la résilience, pour que vos progrès durent.
 sidebar:
   order: 2
 ---
 
-> **Le Remède pour :** Se sentir démotivé, bloqué ou mentalement submergé.
+> **Le remède à :** se sentir sans motivation, bloqué ou dépassé.
 
-## L'Insight
+## L'idée
 
-Votre état d'esprit est votre système d'exploitation interne. Chaque décision que vous prenez, chaque habitude que vous essayez de construire, chaque relation que vous naviguez — tout cela fonctionne au-dessus de votre cadre mental.
+Votre état d'esprit est votre système d'exploitation intérieur. Chaque décision, chaque habitude que vous essayez de prendre, chaque relation : tout cela tourne sur votre cadre mental.
 
-La bonne nouvelle : contrairement au matériel informatique, votre système d'exploitation peut être mis à jour.
+La bonne nouvelle : contrairement au matériel, ce système peut être mis à jour.
 
-La plupart des gens traitent la motivation comme quelque chose qui existe ou n'existe pas. YeahCore la traite comme quelque chose que vous concevez. Par le recadrage cognitif, les pratiques de résilience et une compréhension honnête de la peur et des habitudes, vous pouvez construire un environnement mental où la croissance devient durable.
+La plupart des gens voient la motivation comme quelque chose qu'on a ou qu'on n'a pas. YeahCore la voit comme quelque chose qui se construit. En changeant de regard, en pratiquant la résilience et en comprenant honnêtement la peur et les habitudes, vous pouvez créer un cadre où le progrès dure, au lieu d'une suite de courts efforts héroïques suivis de longues chutes.
 
 ---
 
-## Ce que ce pilier couvre
+## Ce que couvre ce pilier
 
-1. **Pourquoi les habitudes échouent** — et comment concevoir des conditions où elles réussissent sans dépendre de la volonté.
-2. **Comment recadrer les revers** — transformer l'échec d'un verdict en données.
-3. **Gérer la peur** — pour qu'elle informe vos décisions plutôt qu'elle ne les contrôle.
-4. **Le fondement de l'énergie** — pourquoi le sommeil n'est pas un luxe mais le seul investissement à fort levier.
+1. **Pourquoi les habitudes échouent**, et comment créer les conditions pour qu'elles tiennent sans compter sur la volonté.
+2. **Comment voir autrement les revers**, pour faire de l'échec une information et non un verdict.
+3. **Gérer la peur**, pour qu'elle éclaire vos décisions au lieu de les commander.
+4. **La base de l'énergie** : pourquoi le sommeil n'est pas un luxe, mais ce qui pèse le plus sur vos performances.
 
 ---
 
 ## Vidéo
 
-*Une vidéo d'introduction à ce pilier arrive bientôt.*
+*Une vidéo de présentation de ce pilier arrive bientôt.*
 
 ---
 
-## Articles de ce pilier
+## Les articles de ce pilier
 
 <details class="pillar-links">
-<summary>Explorer tous les articles →</summary>
+<summary>Voir tous les articles →</summary>
 <ul>
-  <li><a href="/fr/personal-effectiveness/habits-improvement/">Amélioration des habitudes</a></li>
-  <li><a href="/fr/personal-effectiveness/growth-mindset/">État d'esprit de croissance</a></li>
-  <li><a href="/fr/personal-effectiveness/fear-management/">Gestion de la peur</a></li>
+  <li><a href="/fr/personal-effectiveness/habits-improvement/">Améliorer ses habitudes</a></li>
+  <li><a href="/fr/personal-effectiveness/growth-mindset/">L'état d'esprit de croissance</a></li>
+  <li><a href="/fr/personal-effectiveness/fear-management/">Gérer la peur</a></li>
   <li><a href="/fr/personal-effectiveness/sleeping-well/">Bien dormir</a></li>
-  <li><a href="/fr/personal-effectiveness/inspiration/daily-activities/">Activités quotidiennes</a></li>
+  <li><a href="/fr/personal-effectiveness/inspiration/daily-activities/">Activités du quotidien</a></li>
   <li><a href="/fr/personal-effectiveness/inspiration/long-term-goals/">Objectifs à long terme</a></li>
 </ul>
 </details>
@@ -50,13 +50,13 @@ La plupart des gens traitent la motivation comme quelque chose qui existe ou n'e
 
 ## Par où commencer
 
-Commencez par **[Amélioration des habitudes](/fr/personal-effectiveness/habits-improvement/)** — 4 min de lecture.
+Commencez par **[Améliorer ses habitudes](/fr/personal-effectiveness/habits-improvement/)**, 4 min de lecture. La partie sur la bienveillance envers soi vaut à elle seule le détour.
 
-Pas sûr que ce soit votre pilier ? Faites l'**[Auto-évaluation](https://form.jotform.com/222552689387066)** pour une recommandation personnalisée.
+Pas sûr que ce soit votre pilier ? Partez plutôt de **[ce dont vous avez besoin](/fr/)**.
 
 ---
 
-[← Pilier 1 — Direction](/fr/pillars/direction/) · [Suivant : Pilier 3 — Organisation →](/fr/pillars/organization/)
+[← Pilier 1, Direction](/fr/pillars/direction/) · [Suivant : Pilier 3, Organisation →](/fr/pillars/organization/)
 
 <style>{`
   .pillar-links { border: 1px solid var(--sl-color-hairline); border-radius: 8px; margin: 0.5rem 0; }

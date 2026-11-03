@@ -1,148 +1,148 @@
 ---
-title: Parcours utilisateur
-description: Scénarios pratiques montrant quand et comment différents utilisateurs interagissent avec YeahCore — chacun en moins de 5 minutes.
+title: Parcours types
+description: Des situations concrètes qui montrent quand et comment utiliser YeahCore, en moins de 5 minutes à chaque fois.
 sidebar:
   order: 3
 ---
 
-Chaque personne qui arrive sur YeahCore est dans une situation différente. Cette page décrit **qui utilise quoi, quand et pourquoi** — pour que vous puissiez rapidement trouver le chemin qui correspond à votre réalité actuelle.
+Chaque personne qui arrive sur YeahCore vit une situation différente. Cette page montre **qui utilise quoi, quand et pourquoi**, pour que vous trouviez vite le parcours qui correspond à votre réalité.
 
-Chaque article prend **3 à 5 minutes à lire**. Les scénarios ci-dessous sont conçus pour s'intégrer dans la vie réelle — un trajet, une pause déjeuner, un matin calme.
-
----
-
-## 🧭 Scénario 1 — « Je me sens perdu et ne sais pas par où commencer »
-
-**Qui :** Quelqu'un de nouveau dans le développement personnel ou traversant une transition majeure — nouveau travail, burn-out, reconversion, ou simplement bloqué.
-
-**Quand :** Première visite, dimanche soir, sentiment d'être submergé.
-
-**Parcours :**
-1. Arriver sur la page d'accueil → cliquer sur **Commencer ici** *(2 min)*
-2. Lire l'introduction — se reconnaître dans le remède « sans direction ou paralysé » *(1 min)*
-3. Ouvrir **Pilier 1 : Direction** → lire [Trouver votre objectif directionnel](/fr/decision-foundation/find-your-directional-purpose/) *(3 min)*
-4. Travailler à travers [Décomposition des objectifs primaires](/fr/decision-foundation/find-your-directional-purpose/generic-primary-goal-breakdown/) *(4 min)*
-5. Prendre l'[Auto-évaluation](https://form.jotform.com/222552689387066) pour confirmer sa zone de priorité *(2 min)*
-6. Marquer la page, revenir la semaine suivante avec les idées plus claires
-
-**Total : 6 × ~5 min à votre rythme.**
+Chaque article se lit en **3 à 5 minutes**. Les parcours ci-dessous sont pensés pour la vraie vie : un trajet, une pause déjeuner, un matin calme.
 
 ---
 
-## 🔥 Scénario 2 — « Je sais ce que je veux mais je n'arrive pas à le faire »
+## 🧭 Parcours 1 : « Je me sens perdu et je ne sais pas par où commencer »
 
-**Qui :** Quelqu'un motivé mais qui lutte avec la régularité — commence des habitudes, abandonne, se sent coupable, recommence.
+**Qui :** quelqu'un qui découvre le développement personnel ou traverse un grand changement : nouveau travail, épuisement, reconversion, ou simplement l'impression de tourner en rond.
 
-**Quand :** Lundi matin après une nouvelle semaine ratée.
+**Quand :** première visite, un dimanche soir, avec un sentiment de trop-plein.
 
-**Parcours :**
-1. Aller à **Efficacité personnelle** → lire [Amélioration des habitudes](/fr/personal-effectiveness/habits-improvement/) *(4 min)*
-2. Lire [État d'esprit de croissance](/fr/personal-effectiveness/growth-mindset/) pour recadrer les échecs comme des données *(4 min)*
-3. Utiliser le bouton **Écouter** pendant le trajet pour [Gestion de la peur](/fr/personal-effectiveness/fear-management/) *(4 min)*
-4. Mettre en place une pratique de journalisation avec les [Outils conseillés](/fr/advised-tools/) *(3 min)*
-5. Revenir chaque semaine à [Activités quotidiennes](/fr/personal-effectiveness/inspiration/daily-activities/) *(4 min)*
+**Le parcours :**
+1. Arrivez sur la page d'accueil, puis cliquez sur **Tous les guides** *(2 min)*
+2. Lisez l'introduction et reconnaissez-vous dans le pilier « sans direction ou paralysé par les choix » *(1 min)*
+3. Ouvrez le **Pilier 1 : Direction** et lisez [Trouver votre direction](/fr/decision-foundation/find-your-directional-purpose/) *(4 min)*
+4. Lisez [Les besoins humains](/fr/decision-foundation/find-your-directional-purpose/humans-physiological-needs/) *(4 min)*
+5. Choisissez la [situation](/fr/) la plus proche de ce que vous ressentez *(1 min)*
+6. Gardez la page en favori, et revenez la semaine suivante, l'esprit plus clair
 
-**Total : 5 × 5 min — un par jour cette semaine.**
-
----
-
-## 📊 Scénario 3 — « J'ai trop à faire et aucun système »
-
-**Qui :** Un professionnel, freelance ou propriétaire de petite entreprise noyé sous les tâches et les priorités concurrentes.
-
-**Quand :** Mercredi après-midi, impossible de se concentrer.
-
-**Parcours :**
-1. Lire [Priorisation indépendante](/fr/decision-foundation/independent-prioritization/) → appliquer immédiatement la matrice Impact vs. Effort *(4 min)*
-2. Lire [Clarté et alignement](/fr/decision-foundation/clarity-alignment/) pour simplifier ses objectifs *(4 min)*
-3. Mettre en place un système de dossiers avec [Organisation des fichiers et dossiers](/fr/organizational-processes/files-folder-organization/) *(4 min)*
-4. Utiliser le [Modèle Notion de priorisation](https://www.notion.so/PrioStorm-2c0fcec352808007bfd5d853e9f7f9a1) *(3 min)*
-5. Réviser [Suivi et mise à jour](/fr/decision-foundation/tracking-and-update/) en fin de semaine *(4 min)*
-
-**Total : 5 × 5 min — un par jour.**
+**Au total : 6 séances d'environ 5 min, à votre rythme.**
 
 ---
 
-## 👥 Scénario 4 — « Mon équipe est dysfonctionnelle »
+## 🔥 Parcours 2 : « Je sais ce que je veux, mais je n'arrive pas à m'y mettre »
 
-**Qui :** Un responsable d'équipe, manager ou fondateur dont le groupe est mal aligné ou prend mal ses décisions.
+**Qui :** quelqu'un de motivé qui a du mal à tenir dans la durée : il commence des habitudes, décroche, culpabilise, recommence.
 
-**Quand :** Après une réunion d'équipe frustrante qui n'a mené nulle part.
+**Quand :** un lundi matin, après une nouvelle semaine ratée.
 
-**Parcours :**
-1. Lire [Principes de collaboration](/fr/collaboration-leadership/collaboration-principles/) *(4 min)*
-2. Lire [Prise de décision en groupe](/fr/collaboration-leadership/group-decision-making/) — introduire le cadre DACI à la prochaine réunion *(4 min)*
-3. Partager [Parler clairement et avec confiance](/fr/collaboration-leadership/speak-clearly-and-confidently/) avec un membre de l'équipe *(4 min)*
-4. Lire [Influence et leadership](/fr/collaboration-leadership/influence-and-leadership/) pour préparer une conversation difficile *(4 min)*
-5. Écouter les articles pendant le trajet avec le bouton **Écouter** *(5 min)*
+**Le parcours :**
+1. Allez dans **Efficacité personnelle** dans le menu et lisez [Améliorer ses habitudes](/fr/personal-effectiveness/habits-improvement/) *(4 min)*
+2. Lisez [L'état d'esprit de croissance](/fr/personal-effectiveness/growth-mindset/) pour voir les échecs comme des informations *(4 min)*
+3. Lisez [Gérer la peur](/fr/personal-effectiveness/fear-management/), ou écoutez son podcast (en anglais) pendant votre trajet *(4 min)*
+4. Commencez un journal grâce aux [outils conseillés](/fr/advised-tools/) *(3 min)*
+5. Revenez chaque semaine aux [Activités du quotidien](/fr/personal-effectiveness/inspiration/daily-activities/) pour repartir du bon pied *(4 min)*
 
-**Total : 5 × 5 min — un par jour cette semaine.**
-
----
-
-## 🌍 Scénario 5 — « Je veux comprendre la grande image »
-
-**Qui :** Une personne curieuse — étudiant, entrepreneur ou citoyen engagé — qui veut comprendre les tendances mondiales.
-
-**Quand :** Week-end, matin calme avec un café.
-
-**Parcours :**
-1. Visiter **YeahSight** → lire [Tendances prospectives](https://yeahsight.happybein.com/fr/foresight-trends/) + regarder la vidéo *(5 min)*
-2. Lire [Automatisation améliorée](https://yeahsight.happybein.com/fr/forces/enhanced-automation/) *(5 min)*
-3. Lire [Terres par personne](https://yeahsight.happybein.com/fr/forces/land-per-person/) *(4 min)*
-4. Lire [Allocation universelle](https://yeahsight.happybein.com/fr/sharing-fairly/universal-allowance/) *(5 min)*
-5. Regarder la vidéo dans [Partage équitable du monde](https://yeahsight.happybein.com/fr/sharing-fairly/fair-globe-sharing/) + partager avec un ami *(5 min)*
-
-**Total : 5 × 5 min — répartis sur un matin de week-end.**
+**Au total : 5 lectures de 5 min, une par jour cette semaine.**
 
 ---
 
-## 🔄 Scénario 6 — « Je suis un utilisateur régulier qui fait son bilan mensuel »
+## 📊 Parcours 3 : « J'ai trop à faire et aucune méthode »
 
-**Qui :** Un utilisateur YeahCore régulier qui revient chaque mois pour recalibrer.
+**Qui :** un salarié, un indépendant ou un petit entrepreneur noyé sous les tâches, les e-mails et les priorités qui se bousculent.
 
-**Quand :** Premier dimanche du mois, bilan matinal.
+**Quand :** un mercredi après-midi, impossible de se concentrer, avec dix onglets ouverts.
 
-**Parcours :**
-1. Relire [Commencer ici](/fr/start-here/) — vérifier quel pilier semble le plus pertinent ce mois-ci *(5 min)*
-2. Revisiter [Suivi et mise à jour](/fr/decision-foundation/tracking-and-update/) — réviser les objectifs du mois précédent *(4 min)*
-3. Ouvrir [Activités quotidiennes](/fr/personal-effectiveness/inspiration/daily-activities/) — rafraîchir sa routine matinale *(4 min)*
-4. Vérifier les [Outils conseillés](/fr/advised-tools/) pour les nouveaux outils *(3 min)*
-5. Laisser un [Feedback d'une minute](https://form.jotform.com/222551513307043) *(1 min)*
-6. Partager un article spécifique avec quelqu'un dans sa vie *(2 min)*
+**Le parcours :**
+1. Lisez [Impact ou effort](/fr/decision-foundation/independent-prioritization/) et appliquez tout de suite le tableau impact/effort *(4 min)*
+2. Lisez [Clarté et alignement](/fr/decision-foundation/clarity-alignment/) pour simplifier vos objectifs *(4 min)*
+3. Organisez vos dossiers avec [Organiser fichiers et dossiers](/fr/organizational-processes/files-folder-organization/) *(4 min)*
+4. Utilisez le [modèle Notion de priorisation](https://www.notion.so/PrioStorm-2c0fcec352808007bfd5d853e9f7f9a1) des outils conseillés *(3 min)*
+5. Relisez [Suivre et ajuster](/fr/decision-foundation/tracking-and-update/) en fin de semaine *(4 min)*
 
-**Total : 6 × 5 min — un bilan léger du dimanche matin.**
-
----
-
-## 📱 Scénario 7 — « Je n'ai que 10 minutes sur mon téléphone »
-
-**Qui :** N'importe qui — en déplacement, en attente, pause courte.
-
-**Quand :** Dans le train ou pendant la pause déjeuner.
-
-**Parcours :**
-1. Ouvrir YeahCore sur mobile → appuyer sur la section en cours
-2. Appuyer sur un article → **Écouter** → le téléphone lit pendant que vous marchez ou voyagez
-3. Ou lire un court article comme [Bien dormir](/fr/personal-effectiveness/sleeping-well/) ou [Gérer le temps de trajet](/fr/organizational-processes/managing-commuting-time/)
-4. Marquer l'article pour une lecture approfondie plus tard
-
-**Total : 1 article × 5 min — n'importe quand, n'importe où.**
+**Au total : 5 lectures de 5 min, une par jour.**
 
 ---
 
-## Récapitulatif
+## 👥 Parcours 4 : « Mon équipe ne fonctionne pas et je dois y remédier »
 
-| Situation | Commencer ici | Format |
+**Qui :** un chef d'équipe, un manager ou un fondateur dont le groupe manque d'alignement ou tarde à décider.
+
+**Quand :** après une réunion d'équipe frustrante qui n'a abouti à rien.
+
+**Le parcours :**
+1. Lisez [Bien travailler avec les autres](/fr/collaboration-leadership/collaboration-principles/) *(4 min)*
+2. Lisez [Décider en groupe](/fr/collaboration-leadership/group-decision-making/) et répartissez les rôles (pilote, décideur, contributeurs, informés) dès la prochaine réunion *(4 min)*
+3. Partagez [S'exprimer clairement et avec assurance](/fr/collaboration-leadership/speak-clearly-and-confidently/) avec un membre de l'équipe *(4 min)*
+4. Lisez [Influence et leadership](/fr/collaboration-leadership/influence-and-leadership/) pour préparer une conversation difficile *(4 min)*
+5. Écoutez les podcasts (en anglais) pendant votre trajet du matin *(5 min)*
+
+**Au total : 5 séances de 5 min, une par jour cette semaine.**
+
+---
+
+## 🌍 Parcours 5 : « Je veux comprendre la situation dans son ensemble »
+
+**Qui :** une personne curieuse, étudiant, entrepreneur ou citoyen engagé, qui veut comprendre les grandes tendances du monde.
+
+**Quand :** un week-end, un matin calme avec un café.
+
+**Le parcours :**
+1. Allez sur **YeahSight** et lisez [Tendances prospectives](https://yeahsight.happybein.com/fr/foresight-trends/), puis regardez la vidéo *(5 min)*
+2. Lisez [Automatisation améliorée](https://yeahsight.happybein.com/fr/forces/enhanced-automation/), et décidez de vous former aux outils d'IA *(5 min)*
+3. Lisez [Terres par personne](https://yeahsight.happybein.com/fr/forces/land-per-person/) *(4 min)*
+4. Lisez [Allocation universelle](https://yeahsight.happybein.com/fr/sharing-fairly/universal-allowance/) *(5 min)*
+5. Regardez la vidéo de [Partage équitable du monde](https://yeahsight.happybein.com/fr/sharing-fairly/fair-globe-sharing/) et partagez-la avec un ami *(5 min)*
+
+**Au total : 5 séances de 5 min, sur une matinée de week-end.**
+
+---
+
+## 🔄 Parcours 6 : « Je reviens chaque mois pour faire le point »
+
+**Qui :** un habitué de YeahCore qui revient chaque mois pour se recentrer.
+
+**Quand :** le premier dimanche du mois, au moment du bilan.
+
+**Le parcours :**
+1. Relisez [Tous les guides](/fr/start-here/) et voyez quel pilier compte le plus ce mois-ci *(5 min)*
+2. Revenez à [Suivre et ajuster](/fr/decision-foundation/tracking-and-update/) pour revoir les objectifs du mois passé *(4 min)*
+3. Ouvrez [Activités du quotidien](/fr/personal-effectiveness/inspiration/daily-activities/) pour rafraîchir votre routine du matin *(4 min)*
+4. Regardez les [outils conseillés](/fr/advised-tools/) pour découvrir les nouveautés *(3 min)*
+5. Donnez un [avis en une minute](https://form.jotform.com/222551513307043) sur ce qui vous a le plus aidé *(1 min)*
+6. Partagez un article avec quelqu'un de votre entourage qui en a besoin *(2 min)*
+
+**Au total : 6 séances de 5 min, un dimanche matin tranquille.**
+
+---
+
+## 📱 Parcours 7 : « J'ai seulement 10 minutes sur mon téléphone »
+
+**Qui :** tout le monde : dans les transports, en attendant, pendant une courte pause.
+
+**Quand :** dans le train ou à la pause déjeuner.
+
+**Le parcours :**
+1. Ouvrez YeahCore sur votre téléphone et allez à la partie sur laquelle vous travaillez
+2. Ouvrez un article et lancez son podcast (en anglais pour l'instant) pendant que vous marchez ou voyagez
+3. Ou lisez un article court comme [Bien dormir](/fr/personal-effectiveness/sleeping-well/) ou [Bien utiliser ses trajets](/fr/organizational-processes/managing-commuting-time/)
+4. Gardez-le en favori pour le lire plus tard en détail
+
+**Au total : 1 article de 5 min, n'importe quand, n'importe où.**
+
+---
+
+## En résumé
+
+| Situation | Commencer par | Format |
 |---|---|---|
-| Se sentir perdu | [Commencer ici](/fr/start-here/) → Pilier 1 | 6 × 5 min |
-| Incapable de créer des habitudes | [Amélioration des habitudes](/fr/personal-effectiveness/habits-improvement/) | 5 × 5 min |
-| Submergé par les tâches | [Priorisation](/fr/decision-foundation/independent-prioritization/) | 5 × 5 min |
-| Problèmes d'équipe | [Collaboration](/fr/collaboration-leadership/collaboration-principles/) | 5 × 5 min |
-| Comprendre la grande image | [YeahSight](https://yeahsight.happybein.com/fr/foresight-trends/) | 5 × 5 min |
-| Bilan mensuel | [Commencer ici](/fr/start-here/) → révision | 6 × 5 min |
-| Peu de temps | N'importe quel article + bouton Écouter | 1 × 5 min |
+| Se sentir perdu | [Tous les guides](/fr/start-here/) → Pilier 1 | 6 × 5 min |
+| Ne pas réussir à prendre des habitudes | [Améliorer ses habitudes](/fr/personal-effectiveness/habits-improvement/) | 5 × 5 min |
+| Débordé de tâches | [Impact ou effort](/fr/decision-foundation/independent-prioritization/) | 5 × 5 min |
+| Problèmes d'équipe | [Bien travailler avec les autres](/fr/collaboration-leadership/collaboration-principles/) | 5 × 5 min |
+| Comprendre le monde | [YeahSight](https://yeahsight.happybein.com/fr/foresight-trends/) | 5 × 5 min |
+| Bilan mensuel | [Tous les guides](/fr/start-here/) → bilan | 6 × 5 min |
+| Peu de temps | N'importe quel article, lu ou écouté | 1 × 5 min |
 
 ---
 
-*YeahCore est une initiative de la [HappyBein Stichting](https://www.happybein.com).*
+*YeahCore est une initiative de la [fondation HappyBein](https://www.happybein.com/fr/).*

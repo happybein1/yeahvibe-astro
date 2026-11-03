@@ -1,38 +1,61 @@
 ---
-title: Trouver votre objectif directionnel
-description: Comprendre les objectifs et valeurs fondamentaux qui guident vos décisions — pour les individus et les organisations.
-reading_time: "3 min de lecture"
+title: Trouver votre direction
+description: Des journées pleines sans trop savoir pourquoi, ou plus rien ne vous donne envie ? Trois questions aident à trouver une direction qui rend les choix du quotidien plus simples.
+reading_time: "4 min"
 sidebar:
   order: 5
 ---
 
-Trouver votre objectif directionnel signifie identifier les objectifs et valeurs fondamentaux qui guident vos décisions dans le temps. Cela fournit la base sur laquelle reposent toute planification, priorisation et action.
+## Une boussole, pas une carte
 
-## Pourquoi l'objectif est important dans la prise de décision
+Sans direction, on réagit à ce qui se présente : le message urgent, la prochaine demande. On est occupé, mais on ne va pas vraiment là où on l'a choisi. C'est fatigant, et cela éteint peu à peu l'envie.
 
-Sans sens clair de la direction, les décisions sont prises de manière réactive — en répondant à ce qui est urgent plutôt qu'à ce qui est important. Un objectif directionnel agit comme une boussole : il ne vous dit pas exactement quel chemin prendre, mais il s'assure que vous vous déplacez toujours dans la bonne direction.
+Une direction fonctionne comme une boussole. Elle ne vous dit pas chaque pas, mais elle vous montre dans quel sens aller, et les choix du quotidien deviennent plus simples. Trois questions aident à la trouver.
 
-## Les trois couches de l'objectif
+## 1. Que voulez-vous, dans la durée ?
 
-### 1. Objectifs primaires
-Que voulez-vous finalement accomplir ? Pour les individus, cela se résume souvent au bien-être, à la croissance et à la contribution significative. Pour les organisations, cela peut inclure un impact durable, la santé financière et la valeur pour les parties prenantes.
+La plupart de ce que les gens veulent se ramène à quatre grands domaines :
 
-### 2. Moteurs fondamentaux des émotions
-Qu'est-ce qui crée les états émotionnels que vous souhaitez davantage — et moins ? Comprendre vos moteurs émotionnels vous aide à prendre des décisions alignées avec ce qui compte vraiment, pas seulement ce qui paraît bien sur le papier.
+- **Le bien-être** : la santé et l'énergie, se sentir stable, avoir l'esprit clair, se sentir en sécurité.
+- **Les relations** : des proches sur qui compter, un endroit où l'on a sa place, aider les autres.
+- **La croissance** : apprendre, franchir des étapes qui comptent pour vous, vivre selon vos valeurs.
+- **La liberté** : assez d'argent pour ne pas dépendre des autres, choisir comment passer votre temps.
 
-Voir : [Moteurs fondamentaux des émotions](/fr/decision-foundation/find-your-directional-purpose/core-drivers-of-feelings)
+Pas besoin d'un grand but dans la vie. Remarquez quels domaines comptent le plus pour vous en ce moment, et lesquels vous avez négligés.
 
-### 3. Besoins physiologiques et fondamentaux
-À la base de tous les objectifs se trouvent des besoins humains universels : sécurité, santé, connexion, autonomie et sens. Les décisions qui ignorent ces fondements tendent à produire des résultats qui semblent creux même lorsqu'ils réussissent sur le papier.
+## 2. Qu'est-ce qui vous donne de l'énergie, et qu'est-ce qui vous en prend ?
 
-Voir : [Besoins physiologiques humains](/fr/decision-foundation/find-your-directional-purpose/humans-physiological-needs)
+Certaines choses vous donnent de l'énergie, d'autres vous laissent vide, même quand elles semblent bien sur le papier. Six éléments font la plus grande différence :
 
-## Appliquer l'objectif directionnel
+- **Le progrès** : sentir que vous avancez, même à petits pas.
+- **Le choix** : avoir votre mot à dire sur ce que vous faites et comment.
+- **Se sentir capable** : un défi à votre portée, ni trop facile ni trop difficile.
+- **L'appartenance** : faire partie de quelque chose avec d'autres.
+- **Le sens** : savoir pourquoi cela compte.
+- **La sécurité** : pouvoir essayer, se tromper et parler franchement sans crainte.
 
-Une fois votre objectif clair, utilisez-le comme filtre :
+Quand une activité vous semble terne, regardez lequel de ces éléments manque. Souvent, un petit changement, comme une raison plus claire ou une première petite réussite, ramène l'énergie. Le guide [Pourquoi nous ressentons ce que nous ressentons](/fr/personal-effectiveness/why-we-feel-what-we-feel/) explique la chimie du cerveau qui se cache derrière.
 
-- Cet objectif me rapproche-t-il de mon objectif primaire ?
-- Ce plan soutient-il mes moteurs émotionnels fondamentaux ?
-- Cette décision respecte-t-elle mes besoins fondamentaux ?
+## 3. Vos besoins de base sont-ils couverts ?
 
-Si la réponse aux trois est oui, vous avez un fort alignement. Sinon, il vaut la peine de se demander si l'objectif mérite vraiment d'être poursuivi.
+Sous tout le reste se trouvent les besoins que partage chaque être humain : la santé, la sécurité, le lien, la liberté et le sens. Un choix qui les ignore peut ressembler à une réussite et laisser pourtant un sentiment de vide. Si l'un d'eux manque vraiment, commencez par là. Le guide sur [les besoins humains](/fr/decision-foundation/find-your-directional-purpose/humans-physiological-needs/) les explique un par un.
+
+## S'en servir comme filtre
+
+Une fois que vous avez une réponse approximative aux trois questions, servez-vous-en avant de dire oui à quelque chose de nouveau :
+
+- Est-ce que cela me rapproche de ce que je veux ?
+- Est-ce que cela va me donner de l'énergie, ou m'en prendre ?
+- Est-ce que cela respecte mes besoins de base ?
+
+Trois oui : allez-y. Sinon, c'est peut-être une distraction qui n'a que l'air d'un progrès.
+
+## Quand plus rien ne donne envie
+
+Si vous vous sentez à plat et n'avez aucune idée, n'attendez pas que l'inspiration arrive. Elle vient en général en faisant. Essayez quelque chose de petit et de nouveau, passez du temps avec des personnes qui vous inspirent, ou rassemblez des idées sans les juger. Le guide pour [trouver de bonnes idées](/fr/decision-foundation/ideation-assessment/) peut vous aider.
+
+<div class="yv-next">
+<p class="yv-next-t">Votre prochain pas</p>
+<p><strong>À essayer aujourd'hui :</strong> terminez cette phrase de trois façons différentes : « Une bonne année, pour moi, serait une année où… ». Gardez celle qui sonne le plus juste.</p>
+<p class="yv-next-btns"><a class="yv-btn" href="https://intentflow.yeahvibe.com/" target="_blank" rel="noopener">Ouvrir dans IntentFlow</a> <a class="yv-btn yv-btn--ghost" href="/fr/help/stuck/">‹ Retour à « Je tourne en rond, sans élan »</a></p>
+</div>

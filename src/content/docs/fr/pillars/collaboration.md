@@ -1,46 +1,46 @@
 ---
-title: "Pilier 4 : Principes de Collaboration & Leadership"
-description: Vous ne pouvez aller que jusqu'à un certain point seul. Apprenez les principes d'influence qui vous permettent de démultiplier votre impact à travers les autres.
+title: "Pilier 4 : Travailler avec les autres"
+description: Seul, on ne va pas très loin. Découvrez les principes de l'influence qui permettent de démultiplier votre impact grâce aux autres.
 sidebar:
   order: 4
 ---
 
-> **Le Remède pour :** Se sentir stressé par une charge de travail lourde ou isolé dans ses objectifs.
+> **Le remède à :** se sentir stressé par une lourde charge de travail, ou seul face à ses objectifs.
 
-## L'Insight
+## L'idée
 
-Vous ne pouvez aller que jusqu'à un certain point seul. C'est votre multiplicateur.
+Seul, on ne va pas très loin. Les autres sont votre multiplicateur.
 
-Les personnes les plus efficaces ne sont pas nécessairement les plus talentueuses — ce sont celles qui ont appris à travailler efficacement avec les autres, à communiquer avec clarté et à influencer sans s'appuyer sur l'autorité. Ce sont des compétences qui s'apprennent, pas des traits de personnalité.
+Les personnes qui réussissent le mieux ne sont pas forcément les plus douées : ce sont celles qui ont appris à bien travailler avec les autres, à communiquer clairement et à influencer sans compter sur l'autorité. Ce sont des compétences qui s'apprennent, pas des traits de caractère.
 
-Que vous dirigiez une équipe, travailliez au sein d'une équipe ou opériez de manière indépendante, votre capacité à collaborer, communiquer et gagner la confiance est le levier le plus puissant pour démultiplier votre impact.
+Que vous dirigiez une équipe, que vous en fassiez partie ou que vous travailliez seul, votre capacité à collaborer, à communiquer et à gagner la confiance est le plus grand levier pour aller plus loin que ce que vous pourriez faire seul.
 
 ---
 
-## Ce que ce pilier couvre
+## Ce que couvre ce pilier
 
-1. **Les fondements d'une collaboration efficace** — sécurité psychologique, objectif partagé et conflit constructif.
-2. **Diriger sans autorité** — influencer par la crédibilité, les relations et un cadrage clair.
-3. **Communiquer avec clarté et confiance** — à l'écrit, en réunion et dans les conversations à enjeux élevés.
-4. **Prendre de meilleures décisions en groupe** — des cadres qui font émerger la meilleure réflexion sans pensée de groupe.
+1. **Les bases d'une bonne collaboration** : la sécurité psychologique, un but commun et des désaccords constructifs.
+2. **Diriger sans autorité** : influencer par la crédibilité, les relations et un message clair.
+3. **Communiquer clairement et avec assurance** : à l'écrit, en réunion et dans les conversations à fort enjeu.
+4. **Mieux décider en groupe** : des méthodes qui font ressortir les meilleures idées d'un groupe, sans pensée de groupe.
 
 ---
 
 ## Vidéo
 
-*Une vidéo d'introduction à ce pilier arrive bientôt.*
+*Une vidéo de présentation de ce pilier arrive bientôt.*
 
 ---
 
-## Articles de ce pilier
+## Les articles de ce pilier
 
 <details class="pillar-links">
-<summary>Explorer tous les articles →</summary>
+<summary>Voir tous les articles →</summary>
 <ul>
-  <li><a href="/fr/collaboration-leadership/collaboration-principles/">Principes de collaboration</a></li>
+  <li><a href="/fr/collaboration-leadership/collaboration-principles/">Bien travailler avec les autres</a></li>
   <li><a href="/fr/collaboration-leadership/influence-and-leadership/">Influence et leadership</a></li>
-  <li><a href="/fr/collaboration-leadership/speak-clearly-and-confidently/">Parler clairement et avec confiance</a></li>
-  <li><a href="/fr/collaboration-leadership/group-decision-making/">Prise de décision en groupe</a></li>
+  <li><a href="/fr/collaboration-leadership/speak-clearly-and-confidently/">S'exprimer clairement et avec assurance</a></li>
+  <li><a href="/fr/collaboration-leadership/group-decision-making/">Décider en groupe</a></li>
 </ul>
 </details>
 
@@ -48,13 +48,13 @@ Que vous dirigiez une équipe, travailliez au sein d'une équipe ou opériez de 
 
 ## Par où commencer
 
-Commencez par **[Principes de collaboration](/fr/collaboration-leadership/collaboration-principles/)** — 4 min de lecture.
+Commencez par **[Bien travailler avec les autres](/fr/collaboration-leadership/collaboration-principles/)**, 4 min de lecture. La partie sur la sécurité psychologique explique pourquoi la plupart des équipes ne donnent pas leur plein potentiel, et quoi y faire.
 
-Pas sûr que ce soit votre pilier ? Faites l'**[Auto-évaluation](https://form.jotform.com/222552689387066)** pour une recommandation personnalisée.
+Pas sûr que ce soit votre pilier ? Partez plutôt de **[ce dont vous avez besoin](/fr/)**.
 
 ---
 
-[← Pilier 3 — Organisation](/fr/pillars/organization/)
+[← Pilier 3, Organisation](/fr/pillars/organization/)
 
 <style>{`
   .pillar-links { border: 1px solid var(--sl-color-hairline); border-radius: 8px; margin: 0.5rem 0; }

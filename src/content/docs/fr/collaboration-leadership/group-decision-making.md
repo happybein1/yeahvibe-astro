@@ -1,59 +1,61 @@
 ---
-title: Prise de décision en groupe
-description: Cadres et pratiques pour prendre de meilleures décisions en groupe tout en évitant les pièges collectifs courants.
-reading_time: "4 min de lecture"
+title: Décider en groupe
+description: Des méthodes et des pratiques pour mieux décider en groupe, en évitant les pièges collectifs courants.
+reading_time: "4 min"
 sidebar:
   order: 4
 ---
 
+Les décisions de groupe peuvent être meilleures que les décisions individuelles, ou bien pires, selon la façon dont elles sont prises. Tout se joue dans la méthode.
 
-Les décisions de groupe peuvent être meilleures que les décisions individuelles — ou bien pires, selon la façon dont elles sont prises. La différence réside dans le processus.
+## Les promesses et les risques des décisions de groupe
 
-## La promesse et le péril des décisions de groupe
+**Quand un groupe fait mieux qu'une personne seule** :
+- Des points de vue variés font apparaître des informations que personne n'a seul
+- Plusieurs regards mettent les hypothèses à l'épreuve
+- L'adhésion collective augmente les chances de réussir la mise en œuvre
 
-**Quand les groupes surpassent les individus** :
-- Des perspectives diverses font émerger des informations qu'aucune personne seule ne possède
-- Plusieurs points de vue testent les hypothèses
-- L'adhésion collective augmente le succès de la mise en œuvre
+**Quand un groupe fait moins bien qu'une personne seule** :
+- La pensée de groupe étouffe le désaccord et l'esprit critique
+- Les voix dominantes couvrent des points de vue plus discrets mais précieux
+- La pression sociale pousse au consensus avant un vrai accord
+- La fatigue des décisions mène à de mauvais choix quand les réunions s'éternisent
 
-**Quand les groupes sous-performent les individus** :
-- La pensée de groupe supprime la dissidence et la pensée critique
-- Les voix dominantes étouffent des perspectives plus discrètes mais précieuses
-- La pression sociale génère un consensus avant qu'un accord réel ne soit atteint
+## Des méthodes qui marchent
 
-## Cadres efficaces de décision de groupe
+### Qui fait quoi : pilote, décideur, contributeurs, informés
+Définissez les rôles pour chaque décision :
+- **Le pilote** : mène le processus et le fait avancer.
+- **Le décideur** : a le dernier mot.
+- **Les contributeurs** : apportent leurs idées et leur expertise.
+- **Les informés** : sont prévenus du résultat.
 
-### DACI (Pilote, Approbateur, Contributeur, Informé)
-Définissez qui fait quoi dans chaque décision :
-- **Pilote** : Possède le processus et le maintient en mouvement.
-- **Approbateur** : A l'autorité de décision finale.
-- **Contributeurs** : Fournissent des contributions et de l'expertise.
-- **Informés** : Notifiés du résultat.
+Cette clarté évite les deux échecs les plus courants : trop de chefs (tout le monde croit décider) et personne aux commandes (personne ne prend la responsabilité).
 
-### Pré-mortem
-Avant de finaliser une décision, demandez au groupe : « Imaginez que nous sommes dans un an et que ce plan a mal tourné. Qu'est-il arrivé ? » Cette technique fait émerger des risques que le biais optimiste tend à supprimer.
+### L'autopsie à l'avance
+Avant de valider une décision, demandez au groupe : « Imaginons que nous sommes dans un an et que ce plan a lamentablement échoué. Qu'est-ce qui s'est mal passé ? » Cette technique fait apparaître des risques que l'optimisme a tendance à cacher.
 
-### Contribution indépendante avant la discussion
-Avant la discussion ouverte, demandez à chaque personne d'écrire indépendamment son point de vue. Cela empêche l'ancrage et fait émerger une vraie diversité de pensée.
+### Un avis personnel avant la discussion
+Avant la discussion ouverte, demandez à chacun d'écrire son avis seul. Cela évite l'effet d'ancrage (la première personne qui parle influence trop la position des autres) et fait apparaître la vraie diversité des points de vue.
 
-### Désaccord structuré
-Désignez quelqu'un pour argumenter contre l'option principale (avocat du diable ou « équipe rouge »). Cela normalise la dissidence et garantit que les objections les plus fortes sont entendues.
+### Un désaccord organisé
+Désignez quelqu'un pour défendre le point de vue opposé à l'option favorite (l'avocat du diable). Cela rend le désaccord normal et garantit que les objections les plus fortes sont entendues.
 
 ## Éviter la pensée de groupe
 
-- Invitez activement la dissidence : « Qu'est-ce que je rate ? » « Qui voit les choses différemment ? »
-- Séparez la génération d'idées de l'évaluation.
-- Protégez les opinions minoritaires : « Écoutons les personnes qui n'ont pas encore parlé. »
-- Soyez conscient des effets d'autorité : la voix la plus senior devrait souvent parler en dernier.
+- Invitez vraiment le désaccord : « Qu'est-ce qui m'échappe ? » « Qui voit les choses autrement ? »
+- Séparez la recherche d'idées et leur évaluation : ne critiquez pas une idée au moment où elle apparaît.
+- Protégez les avis minoritaires : « Écoutons ceux qui n'ont pas encore parlé. »
+- Méfiez-vous de l'effet d'autorité : la personne la plus haut placée devrait souvent parler en dernier.
 
-## Quand décider vs. quand discuter davantage
+## Décider maintenant ou discuter encore
 
-Plus de discussion est justifiée quand :
-- Des informations clés manquent
-- Un désaccord significatif persiste
-- Les enjeux sont très élevés et la réversibilité est faible
+Il vaut mieux discuter encore quand :
+- Des informations essentielles manquent
+- Un désaccord important persiste
+- L'enjeu est très élevé et la décision difficile à défaire
 
 Décidez maintenant quand :
-- Le coût du retard dépasse le coût de l'imperfection
-- La décision est réversible
-- Vous avez suffisamment d'informations pour faire un choix raisonnable
+- Attendre coûte plus cher qu'une décision imparfaite
+- La décision peut être défaite
+- Vous avez assez d'informations pour faire un choix raisonnable

@@ -1,45 +1,54 @@
 ---
 title: Bien dormir
-description: La science et la pratique d'un sommeil de qualité et pourquoi il est fondamental à une pensée et une prise de décision efficaces.
-reading_time: "4 min de lecture"
+description: Ce que la science dit d'un bon sommeil, comment y arriver, et pourquoi il est la base d'une pensée claire et de bonnes décisions.
+reading_time: "4 min"
 sidebar:
   order: 4
 ---
 
+Le sommeil n'est pas un luxe, c'est un besoin biologique. La qualité de votre sommeil détermine directement la qualité de votre réflexion, de vos décisions, de votre équilibre émotionnel et de votre santé physique.
 
-Le sommeil n'est pas un luxe — c'est une nécessité biologique. La qualité de votre sommeil détermine directement la qualité de votre pensée, de votre prise de décision, de votre régulation émotionnelle et de votre santé physique.
+## Pourquoi le sommeil compte pour décider
 
-## Pourquoi le sommeil est important pour les décisions
+Pendant le sommeil, le cerveau consolide les souvenirs, élimine ses déchets et récupère ses capacités. Le manque de sommeil abîme :
 
-Pendant le sommeil, le cerveau consolide les souvenirs, élimine les déchets métaboliques et restaure la fonction cognitive. Le manque de sommeil nuit à :
-
-- **Le jugement et l'évaluation des risques** : Les personnes fatiguées sous-estiment systématiquement les risques et surestiment leurs propres performances.
-- **La régulation émotionnelle** : Un mauvais sommeil amplifie la réactivité émotionnelle et réduit l'empathie.
-- **La créativité et la résolution de problèmes** : Le cerveau endormi fait des connexions que le cerveau éveillé manque.
-- **L'attention et la concentration** : Même une légère dette de sommeil réduit significativement l'attention soutenue.
+- **Le jugement et l'évaluation des risques** : les personnes fatiguées sous-estiment le risque et surestiment leurs propres performances.
+- **L'équilibre émotionnel** : un mauvais sommeil amplifie les réactions émotionnelles et réduit l'empathie.
+- **La créativité et la résolution de problèmes** : le cerveau endormi fait des liens que le cerveau éveillé ne voit pas.
+- **L'attention et la concentration** : même un léger manque de sommeil réduit nettement la capacité à rester concentré.
 
 ## De combien de sommeil avez-vous besoin ?
 
-La plupart des adultes ont besoin de 7 à 9 heures par nuit. L'idée que certaines personnes fonctionnent bien avec 5 à 6 heures est largement un mythe.
+La plupart des adultes ont besoin de 7 à 9 heures par nuit. Il existe des différences d'une personne à l'autre, mais l'idée que certaines personnes fonctionnent vraiment bien avec 5 ou 6 heures est en grande partie un mythe : la plupart de ceux qui le croient se sont simplement habitués à la fatigue et ne savent plus ce que c'est d'être bien reposé.
 
-## Pratiques pour mieux dormir
+## Ce qui aide à mieux dormir
 
-### Cohérence
-Allez au lit et réveillez-vous à la même heure chaque jour — y compris le week-end. Une heure régulière ancre votre rythme circadien et améliore considérablement la qualité du sommeil.
+### La régularité
+Couchez-vous et levez-vous à la même heure chaque jour, week-end compris. Des horaires réguliers calent votre horloge interne et améliorent beaucoup la qualité du sommeil.
 
-### Gestion de la lumière
-- Obtenez de la lumière naturelle le matin : cela règle votre horloge circadienne.
-- Réduisez la lumière vive et bleue dans les 1 à 2 heures avant le coucher.
-- Gardez la chambre sombre pendant le sommeil.
+### La lumière
+- Prenez la lumière du jour le matin : elle règle votre horloge interne.
+- Réduisez la lumière vive et la lumière bleue une à deux heures avant le coucher.
+- Gardez la chambre dans l'obscurité pendant la nuit.
 
-### Température
-Le corps doit abaisser sa température centrale pour initier le sommeil. Une chambre fraîche (environ 16-19°C) soutient ce processus.
+### La température
+Pour s'endormir, le corps doit faire baisser sa température. Une chambre fraîche (entre 16 et 19 °C environ) l'y aide.
 
-### Routine de détente
-Créez une routine pré-sommeil cohérente qui signale à votre corps que le sommeil approche : lecture, étirements légers, bain chaud — mais pas d'écrans ni de tâches stressantes.
+### Un rituel du soir
+Installez un rituel régulier avant de dormir, qui annonce au corps que le sommeil arrive : lecture, quelques étirements, un bain chaud ou une conversation calme. Mais pas d'écrans, de sport intense ou de tâches stressantes.
 
-### Limiter les stimulants
-La caféine a une demi-vie de 5 à 7 heures. Un café à 15h a encore une quantité significative de caféine dans votre système à 22h. L'alcool, bien que sédatif au départ, fragmente l'architecture du sommeil.
+### Limiter les excitants
+La caféine met 5 à 7 heures pour perdre la moitié de son effet. Un café à 15 h agit encore nettement à 22 h. L'alcool, s'il endort d'abord, morcelle le sommeil et en réduit la qualité dans la seconde moitié de la nuit.
 
-### Gérer l'anxiété
-Les pensées qui s'emballent au coucher sont l'un des perturbateurs du sommeil les plus courants. Une courte pratique de journalisation — écrire vos inquiétudes et le plan du lendemain — peut décharger la charge mentale.
+### Apaiser les inquiétudes
+Les pensées qui tournent au coucher font partie des causes les plus fréquentes de mauvais sommeil. Écrire quelques lignes, ses soucis et le plan du lendemain, peut alléger l'esprit et aider à s'apaiser.
+
+## Quand on dort mal depuis longtemps
+
+Un mauvais sommeil qui dure mérite de l'attention. Les causes fréquentes sont l'apnée du sommeil (surtout si vous ronflez ou vous réveillez fatigué après une nuit complète), l'anxiété ou la dépression, de mauvaises habitudes de sommeil ou le travail en horaires décalés. Si vos propres changements n'aident pas au bout de quelques semaines, consultez un médecin ou un spécialiste du sommeil.
+
+<div class="yv-next">
+<p class="yv-next-t">Votre prochain pas</p>
+<p><strong>À essayer aujourd'hui :</strong> choisissez une heure de coucher et une heure de lever, et gardez-les pendant les 7 prochains jours, week-end compris.</p>
+<p class="yv-next-btns"><a class="yv-btn" href="https://intentflow.yeahvibe.com/" target="_blank" rel="noopener">Ouvrir dans IntentFlow</a> <a class="yv-btn yv-btn--ghost" href="/fr/help/tired/">‹ Retour à « Je suis à plat ou je dors mal »</a></p>
+</div>

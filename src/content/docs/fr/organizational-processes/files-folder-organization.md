@@ -1,60 +1,62 @@
 ---
-title: Organisation des fichiers et dossiers
-description: Un système pratique pour organiser les fichiers et dossiers numériques afin de tout trouver rapidement.
-reading_time: "4 min de lecture"
+title: Organiser fichiers et dossiers
+description: Une méthode pratique pour organiser fichiers et dossiers numériques, et tout retrouver rapidement.
+reading_time: "4 min"
 sidebar:
   order: 2
 ---
 
+Une bonne organisation de vos fichiers vous fait gagner du temps tous les jours. Le but : retrouver n'importe quel fichier en moins de 30 secondes, sans chercher.
 
-Un bon système d'organisation des fichiers rapporte des dividendes chaque jour. L'objectif est de trouver n'importe quel fichier en moins de 30 secondes sans recherche.
+## Les principes clés
 
-## Principes fondamentaux
+### Classer par projet ou par domaine, pas par type de fichier
+La plupart des gens classent par type (Documents, Images, Vidéos). Cela oblige à se souvenir du type d'un fichier avant de pouvoir le trouver. Classez plutôt par projet ou par domaine de vie : tout ce qui concerne un projet est rangé ensemble, quel que soit le format.
 
-### Structurer par projet ou domaine, pas par type de fichier
-La plupart des gens organisent par type (Documents, Images, Vidéos). Cela vous oblige à vous souvenir du type d'un fichier avant de pouvoir le trouver. Organisez plutôt par projet ou domaine de vie — tout ce qui est lié à un projet est regroupé quel que soit le format.
-
-### Utiliser une hiérarchie cohérente
+### Garder la même structure
+Une structure constante vous dit toujours où chercher :
 
 ```
 📁 Domaines
   📁 Travail
     📁 [Nom du projet]
+    📁 [Nom du projet]
   📁 Personnel
     📁 Finances
     📁 Santé
+    📁 Maison
 📁 Ressources
-  📁 Référence
+  📁 Références
   📁 Modèles
 📁 Archives
   📁 2023
   📁 2024
 ```
 
-### Nommer les fichiers de manière descriptive
-Les noms de fichiers doivent décrire le contenu sans ouvrir le fichier. Incluez :
+### Donner des noms parlants
+Le nom d'un fichier doit décrire son contenu sans qu'on ait à l'ouvrir. Indiquez :
 - Ce que c'est (pas « document » ou « fichier »)
-- Le projet ou le contexte si non évident depuis le dossier
-- La date pour les fichiers sensibles au temps : format AAAA-MM-JJ
+- Le projet ou le contexte, si le dossier ne le dit pas déjà
+- La date pour les fichiers liés à un moment : le format AAAA-MM-JJ se trie dans l'ordre chronologique
 
 **Exemples** :
-- `2024-03-15 Bilan Trimestriel T1 Final.xlsx` ✓
+- `2024-03-15 Bilan budget T1 final.xlsx` ✓
 - `document1.docx` ✗
 
-### Utiliser les dates au format AAAA-MM-JJ
-Ce format se trie correctement quand les fichiers sont listés alphabétiquement.
+### Écrire les dates au format AAAA-MM-JJ
+Ce format se trie correctement quand les fichiers sont classés par ordre alphabétique. `2024-03-15` passe avant `2024-11-02`. `15 mars 2024` ne se trie pas de façon utile.
 
-## L'habitude d'archivage
+## L'habitude d'archiver
 
-Plutôt que de supprimer les anciens fichiers, déplacez les projets terminés dans un dossier Archive organisé par année. Cela :
-- Garde les dossiers actifs propres et rapides à naviguer
-- Préserve les fichiers au cas où vous en auriez besoin plus tard
-- Rend l'archive facile à fouiller si nécessaire
+Au lieu de supprimer les anciens fichiers, déplacez les projets terminés dans un dossier Archives classé par année. Cela :
+- Garde les dossiers actifs propres et faciles à parcourir
+- Conserve les fichiers au cas où vous en auriez besoin plus tard
+- Rend les archives faciles à fouiller si besoin
 
-## Cloud ou stockage local
+## Dans le cloud ou sur l'ordinateur
 
-Stockez les fichiers activement partagés dans le cloud (Google Drive, OneDrive, Dropbox). Stockez les fichiers multimédias volumineux, les archives et tout ce qui ne nécessite pas d'être partagé localement. Maintenez une structure de dossiers cohérente dans les deux.
+Gardez dans le cloud (Google Drive, OneDrive, Dropbox) les fichiers sur lesquels vous travaillez à plusieurs. Gardez sur l'ordinateur ou sur un disque externe les gros fichiers multimédias, les archives et tout ce qui n'a pas besoin d'être partagé. Utilisez la même structure de dossiers aux deux endroits.
 
-## Maintenance
+## L'entretien
 
-Une fois par semaine, videz votre dossier Téléchargements et votre bureau. Déplacez les fichiers vers leur emplacement approprié ou archivez-les.
+Une fois par semaine, videz votre dossier Téléchargements et votre bureau. Rangez les fichiers à leur place ou archivez-les. Laisser des fichiers sur le bureau ou dans Téléchargements, c'est l'équivalent numérique de laisser traîner des affaires par terre : cela paraît provisoire, mais devient souvent définitif.

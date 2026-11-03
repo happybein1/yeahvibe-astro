@@ -1,53 +1,52 @@
 ---
-title: Amélioration des habitudes
-description: Stratégies efficaces pour créer de nouvelles habitudes et briser les anciennes, fondées sur la bienveillance envers soi-même et la curiosité.
-reading_time: "4 min de lecture"
+title: Améliorer ses habitudes
+description: Des stratégies efficaces pour prendre de nouvelles habitudes et en perdre d'anciennes, avec bienveillance et curiosité envers soi-même.
+reading_time: "4 min"
 sidebar:
   order: 1
 ---
 
+Changer ses habitudes et sa façon de faire peut être difficile, mais les bonnes stratégies augmentent nettement vos chances de réussir.
 
-Changer d'habitudes et améliorer ses processus peut être difficile, mais adopter les bonnes stratégies augmente considérablement vos chances de succès.
+## Entretenir une motivation solide
 
-## Cultiver et maintenir une forte motivation
+La motivation aide à passer le cap inconfortable du début. Pour rester motivé :
 
-La motivation est essentielle pour naviguer dans l'inconfort initial de la formation de nouvelles habitudes. Pour rester motivé :
+- Comprenez le sens profond du changement : *pourquoi* compte-t-il pour vous ?
+- Découpez vos objectifs en petites étapes faisables, pour sentir que vous avancez
+- Fêtez les petites victoires pour garder l'élan
 
-- Comprenez votre objectif plus profond — *pourquoi* ce changement est-il important ?
-- Décomposez les objectifs en étapes plus petites et réalisables pour créer un sentiment de progrès
-- Célébrez les petites victoires pour renforcer l'élan
+## Ne pas se blâmer, être bienveillant envers soi
 
-## Éviter la culpabilité et cultiver la bienveillance envers soi-même
+Se blâmer ou lutter contre ses habitudes actuelles fait souvent baisser la motivation, et rend le changement encore plus dur. Vos habitudes ne sont pas entièrement de votre faute : elles ont été façonnées par votre histoire, votre environnement et votre éducation.
 
-Se blâmer ou lutter contre ses habitudes actuelles diminue souvent la motivation, rendant le changement encore plus difficile. Vos habitudes ne sont pas entièrement de votre faute — elles sont façonnées par des expériences passées, l'environnement et l'éducation.
+En acceptant vos habitudes et en reconnaissant vos limites, vous posez une base pour un changement positif et durable. La bienveillance envers soi n'est pas une faiblesse : c'est l'alternative durable aux cycles de honte, qui donnent rarement des résultats qui tiennent.
 
-En acceptant vos habitudes et en reconnaissant vos limites, vous créez une base pour un changement positif et durable. La bienveillance envers soi-même n'est pas une faiblesse ; c'est l'alternative durable aux cycles honteux qui produisent rarement des résultats durables.
+## Être attentif et curieux de soi
 
-## Être attentif et curieux à votre égard
+Les mauvaises habitudes naissent souvent comme une façon de faire face à quelque chose de négatif. Observez vos habitudes avec curiosité et attention. Quand vous vous surprenez à reproduire une habitude que vous voulez changer, prenez un instant pour chercher ce qui la déclenche.
 
-Les mauvaises habitudes sont souvent formées comme mécanismes d'adaptation à quelque chose de négatif. Approchez vos habitudes avec curiosité et pleine conscience. Lorsque vous vous surprenez à adopter une habitude que vous souhaitez changer, prenez un moment pour explorer ce qui motive ce comportement.
+Parfois, repérer la cause suffit pour commencer à changer. Les causes fréquentes sont le stress, l'ennui, la solitude ou le besoin d'éviter un inconfort.
 
-Parfois, simplement identifier la cause sous-jacente suffit à amorcer des changements positifs. Les déclencheurs courants incluent le stress, l'ennui, la solitude ou l'évitement de l'inconfort.
+## Aménager son environnement
 
-## Tirer parti de la conception environnementale
+Votre environnement influence votre comportement plus que la volonté. Rendez les bons comportements plus faciles :
 
-Votre environnement façonne votre comportement plus que la volonté. Facilitez les comportements souhaités en :
+- Placez des rappels pour les bonnes habitudes à des endroits visibles et pratiques
+- Supprimez les obstacles aux actions que vous voulez faire plus souvent
+- Ajoutez des obstacles aux habitudes que vous voulez réduire
+- Organisez votre espace pour que le bon choix soit le choix par défaut
 
-- Plaçant les signaux de bonnes habitudes dans des endroits visibles et pratiques
-- Réduisant les frictions pour les actions que vous voulez faire davantage
-- Augmentant les frictions pour les habitudes que vous souhaitez réduire
-- Concevant votre espace pour que le bon choix soit le choix par défaut
+## Accrocher une habitude à une autre
 
-## Utiliser l'empilement d'habitudes
+Accrochez une nouvelle habitude à une habitude existante : « Après [habitude existante], je ferai [nouvelle habitude]. » Vous vous appuyez ainsi sur des automatismes déjà en place.
 
-Associez de nouvelles habitudes à des habitudes existantes. Après [habitude existante], je ferai [nouvelle habitude]. Cela tire parti de voies neuronales déjà établies pour ancrer de nouveaux comportements.
+**Exemple** : après avoir préparé mon café du matin, j'écris trois choses pour lesquelles je suis reconnaissant.
 
-**Exemple** : Après avoir préparé mon café du matin, j'écrirai trois choses pour lesquelles je suis reconnaissant.
+## Noter et faire le point
 
-## Suivre et réviser
+Tenez un petit journal de vos essais. Noter rend attentif et crée un léger engagement. Chaque semaine, faites le point : ce qui a marché, ce qui n'a pas marché, et ce que vous voulez ajuster.
 
-Tenez un journal simple de vos tentatives d'habitudes. Le suivi crée de la conscience et une légère responsabilisation. Révisez chaque semaine : ce qui a fonctionné, ce qui n'a pas fonctionné, et ce que vous souhaitez ajuster.
+## Être patient
 
-## Être patient avec le délai
-
-Les habitudes prennent du temps à se former — généralement plus longtemps que la sagesse populaire ne le suggère. Attendez-vous à des revers. Un jour manqué n'est pas un échec ; revenir à l'habitude après un revers est ce qui compte.
+Une habitude met du temps à s'installer, en général plus longtemps qu'on ne le dit. Attendez-vous à des rechutes. Un jour manqué n'est pas un échec : ce qui compte, c'est de reprendre l'habitude après.

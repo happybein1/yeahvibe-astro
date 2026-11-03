@@ -1,43 +1,44 @@
 ---
-title: Principes de collaboration
-description: Les principes fondamentaux pour travailler efficacement avec les autres et construire des environnements collaboratifs performants.
-reading_time: "4 min de lecture"
+title: Bien travailler avec les autres
+description: Les principes clés pour bien travailler avec les autres et créer des équipes où la collaboration fonctionne.
+reading_time: "4 min"
 sidebar:
   order: 1
 ---
 
+Une bonne collaboration n'arrive pas par hasard. Elle naît de pratiques choisies, de règles partagées et des bonnes conditions. Ces principes valent aussi bien pour une petite équipe que pour une grande organisation ou un groupe qui réunit plusieurs métiers.
 
-Une collaboration efficace n'est pas accidentelle. Elle émerge de pratiques délibérées, de normes partagées et des bonnes conditions. Ces principes s'appliquent aux petites équipes, aux grandes organisations et aux groupes transfonctionnels.
+## Les principes de base
 
-## Principes fondamentaux
+### Un but commun
+La collaboration fonctionne le mieux quand chacun comprend *pourquoi* on travaille ensemble, et partage ce but. Un but commun clair et motivant réduit les conflits, donne envie de s'investir et facilite la coordination.
 
-### Objectif partagé
-La collaboration est plus efficace quand tout le monde comprend et est aligné sur le *pourquoi* de leur travail ensemble. Un objectif partagé clair et convaincant réduit les conflits, motive l'effort et facilite la coordination.
+Avant de parler du comment, assurez-vous que l'équipe est d'accord sur le quoi et le pourquoi.
 
-### Sécurité psychologique
-Les gens contribuent leur meilleure réflexion seulement quand ils se sentent en sécurité pour le faire — en sécurité pour partager des idées, poser des questions, être en désaccord et admettre des erreurs sans crainte de jugement ou de punition.
+### La sécurité psychologique
+On ne donne le meilleur de sa réflexion que lorsqu'on se sent en sécurité : libre de partager ses idées, de poser des questions, d'exprimer un désaccord et de reconnaître ses erreurs sans craindre d'être jugé ou puni.
 
-La sécurité psychologique n'est pas la même chose que le confort. Elle signifie que l'équipe peut s'engager honnêtement avec des sujets et des défis difficiles.
+La sécurité psychologique n'est pas le confort. Elle signifie que l'équipe peut aborder honnêtement les sujets difficiles, pas que tout est toujours agréable.
 
-### Rôles et responsabilités clairs
-L'ambiguïté sur qui est responsable de quoi crée des doublons, des lacunes et des frictions. Des rôles clairs ne signifient pas des silos rigides — ils signifient que chacun sait ce qu'il possède et à qui s'adresser pour quoi.
+### Des rôles et des responsabilités clairs
+Quand on ne sait pas qui est responsable de quoi, il y a des doublons, des oublis et des frictions. Des rôles clairs ne veulent pas dire des cases rigides : chacun sait de quoi il s'occupe et à qui s'adresser pour quoi.
 
-### Communication transparente
-Les informations partagées ouvertement réduisent les silos, permettent de meilleures décisions et renforcent la confiance. Documentez les décisions et les raisonnements pour qu'ils soient accessibles à tous.
+### Une communication transparente
+L'information partagée ouvertement évite les cloisonnements, permet de meilleures décisions et crée la confiance. Par défaut, partagez plutôt que de garder pour vous. Notez les décisions et leurs raisons, pour que toutes les personnes concernées puissent y accéder.
 
-### Conflit constructif
-Le désaccord, bien géré, améliore les résultats. Les équipes qui ne sont jamais en désaccord soit ne réfléchissent pas assez sérieusement, soit ne se sentent pas en sécurité pour exprimer leurs préoccupations.
+### Des désaccords constructifs
+Un désaccord bien géré améliore les résultats. Une équipe qui n'est jamais en désaccord soit ne réfléchit pas assez, soit ne se sent pas assez en sécurité pour exprimer ses doutes. Le but est d'être en désaccord sur les idées, pas sur les personnes.
 
-## Habitudes pratiques de collaboration
+## Des habitudes concrètes
 
-- **Discipline des réunions** : Ordre du jour clair, bonnes personnes dans la salle, résultats définis, décisions documentées.
-- **Asynchrone par défaut** : Quand le synchrone n'est pas nécessaire, la communication asynchrone respecte le temps de chacun.
-- **Culture du retour** : Des retours réguliers, spécifiques, constructifs — positifs et de développement — maintiennent les équipes en progression.
-- **Célébrer les victoires collectives** : Attribuer le succès à l'équipe, pas seulement aux individus.
+- **Des réunions bien tenues** : un ordre du jour clair, les bonnes personnes, des résultats définis, des décisions notées.
+- **L'écrit par défaut** : quand il n'est pas nécessaire d'être ensemble au même moment, échanger par écrit respecte le temps de chacun et laisse une trace.
+- **Une culture du retour** : des retours réguliers, précis et constructifs, positifs comme d'amélioration, font progresser l'équipe.
+- **Fêter les réussites collectives** : attribuez le succès à l'équipe, pas seulement à quelques personnes.
 
-## Échecs courants de collaboration
+## Les échecs courants
 
-- **Effet HiPPO** (Opinion de la personne la mieux payée) : Laisser l'ancienneté supplanter les preuves.
-- **Théâtre des réunions** : Beaucoup de réunions, peu de décisions.
-- **Information en silos** : Les équipes qui ne partagent pas les connaissances accumulent les angles morts.
-- **Accord passif** : Les gens disent oui en réunion et rien ne se passe ensuite.
+- **L'avis du plus gradé** : laisser la hiérarchie l'emporter sur les faits.
+- **Le théâtre des réunions** : beaucoup de réunions, peu de décisions.
+- **L'information cloisonnée** : des équipes qui ne partagent pas ce qu'elles savent cumulent leurs angles morts.
+- **L'accord de façade** : tout le monde dit oui en réunion, et rien ne se passe ensuite.

@@ -4,6 +4,18 @@ Started 2026-10-13. Earlier versions (up to 1.7.1) were only tracked in `src/ver
 
 ---
 
+## 2.23.0
+
+**The whole site in French, translated fresh from the current English** (owner, 2026-11-02: "could you work on translating yeahcore to french? i guess first all the pages and text" → three tone samples (home, "Je tourne en rond", "Stress et surcharge") → "yes go ahead").
+- All 46 pages under `src/content/docs/fr/` rewritten from the current English (the old French was from before the 2.x rework): home with the six situations, the 6 situation pages (`fr/help/*.mdx`, new), all guides including the 6 that had no French yet (stress, connection, money, why we feel, when a discussion turns into a fight, how your organisation makes money), the 4 pillars, All guides, Welcome, Advised Tools and the 4 About pages.
+- Tone: "vous", short plain sentences, as on happybein.com/fr. No "·e" inclusive spelling: the situations use neutral wording ("Tout me déborde", "Je suis à plat ou je dors mal", "La solitude me pèse, ou c'est dur avec les autres").
+- No Listen buttons or podcast players on French pages yet: the podcasts are English only (French recordings come later with the Kyutai voices). The French home shows the French YeahCore video (Sam's voice).
+- About/How it works and User flow (French): the old "the page is read aloud in your language" button no longer exists, so the French text says the podcasts are in English for now. The English pages still describe the old button.
+- The two old French-only pages (`core-drivers-of-feelings`, `generic-primary-goal-breakdown`, merged into Find Your Direction in English in 2.19.0) removed and redirected (`public/_redirects`).
+- French menu labels in `astro.config.mjs` match the new page titles (e.g. "📚 Tous les guides", "Impact ou effort", "Où passe votre temps"); French home title "Ce dont chacun a besoin, et comment décider".
+
+**Verification:** site builds in a scratch copy (46 French pages); every internal link on the French pages resolves, and none points to an English page; phone-width screenshots.
+
 ## 2.22.3
 
 **"Start Here" becomes "All guides"** (owner, 2026-11-02: "is the start here page still needed?" → recommendation: keep it as the full list, rename, drop the duplicated situations → "makes sense").

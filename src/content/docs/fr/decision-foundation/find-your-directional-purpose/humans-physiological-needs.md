@@ -1,45 +1,60 @@
 ---
 title: Les besoins humains
-description: Les besoins humains fondamentaux qui sous-tendent toute prise de décision efficace et tout bien-être.
-reading_time: "4 min de lecture"
+description: Les besoins humains fondamentaux sur lesquels reposent les bonnes décisions et le bien-être.
+reading_time: "4 min"
 sidebar:
   order: 3
 ---
 
-À la base de tous les objectifs et décisions se trouvent des besoins humains universels. Quand ces besoins ne sont pas satisfaits, tout le reste — productivité, créativité, relations et jugement — en souffre.
+À la base de tous les objectifs et de toutes les décisions se trouvent des besoins humains universels. Quand ils ne sont pas satisfaits, tout le reste en souffre : la productivité, la créativité, les relations et le jugement. Quand ils le sont, tout le reste devient possible.
 
 ## Les besoins fondamentaux
 
-### 1. Santé physique et énergie
-Le sommeil, la nutrition, le mouvement et le repos ne sont pas des luxes — ce sont des prérequis au fonctionnement efficace. Les décisions prises par des personnes épuisées, mal nourries ou sédentaires sont systématiquement moins bonnes.
+### 1. La santé physique et l'énergie
+Le sommeil, l'alimentation, le mouvement et le repos ne sont pas des luxes : ce sont les conditions pour bien fonctionner. Les décisions prises par des personnes épuisées, mal nourries ou sédentaires sont nettement moins bonnes que celles prises en bonne forme physique.
 
-**Pratiques clés :**
-- Prioriser le sommeil (7 à 9 heures pour la plupart des adultes)
-- Manger des repas réguliers et nutritifs
-- Intégrer le mouvement physique dans la routine quotidienne
-- Se reposer délibérément, pas seulement quand on est épuisé
+**À privilégier :**
+- Donner la priorité au sommeil (7 à 9 heures pour la plupart des adultes)
+- Prendre des repas réguliers et nourrissants
+- Intégrer le mouvement dans la journée
+- Se reposer exprès, pas seulement quand on est épuisé
 
-### 2. Sécurité et protection
-Les gens ne peuvent pas penser clairement quand ils se sentent menacés — physiquement, financièrement ou socialement. La sécurité est un prérequis à la planification à long terme et à la prise de risques.
+Voir aussi : [Bien dormir](/fr/personal-effectiveness/sleeping-well/)
 
-### 3. Connexion sociale
-Les humains sont fondamentalement sociaux. L'isolement dégrade la santé mentale, le jugement et la motivation. Des relations solides ne sont pas un luxe — elles sont une nécessité physiologique pour un bien-être soutenu.
+### 2. La sécurité
+On ne peut pas penser clairement quand on se sent menacé, physiquement, financièrement ou socialement. La sécurité est une condition pour faire des projets à long terme et oser prendre des risques.
 
-### 4. Autonomie
-La capacité de faire des choix significatifs sur sa propre vie est profondément liée au bien-être. Le manque chronique d'autonomie génère une impuissance apprise et un désengagement.
+**À garder en tête :**
+- La stabilité financière réduit le stress chronique et améliore les décisions
+- La sécurité physique permet la concentration et la créativité
+- Dans une équipe, la sécurité psychologique permet de parler franchement
 
-**Considérations clés :**
-- Identifiez où vous avez de vrais choix et exercez-les consciemment
+### 3. Le lien avec les autres
+L'être humain est profondément social. L'isolement abîme la santé mentale, le jugement et la motivation. Des relations solides ne sont pas un plus : c'est un besoin vital pour un bien-être durable.
+
+**À privilégier :**
+- Prendre soin exprès de ses relations proches
+- Construire des communautés de confiance et d'entraide
+- Voir l'isolement comme un facteur de risque, pas seulement comme une préférence
+
+### 4. L'autonomie
+Pouvoir faire de vrais choix sur sa propre vie est étroitement lié au bien-être. Un manque d'autonomie qui dure, au travail, dans les relations ou au quotidien, mène au découragement et au désengagement.
+
+**À garder en tête :**
+- Repérez là où vous avez vraiment le choix, et exercez-le consciemment
+- Là où votre autonomie est limitée, cherchez à comprendre pourquoi, et si elle peut s'élargir
 - Soutenez l'autonomie des autres autant que la vôtre
 
-### 5. Sens et objectif
-Les gens ont besoin de sentir que leur vie et leurs actions ont de l'importance. Sans sens, même les vies confortables semblent vides.
+### 5. Le sens
+Chacun a besoin de sentir que sa vie et ses actes comptent. Sans sens, même une vie confortable paraît vide. Le sens, c'est ce qui relie les actions de tous les jours à quelque chose de plus grand.
 
-**Pratiques clés :**
-- Réfléchissez régulièrement à ce que vous valorisez le plus
-- Connectez les tâches quotidiennes à des objectifs plus larges
-- Contribuez à quelque chose au-delà du bénéfice personnel
+**À privilégier :**
+- Réfléchir régulièrement à ce qui compte le plus pour vous
+- Relier les tâches du quotidien à des buts plus larges
+- Contribuer à quelque chose qui dépasse votre propre intérêt
 
 ## Utiliser ce cadre
 
-Ces besoins forment un prisme pour évaluer les décisions. Avant de s'engager dans un plan majeur, demandez-vous s'il sert ou compromet ces besoins fondamentaux — pour vous-même et pour ceux affectés par la décision.
+Ces besoins forment une grille pour évaluer les décisions. Avant de vous engager dans un grand projet, demandez-vous s'il nourrit ou abîme ces besoins fondamentaux, pour vous et pour les personnes concernées.
+
+Un plan qui semble efficace sur le papier mais qui abîme le sommeil, l'autonomie ou les liens n'est pas vraiment efficace. Il emprunte à l'avenir.

@@ -1,54 +1,57 @@
 ---
 title: Clarté et alignement
-description: Comment définir clairement des objectifs, combiner des plans pour plus d'efficacité et déléguer efficacement.
-reading_time: "4 min de lecture"
+description: Comment définir clairement ses objectifs, regrouper ses plans pour gagner en efficacité, et bien déléguer.
+reading_time: "4 min"
 sidebar:
   order: 3
 ---
 
+Face à des options trop nombreuses ou trop complexes, difficiles à comparer, il faut une stratégie. Dans ces situations, l'essentiel est de :
 
-Face à trop d'options ou à des options trop complexes difficiles à comparer, la stratégie devient cruciale. Dans de telles situations, il est essentiel de :
-
-- **Clarifier les objectifs** : Définir et aligner clairement vos objectifs pour maintenir le cap et s'assurer que les priorités reflètent votre objectif global.
-- **Combiner les plans pour une plus grande efficacité** : Chercher des opportunités de consolider des plans similaires ou complémentaires, réduire les redondances et rationaliser les efforts.
-- **Déléguer efficacement** : Confier des tâches à d'autres lorsque cela est pertinent, en tirant parti des forces et des ressources pour améliorer l'efficacité globale.
+- **Clarifier les objectifs** : définir et aligner clairement vos objectifs, pour garder le cap et faire en sorte que vos priorités reflètent votre but d'ensemble.
+- **Regrouper les plans pour gagner en efficacité** : chercher à réunir les plans semblables ou complémentaires, pour éviter les doublons et simplifier les efforts.
+- **Bien déléguer** : confier des tâches à d'autres quand c'est pertinent, en s'appuyant sur les forces et les moyens de chacun.
 
 ## Clarifier les objectifs
 
 Des objectifs clairement définis apportent :
 
-- **Une meilleure concentration** : Facilite la priorisation en identifiant clairement ce qui compte le plus.
-- **L'alignement** : Aide à intégrer les plans avec les stratégies globales et adjacentes.
-- **La facilité de délégation** : Simplifie l'attribution des tâches en délimitant clairement leur but et leur périmètre.
+- **Plus de concentration** : on priorise plus facilement quand on sait ce qui compte le plus.
+- **De l'alignement** : les plans s'intègrent mieux à la stratégie d'ensemble et aux stratégies voisines.
+- **Une délégation plus simple** : confier une tâche est plus facile quand son but et son périmètre sont clairs.
 
-### Éléments clés d'un énoncé d'objectif de haut niveau
+### Les éléments d'un bon énoncé d'objectif
 
-Un énoncé d'objectif solide doit aborder les horizons temporels pertinents (court, moyen, long terme) et inclure :
+Un bon énoncé d'objectif tient compte des horizons pertinents (court, moyen et long terme) et comprend :
 
-1. **Périmètre et résultat attendu** : Ce que le plan englobe, ce qu'il vise à accomplir, et les jalons si applicable.
-2. **Méthode ou stratégie** : L'approche appliquée pour atteindre les objectifs.
+1. **Le périmètre et le résultat attendu** : ce que couvre le plan, ce qu'il vise, et les dates des étapes si besoin.
+2. **La méthode ou la stratégie** : l'approche choisie pour atteindre les objectifs.
 
-### Termes d'objectifs organisationnels courants
+Le niveau de détail dépend du public :
+- **Usage interne** : détaillé et précis, dans le cadre d'un plan stratégique complet.
+- **Communication externe** : général et concis, centré sur le message le plus utile.
 
-- **Vision** : La destination aspirationnelle à long terme.
-- **Mission** : L'objet et l'activité principale de l'organisation.
-- **Stratégie** : L'approche pour atteindre la vision.
-- **Objectifs** : Les résultats spécifiques et mesurables soutenant la stratégie.
-- **KPIs** : Les indicateurs clés de performance utilisés pour suivre les progrès.
+### Les termes courants dans les organisations
 
-## Combiner les plans
+- **Vision** : la destination rêvée, à long terme.
+- **Mission** : la raison d'être et l'activité principale de l'organisation.
+- **Stratégie** : la façon d'atteindre la vision.
+- **Objectifs** : des résultats précis et mesurables au service de la stratégie.
+- **Indicateurs clés (KPI)** : les mesures utilisées pour suivre les progrès.
 
-Lorsque plusieurs plans partagent des ressources, des délais ou des résultats, les combiner réduit la charge et crée des synergies. Demandez-vous :
+## Regrouper les plans
 
-- Ces plans partagent-ils une équipe, un outil ou un processus ?
-- L'accomplissement de l'un peut-il permettre ou accélérer l'autre ?
-- Y a-t-il des efforts redondants qui pourraient être éliminés ?
+Quand plusieurs plans partagent des moyens, un calendrier ou des résultats, les regrouper réduit le travail en double et crée des synergies. Demandez-vous :
 
-## Délégation efficace
+- Ces plans partagent-ils une équipe, un outil ou une façon de faire ?
+- Terminer l'un peut-il permettre ou accélérer l'autre ?
+- Y a-t-il des efforts en double que l'on pourrait supprimer ?
 
-Déléguer n'est pas se décharger — c'est un choix stratégique. Une délégation efficace nécessite :
+## Bien déléguer
 
-- Communiquer clairement l'objectif et le résultat attendu.
-- Associer la tâche aux compétences et à la capacité de la personne.
-- Définir des points de contrôle sans microgestion.
-- Fournir l'autorité et les ressources nécessaires pour réussir.
+Déléguer, ce n'est pas se débarrasser d'une tâche : c'est un choix stratégique. Pour bien déléguer :
+
+- Expliquez clairement le but et le résultat attendu.
+- Confiez la tâche à quelqu'un qui a les compétences et le temps.
+- Prévoyez des points d'étape, sans tout contrôler.
+- Donnez l'autorité et les moyens nécessaires pour réussir.

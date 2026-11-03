@@ -1,47 +1,50 @@
 ---
-title: État d'esprit de croissance
-description: Comment développer un état d'esprit de croissance et pourquoi il est fondamental à l'efficacité à long terme et à l'apprentissage.
-reading_time: "4 min de lecture"
+title: L'état d'esprit de croissance
+description: Comment développer un état d'esprit de croissance, et pourquoi il est la base de l'efficacité et de l'apprentissage sur la durée.
+reading_time: "4 min"
 sidebar:
   order: 2
 ---
 
+Un état d'esprit de croissance, c'est la conviction que les capacités et l'intelligence peuvent se développer par l'engagement, l'effort et l'apprentissage. Il s'oppose à un état d'esprit figé, qui voit les qualités comme innées et immuables.
 
-Un état d'esprit de croissance est la croyance que les capacités et l'intelligence peuvent être développées grâce au dévouement, à l'effort et à l'apprentissage. Il contraste avec un état d'esprit figé, qui traite les qualités comme innées et immuables.
-
-## La distinction fondamentale
+## La différence essentielle
 
 | État d'esprit figé | État d'esprit de croissance |
 |---|---|
-| L'intelligence est statique | L'intelligence peut grandir |
-| Évite les défis | Embrasse les défis |
-| Abandonne face aux obstacles | Persiste malgré les difficultés |
+| L'intelligence est fixe | L'intelligence peut grandir |
+| Évite les défis | Accueille les défis |
+| Abandonne face aux obstacles | Persévère dans la difficulté |
 | Voit l'effort comme inutile | Voit l'effort comme le chemin vers la maîtrise |
-| Ignore les retours critiques | Apprend des critiques |
-| Menacé par le succès des autres | Inspiré par le succès des autres |
+| Ignore les critiques | Apprend des critiques |
+| Se sent menacé par la réussite des autres | Est inspiré par la réussite des autres |
 
-## Pourquoi cela importe pour la prise de décision
+## Pourquoi c'est important pour décider
 
 Un état d'esprit de croissance améliore directement la qualité des décisions :
 
-- Vous êtes plus disposé à vous fixer des objectifs ambitieux car l'échec est vu comme de l'information, pas un jugement.
-- Vous sollicitez plus facilement des retours, ce qui améliore la qualité de vos plans.
-- Vous persistez plus longtemps quand les choses deviennent difficiles.
-- Vous restez curieux, ce qui vous rend plus adaptable lorsque les circonstances changent.
+- Vous osez des objectifs ambitieux, parce que l'échec devient une information et non un jugement.
+- Vous demandez plus facilement des retours, ce qui améliore vos plans.
+- Vous tenez plus longtemps quand c'est difficile, ce qui augmente vos chances d'atteindre des objectifs complexes.
+- Vous restez curieux, ce qui vous rend plus adaptable quand les circonstances changent.
 
-## Comment cultiver un état d'esprit de croissance
+## Comment le cultiver
 
-### Recadrer l'échec comme information
-Quand quelque chose ne fonctionne pas, demandez-vous : *Qu'ai-je appris ?* plutôt que *Qu'est-ce que cela dit de moi ?*
+### Voir l'échec comme une information
+Quand quelque chose ne marche pas, demandez-vous : *qu'est-ce que j'ai appris ?* plutôt que *qu'est-ce que cela dit de moi ?* Les échecs contiennent les informations les plus utiles pour progresser.
 
-### Embrasser le mot « encore »
-« Je ne peux pas faire ça » devient « Je ne peux pas faire ça *encore* ». Ce simple changement ouvre des possibilités au lieu de les fermer.
+### Adopter le mot « encore »
+« Je n'y arrive pas » devient « Je n'y arrive pas *encore* ». Ce petit changement ouvre des possibilités au lieu de les fermer.
 
-### Se concentrer sur le processus, pas seulement sur le résultat
-Célébrez l'effort, la stratégie et l'apprentissage — pas seulement le résultat. Les éloges centrés sur le processus construisent un état d'esprit de croissance.
+### Regarder le chemin, pas seulement le résultat
+Saluez l'effort, la méthode et ce qui a été appris, pas seulement le résultat. Valoriser le chemin nourrit l'état d'esprit de croissance ; ne valoriser que le résultat renforce l'état d'esprit figé.
 
-### Rechercher délibérément la difficulté
-Le confort est l'ennemi de la croissance. Mettez-vous régulièrement dans des situations où vous n'êtes pas encore compétent. La lutte est le signal que l'apprentissage se produit.
+### Chercher la difficulté exprès
+Le confort est l'ennemi de la croissance. Mettez-vous régulièrement dans des situations où vous n'êtes pas encore à l'aise. La difficulté est le signe que vous apprenez.
 
-### S'entourer de personnes à l'esprit de croissance
-Les états d'esprit sont socialement contagieux. Les environnements qui normalisent l'apprentissage, l'échec et l'amélioration renforcent une orientation vers la croissance.
+### S'entourer de personnes qui aiment apprendre
+Les états d'esprit se transmettent. Un entourage où apprendre, échouer et progresser est normal renforce l'envie de grandir.
+
+## Au quotidien
+
+L'état d'esprit de croissance n'est pas un point d'arrivée, c'est une pratique de tous les jours. Attendez-vous à des moments où l'état d'esprit figé revient, surtout sous le stress ou le regard des autres. Remarquez-le, nommez-le, et choisissez la réponse qui vous fait grandir.

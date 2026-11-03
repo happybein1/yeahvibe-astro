@@ -1,49 +1,58 @@
 ---
-title: Priorisation indépendante
-description: Stratégies pour prioriser les objectifs et les actions en fonction de l'impact par rapport à l'effort, et gérer les priorités urgentes.
-reading_time: "4 min de lecture"
+title: Impact ou effort
+description: Des stratégies pour prioriser objectifs et actions selon leur impact et l'effort qu'ils demandent, et gérer ce qui est urgent.
+reading_time: "4 min"
 sidebar:
   order: 2
 ---
 
+## Les bases pour prioriser et planifier
 
-## Stratégies de base de priorisation et de planification
+Prioriser et planifier sont des étapes essentielles pour atteindre des objectifs complexes. Cela permet de mieux diriger ses efforts, d'avoir le plus d'impact possible et de bien répartir ses moyens.
 
-La priorisation et la planification sont des étapes fondamentales pour atteindre efficacement des objectifs complexes. Elles aident à rationaliser les efforts, maximiser l'impact et garantir une allocation efficace des ressources.
+### Comparer l'impact et la facilité
 
-### Prioriser l'impact par rapport à la facilité
+Les personnes comme les organisations cherchent naturellement à créer le plus de valeur possible, pour elles et pour les autres, dans la durée. Une valeur qui n'est pas seulement financière, mais touche tous les aspects du bien-être.
 
-Les personnes et les organisations cherchent naturellement à générer le plus de valeur possible pour elles-mêmes et pour les autres — une valeur qui englobe non seulement les gains financiers, mais tous les aspects du bien-être.
+Une façon simple de prioriser consiste à comparer **l'impact et l'effort**. Le rapport entre l'impact et l'effort représente « l'efficacité » d'un objectif ou d'une action. Avec des moyens limités, on crée le plus de valeur en se concentrant sur ce qui apporte le plus d'impact pour le moins d'effort.
 
-Une approche de base de la priorisation consiste à évaluer **l'impact par rapport à l'effort**. Le ratio impact/effort représente l'« efficience » d'un objectif ou d'une action. Avec des ressources limitées, la plus grande valeur est créée en se concentrant sur les objectifs qui offrent le plus grand impact pour le moins d'effort.
+On traite en général objectifs et actions ainsi :
 
-Les objectifs et actions sont généralement traités comme suit :
-
-| Priorité | Impact | Difficulté | Action |
+| Priorité | Impact | Difficulté | Que faire |
 |---|---|---|---|
-| Première | Élevé | Faible | Faire en premier |
-| Deuxième | Élevé | Élevé | Planifier et décomposer en jalons |
-| Troisième | Faible | Faible | Traiter quand le temps le permet |
-| La plus basse | Faible | Élevé | Déprioritiser |
+| Première | Fort | Faible | À faire en premier |
+| Deuxième | Fort | Forte | À planifier et découper en étapes |
+| Troisième | Faible | Faible | Quand le temps le permet |
+| Dernière | Faible | Forte | À laisser de côté |
 
-**Le principe de Pareto (règle des 80/20)** : Un nombre relativement petit de causes ou d'efforts conduit souvent à la majorité des résultats. Utilisez ceci comme sous-stratégie pour identifier les actions à fort impact parmi un ensemble plus large.
+**Le principe de Pareto (règle des 80/20)** : un petit nombre de causes ou d'efforts produit souvent la majorité des résultats. Servez-vous-en pour repérer, dans une longue liste, les actions qui ont le plus d'impact.
 
-**Limites** : La méthode impact/facilité ne tient pas compte de l'urgence et peut avoir du mal à différencier des options avec des ratios d'efficience similaires.
+**Les limites** : comparer impact et facilité ne tient pas compte de l'urgence, et aide peu à départager des options d'efficacité semblable.
 
-### Priorisation basée sur le temps
+### Prioriser selon le temps
 
-Lorsque le timing est important, l'urgence devient un facteur clé. Considérez :
+Quand le moment compte, l'urgence devient un critère clé :
 
-- **Urgent et important** : Traiter immédiatement.
-- **Important mais pas urgent** : Planifier délibérément.
-- **Urgent mais pas important** : Déléguer si possible.
-- **Ni urgent ni important** : Abandonner ou reporter.
+- **Urgent et important** : à traiter tout de suite.
+- **Important mais pas urgent** : à planifier exprès.
+- **Urgent mais pas important** : à déléguer si possible.
+- **Ni urgent ni important** : à abandonner ou à remettre à plus tard.
 
-## Stratégies de planification
+## Planifier
 
-Une fois les priorités établies, une planification efficace garantit l'exécution :
+Une fois les priorités fixées, une bonne planification permet de passer à l'action :
 
-1. **Définir des jalons clairs** : Décomposer les grands objectifs en points de contrôle mesurables.
-2. **Établir des calendriers réalistes** : Tenir compte de l'effort, des dépendances et des risques.
-3. **Allouer les ressources** : Associer les bonnes personnes et les bons outils à chaque tâche.
-4. **Intégrer des points de révision** : Des bilans réguliers permettent de corriger le tir avant que les problèmes ne s'amplifient.
+1. **Fixez des étapes claires** : découpez les grands objectifs en points de contrôle mesurables.
+2. **Prévoyez des délais réalistes** : tenez compte de l'effort, de ce dont chaque étape dépend, et des risques.
+3. **Répartissez les moyens** : associez les bonnes personnes et les bons outils à chaque tâche.
+4. **Prévoyez des points réguliers** : faire le point souvent permet de corriger la trajectoire avant que les problèmes ne s'accumulent.
+
+## Prioriser et évaluer ensemble
+
+Prioriser marche le mieux avec la méthode [Trouver des idées et les évaluer](/fr/decision-foundation/ideation-assessment/) : évaluez d'abord les options, puis classez-les selon leur efficacité et leur urgence pour savoir où mettre votre énergie.
+
+<div class="yv-next">
+<p class="yv-next-t">Votre prochain pas</p>
+<p><strong>À essayer aujourd'hui :</strong> notez vos options. Donnez à chacune une note de 1 à 5 pour l'impact et pour l'effort. Commencez par celle qui a un fort impact et demande peu d'effort.</p>
+<p class="yv-next-btns"><a class="yv-btn" href="https://intentflow.yeahvibe.com/" target="_blank" rel="noopener">Ouvrir dans IntentFlow</a> <a class="yv-btn yv-btn--ghost" href="/fr/help/decide/">‹ Retour à « Je n'arrive pas à décider »</a></p>
+</div>

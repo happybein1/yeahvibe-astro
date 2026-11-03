@@ -1,53 +1,53 @@
 ---
-title: Activités quotidiennes
-description: Activités et routines quotidiennes pratiques qui construisent le bien-être, l'énergie et l'efficacité dans le temps.
-reading_time: "4 min de lecture"
+title: Activités du quotidien
+description: Des activités et des routines simples, au quotidien, qui construisent peu à peu le bien-être, l'énergie et l'efficacité.
+reading_time: "4 min"
 sidebar:
   order: 1
 ---
 
+De petites actions répétées chaque jour finissent par produire de grands changements. Cette page rassemble des activités concrètes qui soutiennent le bien-être, l'énergie et l'efficacité, classées par thème.
 
-De petites actions quotidiennes cohérentes se cumulent en changements significatifs dans le temps. Cette page rassemble des activités pratiques qui soutiennent le bien-être, l'énergie et l'efficacité.
+## Bien commencer la journée
 
-## Fondations matinales
+Un bon matin donne le ton de la journée. Essayez d'ancrer 2 ou 3 de ces gestes dans une routine du matin régulière :
 
-Un bon matin donne le ton pour la journée. Ancrez 2 à 3 de ces pratiques dans une routine matinale cohérente :
+- **La lumière** : prenez la lumière du jour dans les 30 minutes qui suivent le réveil. Elle cale votre horloge interne et vous rend plus alerte.
+- **Le mouvement** : même 10 à 15 minutes de marche, d'étirements ou de sport réveillent le corps et améliorent l'humeur et la concentration.
+- **L'eau** : buvez un verre d'eau avant le café. Une légère déshydratation gêne la réflexion avant même que vous ayez soif.
+- **L'intention du jour** : revoyez vos 1 à 3 priorités du jour. Qu'est-ce qui doit être fait ? Qu'est-ce qui ferait de cette journée une réussite ?
+- **Peu de téléphone** : évitez de plonger dans vos e-mails ou les réseaux sociaux dès le réveil. Cela donne votre attention aux autres avant que vous ne l'ayez utilisée pour vous.
 
-- **Exposition à la lumière** : Obtenez de la lumière naturelle dans les 30 minutes suivant le réveil. Cela ancre votre rythme circadien et améliore la vigilance.
-- **Mouvement** : Même 10 à 15 minutes de marche, d'étirements ou d'exercice active votre corps et améliore l'humeur et la concentration.
-- **Hydratation** : Buvez un verre d'eau avant le café. Une légère déshydratation nuit à la cognition avant même que vous ne la ressentiez.
-- **Définition des intentions** : Passez en revue vos 1 à 3 priorités du jour. Qu'est-ce qui doit être fait ? Qu'est-ce qui rendrait cette journée réussie ?
-- **Temps limité sur le téléphone** : Évitez de plonger dans les e-mails ou les réseaux sociaux dès le premier instant.
+## Concentration et travail de fond
 
-## Concentration et travail en profondeur
-
-- **Blocs de temps** : Planifiez des blocs ininterrompus pour votre travail le plus exigeant.
-- **Monotâche** : Travaillez sur une chose à la fois. Le multitâche dégrade la qualité et augmente le stress.
-- **La règle des deux minutes** : Si une tâche prend moins de deux minutes, faites-la immédiatement plutôt que de l'ajouter à une liste.
-- **Technique Pomodoro** : Travaillez par intervalles concentrés de 25 minutes avec des pauses de 5 minutes.
+- **Des blocs de temps** : prévoyez des plages sans interruption pour votre travail le plus exigeant. Protégez-les comme un rendez-vous.
+- **Une chose à la fois** : travaillez sur une seule tâche à la fois. Faire plusieurs choses en même temps nuit à la qualité et augmente le stress.
+- **La règle des deux minutes** : si une tâche prend moins de deux minutes, faites-la tout de suite au lieu de l'ajouter à une liste.
+- **La technique Pomodoro** : travaillez 25 minutes concentré, puis faites 5 minutes de pause. Utile pour les tâches difficiles à commencer.
 
 ## Bien-être physique
 
-- **Mouvement régulier** : Visez au moins 30 minutes d'activité modérée par jour — la marche compte.
-- **Cohérence du sommeil** : Allez au lit et réveillez-vous à la même heure tous les jours. Voir [Bien dormir](/fr/personal-effectiveness/sleeping-well).
-- **Repas réguliers** : Manger à heures régulières stabilise l'énergie et l'humeur.
-- **Réduire la position assise prolongée** : Levez-vous ou bougez brièvement toutes les heures si votre travail est sédentaire.
+- **Bouger régulièrement** : visez au moins 30 minutes d'activité modérée par jour. La marche compte.
+- **Des horaires de sommeil réguliers** : couchez-vous et levez-vous à la même heure chaque jour. Voir [Bien dormir](/fr/personal-effectiveness/sleeping-well/).
+- **Des repas réguliers** : manger à heures régulières stabilise l'énergie et l'humeur. Sauter des repas mène souvent à de mauvaises décisions plus tard.
+- **Moins rester assis** : si votre travail est sédentaire, levez-vous ou bougez un peu chaque heure.
 
 ## Santé mentale et émotionnelle
 
-- **Journalisation** : 5 à 10 minutes d'écriture libre ou de réflexion structurée améliorent la clarté, réduisent l'anxiété et développent la conscience de soi.
-- **Pratique de gratitude** : Notez 2 à 3 choses pour lesquelles vous êtes reconnaissant. Simple mais constamment efficace pour changer de perspective.
-- **Pleine conscience/méditation** : Même 5 minutes d'attention calme à la respiration réduit la réactivité au stress dans le temps.
-- **Limites numériques** : Définissez des heures précises pour consulter les e-mails et les réseaux sociaux.
+- **Écrire** : 5 à 10 minutes d'écriture libre ou de réflexion guidée apportent de la clarté, réduisent l'anxiété et aident à mieux se connaître.
+- **La gratitude** : notez 2 ou 3 choses pour lesquelles vous êtes reconnaissant. Simple, mais efficace pour changer d'humeur et de regard.
+- **La pleine conscience ou la méditation** : même 5 minutes d'attention calme à la respiration réduisent avec le temps la réaction au stress.
+- **Des limites numériques** : fixez des moments pour consulter vos e-mails et les réseaux sociaux. Être joignable en permanence morcelle l'attention et augmente le stress.
 
-## Connexion sociale
+## Liens avec les autres
 
-- **Connexion intentionnelle** : Contactez une personne qui vous est chère chaque jour — un message, un appel, une conversation.
-- **Présence totale** : Quand vous êtes avec les autres, soyez vraiment là. Posez le téléphone.
-- **Exprimer la gratitude** : Dites aux gens quand ils ont fait quelque chose que vous appréciez.
+- **Prendre des nouvelles** : chaque jour, contactez une personne à qui vous tenez : un message, un appel, une conversation.
+- **Être vraiment présent** : quand vous êtes avec d'autres, soyez avec eux. Rangez le téléphone.
+- **Dire merci** : dites aux gens quand ils ont fait quelque chose que vous appréciez. Cela ne coûte rien et renforce les relations.
 
-## Soirée et descente en douceur
+## Bien finir la journée
 
-- **Bilan de la journée** : Qu'est-ce qui s'est bien passé ? Que feriez-vous différemment ? Qu'avez-vous besoin de retenir pour demain ?
-- **Préparer le lendemain** : Un plan rapide la veille réduit les frictions matinales.
-- **Se déconnecter des écrans** : Réduisez la lumière vive et les contenus stimulants dans l'heure précédant le coucher.
+- **Faire le point** : qu'est-ce qui s'est bien passé ? Que feriez-vous autrement ? De quoi devez-vous vous souvenir demain ?
+- **Préparer le lendemain** : un petit plan la veille rend le matin plus fluide et évite la fatigue des décisions.
+- **Lâcher les écrans** : réduisez la lumière vive et les contenus stimulants dans l'heure avant le coucher.
+- **Une heure de coucher fixe** : c'est l'habitude de sommeil la plus efficace. Voir [Bien dormir](/fr/personal-effectiveness/sleeping-well/).

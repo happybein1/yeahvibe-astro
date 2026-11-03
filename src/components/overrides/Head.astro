@@ -29,7 +29,7 @@ const siteNameFR = 'YeahCore par HappyBein';
 const rawTitle = entry?.data?.title ?? 'YeahCore';
 const isHome = currentPath === '/' || currentPath === '/fr/' || currentPath === '/fr';
 const seoTitle = isHome
-  ? (isFr ? 'YeahCore — Ce dont les gens ont besoin, et comment décider' : 'YeahCore — What people need, and how to decide')
+  ? (isFr ? 'YeahCore — Ce dont chacun a besoin, et comment décider' : 'YeahCore — What people need, and how to decide')
   : `${rawTitle} | ${isFr ? siteNameFR : siteNameEN}`;
 
 // Meta description — richer default with keywords
