@@ -4,6 +4,14 @@ Started 2026-10-13. Earlier versions (up to 1.7.1) were only tracked in `src/ver
 
 ---
 
+## 2.28.1
+
+**Contact button shows contact@happybein.com** (owner, 2026-11-04: "also include the email adress change"). The footer's "Contact us" button (after "I am not a robot") revealed the owner's personal Gmail address on every page; it now shows contact@happybein.com, the public address used everywhere else. All four languages share this footer.
+
+**Verification:** site builds in a scratch copy; the built pages contain no Gmail address.
+
+---
+
 ## 2.28.0
 
 **YeahCore in Spanish and Dutch** (owner, 2026-11-04: "can you also prepare the written translation of all yeahcore articles and podcasts in spanish?", then "go ahead with dutch préparation as well", then "does it make sense to add the spanish and dutch pages already before the podcast?" → yes, as French did → "go spanish and dutch articles").
