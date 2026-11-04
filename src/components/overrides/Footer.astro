@@ -2,14 +2,20 @@
 import type { Props } from '@astrojs/starlight/props';
 import { SITE_VERSION, SITE_VERSION_DATE, SITE_VERSION_NOTES } from '../../version';
 
-const isFr = Astro.locals.starlightRoute.lang === 'fr';
-const label = isFr ? 'Version' : 'Version';
-const toolsLabel = isFr ? 'Outils YeahVibe ↗' : 'YeahVibe tools ↗';
-const builtWith = isFr ? 'Construit avec' : 'Built with';
-const contactLabel = isFr ? 'Nous contacter' : 'Contact us';
-const checkLabel = isFr ? 'Je ne suis pas un robot' : 'I am not a robot';
-const revealLabel = isFr ? 'Écrivez-nous à :' : 'Write to us at:';
-const instrLabel = isFr ? 'Cochez la case pour afficher notre adresse e-mail.' : 'Tick the box to reveal our email address.';
+// 2.28.0: Spanish and Dutch next to French.
+const L = ({
+  fr: { tools: 'Outils YeahVibe ↗', built: 'Construit avec', contact: 'Nous contacter', check: 'Je ne suis pas un robot', reveal: 'Écrivez-nous à :', instr: 'Cochez la case pour afficher notre adresse e-mail.' },
+  es: { tools: 'Herramientas YeahVibe ↗', built: 'Hecho con', contact: 'Contacto', check: 'No soy un robot', reveal: 'Escríbenos a:', instr: 'Marca la casilla para ver nuestra dirección de correo.' },
+  nl: { tools: 'YeahVibe-tools ↗', built: 'Gemaakt met', contact: 'Contact', check: 'Ik ben geen robot', reveal: 'Schrijf ons op:', instr: 'Vink het vakje aan om ons e-mailadres te zien.' },
+} as Record<string, Record<string, string>>)[Astro.locals.starlightRoute.lang]
+  ?? { tools: 'YeahVibe tools ↗', built: 'Built with', contact: 'Contact us', check: 'I am not a robot', reveal: 'Write to us at:', instr: 'Tick the box to reveal our email address.' };
+const label = 'Version';
+const toolsLabel = L.tools;
+const builtWith = L.built;
+const contactLabel = L.contact;
+const checkLabel = L.check;
+const revealLabel = L.reveal;
+const instrLabel = L.instr;
 ---
 
 <footer class="yv-footer">

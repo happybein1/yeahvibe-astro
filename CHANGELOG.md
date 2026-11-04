@@ -4,6 +4,21 @@ Started 2026-10-13. Earlier versions (up to 1.7.1) were only tracked in `src/ver
 
 ---
 
+## 2.28.0
+
+**YeahCore in Spanish and Dutch** (owner, 2026-11-04: "can you also prepare the written translation of all yeahcore articles and podcasts in spanish?", then "go ahead with dutch préparation as well", then "does it make sense to add the spanish and dutch pages already before the podcast?" → yes, as French did → "go spanish and dutch articles").
+- All 51 pages translated in full, nothing shortened: `src/content/docs/es/` (Spanish, "tú", like happybein.com/es) and `src/content/docs/nl/` (Dutch, "je", like happybein.com/nl). Same file tree and page addresses as English, under `/es/` and `/nl/`.
+- Pages only, no audio yet, the same way French started: no Listen buttons or `audio:` front matter; Radio and YeahSight links are marked "(en inglés)" / "(in het Engels)"; the home tagline says "read", not "read or listen". How it works says the podcasts are in English for now.
+- Home video: Spanish uses the existing Spanish YeahCore video (`introducing-yeahcore.es.mp4`, 1:14); there is no Dutch one, so Dutch shows the English video with the Dutch subtitles turned on (`introducing-yeahcore.en.nl.vtt`).
+- `astro.config.mjs`: `es` and `nl` locales (language menu now English, Français, Español, Nederlands), sitemap locales, and Spanish and Dutch labels for every sidebar entry.
+- `Head.astro`: titles, descriptions, keywords and `og:locale` come from one table per language (was an English/French switch). The language-memory script now knows fr, es and nl; on a first visit to the root, a French, Spanish or Dutch browser goes to its language (the old script saved the language before checking, so this redirect never ran). hreflang: Starlight's own links per language plus x-default; the extra French one this file added is gone (it was a duplicate).
+- `Footer.astro` and `MarkdownContent.astro`: footer labels and "N min read" in Spanish ("de lectura") and Dutch ("lezen").
+- The Spanish and Dutch podcast scripts (32 each) are written but not recorded; they live outside the repo with the drafts.
+
+**Verification:** site builds in a scratch copy: 51 pages in each of the four languages, no broken internal links, one hreflang link per language on each page.
+
+---
+
 ## 2.27.1
 
 **"Essentials" on All guides** (owner, 2026-11-03: the 15-guide program renamed "YeahCore Essentials" in Radio v1.33 → "Should I add Essentials on All guides?" → "yes do so").

@@ -20,32 +20,35 @@ const siteUrl = 'https://yeahcore.happybein.com';
 const currentPath = Astro.url.pathname;
 const currentUrl = new URL(currentPath, siteUrl).toString();
 const ogImage = `${siteUrl}/og-card.png`;
-const isFr = lang === 'fr';
-
-const siteNameEN = 'YeahCore by HappyBein';
-const siteNameFR = 'YeahCore par HappyBein';
+// 2.28.0 (owner, 2026-11-04): Spanish and Dutch join French. One entry per language; English is the fallback.
+const LOC: Record<string, { site: string; home: string; desc: string; kw: string; og: string }> = {
+  en: { site: 'YeahCore by HappyBein', home: 'YeahCore — What people need, and how to decide',
+    desc: 'YeahCore is the HappyBein knowledge base: the human needs and drivers behind what people want, and practical frameworks for better decisions, personal effectiveness, organization and leadership.',
+    kw: 'decision making, human needs, personal effectiveness, productivity, leadership, self improvement, YeahCore, HappyBein, habits, mindset, organization', og: 'en_US' },
+  fr: { site: 'YeahCore par HappyBein', home: 'YeahCore — Ce dont chacun a besoin, et comment décider',
+    desc: 'YeahCore est la base de connaissances de HappyBein : les besoins et moteurs humains derrière ce que veulent les gens, et des cadres pratiques pour mieux décider, l\'efficacité personnelle, l\'organisation et le leadership.',
+    kw: 'prise de décision, besoins humains, efficacité personnelle, productivité, leadership, développement personnel, YeahCore, HappyBein, habitudes, état d\'esprit', og: 'fr_FR' },
+  es: { site: 'YeahCore de HappyBein', home: 'YeahCore — Lo que las personas necesitan, y cómo decidir',
+    desc: 'YeahCore es la base de conocimiento de HappyBein: las necesidades humanas y los motores detrás de lo que la gente quiere, y métodos prácticos para decidir mejor, la eficacia personal, la organización y el liderazgo.',
+    kw: 'toma de decisiones, necesidades humanas, eficacia personal, productividad, liderazgo, desarrollo personal, YeahCore, HappyBein, hábitos, mentalidad', og: 'es_ES' },
+  nl: { site: 'YeahCore van HappyBein', home: 'YeahCore — Wat mensen nodig hebben, en hoe je beslist',
+    desc: 'YeahCore is de kennisbank van HappyBein: de menselijke behoeften en drijfveren achter wat mensen willen, en praktische methoden om beter te beslissen, voor persoonlijke effectiviteit, organiseren en leiderschap.',
+    kw: 'beslissingen nemen, menselijke behoeften, persoonlijke effectiviteit, productiviteit, leiderschap, persoonlijke ontwikkeling, YeahCore, HappyBein, gewoonten, mindset', og: 'nl_NL' },
+};
+const loc = LOC[lang] ?? LOC.en;
 
 // Page title — append site name for SEO unless it's already the homepage
 const rawTitle = entry?.data?.title ?? 'YeahCore';
-const isHome = currentPath === '/' || currentPath === '/fr/' || currentPath === '/fr';
-const seoTitle = isHome
-  ? (isFr ? 'YeahCore — Ce dont chacun a besoin, et comment décider' : 'YeahCore — What people need, and how to decide')
-  : `${rawTitle} | ${isFr ? siteNameFR : siteNameEN}`;
+const basePath = currentPath.replace(/^\/(fr|es|nl)(\/|$)/, '/');
+const isHome = basePath === '/';
+const seoTitle = isHome ? loc.home : `${rawTitle} | ${loc.site}`;
 
 // Meta description — richer default with keywords
-const defaultDescEN = 'YeahCore is the HappyBein knowledge base: the human needs and drivers behind what people want, and practical frameworks for better decisions, personal effectiveness, organization and leadership.';
-const defaultDescFR = 'YeahCore est la base de connaissances de HappyBein : les besoins et moteurs humains derrière ce que veulent les gens, et des cadres pratiques pour mieux décider, l\'efficacité personnelle, l\'organisation et le leadership.';
-const description = entry?.data?.description ?? (isFr ? defaultDescFR : defaultDescEN);
+const description = entry?.data?.description ?? loc.desc;
 
-// Keywords
-const keywordsEN = 'decision making, human needs, personal effectiveness, productivity, leadership, self improvement, YeahCore, HappyBein, habits, mindset, organization';
-const keywordsFR = 'prise de décision, besoins humains, efficacité personnelle, productivité, leadership, développement personnel, YeahCore, HappyBein, habitudes, état d\'esprit';
 
-// Build hreflang URLs
-const enUrl = currentUrl.replace('/fr/', '/').replace(/\/fr$/, '/');
-const frUrl = currentPath.startsWith('/fr')
-  ? currentUrl
-  : `${siteUrl}/fr${currentPath === '/' ? '/' : currentPath}`;
+// x-default hreflang: the English page
+const enUrl = `${siteUrl}${basePath}`;
 ---
 <Default {...Astro.props} />
 
@@ -58,7 +61,7 @@ const frUrl = currentPath.startsWith('/fr')
 <!-- SEO Core -->
 <title>{seoTitle}</title>
 <meta name="description" content={description} />
-<meta name="keywords" content={isFr ? keywordsFR : keywordsEN} />
+<meta name="keywords" content={loc.kw} />
 <meta name="author" content="YeahCore — HappyBein" />
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
 <meta name="theme-color" content="#0e7fbe" />
@@ -67,8 +70,7 @@ const frUrl = currentPath.startsWith('/fr')
 <link rel="canonical" href={currentUrl} />
 
 <!-- Hreflang -->
-<link rel="alternate" hreflang="en" href={enUrl} />
-<link rel="alternate" hreflang="fr" href={frUrl} />
+<!-- 2.28.0: Starlight already adds one hreflang link per language; only x-default is added here. -->
 <link rel="alternate" hreflang="x-default" href={enUrl} />
 
 <!-- Open Graph -->
@@ -80,9 +82,9 @@ const frUrl = currentPath.startsWith('/fr')
 <meta property="og:image:width" content="2400" />
 <meta property="og:image:height" content="1260" />
 <meta property="og:image:alt" content="YeahCore — What people need, and how to decide" />
-<meta property="og:locale" content={isFr ? 'fr_FR' : 'en_US'} />
-<meta property="og:locale:alternate" content={isFr ? 'en_US' : 'fr_FR'} />
-<meta property="og:site_name" content={isFr ? siteNameFR : siteNameEN} />
+<meta property="og:locale" content={loc.og} />
+{Object.values(LOC).filter((x) => x.og !== loc.og).map((x) => <meta property="og:locale:alternate" content={x.og} />)}
+<meta property="og:site_name" content={loc.site} />
 
 <!-- Twitter / X Card -->
 <meta name="twitter:card" content="summary_large_image" />
@@ -167,24 +169,23 @@ const frUrl = currentPath.startsWith('/fr')
 <script>
   (function() {
     const path = window.location.pathname;
-    const onFr = path.startsWith('/fr');
+    // 2.28.0: French, Spanish and Dutch.
+    const m = path.match(/^\/(fr|es|nl)(\/|$)/);
+    const here = m ? m[1] : 'en';
+    let stored = null;
+    try { stored = localStorage.getItem('yv-lang'); } catch (e) {}
 
-    // Always update stored preference to match current page language
-    localStorage.setItem('yv-lang', onFr ? 'fr' : 'en');
-
-    // Auto-redirect only on first visit to root (no stored preference yet)
-    if (path !== '/') return;
-    const stored = localStorage.getItem('yv-lang');
-    // If user explicitly chose English, never redirect
-    if (stored === 'en') return;
-    // First-ever visit: check browser language
-    if (!stored) {
-      const lang = (navigator.language || 'en').toLowerCase();
-      if (lang.startsWith('fr')) {
-        localStorage.setItem('yv-lang', 'fr');
-        window.location.replace('/fr/');
+    // Auto-redirect only on a first visit to the root (no stored preference yet)
+    if (path === '/' && !stored) {
+      const nav = (navigator.language || 'en').toLowerCase().slice(0, 2);
+      if (nav === 'fr' || nav === 'es' || nav === 'nl') {
+        try { localStorage.setItem('yv-lang', nav); } catch (e) {}
+        window.location.replace('/' + nav + '/');
+        return;
       }
     }
+    // Otherwise remember the language of the page being read
+    try { localStorage.setItem('yv-lang', here); } catch (e) {}
   })();
 </script>
 
@@ -234,7 +235,7 @@ const frUrl = currentPath.startsWith('/fr')
   "@type": "WebSite",
   "name": "YeahCore",
   "url": siteUrl,
-  "description": "The human needs behind what people want, and practical decision-making frameworks — in English and French. By HappyBein.",
-  "inLanguage": ["en", "fr"]
+  "description": "The human needs behind what people want, and practical decision-making frameworks — in English, French, Spanish and Dutch. By HappyBein.",
+  "inLanguage": ["en", "fr", "es", "nl"]
 })} />
 

@@ -1,8 +1,10 @@
 ---
 import type { Props } from '@astrojs/starlight/props';
 
-const isFr = Astro.locals.starlightRoute.lang === 'fr';
-const readLabel = isFr ? 'de lecture' : 'read';
+const lang = Astro.locals.starlightRoute.lang;
+const isFr = lang === 'fr';
+// 2.28.0: Spanish and Dutch.
+const readLabel = ({ fr: 'de lecture', es: 'de lectura', nl: 'lezen' } as Record<string, string>)[lang] ?? 'read';
 // 2.12.0: recorded audio, same player as YeahSight. The floating "Listen" (browser voice) button
 // in Head.astro steps aside on pages that have one.
 const audio = (Astro.locals.starlightRoute.entry.data as any).audio as (string | undefined);
