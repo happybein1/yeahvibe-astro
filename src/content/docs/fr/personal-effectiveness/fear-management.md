@@ -4,6 +4,8 @@ description: Des stratégies concrètes pour comprendre et gérer la peur, afin 
 reading_time: "4 min"
 sidebar:
   order: 3
+audio: https://audio.happybein.com/yeahcore/fear-management.podcast.fr.mp3
+audioMinutes: 3
 ---
 
 La peur est l'une des forces les plus puissantes qui orientent nos décisions, souvent sans qu'on le voie. Gérer la peur ne consiste pas à la supprimer, mais à faire en sorte qu'elle éclaire vos choix au lieu de les commander.

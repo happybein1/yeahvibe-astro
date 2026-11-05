@@ -4,6 +4,8 @@ description: Les principes clés pour bien travailler avec les autres et créer 
 reading_time: "4 min"
 sidebar:
   order: 1
+audio: https://audio.happybein.com/yeahcore/collaboration-principles.podcast.fr.mp3
+audioMinutes: 2
 ---
 
 Une bonne collaboration n'arrive pas par hasard. Elle naît de pratiques choisies, de règles partagées et des bonnes conditions. Ces principes valent aussi bien pour une petite équipe que pour une grande organisation ou un groupe qui réunit plusieurs métiers.

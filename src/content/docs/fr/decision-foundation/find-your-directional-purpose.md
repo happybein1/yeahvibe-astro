@@ -4,6 +4,8 @@ description: Des journées pleines sans trop savoir pourquoi, ou plus rien ne vo
 reading_time: "4 min"
 sidebar:
   order: 5
+audio: https://audio.happybein.com/yeahcore/find-your-direction.podcast.fr.mp3
+audioMinutes: 3
 ---
 
 ## Une boussole, pas une carte

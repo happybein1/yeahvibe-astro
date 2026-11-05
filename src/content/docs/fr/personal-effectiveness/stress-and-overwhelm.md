@@ -4,6 +4,8 @@ description: Comprendre ce que fait le stress, le calmer sur le moment, et allé
 reading_time: "3 min"
 sidebar:
   order: 6
+audio: https://audio.happybein.com/yeahcore/stress-and-overwhelm.podcast.fr.mp3
+audioMinutes: 3
 ---
 
 ## Le stress n'est pas l'ennemi

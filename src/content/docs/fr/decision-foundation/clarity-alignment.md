@@ -4,6 +4,8 @@ description: Comment définir clairement ses objectifs, regrouper ses plans pour
 reading_time: "4 min"
 sidebar:
   order: 3
+audio: https://audio.happybein.com/yeahcore/clarity-alignment.podcast.fr.mp3
+audioMinutes: 3
 ---
 
 Face à des options trop nombreuses ou trop complexes, difficiles à comparer, il faut une stratégie. Dans ces situations, l'essentiel est de :

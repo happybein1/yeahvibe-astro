@@ -4,6 +4,20 @@ Started 2026-10-13. Earlier versions (up to 1.7.1) were only tracked in `src/ver
 
 ---
 
+## 2.29.0
+
+**French podcasts for all 32 guides** (owner, 2026-11-04: "can you start the recording of the french podcast?", then "do as much as possible until 7:30am"; 2026-11-05 after listening: "go ahead").
+- Recorded overnight on the ROG with Kyutai TTS 1.6B (en/fr) in its two-voice dialogue mode: Emma `cml-tts/fr/12977_10625_000037-0001_enhanced.wav`, Sam `cml-tts/fr/928_486_000075-0001_enhanced.wav`, chosen by the owner on 2026-11-02. Scripts are the French ones written 2026-11-04 (E:/S: lines, "tu", ending with the AI-voices line); HappyBein is written "Happy Bi-ine" for the voice. Each episode is cut into blocks of 6 turns so a long one never drifts. 2½–3¼ min per episode; about 15 min of work each on the CPU.
+- On R2 next to the English ones: `https://audio.happybein.com/yeahcore/<slug>.podcast.fr.mp3` (96 kbit/s MP3).
+- The 32 French guide pages get `audio:` and `audioMinutes:` front matter, so the player shows above the text. Its French label is now "Écouter le podcast" (was "Écouter ce guide", from when the audio was the page read aloud).
+- The six French situation pages (`fr/help/`) get the same Listen buttons as English: "▶ Écouter · N min" on the guide step and 🎧 next to each related guide. The Radio links there stay "(en anglais)": the Radio programs are still English.
+- How it works (French): the podcast paragraph says what the podcast is and credits Kyutai TTS (CC BY 4.0) for the French voices; the HappyBein Podcast in Radio is marked "(en anglais)". English How it works: "The podcasts are in English and French." User flow (French): the "(en anglais)" notes next to podcasts are gone.
+- Spanish and Dutch are unchanged (pages only, no audio yet).
+
+**Verification:** site builds in a scratch copy; every French guide with an English podcast has a French one; every French audio address answers 200 `audio/mpeg`.
+
+---
+
 ## 2.28.1
 
 **Contact button shows contact@happybein.com** (owner, 2026-11-04: "also include the email adress change"). The footer's "Contact us" button (after "I am not a robot") revealed the owner's personal Gmail address on every page; it now shows contact@happybein.com, the public address used everywhere else. All four languages share this footer.

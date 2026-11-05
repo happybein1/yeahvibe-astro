@@ -4,6 +4,8 @@ description: Des méthodes et des pratiques pour mieux décider en groupe, en é
 reading_time: "4 min"
 sidebar:
   order: 4
+audio: https://audio.happybein.com/yeahcore/group-decision-making.podcast.fr.mp3
+audioMinutes: 3
 ---
 
 Les décisions de groupe peuvent être meilleures que les décisions individuelles, ou bien pires, selon la façon dont elles sont prises. Tout se joue dans la méthode.

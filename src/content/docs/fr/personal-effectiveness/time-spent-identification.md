@@ -4,6 +4,8 @@ description: Comprendre où passe vraiment votre temps, et vous en servir pour a
 reading_time: "4 min"
 sidebar:
   order: 5
+audio: https://audio.happybein.com/yeahcore/time-spent-identification.podcast.fr.mp3
+audioMinutes: 2
 ---
 
 ## Pourquoi suivre son temps

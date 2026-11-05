@@ -4,6 +4,8 @@ description: La solitude est fréquente et n'a rien de honteux. De petits pas r�
 reading_time: "3 min"
 sidebar:
   order: 7
+audio: https://audio.happybein.com/yeahcore/connection-and-loneliness.podcast.fr.mp3
+audioMinutes: 3
 ---
 
 ## La solitude est un signal, pas un défaut

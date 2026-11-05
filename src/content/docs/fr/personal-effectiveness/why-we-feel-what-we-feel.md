@@ -4,6 +4,8 @@ description: Quelques messagers chimiques du cerveau influencent la motivation, 
 reading_time: "4 min"
 sidebar:
   order: 3
+audio: https://audio.happybein.com/yeahcore/why-we-feel-what-we-feel.podcast.fr.mp3
+audioMinutes: 3
 ---
 
 ## Les émotions ont une chimie

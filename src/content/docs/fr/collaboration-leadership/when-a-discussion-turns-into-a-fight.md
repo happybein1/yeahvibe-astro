@@ -2,6 +2,8 @@
 title: Quand une discussion tourne à la dispute
 description: Certaines personnes ne veulent pas comprendre, elles veulent gagner. Repérez-le tôt, gardez votre calme, et sachez quand vous arrêter.
 reading_time: "3 min"
+audio: https://audio.happybein.com/yeahcore/when-a-discussion-turns-into-a-fight.podcast.fr.mp3
+audioMinutes: 3
 ---
 
 ## Les bons arguments ne suffisent pas

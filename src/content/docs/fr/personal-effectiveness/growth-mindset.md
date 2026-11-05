@@ -4,6 +4,8 @@ description: Comment développer un état d'esprit de croissance, et pourquoi il
 reading_time: "4 min"
 sidebar:
   order: 2
+audio: https://audio.happybein.com/yeahcore/growth-mindset.podcast.fr.mp3
+audioMinutes: 2
 ---
 
 Un état d'esprit de croissance, c'est la conviction que les capacités et l'intelligence peuvent se développer par l'engagement, l'effort et l'apprentissage. Il s'oppose à un état d'esprit figé, qui voit les qualités comme innées et immuables.

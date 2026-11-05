@@ -4,6 +4,8 @@ description: Une méthode pratique pour organiser fichiers et dossiers numériqu
 reading_time: "4 min"
 sidebar:
   order: 2
+audio: https://audio.happybein.com/yeahcore/files-folder-organization.podcast.fr.mp3
+audioMinutes: 2
 ---
 
 Une bonne organisation de vos fichiers vous fait gagner du temps tous les jours. Le but : retrouver n'importe quel fichier en moins de 30 secondes, sans chercher.

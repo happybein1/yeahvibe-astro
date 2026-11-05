@@ -4,6 +4,8 @@ description: Ce que la science dit d'un bon sommeil, comment y arriver, et pourq
 reading_time: "4 min"
 sidebar:
   order: 4
+audio: https://audio.happybein.com/yeahcore/sleeping-well.podcast.fr.mp3
+audioMinutes: 2
 ---
 
 Le sommeil n'est pas un luxe, c'est un besoin biologique. La qualité de votre sommeil détermine directement la qualité de votre réflexion, de vos décisions, de votre équilibre émotionnel et de votre santé physique.

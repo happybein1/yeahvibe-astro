@@ -4,6 +4,8 @@ description: Les notions financières essentielles que chacun devrait comprendre
 reading_time: "5 min"
 sidebar:
   order: 1
+audio: https://audio.happybein.com/yeahcore/mastering-finance-basics.podcast.fr.mp3
+audioMinutes: 2
 ---
 
 Savoir gérer son argent est l'une des compétences qui rapportent le plus. Comprendre les bases de la finance aide à prendre de meilleures décisions personnelles, à mieux comprendre son organisation, et à mieux résister aux coups durs.

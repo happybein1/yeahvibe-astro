@@ -4,6 +4,8 @@ description: Des stratégies pour prioriser objectifs et actions selon leur impa
 reading_time: "4 min"
 sidebar:
   order: 2
+audio: https://audio.happybein.com/yeahcore/independent-prioritization.podcast.fr.mp3
+audioMinutes: 3
 ---
 
 ## Les bases pour prioriser et planifier

@@ -2,6 +2,8 @@
 title: Comment votre organisation gagne de l'argent
 description: Pas besoin de travailler en finance pour suivre les chiffres au travail. Quatre idées simples aident à comprendre les décisions et à y prendre part.
 reading_time: "4 min"
+audio: https://audio.happybein.com/yeahcore/how-your-organisation-makes-money.podcast.fr.mp3
+audioMinutes: 3
 ---
 
 ## Pourquoi c'est utile, même si les chiffres ne sont pas votre métier

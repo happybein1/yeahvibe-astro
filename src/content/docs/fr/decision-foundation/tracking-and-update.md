@@ -4,6 +4,8 @@ description: Comment suivre ses décisions et ses plans dans le temps, et s'adap
 reading_time: "4 min"
 sidebar:
   order: 4
+audio: https://audio.happybein.com/yeahcore/tracking-and-update.podcast.fr.mp3
+audioMinutes: 2
 ---
 
 Prendre une décision n'est que la première étape. Suivre les résultats et ajuster ses plans quand la situation évolue, c'est ce qui distingue ceux qui décident bien de ceux qui décident puis oublient.

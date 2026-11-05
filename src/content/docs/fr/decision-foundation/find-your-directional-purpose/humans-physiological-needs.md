@@ -4,6 +4,8 @@ description: Les besoins humains fondamentaux sur lesquels reposent les bonnes d
 reading_time: "4 min"
 sidebar:
   order: 3
+audio: https://audio.happybein.com/yeahcore/humans-physiological-needs.podcast.fr.mp3
+audioMinutes: 3
 ---
 
 À la base de tous les objectifs et de toutes les décisions se trouvent des besoins humains universels. Quand ils ne sont pas satisfaits, tout le reste en souffre : la productivité, la créativité, les relations et le jugement. Quand ils le sont, tout le reste devient possible.

@@ -2,6 +2,8 @@
 title: Bouger et bien manger
 description: L'énergie vient du sommeil, du mouvement et de l'alimentation. Des habitudes simples pour les deux derniers, sans régime ni programme de sport.
 reading_time: "4 min"
+audio: https://audio.happybein.com/yeahcore/moving-and-eating-well.podcast.fr.mp3
+audioMinutes: 3
 ---
 
 ## L'énergie commence par le corps

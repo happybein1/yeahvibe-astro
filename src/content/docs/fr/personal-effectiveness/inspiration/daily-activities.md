@@ -4,6 +4,8 @@ description: Des activités et des routines simples, au quotidien, qui construis
 reading_time: "4 min"
 sidebar:
   order: 1
+audio: https://audio.happybein.com/yeahcore/daily-activities.podcast.fr.mp3
+audioMinutes: 3
 ---
 
 De petites actions répétées chaque jour finissent par produire de grands changements. Cette page rassemble des activités concrètes qui soutiennent le bien-être, l'énergie et l'efficacité, classées par thème.

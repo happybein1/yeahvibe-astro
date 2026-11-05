@@ -4,6 +4,8 @@ description: Comment fixer, structurer et poursuivre des objectifs qui se constr
 reading_time: "4 min"
 sidebar:
   order: 2
+audio: https://audio.happybein.com/yeahcore/long-term-goals.podcast.fr.mp3
+audioMinutes: 3
 ---
 
 Les objectifs à long terme sont ceux qui comptent le plus, et ceux avec lesquels la plupart des gens ont le plus de mal. Ils demandent un effort qui dure des mois ou des années, souvent sans résultat immédiat, à travers des périodes de doute et des revers. Cette page explique comment bien les choisir et comment les poursuivre efficacement.

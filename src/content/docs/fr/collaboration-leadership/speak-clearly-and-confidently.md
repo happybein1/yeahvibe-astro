@@ -4,6 +4,8 @@ description: Des techniques concrètes pour communiquer clairement et avec assur
 reading_time: "4 min"
 sidebar:
   order: 3
+audio: https://audio.happybein.com/yeahcore/speak-clearly-and-confidently.podcast.fr.mp3
+audioMinutes: 3
 ---
 
 Communiquer clairement et avec assurance, cela s'apprend. Ce n'est pas une question de personnalité ou de charisme naturel, mais de préparation, de structure et d'entraînement.

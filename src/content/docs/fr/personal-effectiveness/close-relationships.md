@@ -2,6 +2,8 @@
 title: Les relations proches
 description: Le partenaire, la famille et les amis proches influencent notre bien-être plus que presque tout le reste. Des habitudes simples pour garder ces liens forts.
 reading_time: "4 min"
+audio: https://audio.happybein.com/yeahcore/close-relationships.podcast.fr.mp3
+audioMinutes: 3
 ---
 
 ## Les plus proches comptent le plus

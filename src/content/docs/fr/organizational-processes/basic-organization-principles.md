@@ -4,6 +4,8 @@ description: Les principes clés pour mettre en place une organisation claire et
 reading_time: "4 min"
 sidebar:
   order: 1
+audio: https://audio.happybein.com/yeahcore/basic-organization-principles.podcast.fr.mp3
+audioMinutes: 3
 ---
 
 S'organiser, ce n'est pas ranger pour ranger. C'est mettre en place des systèmes qui réduisent les frictions, libèrent l'esprit et rendent plus facile ce qui compte.

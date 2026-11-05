@@ -38,7 +38,7 @@ Chaque article se lit en **3 à 5 minutes**. Les parcours ci-dessous sont pensé
 **Le parcours :**
 1. Allez dans **Efficacité personnelle** dans le menu et lisez [Améliorer ses habitudes](/fr/personal-effectiveness/habits-improvement/) *(4 min)*
 2. Lisez [L'état d'esprit de croissance](/fr/personal-effectiveness/growth-mindset/) pour voir les échecs comme des informations *(4 min)*
-3. Lisez [Gérer la peur](/fr/personal-effectiveness/fear-management/), ou écoutez son podcast (en anglais) pendant votre trajet *(4 min)*
+3. Lisez [Gérer la peur](/fr/personal-effectiveness/fear-management/), ou écoutez son podcast pendant votre trajet *(4 min)*
 4. Commencez un journal grâce aux [outils conseillés](/fr/advised-tools/) *(3 min)*
 5. Revenez chaque semaine aux [Activités du quotidien](/fr/personal-effectiveness/inspiration/daily-activities/) pour repartir du bon pied *(4 min)*
 
@@ -74,7 +74,7 @@ Chaque article se lit en **3 à 5 minutes**. Les parcours ci-dessous sont pensé
 2. Lisez [Décider en groupe](/fr/collaboration-leadership/group-decision-making/) et répartissez les rôles (pilote, décideur, contributeurs, informés) dès la prochaine réunion *(4 min)*
 3. Partagez [S'exprimer clairement et avec assurance](/fr/collaboration-leadership/speak-clearly-and-confidently/) avec un membre de l'équipe *(4 min)*
 4. Lisez [Influence et leadership](/fr/collaboration-leadership/influence-and-leadership/) pour préparer une conversation difficile *(4 min)*
-5. Écoutez les podcasts (en anglais) pendant votre trajet du matin *(5 min)*
+5. Écoutez les podcasts pendant votre trajet du matin *(5 min)*
 
 **Au total : 5 séances de 5 min, une par jour cette semaine.**
 
@@ -123,7 +123,7 @@ Chaque article se lit en **3 à 5 minutes**. Les parcours ci-dessous sont pensé
 
 **Le parcours :**
 1. Ouvrez YeahCore sur votre téléphone et allez à la partie sur laquelle vous travaillez
-2. Ouvrez un article et lancez son podcast (en anglais pour l'instant) pendant que vous marchez ou voyagez
+2. Ouvrez un article et lancez son podcast pendant que vous marchez ou voyagez
 3. Ou lisez un article court comme [Bien dormir](/fr/personal-effectiveness/sleeping-well/) ou [Bien utiliser ses trajets](/fr/organizational-processes/managing-commuting-time/)
 4. Gardez-le en favori pour le lire plus tard en détail
 

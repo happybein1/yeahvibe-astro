@@ -2,6 +2,8 @@
 title: Passer à l'action
 description: Vous savez quoi faire, mais vous repoussez sans cesse. Pourquoi cela arrive, et comment faire le premier pas.
 reading_time: "4 min"
+audio: https://audio.happybein.com/yeahcore/getting-started.podcast.fr.mp3
+audioMinutes: 3
 ---
 
 ## Vous avez un plan. Alors pourquoi rien ne bouge ?

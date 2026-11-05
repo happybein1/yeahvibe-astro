@@ -4,6 +4,8 @@ description: Comment bien diriger et gagner en influence sans compter uniquement
 reading_time: "4 min"
 sidebar:
   order: 2
+audio: https://audio.happybein.com/yeahcore/influence-and-leadership.podcast.fr.mp3
+audioMinutes: 2
 ---
 
 Diriger n'est pas un poste, c'est une pratique. Les meilleurs responsables influencent par la confiance, la clarté et l'exemple, plutôt que par l'autorité ou le contrôle.

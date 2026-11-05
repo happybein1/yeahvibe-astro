@@ -4,6 +4,8 @@ description: Les bonnes pratiques pour trouver des idées, et évaluer objectifs
 reading_time: "5 min"
 sidebar:
   order: 1
+audio: https://audio.happybein.com/yeahcore/ideation-assessment.podcast.fr.mp3
+audioMinutes: 3
 ---
 
 Vous cherchez des idées, et une façon de les évaluer et de les découper ? Voici une méthode pour trouver des idées, les évaluer, et les transformer en étapes concrètes.

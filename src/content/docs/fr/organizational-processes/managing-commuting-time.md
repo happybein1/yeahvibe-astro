@@ -4,6 +4,8 @@ description: Comment transformer le temps de trajet en temps utile ou reposant, 
 reading_time: "3 min"
 sidebar:
   order: 3
+audio: https://audio.happybein.com/yeahcore/managing-commuting-time.podcast.fr.mp3
+audioMinutes: 2
 ---
 
 Le temps de trajet est souvent vu comme du temps perdu, le prix à payer pour aller au travail et en revenir. Avec un peu d'intention, il peut devenir l'un des moments les plus précieux de la journée.

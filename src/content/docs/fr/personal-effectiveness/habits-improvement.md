@@ -4,6 +4,8 @@ description: Des stratégies efficaces pour prendre de nouvelles habitudes et en
 reading_time: "4 min"
 sidebar:
   order: 1
+audio: https://audio.happybein.com/yeahcore/habits-improvement.podcast.fr.mp3
+audioMinutes: 2
 ---
 
 Changer ses habitudes et sa façon de faire peut être difficile, mais les bonnes stratégies augmentent nettement vos chances de réussir.

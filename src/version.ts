@@ -1,3 +1,3 @@
-export const SITE_VERSION = '2.28.1';
-export const SITE_VERSION_DATE = '2026-11-04';
-export const SITE_VERSION_NOTES = 'Contact button shows contact@happybein.com';
+export const SITE_VERSION = '2.29.0';
+export const SITE_VERSION_DATE = '2026-11-05';
+export const SITE_VERSION_NOTES = 'French podcasts for all 32 guides';

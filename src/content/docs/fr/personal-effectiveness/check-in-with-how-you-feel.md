@@ -4,6 +4,8 @@ description: Un point de deux minutes pour savoir où vous en êtes, et que fair
 reading_time: "4 min"
 sidebar:
   order: 0
+audio: https://audio.happybein.com/yeahcore/check-in-with-how-you-feel.podcast.fr.mp3
+audioMinutes: 3
 ---
 
 ## Pourquoi faire le point
