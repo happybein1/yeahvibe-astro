@@ -141,6 +141,7 @@ export default defineConfig({
                         { label: 'Group Decision Making', translations: { fr: 'Décider en groupe', es: 'Decidir en grupo', nl: 'Samen beslissen' }, slug: 'collaboration-leadership/group-decision-making', attrs: { class: 'yv-extra' } },
                         { label: 'How Your Organisation Makes Money', translations: { fr: "Comment votre organisation gagne de l'argent", es: 'Cómo gana dinero tu organización', nl: 'Hoe je organisatie geld verdient' }, slug: 'collaboration-leadership/how-your-organisation-makes-money', attrs: { class: 'yv-extra' } },
                         { label: 'Influence and Leadership', translations: { fr: 'Influence et leadership', es: 'Influencia y liderazgo', nl: 'Invloed en leiderschap' }, slug: 'collaboration-leadership/influence-and-leadership', attrs: { class: 'yv-extra' } },
+                        { label: 'Building a Network by Helping Others', translations: { fr: 'Se faire un réseau en aidant les autres', es: 'Crear una red ayudando a los demás', nl: 'Een netwerk opbouwen door anderen te helpen' }, slug: 'collaboration-leadership/building-a-network-by-helping-others', attrs: { class: 'yv-extra' } },
                     ],
                 },
                 {

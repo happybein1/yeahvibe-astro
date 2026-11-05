@@ -4,6 +4,18 @@ Started 2026-10-13. Earlier versions (up to 1.7.1) were only tracked in `src/ver
 
 ---
 
+## 2.30.0
+
+**New guide: Building a Network by Helping Others** (owner, 2026-11-05: shared a piece of networking advice, "i thought some of these advise could be a good article. feedback?" → draft → "go ahead with new article publishing and podcast recording").
+- `collaboration-leadership/building-a-network-by-helping-others.md`, a chapter 6 extra (like Influence and Leadership): offer five minutes first, go deep before wide (a small monthly check-in), introduce people (ask both first), share what you're learning, give a little more quickly, a weekly time limit (links Saying No), and "what comes back" without keeping score (links Connection and Loneliness). The owner's original text was written for HappyBein; the guide is general, with the overpromises taken out.
+- In all four languages (French with "vous", Spanish "tú", Dutch "je"), same story block as Influence and Leadership (back to Close Relationships, then check in again).
+- Listed in the sidebar (chapter 6, after Influence and Leadership), on Home, Welcome, the Collaboration pillar, Start here's "Go deeper" line and Close Relationships' "Go deeper" line, in every language.
+- Podcast: English with Kokoro (Emma af_heart, Sam am_puck, 2:34) and French with Kyutai (2:48), on R2 as `building-a-network-by-helping-others.podcast.en.mp3` / `.fr.mp3`; players on the English and French pages. Spanish and Dutch: page only, like the other guides. The episode joins the HappyBein podcast feeds (happybein-astro v4.37), so Radio's Full Story plays it after Influence and Leadership.
+
+**Verification:** site builds in a scratch copy; the new page exists in all four languages with no broken internal links; both audio files answer 200 `audio/mpeg`.
+
+---
+
 ## 2.29.0
 
 **French podcasts for all 32 guides** (owner, 2026-11-04: "can you start the recording of the french podcast?", then "do as much as possible until 7:30am"; 2026-11-05 after listening: "go ahead").
