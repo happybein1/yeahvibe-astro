@@ -4,6 +4,18 @@ Started 2026-10-13. Earlier versions (up to 1.7.1) were only tracked in `src/ver
 
 ---
 
+## 2.31.0
+
+**New guide: Managing Your Weight, Kindly** (owner, 2026-11-06: "what about an article about managing weight and associated positive habits?" → draft → "go, also with podcast version").
+- `personal-effectiveness/managing-your-weight-kindly.md`, a chapter 4 extra after Moving and Eating Well: health first, not appearance (5–10% already helps; the Diabetes Prevention Program); why diets usually fail (the body fights back, strict rules, all-or-nothing); six habits with the best evidence (sleep, real food, protein and fibre, drinks, eating slowly, daily movement for keeping weight off); making it easy (surroundings, planning, one change at a time, calm weekly weighing); the mind side (emotional eating, kindness instead of guilt, months not days); medical help (a doctor; a neutral paragraph on semaglutide and tirzepatide, including regain after stopping); a gentle pointer to a doctor or eating disorder helpline; the societal level (ultra-processed food, time, weight stigma). The first YeahCore guide with a Sources list (ten studies), given the subject.
+- Story block: back to Moving and Eating Well, the story continues with Stress and Overwhelm. Moving and Eating Well gains a short "Looking after your weight" section and an "Or go deeper" button to it.
+- Sidebar: chapter 4, right after Moving and Eating Well, as an extra (`yv-extra`), with FR/ES/NL labels. **English only for now**: the other languages show the English page.
+- Podcast: English, Kokoro (Emma af_heart, Sam am_puck, 3:04), recorded and uploaded on the ROG 17:46–17:47 as `managing-your-weight-kindly.podcast.en.mp3`; player on the page. It joins the HappyBein Podcast feed (happybein-astro v4.39) as a chapter 4 "go deeper" episode, so the podcast app's Personal Guide plays it after Moving and Eating Well (Full Story only). Script in `tools/drafts/podcast-managing-your-weight-kindly.en.txt`.
+
+**Verification:** site builds in a scratch copy; the page renders with its player at phone width; the audio file answers 200 `audio/mpeg`.
+
+---
+
 ## 2.30.0
 
 **New guide: Building a Network by Helping Others** (owner, 2026-11-05: shared a piece of networking advice, "i thought some of these advise could be a good article. feedback?" → draft → "go ahead with new article publishing and podcast recording").

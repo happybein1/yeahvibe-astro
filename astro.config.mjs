@@ -107,6 +107,7 @@ export default defineConfig({
                     items: [
                         { label: 'Sleeping Well', translations: { fr: 'Bien dormir', es: 'Dormir bien', nl: 'Goed slapen' }, slug: 'personal-effectiveness/sleeping-well' },
                         { label: 'Moving and Eating Well', translations: { fr: 'Bouger et bien manger', es: 'Moverse y comer bien', nl: 'Bewegen en goed eten' }, slug: 'personal-effectiveness/moving-and-eating-well' },
+                        { label: 'Managing Your Weight, Kindly', translations: { fr: 'Gérer son poids avec bienveillance', es: 'Cuidar tu peso con amabilidad', nl: 'Vriendelijk omgaan met je gewicht' }, slug: 'personal-effectiveness/managing-your-weight-kindly', attrs: { class: 'yv-extra' } },
                         { label: 'Stress and Overwhelm', translations: { fr: 'Stress et surcharge', es: 'Estrés y sobrecarga', nl: 'Stress en overbelasting' }, slug: 'personal-effectiveness/stress-and-overwhelm' },
                         { label: 'Fear Management', translations: { fr: 'Gérer la peur', es: 'Gestionar el miedo', nl: 'Omgaan met angst' }, slug: 'personal-effectiveness/fear-management', attrs: { class: 'yv-extra' } },
                         { label: 'Growth Mindset', translations: { fr: "L'état d'esprit de croissance", es: 'La mentalidad de crecimiento', nl: 'De groeimindset' }, slug: 'personal-effectiveness/growth-mindset', attrs: { class: 'yv-extra' } },

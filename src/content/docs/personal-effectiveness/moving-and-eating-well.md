@@ -41,6 +41,10 @@ Forget strict diets. A few simple habits work for most people:
 
 Energy drinks, a lot of coffee, sugar and alcohol give a quick lift and a bigger drop later. Coffee after mid-afternoon can also spoil your sleep. You don't need to cut them out, but notice how much you rely on them.
 
+## Looking after your weight
+
+If you'd like to lose weight or keep it steady, the same habits are the base. [Managing Your Weight, Kindly](/personal-effectiveness/managing-your-weight-kindly/) explains why diets rarely last and which habits help most.
+
 ## When to get advice
 
 If you're tired all the time despite sleeping, moving and eating reasonably well, or if you have a health condition, talk to a doctor. Constant tiredness can have medical causes worth checking.
@@ -56,7 +60,7 @@ Healthy habits are easier when cities have safe paths for walking and cycling, w
 <div class="yv-story">
 <p class="yv-story-t">Next in the story</p>
 <p>With your body looked after, you can take on the other big drain on energy: stress.</p>
-<p class="yv-next-btns"><a class="yv-btn" href="/personal-effectiveness/stress-and-overwhelm/">Stress and Overwhelm →</a></p>
+<p class="yv-next-btns"><a class="yv-btn" href="/personal-effectiveness/stress-and-overwhelm/">Stress and Overwhelm →</a> <a class="yv-btn yv-btn--ghost" href="/personal-effectiveness/managing-your-weight-kindly/">Or go deeper: Managing Your Weight, Kindly →</a></p>
 </div>
 <!-- /story -->
 </div>
