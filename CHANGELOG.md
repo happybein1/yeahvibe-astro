@@ -4,6 +4,18 @@ Started 2026-10-13. Earlier versions (up to 1.7.1) were only tracked in `src/ver
 
 ---
 
+## 2.32.0
+
+**New situation card: "🍎 I struggle with my weight or eating", and a section on comfort eating** (owner, 2026-11-07: "would it make sense in yeahcore situation cards to have a weight section, which also treat emotional snacking?", my recommendation, "go", preview, then "publish").
+- `help/weight.mdx`, built like the other six situations: read *Managing Your Weight, Kindly* (7 min, listen 4 min); try today: before each snack, pause ten seconds and ask "hungry, or tired, bored, stressed?", and if it isn't hunger do what you need first; keep it going: an evening check-in in IntentFlow; Radio program `sit-weight` (4 podcasts); related: Stress and Overwhelm, Why We Feel What We Feel, Moving and Eating Well. English only for now.
+- Home page: the card sits after "I'm tired or sleep badly" (seven cards; on a phone the last one, "I feel alone…", is alone on its row).
+- The guide's one-line "Stress and emotions" bullet becomes a section, **When food is comfort**: why food comforts and why the feeling comes back; pause and ask (physical hunger builds slowly, emotional hunger is sudden and specific); do what you need first, and if you still want the snack after ten minutes, have it sitting down; know your moments; make snacks harder to reach; look after the cause (sleep, stress), with links to Stress and Overwhelm and Why We Feel What We Feel. Reading time 6 → 7 min.
+- Podcast re-recorded with the emotional-eating part as five short exchanges (script in `tools/drafts/podcast-managing-your-weight-kindly.en.txt`), at the even sentence-by-sentence pace (205 wpm) now used for YeahSight: ROG 13:46 to 13:48, uploaded under the same address, 3:49 (was 3:04).
+- The HappyBein Podcast feed (happybein-astro v4.40) carries the new program and the new length; the program is left out of the French feed, since the guide isn't in French yet.
+- Checked: build, the home page and the card page at phone width.
+
+---
+
 ## 2.31.0
 
 **New guide: Managing Your Weight, Kindly** (owner, 2026-11-06: "what about an article about managing weight and associated positive habits?" → draft → "go, also with podcast version").

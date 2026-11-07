@@ -1,9 +1,9 @@
 ---
 title: Managing Your Weight, Kindly
 description: Why diets rarely last, the habits that research shows actually help, and how to look after your weight without guilt or obsession.
-reading_time: "6 min"
+reading_time: "7 min"
 audio: https://audio.happybein.com/yeahcore/managing-your-weight-kindly.podcast.en.mp3
-audioMinutes: 3
+audioMinutes: 4
 ---
 
 ## Health first, not appearance
@@ -42,9 +42,18 @@ Habits stick when the healthy choice is also the easy one. See [Habits Improveme
 - **Change one thing at a time.** Start with the easiest step. When it feels normal, add the next.
 - **Weigh yourself, calmly.** People who weigh themselves regularly, such as once a week, tend to keep weight off better. Treat the number as information, not a verdict. If it makes you anxious, skip it and notice how your clothes fit and how you feel instead.
 
+## When food is comfort
+
+Many of us eat when we're stressed, tired, bored, lonely or sad. That's normal: food calms us quickly, and sweet or salty snacks give the brain a small reward. The problem is that the feeling comes back, and the snack doesn't fix what caused it.
+
+- **Pause and ask.** Before a snack, stop for ten seconds and ask: am I hungry, or am I tired, bored, stressed or lonely? Real hunger builds slowly and almost any food would do. Emotional hunger comes suddenly and wants one particular food.
+- **Do what you actually need first.** If it isn't hunger, try the thing you need: a glass of water, a short walk, a few slow breaths, a break, or a message to someone. If you still want the snack after ten minutes, have it, sitting down, without a screen, and enjoy it.
+- **Know your moments.** Comfort eating often happens at the same times: after a hard day at work, late in the evening, in front of a screen. Spotting your own pattern helps you plan for it, for example with a short walk after work or an earlier bedtime.
+- **Make snacks a little harder to reach.** Keep sweets and crisps out of sight, or buy them in small packs. Keep easy alternatives at hand: fruit, nuts, yoghurt, tea.
+- **Look after the cause.** Tiredness and stress drive most emotional eating. Sleeping enough and lightening your load often reduce snacking more than willpower does. See [Stress and Overwhelm](/personal-effectiveness/stress-and-overwhelm/) and [Why We Feel What We Feel](/personal-effectiveness/why-we-feel-what-we-feel/).
+
 ## The mind side
 
-- **Stress and emotions.** Many of us eat when stressed, tired, bored or sad. Before snacking, ask: am I hungry, or do I need something else, like rest, a break or someone to talk to? See [Stress and Overwhelm](/personal-effectiveness/stress-and-overwhelm/).
 - **Kindness, not guilt.** A heavy meal or a lazy week is not a failure. Guilt often leads to more comfort eating. Just go back to your habits at the next meal.
 - **Think in months, not days.** Weight goes up and down from day to day with water and salt. What matters is the direction over a few months.
 

@@ -1,3 +1,3 @@
-export const SITE_VERSION = '2.31.0';
-export const SITE_VERSION_DATE = '2026-11-06';
-export const SITE_VERSION_NOTES = 'New guide: Managing Your Weight, Kindly';
+export const SITE_VERSION = '2.32.0';
+export const SITE_VERSION_DATE = '2026-11-07';
+export const SITE_VERSION_NOTES = 'New situation card: weight or eating, with a section on comfort eating';
