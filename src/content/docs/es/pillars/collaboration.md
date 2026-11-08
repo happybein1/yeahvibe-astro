@@ -42,6 +42,7 @@ Tanto si diriges un equipo como si formas parte de uno o trabajas por tu cuenta,
   <li><a href="/es/collaboration-leadership/building-a-network-by-helping-others/">Crear una red ayudando a los demás</a></li>
   <li><a href="/es/collaboration-leadership/speak-clearly-and-confidently/">Hablar con claridad y seguridad</a></li>
   <li><a href="/es/collaboration-leadership/group-decision-making/">Decidir en grupo</a></li>
+  <li><a href="/es/collaboration-leadership/how-organisations-organise-themselves/">Cómo se organizan las organizaciones</a></li>
 </ul>
 </details>
 

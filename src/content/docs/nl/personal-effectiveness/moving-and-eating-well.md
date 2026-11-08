@@ -39,6 +39,10 @@ Vergeet strenge diëten. Een paar eenvoudige gewoonten werken voor de meeste men
 
 Energiedrankjes, veel koffie, suiker en alcohol geven een snelle opkikker en daarna een grotere dip. Koffie na het midden van de middag kan ook je slaap verstoren. Je hoeft ze niet te schrappen, maar let op hoeveel je erop leunt.
 
+## Zorgen voor je gewicht
+
+Wil je afvallen of op gewicht blijven, dan zijn dezelfde gewoonten de basis. [Vriendelijk omgaan met je gewicht](/nl/personal-effectiveness/managing-your-weight-kindly/) legt uit waarom diëten zelden blijven werken en welke gewoonten het meest helpen.
+
 ## Wanneer je advies vraagt
 
 Ben je altijd moe terwijl je redelijk slaapt, beweegt en eet, of heb je een gezondheidsprobleem, praat dan met een arts. Aanhoudende moeheid kan medische oorzaken hebben die het waard zijn om na te gaan.
@@ -54,7 +58,7 @@ Gezonde gewoonten zijn makkelijker als steden veilige routes hebben om te lopen 
 <div class="yv-story">
 <p class="yv-story-t">Verder in het verhaal</p>
 <p>Met je lichaam verzorgd kun je de andere grote energievreter aanpakken: stress.</p>
-<p class="yv-next-btns"><a class="yv-btn" href="/nl/personal-effectiveness/stress-and-overwhelm/">Stress en overbelasting →</a></p>
+<p class="yv-next-btns"><a class="yv-btn" href="/nl/personal-effectiveness/stress-and-overwhelm/">Stress en overbelasting →</a> <a class="yv-btn yv-btn--ghost" href="/nl/personal-effectiveness/managing-your-weight-kindly/">Of ga dieper: Vriendelijk omgaan met je gewicht →</a></p>
 </div>
 <!-- /story -->
 </div>

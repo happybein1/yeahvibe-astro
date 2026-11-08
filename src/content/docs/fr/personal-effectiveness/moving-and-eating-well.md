@@ -41,6 +41,10 @@ Oubliez les régimes stricts. Quelques habitudes simples marchent pour la plupar
 
 Les boissons énergisantes, beaucoup de café, le sucre et l'alcool donnent un coup de fouet, puis une chute plus forte. Le café après le milieu de l'après-midi peut aussi gâcher le sommeil. Inutile de tout supprimer, mais remarquez à quel point vous en dépendez.
 
+## Prendre soin de son poids
+
+Si vous voulez perdre du poids ou le garder stable, ces mêmes habitudes sont la base. [Gérer son poids avec bienveillance](/fr/personal-effectiveness/managing-your-weight-kindly/) explique pourquoi les régimes durent rarement et quelles habitudes aident le plus.
+
 ## Quand demander conseil
 
 Si vous êtes fatigué en permanence alors que vous dormez, bougez et mangez à peu près bien, ou si vous avez un problème de santé, parlez-en à un médecin. Une fatigue constante peut avoir des causes médicales qui méritent d'être vérifiées.
@@ -56,7 +60,7 @@ Les bonnes habitudes sont plus faciles quand les villes offrent des chemins sûr
 <div class="yv-story">
 <p class="yv-story-t">La suite de l'histoire</p>
 <p>Le corps pris en charge, vous pouvez vous attaquer à l'autre grande perte d'énergie : le stress.</p>
-<p class="yv-next-btns"><a class="yv-btn" href="/fr/personal-effectiveness/stress-and-overwhelm/">Stress et surcharge →</a></p>
+<p class="yv-next-btns"><a class="yv-btn" href="/fr/personal-effectiveness/stress-and-overwhelm/">Stress et surcharge →</a> <a class="yv-btn yv-btn--ghost" href="/fr/personal-effectiveness/managing-your-weight-kindly/">Ou approfondir : Gérer son poids avec bienveillance →</a></p>
 </div>
 <!-- /story -->
 </div>

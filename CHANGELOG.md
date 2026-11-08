@@ -4,6 +4,18 @@ Started 2026-10-13. Earlier versions (up to 1.7.1) were only tracked in `src/ver
 
 ---
 
+## 2.34.0
+
+**Translations: the weight guide, the 🍎 weight card and How Organisations Organise Themselves in French, Spanish and Dutch** (owner, 2026-11-08: "Ok what next" → recommended doing the translations now → "Go"; the question about French podcasts went unanswered, so no recordings).
+- New pages: `fr|es|nl/personal-effectiveness/managing-your-weight-kindly.md` (with the "When food is comfort" section and the Sources list; French "vous", Spanish "tú", Dutch "je"; wording kept gender-neutral in French), `fr|es|nl/collaboration-leadership/how-organisations-organise-themselves.md`, `fr|es|nl/help/weight.mdx`. No player on these pages and no Listen button on the cards: both podcasts exist in English only. The Radio link says "(in English)", like the other cards.
+- Home pages (`fr|es|nl/index.mdx`): the 🍎 card after "tired", as in English (seven cards).
+- Moving and Eating Well in fr/es/nl: the short "Looking after your weight" section and the "Or go deeper" button, as in English since 2.31.0.
+- How Organisations Organise Themselves listed on Home, Welcome, the Collaboration pillar and Start here's "Go deeper" line in fr/es/nl. Start here fr/es/nl: the Building a Network link sat outside its `<li>` (same slip as in English, fixed in 2.33.0); now inside.
+
+**Verification:** site builds in a scratch copy; the new pages exist in every language with no broken internal links.
+
+---
+
 ## 2.33.0
 
 **New guide: How Organisations Organise Themselves** (owner, 2026-11-08: "I generally would like to understand how organizations efficiently organize themselves, like managing functions and committees. Do we have an article covering that already?" → none, recommended a guide → "go" → draft; then "Who is deciding which organization to implement?" → "go" (section added); "priorities are set by setting up or not committees or sub organizations" → "ok" ("Structure follows priorities" added); "One owner to decide, but committees are multiple people" → "go" (decision rule added) → "Publish.")

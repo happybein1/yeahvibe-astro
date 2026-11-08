@@ -42,6 +42,7 @@ Of je nu een team leidt, in een team werkt of zelfstandig bezig bent: je vermoge
   <li><a href="/nl/collaboration-leadership/building-a-network-by-helping-others/">Een netwerk opbouwen door anderen te helpen</a></li>
   <li><a href="/nl/collaboration-leadership/speak-clearly-and-confidently/">Helder en zelfverzekerd spreken</a></li>
   <li><a href="/nl/collaboration-leadership/group-decision-making/">Samen beslissen</a></li>
+  <li><a href="/nl/collaboration-leadership/how-organisations-organise-themselves/">Hoe organisaties zich organiseren</a></li>
 </ul>
 </details>
 

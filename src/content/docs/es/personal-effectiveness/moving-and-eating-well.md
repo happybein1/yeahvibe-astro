@@ -39,6 +39,10 @@ Olvídate de las dietas estrictas. Unos pocos hábitos sencillos funcionan para 
 
 Las bebidas energéticas, mucho café, el azúcar y el alcohol dan un impulso rápido y después un bajón mayor. El café a media tarde también puede estropearte el sueño. No hace falta eliminarlos, pero fíjate en cuánto dependes de ellos.
 
+## Cuidar tu peso
+
+Si quieres perder peso o mantenerlo estable, estos mismos hábitos son la base. [Cuidar tu peso con amabilidad](/es/personal-effectiveness/managing-your-weight-kindly/) explica por qué las dietas casi nunca duran y qué hábitos ayudan más.
+
 ## Cuándo pedir consejo
 
 Si estás cansado todo el tiempo aunque duermas, te muevas y comas razonablemente bien, o si tienes algún problema de salud, habla con un médico. El cansancio constante puede tener causas médicas que vale la pena revisar.
@@ -54,7 +58,7 @@ Los hábitos saludables son más fáciles cuando las ciudades tienen caminos seg
 <div class="yv-story">
 <p class="yv-story-t">Sigue la historia</p>
 <p>Con el cuerpo cuidado, puedes ocuparte del otro gran ladrón de energía: el estrés.</p>
-<p class="yv-next-btns"><a class="yv-btn" href="/es/personal-effectiveness/stress-and-overwhelm/">Estrés y sobrecarga →</a></p>
+<p class="yv-next-btns"><a class="yv-btn" href="/es/personal-effectiveness/stress-and-overwhelm/">Estrés y sobrecarga →</a> <a class="yv-btn yv-btn--ghost" href="/es/personal-effectiveness/managing-your-weight-kindly/">O profundiza: Cuidar tu peso con amabilidad →</a></p>
 </div>
 <!-- /story -->
 </div>

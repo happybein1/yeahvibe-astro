@@ -42,6 +42,7 @@ Que vous dirigiez une équipe, que vous en fassiez partie ou que vous travaillie
   <li><a href="/fr/collaboration-leadership/building-a-network-by-helping-others/">Se faire un réseau en aidant les autres</a></li>
   <li><a href="/fr/collaboration-leadership/speak-clearly-and-confidently/">S'exprimer clairement et avec assurance</a></li>
   <li><a href="/fr/collaboration-leadership/group-decision-making/">Décider en groupe</a></li>
+  <li><a href="/fr/collaboration-leadership/how-organisations-organise-themselves/">Comment les organisations s'organisent</a></li>
 </ul>
 </details>
 
