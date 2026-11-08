@@ -42,6 +42,7 @@ Whether you lead a team, work within one, or operate independently, your ability
   <li><a href="/collaboration-leadership/building-a-network-by-helping-others/">Building a Network by Helping Others</a></li>
   <li><a href="/collaboration-leadership/speak-clearly-and-confidently/">Speak Clearly and Confidently</a></li>
   <li><a href="/collaboration-leadership/group-decision-making/">Group Decision Making</a></li>
+  <li><a href="/collaboration-leadership/how-organisations-organise-themselves/">How Organisations Organise Themselves</a></li>
 </ul>
 </details>
 

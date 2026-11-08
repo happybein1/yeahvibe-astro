@@ -4,6 +4,17 @@ Started 2026-10-13. Earlier versions (up to 1.7.1) were only tracked in `src/ver
 
 ---
 
+## 2.33.0
+
+**New guide: How Organisations Organise Themselves** (owner, 2026-11-08: "I generally would like to understand how organizations efficiently organize themselves, like managing functions and committees. Do we have an article covering that already?" → none, recommended a guide → "go" → draft; then "Who is deciding which organization to implement?" → "go" (section added); "priorities are set by setting up or not committees or sub organizations" → "ok" ("Structure follows priorities" added); "One owner to decide, but committees are multiple people" → "go" (decision rule added) → "Publish.")
+- `collaboration-leadership/how-organisations-organise-themselves.md`, a chapter 6 extra after How Your Organisation Makes Money: dividing the work (by function, by product/customer/region, matrix, small autonomous teams; rule of thumb; structure follows priorities and budget); 5 to 10 people per manager; who decides what (one owner, consulted, informed; push decisions down within limits; links Group Decision Making); committees (when useful; written purpose, 5 to 7 members, a chair, a clear decision rule: decide together with the chair breaking a deadlock, or advise one named person; real authority; end date or yearly review); a simple meeting rhythm; who decides the structure (company: CEO and leadership team, board for big changes; club: board within the bylaws, members' vote; public bodies: law, ministers, councils; involve the people doing the work, review after 6 to 12 months); signs the structure needs work. Reading time 5 min. Same story block as Building a Network by Helping Others.
+- Listed in the sidebar (chapter 6, after How Your Organisation Makes Money, with FR/ES/NL labels), on Home, Welcome, the Collaboration pillar and Start here's "Go deeper" line (English). Start here: the Building a Network link sat outside its `<li>`; now inside. **English only for now**: the other languages show the English page.
+- Podcast: English, Kokoro (Emma af_heart, Sam am_puck) at the even sentence-by-sentence pace (205 wpm), 3:46, recorded on the ROG 14:52 to 14:54, uploaded as `yeahcore/how-organisations-organise-themselves.podcast.en.mp3` (answers 200 `audio/mpeg`); player on the page. Script in `tools/drafts/podcast-how-organisations-organise-themselves.en.txt`.
+
+**Verification:** site builds in a scratch copy; the page renders with its player.
+
+---
+
 ## 2.32.0
 
 **New situation card: "🍎 I struggle with my weight or eating", and a section on comfort eating** (owner, 2026-11-07: "would it make sense in yeahcore situation cards to have a weight section, which also treat emotional snacking?", my recommendation, "go", preview, then "publish").
