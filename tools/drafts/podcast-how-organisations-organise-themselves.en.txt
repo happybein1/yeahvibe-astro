@@ -12,6 +12,10 @@ E: How many people can one manager lead?
 S: Usually five to ten. Fewer, and you get too many layers and slow decisions. More, and people get too little support.
 E: You say most friction comes from unclear decisions.
 S: Yes, not from bad people. For each decision that comes up often, like budgets, hiring or priorities, make clear who owns it, who is consulted before, and who is informed after. And push decisions down to whoever has the best information, within clear limits.
+E: And what if leadership never says who decides what, and seems to expect the teams to sort it out?
+S: That's common, especially in a matrix, where everyone has two managers. Then propose the rules yourselves. List the four or five decisions that keep getting stuck, and write one line for each: who decides, who is consulted, who is informed. A common split: the function manager decides how the work is done, and the project manager decides what gets done and when.
+E: And if the two managers disagree?
+S: Their shared manager decides, within a week. Don't leave that conflict to people with no authority to settle it. Agree all this with both managers in the same meeting. And if nobody answers, say: unless you object by Friday, this is how we'll work.
 E: Let's talk about committees. Useful, or a burden?
 S: Both. A committee is useful when a topic really needs several views, or needs independence, like an audit committee. It works when it has a clear purpose in writing, five to seven members, and a chair who keeps it moving.
 E: But you said one owner should decide. A committee is several people.

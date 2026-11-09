@@ -4,6 +4,17 @@ Started 2026-10-13. Earlier versions (up to 1.7.1) were only tracked in `src/ver
 
 ---
 
+## 2.37.0
+
+**Organisations podcasts: "When nobody defines it"** (owner, 2026-11-09: "How organizations organize themselves does not need rerecording?" → recommended 4 new lines in both languages → "Go" → draft lines → "Ok for the 4lines" → "Publish.").
+- Scripts: 4 new lines after Sam's "who decides what" turn (lines 15 to 18): what to do when leadership leaves it to the teams (list the stuck decisions, one line each, the function/project split), the tie-break by the shared manager within a week, agreeing it in one meeting, the "unless you object by Friday" default. `tools/drafts/podcast-how-organisations-organise-themselves.en.txt` (and the untracked `.fr.txt`).
+- English: fully re-recorded with Kokoro (Emma af_heart, Sam am_puck, 205 wpm, sentence by sentence) on the ROG at 15:11 to 15:14, 4:29 (was 3:46).
+- French: only the 4 new lines recorded with VoxCPM2 (same references, seeds and settings as the episode), 15:11 to 15:37, and inserted into the morning's recording at the exact silence after line 14; 5:02 (was 4:16). The earlier version is kept on the ROG as `.before-insert`.
+- Both uploaded over the old addresses (200 `audio/mpeg`, new lengths). French page `audioMinutes: 5`; English stays 4.
+- Same day: happybein-astro v4.43 updates the feed lengths.
+
+---
+
 ## 2.36.0
 
 **French podcasts for Managing Your Weight Kindly and How Organisations Organise Themselves** (owner, 2026-11-09: "Yes please do these two now" → recorded with VoxCPM2 on the ROG, 09:17 to 13:35 → "Publish.").
