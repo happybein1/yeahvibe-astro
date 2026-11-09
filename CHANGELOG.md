@@ -4,6 +4,19 @@ Started 2026-10-13. Earlier versions (up to 1.7.1) were only tracked in `src/ver
 
 ---
 
+## 2.36.0
+
+**French podcasts for Managing Your Weight Kindly and How Organisations Organise Themselves** (owner, 2026-11-09: "Yes please do these two now" → recorded with VoxCPM2 on the ROG, 09:17 to 13:35 → "Publish.").
+- Recorded with VoxCPM2 (Emma and Sam, the approved French voices, closest-copy mode), scripts in `tools/drafts/podcast-*.fr.txt`. Uploaded as `yeahcore/managing-your-weight-kindly.podcast.fr.mp3` (4:06) and `yeahcore/how-organisations-organise-themselves.podcast.fr.mp3` (4:16); both answer 200 `audio/mpeg`.
+- `fr/personal-effectiveness/managing-your-weight-kindly.md`, `fr/collaboration-leadership/how-organisations-organise-themselves.md`: `audio` + `audioMinutes: 4`, so the player shows.
+- `fr/help/weight.mdx`: step 1 gets "▶ Écouter · 4 min", like the other French cards.
+- The French organisations episode doesn't have the "When nobody defines it" part yet (new lines drafted, waiting for the owner's ok); the French page doesn't have that section yet either (translations at session end).
+- Same day: happybein-astro v4.42 adds both to the French podcast feed.
+
+**Verification:** site builds in a scratch copy; both French pages and the 🍎 card render with their players.
+
+---
+
 ## 2.35.0
 
 **How Organisations Organise Themselves: "When nobody defines it"** (owner, 2026-11-09: "in a matrix organization, what if the leadership is not providing clear guidelines on who decides what and seem to expect employees to define it?" → recommended a short section → "Go").

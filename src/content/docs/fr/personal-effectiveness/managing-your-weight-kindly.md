@@ -2,6 +2,8 @@
 title: Gérer son poids avec bienveillance
 description: Pourquoi les régimes durent rarement, les habitudes qui aident vraiment selon la recherche, et comment prendre soin de son poids sans culpabilité ni obsession.
 reading_time: "7 min"
+audio: https://audio.happybein.com/yeahcore/managing-your-weight-kindly.podcast.fr.mp3
+audioMinutes: 4
 ---
 
 ## La santé d'abord, pas l'apparence
