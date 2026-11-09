@@ -1,7 +1,7 @@
 ---
 title: Hoe organisaties zich organiseren
 description: Hoe organisaties het werk verdelen, bepalen wie wat beslist, en commissies en vergaderingen gebruiken zonder vast te lopen.
-reading_time: "5 min"
+reading_time: "6 min"
 ---
 
 
@@ -33,6 +33,16 @@ De meeste wrijving komt door onduidelijke beslisbevoegdheden, niet door slechte 
 - **Wie geïnformeerd wordt** erna.
 
 Schrijf dit op voor de beslissingen die vaak terugkomen: budgetten, aannemen, prioriteiten, tools aanschaffen. En leg beslissingen zo laag mogelijk: wie de beste informatie heeft en met het resultaat moet leven, beslist, binnen duidelijke grenzen ('tot € 5.000', 'binnen het afgesproken plan').
+
+### Als niemand het vastlegt
+
+Soms laat de leiding het aan de teams over, vaak in een matrixorganisatie waar iedereen twee leidinggevenden heeft. Stel de regels dan zelf voor:
+
+- **Maak een lijst van de 4 of 5 beslissingen die steeds vastlopen**: prioriteiten, hoe mensen hun tijd verdelen, aannemen, deadlines.
+- **Schrijf voor elke beslissing één regel**: wie beslist, wie geraadpleegd wordt, wie geïnformeerd wordt. Een gangbare verdeling: de leidinggevende van de functie beslist *hoe* het werk gebeurt, de leidinggevende van het product of project beslist *wat* er gebeurt en *wanneer*.
+- **Spreek af wie de knoop doorhakt.** Zijn de twee leidinggevenden het oneens, dan beslist hun gezamenlijke leidinggevende binnen een week. Laat zulke conflicten niet over aan mensen zonder de bevoegdheid om ze op te lossen.
+- **Spreek het af met beide leidinggevenden in dezelfde vergadering**, zodat niemand een andere versie hoort.
+- **Reageert niemand, stel dan een standaard vast**: 'Tenzij je vóór vrijdag bezwaar maakt, werken we zo.' Schrijf het op en evalueer het na drie maanden.
 
 [Samen beslissen](/nl/collaboration-leadership/group-decision-making/) laat zien hoe je één beslissing goed aanpakt (DACI, pre-mortem). Deze gids gaat over de structuur rond veel beslissingen.
 

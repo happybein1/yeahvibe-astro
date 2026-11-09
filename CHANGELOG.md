@@ -4,6 +4,15 @@ Started 2026-10-13. Earlier versions (up to 1.7.1) were only tracked in `src/ver
 
 ---
 
+## 2.38.0
+
+**"When nobody defines it" in French, Spanish and Dutch** (owner, 2026-11-09: "Add the missing french page"; translations need no approval).
+- `fr|es|nl/collaboration-leadership/how-organisations-organise-themselves.md`: the 2.35.0 subsection under "Who decides what" ("Quand personne ne le définit" / "Cuando nadie lo define" / "Als niemand het vastlegt"), same five points; French "vous", Spanish "tú" (plural for what the team does together), Dutch "je". Reading time 5 → 6 min.
+
+**Verification:** site builds in a scratch copy; the section renders on all three pages.
+
+---
+
 ## 2.37.0
 
 **Organisations podcasts: "When nobody defines it"** (owner, 2026-11-09: "How organizations organize themselves does not need rerecording?" → recommended 4 new lines in both languages → "Go" → draft lines → "Ok for the 4lines" → "Publish.").

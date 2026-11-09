@@ -1,7 +1,7 @@
 ---
 title: Comment les organisations s'organisent
 description: Comment les organisations répartissent le travail, décident qui décide, et utilisent comités et réunions sans se ralentir.
-reading_time: "5 min"
+reading_time: "6 min"
 audio: https://audio.happybein.com/yeahcore/how-organisations-organise-themselves.podcast.fr.mp3
 audioMinutes: 5
 ---
@@ -35,6 +35,16 @@ La plupart des frictions viennent de droits de décision flous, pas de mauvaises
 - **Qui est informé** après.
 
 Écrivez-le pour les décisions fréquentes : budgets, recrutements, priorités, achat d'outils. Et faites descendre les décisions : celui qui a la meilleure information et qui vit avec le résultat devrait décider, dans des limites claires (« jusqu'à 5 000 € », « dans le cadre du plan convenu »).
+
+### Quand personne ne le définit
+
+Parfois, la direction laisse les équipes s'en charger, souvent dans une organisation en matrice où chacun a deux responsables. Proposez alors les règles vous-mêmes :
+
+- **Listez les 4 ou 5 décisions qui bloquent sans cesse** : priorités, répartition du temps de chacun, recrutements, délais.
+- **Écrivez une ligne pour chacune** : qui décide, qui est consulté, qui est informé. Un partage courant : le responsable de fonction décide *comment* le travail se fait, le responsable de produit ou de projet décide *quoi* faire et *quand*.
+- **Prévoyez un arbitrage.** Si les deux responsables ne sont pas d'accord, leur responsable commun tranche dans la semaine. Ne laissez pas ces conflits à des personnes qui n'ont pas l'autorité pour les régler.
+- **Mettez-vous d'accord avec les deux responsables dans la même réunion**, pour que personne n'entende une version différente.
+- **Si personne ne répond, fixez une règle par défaut** : « Sauf objection d'ici vendredi, voici comment nous allons travailler. » Écrivez-la et faites le point après trois mois.
 
 [Décider en groupe](/fr/collaboration-leadership/group-decision-making/) montre comment bien mener une décision (DACI, pré-mortem). Ce guide parle de la structure autour de nombreuses décisions.
 

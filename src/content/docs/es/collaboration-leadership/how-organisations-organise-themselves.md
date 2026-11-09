@@ -1,7 +1,7 @@
 ---
 title: Cómo se organizan las organizaciones
 description: Cómo las organizaciones reparten el trabajo, deciden quién decide, y usan comités y reuniones sin frenarse.
-reading_time: "5 min"
+reading_time: "6 min"
 ---
 
 
@@ -33,6 +33,16 @@ La mayor parte de la fricción viene de derechos de decisión poco claros, no de
 - **A quién se informa** después.
 
 Escríbelo para las decisiones frecuentes: presupuestos, contrataciones, prioridades, compra de herramientas. Y baja las decisiones: quien tiene la mejor información y vive con el resultado debería decidir, dentro de unos límites claros («hasta 5000 €», «dentro del plan acordado»).
+
+### Cuando nadie lo define
+
+A veces la dirección lo deja en manos de los equipos, a menudo en una organización matricial donde cada persona tiene dos jefes. Entonces, proponed las reglas vosotros mismos:
+
+- **Haz una lista de las 4 o 5 decisiones que se atascan una y otra vez**: prioridades, cómo reparte cada uno su tiempo, contrataciones, plazos.
+- **Escribe una línea para cada una**: quién decide, a quién se consulta, a quién se informa. Un reparto habitual: el responsable de la función decide *cómo* se hace el trabajo, y el responsable del producto o del proyecto decide *qué* se hace y *cuándo*.
+- **Añade un desempate.** Si los dos responsables no se ponen de acuerdo, decide su responsable común en el plazo de una semana. No dejes esos conflictos a personas sin autoridad para resolverlos.
+- **Acordadlo con los dos responsables en la misma reunión**, para que nadie oiga una versión distinta.
+- **Si nadie responde, fija una regla por defecto**: «Salvo objeción antes del viernes, así es como vamos a trabajar». Ponlo por escrito y revísalo al cabo de tres meses.
 
 [Decidir en grupo](/es/collaboration-leadership/group-decision-making/) explica cómo llevar bien una decisión (DACI, pre-mortem). Esta guía trata de la estructura alrededor de muchas decisiones.
 
