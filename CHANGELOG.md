@@ -4,6 +4,15 @@ Started 2026-10-13. Earlier versions (up to 1.7.1) were only tracked in `src/ver
 
 ---
 
+## 2.35.0
+
+**How Organisations Organise Themselves: "When nobody defines it"** (owner, 2026-11-09: "in a matrix organization, what if the leadership is not providing clear guidelines on who decides what and seem to expect employees to define it?" → recommended a short section → "Go").
+- New subsection under "Who decides what": list the 4 or 5 decisions that keep getting stuck; one line each (decides, consulted, informed; function manager decides how, product or project manager decides what and when); a tie-break by the shared manager within a week; agree it with both managers in the same meeting; a default if nobody answers ("Unless you object by Friday"), reviewed after three months. Reading time 5 → 6 min. **English only**: fr/es/nl pages translated at session end. The podcasts (English, and the French VoxCPM one recorded 2026-11-09) don't include this section.
+
+**Verification:** site builds in a scratch copy; the section renders on the page.
+
+---
+
 ## 2.34.0
 
 **Translations: the weight guide, the 🍎 weight card and How Organisations Organise Themselves in French, Spanish and Dutch** (owner, 2026-11-08: "Ok what next" → recommended doing the translations now → "Go"; the question about French podcasts went unanswered, so no recordings).

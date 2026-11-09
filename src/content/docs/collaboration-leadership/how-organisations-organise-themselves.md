@@ -1,7 +1,7 @@
 ---
 title: How Organisations Organise Themselves
 description: How organisations divide the work, decide who decides, and use committees and meetings without slowing down.
-reading_time: "5 min"
+reading_time: "6 min"
 audio: https://audio.happybein.com/yeahcore/how-organisations-organise-themselves.podcast.en.mp3
 audioMinutes: 4
 ---
@@ -35,6 +35,16 @@ Most friction comes from unclear decision rights, not from bad people. For each 
 - **Who is informed** after it.
 
 Write this down for the decisions that come up often: budgets, hiring, priorities, buying tools. And push decisions down: whoever has the best information and lives with the result should decide, within clear limits ("up to €5,000", "within the agreed plan").
+
+### When nobody defines it
+
+Sometimes leadership leaves it to the teams, often in a matrix where everyone has two managers. Then propose the rules yourselves:
+
+- **List the 4 or 5 decisions that keep getting stuck**: priorities, how people split their time, hiring, deadlines.
+- **Write one line for each**: who decides, who is consulted, who is informed. A common split: the function manager decides *how* the work is done, the product or project manager decides *what* gets done and *when*.
+- **Add a tie-break.** If the two managers disagree, their shared manager decides within a week. Don't leave conflicts to people with no authority to settle them.
+- **Agree it with both managers in the same meeting**, so nobody hears a different version.
+- **If nobody answers, set a default**: "Unless you object by Friday, this is how we'll work." Write it down and review it after three months.
 
 [Group Decision Making](/collaboration-leadership/group-decision-making/) shows how to run one decision well (DACI, pre-mortem). This guide is about the structure around many decisions.
 
