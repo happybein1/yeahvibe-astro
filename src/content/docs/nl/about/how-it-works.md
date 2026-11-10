@@ -51,7 +51,7 @@ Het doel is een eenvoudige cirkel: **lezen → toepassen → reflecteren → aan
 
 De meeste gidsen hebben ook een korte podcast: Emma en Sam bespreken de gids in ongeveer drie minuten. Voorlopig zijn de podcasts in het Engels; de Franse, Spaanse en Nederlandse versies volgen later.
 
-Wil je ze allemaal op volgorde horen, als één verhaal, open dan de HappyBein-podcast in de [Radio-app](https://radio.yeahvibe.com/?podcast=happybein) en laat automatisch afspelen aanstaan.
+Wil je ze allemaal op volgorde horen, als één verhaal, open dan [YeahCast](https://yeahcast.happybein.com/), de luister-app van HappyBein, en laat automatisch afspelen aanstaan.
 
 ---
 

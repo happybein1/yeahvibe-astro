@@ -51,7 +51,7 @@ The goal is a simple cycle: **read → apply → reflect → adapt**.
 
 Most guides also have a short podcast: Emma and Sam talk the guide through in about three minutes. Press play at the top of the guide, useful when commuting, exercising, or simply when you prefer listening to reading. The podcasts are in English and French.
 
-To hear them all in order, as one story, open the HappyBein Podcast in the [Radio app](https://radio.yeahvibe.com/?podcast=happybein) and leave auto-play on.
+To hear them all in order, as one story, open [YeahCast](https://yeahcast.happybein.com/), HappyBein's listening app, and leave auto-play on.
 
 ---
 

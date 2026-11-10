@@ -50,7 +50,7 @@ Le but est un cycle simple : **lire → appliquer → prendre du recul → ajust
 
 La plupart des guides ont aussi un court podcast, pratique pendant un trajet, une marche ou simplement quand vous préférez écouter plutôt que lire. Emma et Sam y parlent du guide en trois minutes environ : lancez la lecture en haut du guide. Les voix françaises sont générées par IA avec [Kyutai TTS](https://kyutai.org/) (licence CC BY 4.0).
 
-Pour les écouter tous dans l'ordre, comme une histoire, ouvrez le HappyBein Podcast (en anglais) dans l'[application Radio](https://radio.yeahvibe.com/?podcast=happybein) et laissez la lecture automatique activée.
+Pour les écouter tous dans l'ordre, comme une histoire, ouvrez [YeahCast](https://yeahcast.happybein.com/?lang=fr), l'application d'écoute de HappyBein, et laissez la lecture automatique activée.
 
 ---
 

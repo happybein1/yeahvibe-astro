@@ -4,6 +4,15 @@ Started 2026-10-13. Earlier versions (up to 1.7.1) were only tracked in `src/ver
 
 ---
 
+## 2.41.0
+
+**Links to the listening app now say YeahCast** (owner, 2026-11-10: the HappyBein Podcast app renamed YeahCast, at yeahcast.happybein.com, "go").
+- French and Spanish situation pages (14 files): "listen in a row" opens `yeahcast.happybein.com/?prog=sit-<id>&lang=…` and names "l'application YeahCast" / "la app YeahCast" (the French source also loses a stray `\'` that MDX had been hiding).
+- "How it works" in all four languages: instead of "the HappyBein Podcast in the Radio app", the sentence opens YeahCast, "HappyBein's listening app" (with `?lang=fr` / `?lang=es` on the French and Spanish pages).
+- Checked: build.
+
+---
+
 ## 2.40.0
 
 **French situation pages: "listen in a row" opens the podcast app in French** (owner, 2026-11-10, "Go" on the remark that the French pages still said "Radio (en anglais)" although the French podcasts exist).

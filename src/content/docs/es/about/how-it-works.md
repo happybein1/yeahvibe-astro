@@ -51,7 +51,7 @@ El objetivo es un ciclo sencillo: **leer → aplicar → reflexionar → adaptar
 
 La mayoría de las guías tienen también un pódcast corto: Emma y Sam comentan la guía en unos tres minutos. De momento los pódcast están en inglés; las versiones en francés y en español llegarán más adelante.
 
-Para escucharlos todos en orden, como una sola historia, abre el pódcast de HappyBein en la [app Radio](https://radio.yeahvibe.com/?podcast=happybein) y deja activada la reproducción automática.
+Para escucharlos todos en orden, como una sola historia, abre [YeahCast](https://yeahcast.happybein.com/?lang=es), la app de escucha de HappyBein, y deja activada la reproducción automática.
 
 ---
 
