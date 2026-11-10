@@ -4,6 +4,14 @@ Started 2026-10-13. Earlier versions (up to 1.7.1) were only tracked in `src/ver
 
 ---
 
+## 2.40.0
+
+**French situation pages: "listen in a row" opens the podcast app in French** (owner, 2026-11-10, "Go" on the remark that the French pages still said "Radio (en anglais)" although the French podcasts exist).
+- The 7 `fr/help/*.mdx` pages: the link now opens `podcast.happybein.com/?prog=sit-<id>&lang=fr` ("Écouter les N podcasts à la suite dans l'application HappyBein Podcast"), without "(en anglais)", like the Spanish pages in 2.39.0.
+- Checked: build.
+
+---
+
 ## 2.39.0
 
 **Spanish podcasts on the Spanish guides** (owner, 2026-11-10: "How would a Spanish kokoro podcast sound like?" → three samples → "Dora + Alex is good enough. I think we can run it quickly and have Spanish added on very short term" → 3 of 35 sent → "Go for Spanish").
