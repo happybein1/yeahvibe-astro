@@ -2,6 +2,8 @@
 title: Saber decir que no
 description: La forma más rápida de hacer sitio es dejar de hacer algunas cosas. Cómo decir que no con amabilidad, a los demás y a ti mismo.
 reading_time: "4 min"
+audio: https://audio.happybein.com/yeahcore/saying-no.podcast.es.mp3
+audioMinutes: 2
 ---
 
 ## Cada sí es también un no

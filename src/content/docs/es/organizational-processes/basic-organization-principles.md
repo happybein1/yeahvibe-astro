@@ -4,6 +4,8 @@ description: Los principios esenciales para crear sistemas ordenados y eficaces,
 reading_time: "4 min"
 sidebar:
   order: 1
+audio: https://audio.happybein.com/yeahcore/basic-organization-principles.podcast.es.mp3
+audioMinutes: 2
 ---
 
 Organizarse no es ser ordenado por el gusto de serlo: es diseñar sistemas que reducen los roces, liberan la mente y hacen más fácil hacer lo que importa.

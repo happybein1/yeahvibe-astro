@@ -4,6 +4,8 @@ description: Cómo definir objetivos con claridad, combinar planes para ganar ef
 reading_time: "4 min"
 sidebar:
   order: 3
+audio: https://audio.happybein.com/yeahcore/clarity-alignment.podcast.es.mp3
+audioMinutes: 2
 ---
 
 Cuando tienes demasiadas opciones, o son tan complejas que cuesta compararlas, la estrategia se vuelve esencial. En esas situaciones conviene:

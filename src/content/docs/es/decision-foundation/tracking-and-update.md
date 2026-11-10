@@ -4,6 +4,8 @@ description: Cómo hacer el seguimiento de decisiones y planes con el tiempo, y 
 reading_time: "4 min"
 sidebar:
   order: 4
+audio: https://audio.happybein.com/yeahcore/tracking-and-update.podcast.es.mp3
+audioMinutes: 2
 ---
 
 Tomar una decisión es solo el primer paso. Seguir los resultados y actualizar los planes a medida que cambian las circunstancias es lo que distingue a quien decide bien de quien decide y se olvida.

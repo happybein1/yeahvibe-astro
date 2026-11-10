@@ -4,6 +4,8 @@ description: Unos pocos mensajeros químicos del cerebro influyen en la motivaci
 reading_time: "4 min"
 sidebar:
   order: 3
+audio: https://audio.happybein.com/yeahcore/why-we-feel-what-we-feel.podcast.es.mp3
+audioMinutes: 3
 ---
 
 ## Los sentimientos tienen su química

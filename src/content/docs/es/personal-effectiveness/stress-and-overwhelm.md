@@ -4,6 +4,8 @@ description: Entiende lo que hace el estrés, cálmalo en el momento y aligera l
 reading_time: "3 min"
 sidebar:
   order: 6
+audio: https://audio.happybein.com/yeahcore/stress-and-overwhelm.podcast.es.mp3
+audioMinutes: 3
 ---
 
 ## El estrés no es el enemigo

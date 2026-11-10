@@ -2,6 +2,8 @@
 title: Cómo gana dinero tu organización
 description: No hace falta trabajar en finanzas para entender los números del trabajo. Cuatro ideas sencillas te ayudan a comprender las decisiones y a participar en ellas.
 reading_time: "4 min"
+audio: https://audio.happybein.com/yeahcore/how-your-organisation-makes-money.podcast.es.mp3
+audioMinutes: 3
 ---
 
 ## Por qué importa, aunque los números no sean lo tuyo

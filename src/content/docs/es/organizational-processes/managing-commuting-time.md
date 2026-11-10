@@ -4,6 +4,8 @@ description: Cómo convertir el tiempo de los trayectos en tiempo útil o en tie
 reading_time: "3 min"
 sidebar:
   order: 3
+audio: https://audio.happybein.com/yeahcore/managing-commuting-time.podcast.es.mp3
+audioMinutes: 2
 ---
 
 El tiempo de los trayectos se suele ver como tiempo perdido, un coste inevitable de ir y volver del trabajo. Con un poco de intención, puede convertirse en uno de los ratos más valiosos de tu día.

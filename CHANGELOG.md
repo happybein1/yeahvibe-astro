@@ -4,6 +4,17 @@ Started 2026-10-13. Earlier versions (up to 1.7.1) were only tracked in `src/ver
 
 ---
 
+## 2.39.0
+
+**Spanish podcasts on the Spanish guides** (owner, 2026-11-10: "How would a Spanish kokoro podcast sound like?" → three samples → "Dora + Alex is good enough. I think we can run it quickly and have Spanish added on very short term" → 3 of 35 sent → "Go for Spanish").
+- 35 Spanish Emma and Sam episodes, recorded on the ROG with Kokoro (Emma = `ef_dora`, Sam = `em_alex`, speed 1.0, line by line) from 20:47 to 21:12, alongside the French VoxCPM run. Scripts: the 32 Spanish translations of 2026-11-04 (`~/yeahcore-es/podcasts`), plus three translated the same evening (Crear una red ayudando a los demás, Cómo se organizan las organizaciones with the "when nobody defines it" lines, Cuidar tu peso con amabilidad). Uploaded as `audio.happybein.com/yeahcore/<slug>.podcast.es.mp3`, 2 to 5 minutes each.
+- The 35 Spanish guides get `audio` + `audioMinutes`, so they show the podcast player; `MarkdownContent.astro` labels it "Escuchar el pódcast" on Spanish pages.
+- The 7 Spanish situation pages get the same Listen buttons as the French ones (28 buttons: "▶ Escuchar · N min" on the reading steps, 🎧 on the related guides), and their "listen in a row" link now opens the HappyBein Podcast app in Spanish (`podcast.happybein.com/?prog=sit-<id>&lang=es`) instead of Radio "(en inglés)".
+- Also live the same evening: the Spanish feed `happybein.com/podcast/es.xml` (happybein.com v4.44) and Spanish in the HappyBein Podcast app (v1.17).
+- Checked: build; every Spanish guide's audio file answers 200.
+
+---
+
 ## 2.38.0
 
 **"When nobody defines it" in French, Spanish and Dutch** (owner, 2026-11-09: "Add the missing french page"; translations need no approval).

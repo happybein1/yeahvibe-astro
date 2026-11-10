@@ -2,6 +2,8 @@
 title: Cuando una conversación se convierte en pelea
 description: Hay personas que no quieren entender, quieren ganar. Detéctalo pronto, mantén la calma y aprende cuándo parar.
 reading_time: "3 min"
+audio: https://audio.happybein.com/yeahcore/when-a-discussion-turns-into-a-fight.podcast.es.mp3
+audioMinutes: 2
 ---
 
 ## Los buenos argumentos no bastan

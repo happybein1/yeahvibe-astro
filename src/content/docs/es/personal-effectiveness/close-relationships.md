@@ -2,6 +2,8 @@
 title: Las relaciones cercanas
 description: La pareja, la familia y los amigos íntimos influyen en cómo nos sentimos más que casi cualquier otra cosa. Hábitos sencillos para que estos lazos sigan fuertes.
 reading_time: "4 min"
+audio: https://audio.happybein.com/yeahcore/close-relationships.podcast.es.mp3
+audioMinutes: 2
 ---
 
 ## Las personas más cercanas son las que más importan

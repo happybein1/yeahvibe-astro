@@ -2,6 +2,8 @@
 title: Cómo se organizan las organizaciones
 description: Cómo las organizaciones reparten el trabajo, deciden quién decide, y usan comités y reuniones sin frenarse.
 reading_time: "6 min"
+audio: https://audio.happybein.com/yeahcore/how-organisations-organise-themselves.podcast.es.mp3
+audioMinutes: 5
 ---
 
 

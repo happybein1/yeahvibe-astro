@@ -2,6 +2,8 @@
 title: Moverse y comer bien
 description: La energía viene del sueño, del movimiento y de la comida. Hábitos sencillos para los dos últimos, sin dietas ni planes de gimnasio.
 reading_time: "4 min"
+audio: https://audio.happybein.com/yeahcore/moving-and-eating-well.podcast.es.mp3
+audioMinutes: 3
 ---
 
 ## La energía empieza en tu cuerpo

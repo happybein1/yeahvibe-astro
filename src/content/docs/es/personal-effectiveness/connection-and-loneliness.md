@@ -4,6 +4,8 @@ description: La soledad es frecuente y no hay nada de qué avergonzarse. Pasos p
 reading_time: "3 min"
 sidebar:
   order: 7
+audio: https://audio.happybein.com/yeahcore/connection-and-loneliness.podcast.es.mp3
+audioMinutes: 3
 ---
 
 ## La soledad es una señal, no un defecto

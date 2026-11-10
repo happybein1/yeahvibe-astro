@@ -4,6 +4,8 @@ description: Métodos y prácticas para tomar mejores decisiones en grupo evitan
 reading_time: "4 min"
 sidebar:
   order: 4
+audio: https://audio.happybein.com/yeahcore/group-decision-making.podcast.es.mp3
+audioMinutes: 3
 ---
 
 Las decisiones en grupo pueden ser mejores que las individuales, o mucho peores, según cómo se tomen. La diferencia está en el proceso.

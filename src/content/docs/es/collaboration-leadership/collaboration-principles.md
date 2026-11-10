@@ -4,6 +4,8 @@ description: Los principios esenciales para trabajar bien con otras personas y c
 reading_time: "4 min"
 sidebar:
   order: 1
+audio: https://audio.happybein.com/yeahcore/collaboration-principles.podcast.es.mp3
+audioMinutes: 2
 ---
 
 Una buena colaboración no surge por casualidad. Nace de prácticas deliberadas, normas compartidas y las condiciones adecuadas. Estos principios valen igual para equipos pequeños, grandes organizaciones y grupos de distintas áreas.

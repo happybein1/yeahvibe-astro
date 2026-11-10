@@ -4,6 +4,8 @@ description: Estrategias eficaces para crear hábitos nuevos y dejar los viejos,
 reading_time: "4 min"
 sidebar:
   order: 1
+audio: https://audio.happybein.com/yeahcore/habits-improvement.podcast.es.mp3
+audioMinutes: 2
 ---
 
 Cambiar de hábitos y mejorar tus rutinas puede costar, pero usar las estrategias adecuadas aumenta mucho tus posibilidades de lograrlo.

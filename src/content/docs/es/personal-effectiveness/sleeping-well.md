@@ -4,6 +4,8 @@ description: La ciencia y la práctica de un buen sueño, y por qué es la base 
 reading_time: "4 min"
 sidebar:
   order: 4
+audio: https://audio.happybein.com/yeahcore/sleeping-well.podcast.es.mp3
+audioMinutes: 2
 ---
 
 Dormir no es un lujo: es una necesidad biológica. La calidad de tu sueño determina directamente la calidad de tu pensamiento, tus decisiones, tu manejo de las emociones y tu salud física.

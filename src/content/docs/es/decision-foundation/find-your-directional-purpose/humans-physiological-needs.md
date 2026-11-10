@@ -4,6 +4,8 @@ description: Las necesidades humanas fundamentales en las que se apoyan las buen
 reading_time: "4 min"
 sidebar:
   order: 3
+audio: https://audio.happybein.com/yeahcore/humans-physiological-needs.podcast.es.mp3
+audioMinutes: 3
 ---
 
 En la base de todos los objetivos y decisiones están las necesidades humanas universales. Cuando no están cubiertas, todo lo demás se resiente: la productividad, la creatividad, las relaciones y el juicio. Cuando lo están, todo lo demás se vuelve posible.

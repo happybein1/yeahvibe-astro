@@ -4,6 +4,8 @@ description: Actividades y rutinas diarias prácticas que construyen bienestar, 
 reading_time: "4 min"
 sidebar:
   order: 1
+audio: https://audio.happybein.com/yeahcore/daily-activities.podcast.es.mp3
+audioMinutes: 3
 ---
 
 Las pequeñas acciones diarias, repetidas con constancia, se suman hasta producir grandes cambios con el tiempo. Esta página reúne actividades prácticas que favorecen el bienestar, la energía y la eficacia, ordenadas por tema.

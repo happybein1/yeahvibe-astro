@@ -4,6 +4,8 @@ description: Las preocupaciones por el dinero son frecuentes y estresantes. Una 
 reading_time: "3 min"
 sidebar:
   order: 8
+audio: https://audio.happybein.com/yeahcore/when-money-is-tight.podcast.es.mp3
+audioMinutes: 3
 ---
 
 ## Primero, respira

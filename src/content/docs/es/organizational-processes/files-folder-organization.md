@@ -4,6 +4,8 @@ description: Un sistema práctico para organizar archivos y carpetas digitales y
 reading_time: "4 min"
 sidebar:
   order: 2
+audio: https://audio.happybein.com/yeahcore/files-folder-organization.podcast.es.mp3
+audioMinutes: 2
 ---
 
 Un buen sistema para organizar tus archivos te ahorra tiempo cada día. El objetivo es encontrar cualquier archivo en menos de 30 segundos, sin buscar.

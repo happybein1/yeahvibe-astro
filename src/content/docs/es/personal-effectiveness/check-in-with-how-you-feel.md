@@ -4,6 +4,8 @@ description: Un repaso de dos minutos para ver cómo estás, y qué hacer cuando
 reading_time: "4 min"
 sidebar:
   order: 0
+audio: https://audio.happybein.com/yeahcore/check-in-with-how-you-feel.podcast.es.mp3
+audioMinutes: 3
 ---
 
 ## Por qué hacer balance

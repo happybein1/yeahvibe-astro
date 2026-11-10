@@ -4,6 +4,8 @@ description: Cómo entender en qué se va realmente tu tiempo, y usar lo que des
 reading_time: "4 min"
 sidebar:
   order: 5
+audio: https://audio.happybein.com/yeahcore/time-spent-identification.podcast.es.mp3
+audioMinutes: 2
 ---
 
 ## Por qué importa saber en qué se va el tiempo

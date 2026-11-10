@@ -2,6 +2,8 @@
 title: Crear una red ayudando a los demás
 description: La forma más tranquila de crear una red es ser útil a las personas que la forman. Cinco pequeños hábitos, y un límite para que no se coma tu semana.
 reading_time: "4 min"
+audio: https://audio.happybein.com/yeahcore/building-a-network-by-helping-others.podcast.es.mp3
+audioMinutes: 3
 ---
 
 ## Hacer contactos sin vender

@@ -2,6 +2,8 @@
 title: Cuidar tu peso con amabilidad
 description: Por qué las dietas casi nunca duran, qué hábitos ayudan de verdad según la investigación, y cómo cuidar tu peso sin culpa ni obsesión.
 reading_time: "7 min"
+audio: https://audio.happybein.com/yeahcore/managing-your-weight-kindly.podcast.es.mp3
+audioMinutes: 4
 ---
 
 ## Primero la salud, no la apariencia

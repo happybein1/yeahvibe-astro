@@ -4,6 +4,8 @@ description: Estrategias para priorizar objetivos y acciones según su impacto f
 reading_time: "4 min"
 sidebar:
   order: 2
+audio: https://audio.happybein.com/yeahcore/independent-prioritization.podcast.es.mp3
+audioMinutes: 3
 ---
 
 ## Estrategias básicas para priorizar y planificar

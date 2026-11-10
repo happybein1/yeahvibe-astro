@@ -4,6 +4,8 @@ description: "¿Estás ocupado pero no sabes muy bien para qué, o ya nada te il
 reading_time: "4 min"
 sidebar:
   order: 5
+audio: https://audio.happybein.com/yeahcore/find-your-direction.podcast.es.mp3
+audioMinutes: 3
 ---
 
 ## Una brújula, no un mapa

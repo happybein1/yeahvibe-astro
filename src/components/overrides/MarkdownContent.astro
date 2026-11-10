@@ -11,7 +11,8 @@ const audio = (Astro.locals.starlightRoute.entry.data as any).audio as (string |
 const audioMin = (Astro.locals.starlightRoute.entry.data as any).audioMinutes as (number | undefined);
 // 2.16.0: English audio is now a short podcast (Emma interviews Sam), not the page read aloud.
 // 2.29.0: the French pages now have their own French podcast.
-const audioLabel = isFr ? 'Écouter le podcast' : 'Listen to the podcast';
+// 2.39.0: and the Spanish pages theirs (Kokoro).
+const audioLabel = isFr ? 'Écouter le podcast' : lang === 'es' ? 'Escuchar el pódcast' : 'Listen to the podcast';
 ---
 
 <div class="yv-reading-time" id="yv-reading-time" aria-label="Reading time">

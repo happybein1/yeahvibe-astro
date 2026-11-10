@@ -4,6 +4,8 @@ description: Cómo liderar bien y ganar influencia sin depender solo de la autor
 reading_time: "4 min"
 sidebar:
   order: 2
+audio: https://audio.happybein.com/yeahcore/influence-and-leadership.podcast.es.mp3
+audioMinutes: 2
 ---
 
 El liderazgo no es un puesto: es una práctica. Los líderes más eficaces influyen a través de la confianza, la claridad y el ejemplo, más que a través de la autoridad o el control.

@@ -4,6 +4,8 @@ description: Cómo desarrollar una mentalidad de crecimiento, y por qué es la b
 reading_time: "4 min"
 sidebar:
   order: 2
+audio: https://audio.happybein.com/yeahcore/growth-mindset.podcast.es.mp3
+audioMinutes: 2
 ---
 
 La mentalidad de crecimiento es la convicción de que las capacidades y la inteligencia se pueden desarrollar con dedicación, esfuerzo y aprendizaje. Se opone a la mentalidad fija, que considera las cualidades como innatas e inmutables.

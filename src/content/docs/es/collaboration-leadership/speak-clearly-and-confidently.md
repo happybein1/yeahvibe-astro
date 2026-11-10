@@ -4,6 +4,8 @@ description: Técnicas prácticas para comunicar con claridad y seguridad en sit
 reading_time: "4 min"
 sidebar:
   order: 3
+audio: https://audio.happybein.com/yeahcore/speak-clearly-and-confidently.podcast.es.mp3
+audioMinutes: 2
 ---
 
 Comunicar con claridad y seguridad es una habilidad que se aprende. No depende del tipo de personalidad ni del carisma natural: depende de la preparación, la estructura y la práctica.

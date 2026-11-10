@@ -4,6 +4,8 @@ description: Cómo fijar, organizar y perseguir objetivos que se desarrollan a l
 reading_time: "4 min"
 sidebar:
   order: 2
+audio: https://audio.happybein.com/yeahcore/long-term-goals.podcast.es.mp3
+audioMinutes: 2
 ---
 
 Los objetivos a largo plazo son los que más importan, y también los que más le cuestan a la mayoría. Exigen un esfuerzo sostenido durante meses o años, a menudo sin resultados inmediatos, atravesando momentos de incertidumbre y de retroceso. Esta página explica cómo fijarlos bien y cómo perseguirlos con eficacia.

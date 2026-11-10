@@ -2,6 +2,8 @@
 title: Pasar a la acción
 description: Sabes lo que tienes que hacer, pero lo sigues dejando para después. Por qué pasa, y cómo dar el primer paso.
 reading_time: "4 min"
+audio: https://audio.happybein.com/yeahcore/getting-started.podcast.es.mp3
+audioMinutes: 2
 ---
 
 ## Tienes un plan. Entonces, ¿por qué no avanza?

@@ -4,6 +4,8 @@ description: Estrategias prácticas para entender y gestionar el miedo, para que
 reading_time: "4 min"
 sidebar:
   order: 3
+audio: https://audio.happybein.com/yeahcore/fear-management.podcast.es.mp3
+audioMinutes: 2
 ---
 
 El miedo es una de las fuerzas que más influyen en las decisiones humanas, a menudo sin que se note. Gestionar el miedo no consiste en eliminarlo, sino en hacer que informe tus decisiones en lugar de controlarlas.

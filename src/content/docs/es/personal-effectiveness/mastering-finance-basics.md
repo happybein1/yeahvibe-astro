@@ -4,6 +4,8 @@ description: Los conceptos financieros esenciales que todo el mundo debería ent
 reading_time: "5 min"
 sidebar:
   order: 1
+audio: https://audio.happybein.com/yeahcore/mastering-finance-basics.podcast.es.mp3
+audioMinutes: 2
 ---
 
 Saber de finanzas es una de las habilidades que más rendimiento da. Entender lo básico permite tomar mejores decisiones personales, participar con más conocimiento en la vida de una organización y resistir mejor los golpes económicos.

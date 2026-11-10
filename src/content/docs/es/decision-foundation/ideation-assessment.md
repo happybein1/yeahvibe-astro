@@ -4,6 +4,8 @@ description: Buenas prácticas para generar ideas y evaluar objetivos y planes c
 reading_time: "5 min"
 sidebar:
   order: 1
+audio: https://audio.happybein.com/yeahcore/ideation-assessment.podcast.es.mp3
+audioMinutes: 2
 ---
 
 ¿Buscas ideas y una forma de evaluarlas y dividirlas en partes? Aquí tienes un proceso para generar ideas, evaluarlas y convertirlas en pasos concretos.
