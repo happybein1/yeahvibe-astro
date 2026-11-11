@@ -4,6 +4,13 @@ Started 2026-10-13. Earlier versions (up to 1.7.1) were only tracked in `src/ver
 
 ---
 
+## 2.44.0
+
+**Moved to YeahGuide: every page forwards to yeahguide.happybein.com** (owner, 2026-11-11: "lets move yeahcast into yeahguide, then add all articles to it, discontinue yeahcore and yeahsight" → phase 1, the merged site, built as `yeahguide` v1.00, published with "go", live and checked). `public/_redirects` is now only forwarding: the home in each language (`/`, `/fr/`, `/es/`, `/nl/`, with and without the slash) → `https://yeahguide.happybein.com/<lang>/me/`, everything else → the same path on YeahGuide (`/*` → `:splat`, 301). All article addresses are the same on YeahGuide, and this site's older redirect rules were copied into YeahGuide's own `_redirects`, so old links still land on the right page. The pages themselves stay in this repo as history; new work happens in `yeahguide/`.
+- Version 2.44.0 (footer), date 2026-11-11.
+
+---
+
 ## 2.43.0
 
 **English and Dutch help pages point to YeahCast, not Radio** (owner, 2026-11-11: "do the fixes", after "English YeahCore help pages still link to Radio" was listed as open). The "Listen to all … podcasts in a row" link on the 7 English and 7 Dutch situation pages (`help/*.mdx`, `nl/help/*.mdx`) opened `radio.yeahvibe.com/?prog=sit-<id>`; it now opens `yeahcast.happybein.com/?prog=sit-<id>` with `&lang=en` or `&lang=nl`, and names the YeahCast app (the French and Spanish pages already did since 2.40.0 and 2.39.0). No Radio link left on YeahCore.

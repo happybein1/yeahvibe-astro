@@ -1,20 +1,12 @@
-# YeahSight moved to its own site (2026-10-13). The two personal pages stayed here,
-# under Personal Effectiveness. Specific rules first: Cloudflare Pages uses the first match.
-/applications/economy-equity/mastering-finance-basics/        /personal-effectiveness/mastering-finance-basics/        301
-/applications/social-organization/time-spent-identification/  /personal-effectiveness/time-spent-identification/  301
-/fr/applications/economy-equity/mastering-finance-basics/     /fr/personal-effectiveness/mastering-finance-basics/     301
-/fr/applications/social-organization/time-spent-identification/ /fr/personal-effectiveness/time-spent-identification/ 301
-/pillars/yeahsight/      https://yeahsight.happybein.com/      301
-/fr/pillars/yeahsight/   https://yeahsight.happybein.com/fr/   301
-/applications/*      https://yeahsight.happybein.com/:splat      301
-/fr/applications/*   https://yeahsight.happybein.com/fr/:splat   301
+# YeahCore (the Personal Guide) now lives on YeahGuide (2026-11-11). Every address forwards to the same path there;
+# the home pages go to this guide's own home. This site's older redirect rules are kept in
+# YeahGuide's own _redirects, so old links still land on the right page (two hops at most).
 
-# Renamed in 2.0.0 (YeahCore)
-/about/about-yeahvibe/     /about/about-yeahcore/     301
-/fr/about/about-yeahvibe/  /fr/about/about-yeahcore/  301
-
-# Merged into Find Your Direction in 2.19.0 (English) and 2.23.0 (French)
-/decision-foundation/find-your-directional-purpose/generic-primary-goal-breakdown/  /decision-foundation/find-your-directional-purpose/  301
-/decision-foundation/find-your-directional-purpose/core-drivers-of-feelings/        /decision-foundation/find-your-directional-purpose/  301
-/fr/decision-foundation/find-your-directional-purpose/generic-primary-goal-breakdown/  /fr/decision-foundation/find-your-directional-purpose/  301
-/fr/decision-foundation/find-your-directional-purpose/core-drivers-of-feelings/        /fr/decision-foundation/find-your-directional-purpose/  301
+/   https://yeahguide.happybein.com/me/   301
+/fr/   https://yeahguide.happybein.com/fr/me/   301
+/fr   https://yeahguide.happybein.com/fr/me/   301
+/es/   https://yeahguide.happybein.com/es/me/   301
+/es   https://yeahguide.happybein.com/es/me/   301
+/nl/   https://yeahguide.happybein.com/nl/me/   301
+/nl   https://yeahguide.happybein.com/nl/me/   301
+/*   https://yeahguide.happybein.com/:splat   301
