@@ -4,6 +4,13 @@ Started 2026-10-13. Earlier versions (up to 1.7.1) were only tracked in `src/ver
 
 ---
 
+## 2.43.0
+
+**English and Dutch help pages point to YeahCast, not Radio** (owner, 2026-11-11: "do the fixes", after "English YeahCore help pages still link to Radio" was listed as open). The "Listen to all … podcasts in a row" link on the 7 English and 7 Dutch situation pages (`help/*.mdx`, `nl/help/*.mdx`) opened `radio.yeahvibe.com/?prog=sit-<id>`; it now opens `yeahcast.happybein.com/?prog=sit-<id>` with `&lang=en` or `&lang=nl`, and names the YeahCast app (the French and Spanish pages already did since 2.40.0 and 2.39.0). No Radio link left on YeahCore.
+- Checked: build.
+
+---
+
 ## 2.42.0
 
 **French podcast: 12 episodes re-recorded** (owner, 2026-11-11: "go ahead"). The French YeahCore episodes recorded overnight on the ROG with VoxCPM2 (the French voices, 2026-11-10 19:12 to 11-11 12:09) replace the earlier recordings under the same addresses (`yeahcore/<slug>.podcast.fr.mp3`): managing-commuting-time, mastering-finance-basics, moving-and-eating-well, saying-no, sleeping-well, speak-clearly-and-confidently, stress-and-overwhelm, time-spent-identification, tracking-and-update, when-a-discussion-turns-into-a-fight, when-money-is-tight, why-we-feel-what-we-feel.
