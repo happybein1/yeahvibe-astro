@@ -3,7 +3,7 @@ title: Savoir dire non
 description: Le moyen le plus rapide de faire de la place est d'arrêter certaines choses. Comment dire non avec gentillesse, aux autres et à soi-même.
 reading_time: "4 min"
 audio: https://audio.happybein.com/yeahcore/saying-no.podcast.fr.mp3
-audioMinutes: 3
+audioMinutes: 2
 ---
 
 ## Chaque oui est aussi un non

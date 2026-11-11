@@ -4,6 +4,15 @@ Started 2026-10-13. Earlier versions (up to 1.7.1) were only tracked in `src/ver
 
 ---
 
+## 2.42.0
+
+**French podcast: 12 episodes re-recorded** (owner, 2026-11-11: "go ahead"). The French YeahCore episodes recorded overnight on the ROG with VoxCPM2 (the French voices, 2026-11-10 19:12 to 11-11 12:09) replace the earlier recordings under the same addresses (`yeahcore/<slug>.podcast.fr.mp3`): managing-commuting-time, mastering-finance-basics, moving-and-eating-well, saying-no, sleeping-well, speak-clearly-and-confidently, stress-and-overwhelm, time-spent-identification, tracking-and-update, when-a-discussion-turns-into-a-fight, when-money-is-tight, why-we-feel-what-we-feel.
+- `audioMinutes` of the French pages: three change (saying-no, speak-clearly-and-confidently, when-a-discussion-turns-into-a-fight: 2 min); the other nine round to the same minutes as before.
+- The French podcast feed's sizes and lengths are in happybein-astro v4.45.
+- Checked: build; the 12 files answer with their new sizes.
+
+---
+
 ## 2.41.0
 
 **Links to the listening app now say YeahCast** (owner, 2026-11-10: the HappyBein Podcast app renamed YeahCast, at yeahcast.happybein.com, "go").
